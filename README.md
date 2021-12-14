@@ -1,4 +1,4 @@
-# BRASILEIRÃO
+# Campeonato Brasileiro de Futebol
 ![](https://github.com/leonardoSaaads/Brasileirao/blob/main/IMAG/BRASILEIR%C3%83O.png?raw=true)
 
 ![](https://img.shields.io/github/issues/leonardoSaaads/Brasileirao)
@@ -10,11 +10,11 @@
 
 <p align="left">
  <a href="#sobre">Sobre</a> -
- <a href="#roadmap">Instalação</a> -
- <a href="#tecnologias">Como Usar</a> -
- <a href="#contribuicao">Contribuição</a> -
- <a href="#licenc-a">Licença</a> -
- <a href="#autor">Autores</a>
+ <a href="#instalação">Instalação</a> -
+ <a href="#como-usar">Como Usar</a> -
+ <a href="#contribuiçao">Contribuição</a> -
+ <a href="#licença">Licença</a> -
+ <a href="#autores">Autores</a>
 </p>
 
 # Sobre
@@ -35,7 +35,7 @@ O Campeonato Brasileiro de Futebol é a liga brasileira de futebol profissional 
 # Autores
 
 <a href="https://github.com/leonardoSaaads">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69808278?v=4" width="100px;" alt=""/>
+<img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/69808278?v=4" width="100px;" alt=""/>
 <br/><sub><b>Leonardo Saads</b></sub></a>
 
 
@@ -43,6 +43,5 @@ O Campeonato Brasileiro de Futebol é a liga brasileira de futebol profissional 
 
 
 <a href="https://github.com/Rsaads">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56972354?v=4" width="100px;" alt=""/>
+<img style="border-radius: 30%;" src="https://avatars.githubusercontent.com/u/56972354?v=4" width="100px;" alt=""/>
 <br/><sub><b>Rodrigo Pinto</b></sub></a>
-
