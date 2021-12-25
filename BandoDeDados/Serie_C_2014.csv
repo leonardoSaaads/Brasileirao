@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2014,Almeidão,Joao Pessoa,PB,Sábado,26, Abril ,2014,19:00,Botafogo - PB,Treze - PB,3,2,1,0,0,3,0
+1,C,2014,Maximino Filho,Castanhal,PA,Sábado,26, Abril ,2014,16:00,Paysandu - PA,Águia de Marabá - PA,2,0,1,0,0,3,0
+2,C,2014,Coaracy Fonseca,Arapiraca,AL,Sábado,7, Junho ,2014,16:00,Asa - AL,Crb - AL,0,1,0,1,0,0,3
+3,C,2014,Cornélio de Barros,Salgueiro,PE,Segunda,28, Abril ,2014,21:30,Salgueiro - PE,Fortaleza - CE,0,1,0,1,0,0,3
+4,C,2014,Passo das Emas,Lucas do Rio Verde,MT,Domingo,27, Abril ,2014,18:00,Cuiabá - MT,C.r.a.c. - GO,3,1,1,0,0,3,0
+5,C,2014,Centenário,Caxias do Sul,RS,Sábado,26, Abril ,2014,16:00,Caxias - RS,Juventude - RS,0,0,0,0,1,1,1
+6,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,26, Abril ,2014,15:00,Madureira - RJ,Duque de Caxias - RJ,2,0,1,0,0,3,0
+7,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,27, Abril ,2014,16:00,Mogi Mirim - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+8,C,2014,Mário Helênio,Juiz de Fora,MG,Domingo,27, Abril ,2014,16:00,Tupi - MG,Macaé - RJ,1,1,0,0,1,1,1
+9,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,27, Abril ,2014,19:00,São Caetano - SP,Guarani - SP,1,0,1,0,0,3,0
+10,C,2014,Gerson Amaral,Coruripe,AL,Sábado,3, Maio ,2014,19:00,Crb - AL,Paysandu - PA,0,0,0,0,1,1,1
+11,C,2014,Zinho Oliveira,Maraba,PA,Domingo,4, Maio ,2014,16:00,Águia de Marabá - PA,Salgueiro - PE,3,0,1,0,0,3,0
+12,C,2014,Genervino da Fonseca,Catalao,GO,Domingo,4, Maio ,2014,16:00,C.r.a.c. - GO,Botafogo - PB,2,2,0,0,1,1,1
+13,C,2014,Ernani Sátyro,Campina Grande,PB,Domingo,4, Maio ,2014,16:00,Treze - PB,Asa - AL,1,1,0,0,1,1,1
+14,C,2014,Presidente Vargas/CE,Fortaleza,CE,Domingo,4, Maio ,2014,19:00,Fortaleza - CE,Cuiabá - MT,2,1,1,0,0,3,0
+15,C,2014,Décio Vitta,Americana,SP,Sábado,3, Maio ,2014,21:00,Guarani - SP,Madureira - RJ,1,1,0,0,1,1,1
+16,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Domingo,4, Maio ,2014,16:00,Juventude - RS,Tupi - MG,1,0,1,0,0,3,0
+17,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,3, Maio ,2014,16:00,Macaé - RJ,São Caetano - SP,1,0,1,0,0,3,0
+18,C,2014,Romário Faria,Duque de Caxias,RJ,Sábado,3, Maio ,2014,16:00,Duque de Caxias - RJ,Mogi Mirim - SP,1,2,0,1,0,0,3
+19,C,2014,Dario Leite,Guaratingueta,SP,Sábado,3, Maio ,2014,15:00,Guaratinguetá - SP,Caxias - RS,2,2,0,0,1,1,1
+20,C,2014,Presidente Vargas/CE,Fortaleza,CE,Segunda,12, Maio ,2014,21:30,Fortaleza - CE,Águia de Marabá - PA,1,0,1,0,0,3,0
+21,C,2014,Almeidão,Joao Pessoa,PB,Sábado,10, Maio ,2014,19:00,Botafogo - PB,Salgueiro - PE,2,2,0,0,1,1,1
+22,C,2014,Maximino Filho,Castanhal,PA,Sábado,10, Maio ,2014,19:00,Paysandu - PA,Asa - AL,1,0,1,0,0,3,0
+23,C,2014,Gerson Amaral,Coruripe,AL,Domingo,11, Maio ,2014,16:00,Crb - AL,C.r.a.c. - GO,2,3,0,1,0,0,3
+24,C,2014,Passo das Emas,Lucas do Rio Verde,MT,Domingo,11, Maio ,2014,17:00,Cuiabá - MT,Treze - PB,0,0,0,0,1,1,1
+25,C,2014,Centenário,Caxias do Sul,RS,Sábado,10, Maio ,2014,16:00,Caxias - RS,São Caetano - SP,2,0,1,0,0,3,0
+26,C,2014,Mário Helênio,Juiz de Fora,MG,Sábado,10, Maio ,2014,16:00,Tupi - MG,Guaratinguetá - SP,1,0,1,0,0,3,0
+27,C,2014,Romário Faria,Duque de Caxias,RJ,Sábado,10, Maio ,2014,16:00,Duque de Caxias - RJ,Juventude - RS,0,1,0,1,0,0,3
+28,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,11, Maio ,2014,16:00,Mogi Mirim - SP,Madureira - RJ,1,1,0,0,1,1,1
+29,C,2014,Décio Vitta,Americana,SP,Domingo,11, Maio ,2014,19:00,Guarani - SP,Macaé - RJ,1,0,1,0,0,3,0
+30,C,2014,Genervino da Fonseca,Catalao,GO,Sábado,17, Maio ,2014,19:00,C.r.a.c. - GO,Fortaleza - CE,0,0,0,0,1,1,1
+31,C,2014,Zinho Oliveira,Maraba,PA,Domingo,18, Maio ,2014,16:00,Águia de Marabá - PA,Treze - PB,2,2,0,0,1,1,1
+32,C,2014,Cornélio de Barros,Salgueiro,PE,Segunda,19, Maio ,2014,21:30,Salgueiro - PE,Paysandu - PA,2,1,1,0,0,3,0
+33,C,2014,Almeidão,Joao Pessoa,PB,Sábado,17, Maio ,2014,19:00,Botafogo - PB,Crb - AL,2,0,1,0,0,3,0
+34,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,18, Maio ,2014,19:00,Asa - AL,Cuiabá - MT,1,0,1,0,0,3,0
+35,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Sábado,17, Maio ,2014,16:00,Juventude - RS,Guarani - SP,0,0,0,0,1,1,1
+36,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,17, Maio ,2014,15:00,Madureira - RJ,Macaé - RJ,0,1,0,1,0,0,3
+37,C,2014,Mário Helênio,Juiz de Fora,MG,Sábado,17, Maio ,2014,16:00,Tupi - MG,Caxias - RS,2,1,1,0,0,3,0
+38,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,18, Maio ,2014,16:00,São Caetano - SP,Mogi Mirim - SP,1,2,0,1,0,0,3
+39,C,2014,Dario Leite,Guaratingueta,SP,Domingo,18, Maio ,2014,10:00,Guaratinguetá - SP,Duque de Caxias - RJ,1,1,0,0,1,1,1
+40,C,2014,Alcides Santos,Fortaleza,CE,Sábado,24, Maio ,2014,16:00,Fortaleza - CE,Crb - AL,0,0,0,0,1,1,1
+41,C,2014,Maximino Filho,Castanhal,PA,Domingo,25, Maio ,2014,19:00,Paysandu - PA,Botafogo - PB,1,1,0,0,1,1,1
+42,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,25, Maio ,2014,16:00,Asa - AL,Águia de Marabá - PA,3,1,1,0,0,3,0
+43,C,2014,Pres. Vargas/PB,Campina Grande,PB,Domingo,25, Maio ,2014,17:00,Treze - PB,C.r.a.c. - GO,1,0,1,0,0,3,0
+44,C,2014,Passo das Emas,Lucas do Rio Verde,MT,Domingo,25, Maio ,2014,17:00,Cuiabá - MT,Salgueiro - PE,0,0,0,0,1,1,1
+45,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,24, Maio ,2014,15:00,Madureira - RJ,São Caetano - SP,1,0,1,0,0,3,0
+46,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,24, Maio ,2014,16:00,Macaé - RJ,Juventude - RS,2,2,0,0,1,1,1
+47,C,2014,Décio Vitta,Americana,SP,Segunda,26, Maio ,2014,21:30,Guarani - SP,Guaratinguetá - SP,1,5,0,1,0,0,3
+48,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,25, Maio ,2014,16:00,Mogi Mirim - SP,Tupi - MG,3,0,1,0,0,3,0
+49,C,2014,Centenário,Caxias do Sul,RS,Sábado,24, Maio ,2014,19:00,Caxias - RS,Duque de Caxias - RJ,3,0,1,0,0,3,0
+50,C,2014,Olímpico do Pará,Belem,PA,Sábado,31, Maio ,2014,21:00,Paysandu - PA,Fortaleza - CE,1,2,0,1,0,0,3
+51,C,2014,Genervino da Fonseca,Catalao,GO,Sábado,31, Maio ,2014,18:00,C.r.a.c. - GO,Águia de Marabá - PA,2,1,1,0,0,3,0
+52,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,1, Junho ,2014,19:00,Salgueiro - PE,Asa - AL,1,0,1,0,0,3,0
+53,C,2014,Almeidão,Joao Pessoa,PB,Domingo,1, Junho ,2014,16:00,Botafogo - PB,Cuiabá - MT,1,4,0,1,0,0,3
+54,C,2014,Nelson Feijó,Maceio,AL,Domingo,1, Junho ,2014,15:15,Crb - AL,Treze - PB,3,0,1,0,0,3,0
+55,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,31, Maio ,2014,19:00,São Caetano - SP,Juventude - RS,1,2,0,1,0,0,3
+56,C,2014,Centenário,Caxias do Sul,RS,Sábado,31, Maio ,2014,16:00,Caxias - RS,Mogi Mirim - SP,1,0,1,0,0,3,0
+57,C,2014,Mário Helênio,Juiz de Fora,MG,Sábado,31, Maio ,2014,16:00,Tupi - MG,Madureira - RJ,1,0,1,0,0,3,0
+58,C,2014,Los Larios,Duque de Caxias,RJ,Segunda,2, Junho ,2014,21:30,Duque de Caxias - RJ,Guarani - SP,0,2,0,1,0,0,3
+59,C,2014,Dario Leite,Guaratingueta,SP,Sábado,31, Maio ,2014,15:00,Guaratinguetá - SP,Macaé - RJ,4,1,1,0,0,3,0
+60,C,2014,Zinho Oliveira,Maraba,PA,Domingo,20, Julho ,2014,16:00,Águia de Marabá - PA,Crb - AL,0,2,0,1,0,0,3
+61,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,20, Julho ,2014,16:00,Asa - AL,Botafogo - PB,1,1,0,0,1,1,1
+62,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,20, Julho ,2014,16:00,Salgueiro - PE,C.r.a.c. - GO,2,2,0,0,1,1,1
+63,C,2014,Arena Pantanal,Cuiaba,MT,Domingo,20, Julho ,2014,19:00,Cuiabá - MT,Paysandu - PA,3,2,1,0,0,3,0
+64,C,2014,Pres. Vargas/PB,Campina Grande,PB,Sábado,19, Julho ,2014,19:00,Treze - PB,Fortaleza - CE,1,1,0,0,1,1,1
+65,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,19, Julho ,2014,16:00,São Caetano - SP,Tupi - MG,1,1,0,0,1,1,1
+66,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,19, Julho ,2014,15:00,Madureira - RJ,Caxias - RS,0,1,0,1,0,0,3
+67,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Domingo,20, Julho ,2014,16:00,Juventude - RS,Guaratinguetá - SP,0,2,0,1,0,0,3
+68,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,19, Julho ,2014,16:00,Macaé - RJ,Duque de Caxias - RJ,1,0,1,0,0,3,0
+69,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,20, Julho ,2014,19:00,Mogi Mirim - SP,Guarani - SP,0,0,0,0,1,1,1
+70,C,2014,Castelão,Fortaleza,CE,Sábado,26, Julho ,2014,19:00,Fortaleza - CE,Botafogo - PB,0,0,0,0,1,1,1
+71,C,2014,Genervino da Fonseca,Catalao,GO,Domingo,27, Julho ,2014,16:00,C.r.a.c. - GO,Asa - AL,0,0,0,0,1,1,1
+72,C,2014,Rei Pelé,Maceio,AL,Domingo,27, Julho ,2014,16:00,Crb - AL,Salgueiro - PE,2,2,0,0,1,1,1
+73,C,2014,Pres. Vargas/PB,Campina Grande,PB,Domingo,27, Julho ,2014,17:00,Treze - PB,Paysandu - PA,3,0,1,0,0,3,0
+74,C,2014,Zinho Oliveira,Maraba,PA,Domingo,27, Julho ,2014,16:00,Águia de Marabá - PA,Cuiabá - MT,2,1,1,0,0,3,0
+75,C,2014,Brinco de Ouro,Campinas,SP,Segunda,28, Julho ,2014,21:30,Guarani - SP,Caxias - RS,1,1,0,0,1,1,1
+76,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,26, Julho ,2014,16:00,Macaé - RJ,Mogi Mirim - SP,2,1,1,0,0,3,0
+77,C,2014,Los Larios,Duque de Caxias,RJ,Sábado,26, Julho ,2014,16:00,Duque de Caxias - RJ,Tupi - MG,1,1,0,0,1,1,1
+78,C,2014,Dario Leite,Guaratingueta,SP,Sábado,26, Julho ,2014,15:00,Guaratinguetá - SP,São Caetano - SP,0,0,0,0,1,1,1
+79,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Domingo,27, Julho ,2014,19:00,Juventude - RS,Madureira - RJ,0,2,0,1,0,0,3
+80,C,2014,Maximino Filho,Castanhal,PA,Domingo,3, Agosto ,2014,16:00,Paysandu - PA,C.r.a.c. - GO,0,0,0,0,1,1,1
+81,C,2014,Cornélio de Barros,Salgueiro,PE,Segunda,4, Agosto ,2014,21:30,Salgueiro - PE,Treze - PB,2,1,1,0,0,3,0
+82,C,2014,Almeidão,Joao Pessoa,PB,Domingo,3, Agosto ,2014,16:00,Botafogo - PB,Águia de Marabá - PA,2,0,1,0,0,3,0
+83,C,2014,Arena Pantanal,Cuiaba,MT,Domingo,3, Agosto ,2014,19:30,Cuiabá - MT,Crb - AL,1,0,1,0,0,3,0
+84,C,2014,Coaracy Fonseca,Arapiraca,AL,Sábado,2, Agosto ,2014,19:00,Asa - AL,Fortaleza - CE,1,3,0,1,0,0,3
+85,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,2, Agosto ,2014,15:00,Madureira - RJ,Guaratinguetá - SP,3,1,1,0,0,3,0
+86,C,2014,Centenário,Caxias do Sul,RS,Domingo,3, Agosto ,2014,16:00,Caxias - RS,Macaé - RJ,1,0,1,0,0,3,0
+87,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,3, Agosto ,2014,16:00,Mogi Mirim - SP,Juventude - RS,1,0,1,0,0,3,0
+88,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,3, Agosto ,2014,16:00,São Caetano - SP,Duque de Caxias - RJ,0,1,0,1,0,0,3
+89,C,2014,Soares de Azevedo,Muriae,MG,Domingo,3, Agosto ,2014,19:00,Tupi - MG,Guarani - SP,1,1,0,0,1,1,1
+90,C,2014,Zinho Oliveira,Maraba,PA,Domingo,10, Agosto ,2014,16:00,Águia de Marabá - PA,Paysandu - PA,1,1,0,0,1,1,1
+91,C,2014,Genervino da Fonseca,Catalao,GO,Sábado,9, Agosto ,2014,18:00,C.r.a.c. - GO,Cuiabá - MT,0,2,0,1,0,0,3
+92,C,2014,Rei Pelé,Maceio,AL,Segunda,11, Agosto ,2014,21:30,Crb - AL,Asa - AL,2,1,1,0,0,3,0
+93,C,2014,Castelão,Fortaleza,CE,Sábado,9, Agosto ,2014,16:00,Fortaleza - CE,Salgueiro - PE,2,0,1,0,0,3,0
+94,C,2014,Pres. Vargas/PB,Campina Grande,PB,Sábado,9, Agosto ,2014,19:00,Treze - PB,Botafogo - PB,0,1,0,1,0,0,3
+95,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Quinta,7, Agosto ,2014,21:00,Juventude - RS,Caxias - RS,1,1,0,0,1,1,1
+96,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,9, Agosto ,2014,16:00,Macaé - RJ,Tupi - MG,0,2,0,1,0,0,3
+97,C,2014,Brinco de Ouro,Campinas,SP,Domingo,10, Agosto ,2014,19:00,Guarani - SP,São Caetano - SP,0,1,0,1,0,0,3
+98,C,2014,Los Larios,Duque de Caxias,RJ,Sábado,9, Agosto ,2014,16:00,Duque de Caxias - RJ,Madureira - RJ,1,1,0,0,1,1,1
+99,C,2014,Dario Leite,Guaratingueta,SP,Sábado,9, Agosto ,2014,15:00,Guaratinguetá - SP,Mogi Mirim - SP,1,2,0,1,0,0,3
+100,C,2014,Maximino Filho,Castanhal,PA,Segunda,18, Agosto ,2014,21:30,Paysandu - PA,Crb - AL,3,0,1,0,0,3,0
+101,C,2014,Arena Pantanal,Cuiaba,MT,Sábado,16, Agosto ,2014,19:00,Cuiabá - MT,Fortaleza - CE,1,1,0,0,1,1,1
+102,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,17, Agosto ,2014,16:00,Asa - AL,Treze - PB,3,0,1,0,0,3,0
+103,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,17, Agosto ,2014,16:00,Salgueiro - PE,Águia de Marabá - PA,1,0,1,0,0,3,0
+104,C,2014,Almeidão,Joao Pessoa,PB,Domingo,17, Agosto ,2014,16:00,Botafogo - PB,C.r.a.c. - GO,1,0,1,0,0,3,0
+105,C,2014,Centenário,Caxias do Sul,RS,Domingo,17, Agosto ,2014,16:00,Caxias - RS,Guaratinguetá - SP,0,3,0,1,0,0,3
+106,C,2014,Soares de Azevedo,Muriae,MG,Sábado,16, Agosto ,2014,15:30,Tupi - MG,Juventude - RS,1,1,0,0,1,1,1
+107,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,17, Agosto ,2014,16:00,São Caetano - SP,Macaé - RJ,0,0,0,0,1,1,1
+108,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,16, Agosto ,2014,15:00,Madureira - RJ,Guarani - SP,0,0,0,0,1,1,1
+109,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,17, Agosto ,2014,19:00,Mogi Mirim - SP,Duque de Caxias - RJ,3,1,1,0,0,3,0
+110,C,2014,Zinho Oliveira,Maraba,PA,Segunda,25, Agosto ,2014,21:30,Águia de Marabá - PA,Fortaleza - CE,0,2,0,1,0,0,3
+111,C,2014,Genervino da Fonseca,Catalao,GO,Domingo,24, Agosto ,2014,16:00,C.r.a.c. - GO,Crb - AL,1,2,0,1,0,0,3
+112,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,24, Agosto ,2014,19:00,Asa - AL,Paysandu - PA,1,0,1,0,0,3,0
+113,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,24, Agosto ,2014,16:00,Salgueiro - PE,Botafogo - PB,1,0,1,0,0,3,0
+114,C,2014,Pres. Vargas/PB,Campina Grande,PB,Domingo,24, Agosto ,2014,17:00,Treze - PB,Cuiabá - MT,1,0,1,0,0,3,0
+115,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Sábado,23, Agosto ,2014,16:00,Juventude - RS,Duque de Caxias - RJ,2,0,1,0,0,3,0
+116,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,23, Agosto ,2014,18:30,Macaé - RJ,Guarani - SP,1,0,1,0,0,3,0
+117,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,24, Agosto ,2014,16:00,São Caetano - SP,Caxias - RS,2,0,1,0,0,3,0
+118,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,23, Agosto ,2014,15:00,Madureira - RJ,Mogi Mirim - SP,3,0,1,0,0,3,0
+119,C,2014,Dario Leite,Guaratingueta,SP,Sábado,23, Agosto ,2014,15:00,Guaratinguetá - SP,Tupi - MG,1,1,0,0,1,1,1
+120,C,2014,Curuzu,Belem,PA,Sábado,30, Agosto ,2014,18:30,Paysandu - PA,Salgueiro - PE,1,0,1,0,0,3,0
+121,C,2014,Arena Pantanal,Cuiaba,MT,Domingo,31, Agosto ,2014,19:00,Cuiabá - MT,Asa - AL,0,2,0,1,0,0,3
+122,C,2014,Rei Pelé,Maceio,AL,Sábado,30, Agosto ,2014,18:30,Crb - AL,Botafogo - PB,1,1,0,0,1,1,1
+123,C,2014,Presidente Vargas/CE,Fortaleza,CE,Domingo,31, Agosto ,2014,19:00,Fortaleza - CE,C.r.a.c. - GO,1,1,0,0,1,1,1
+124,C,2014,Pres. Vargas/PB,Campina Grande,PB,Domingo,31, Agosto ,2014,19:00,Treze - PB,Águia de Marabá - PA,1,1,0,0,1,1,1
+125,C,2014,Centenário,Caxias do Sul,RS,Domingo,31, Agosto ,2014,16:00,Caxias - RS,Tupi - MG,0,3,0,1,0,0,3
+126,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,30, Agosto ,2014,16:00,Macaé - RJ,Madureira - RJ,1,2,0,1,0,0,3
+127,C,2014,Nabi Abi Chedid,Braganca Paulista,SP,Segunda,1, Setembro ,2014,21:00,Guarani - SP,Juventude - RS,1,0,1,0,0,3,0
+128,C,2014,Romário Faria,Duque de Caxias,RJ,Sábado,30, Agosto ,2014,16:00,Duque de Caxias - RJ,Guaratinguetá - SP,0,3,0,1,0,0,3
+129,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,31, Agosto ,2014,16:00,Mogi Mirim - SP,São Caetano - SP,1,0,1,0,0,3,0
+130,C,2014,Zinho Oliveira,Maraba,PA,Domingo,7, Setembro ,2014,16:00,Águia de Marabá - PA,Asa - AL,4,1,1,0,0,3,0
+131,C,2014,Genervino da Fonseca,Catalao,GO,Domingo,7, Setembro ,2014,16:00,C.r.a.c. - GO,Treze - PB,0,0,0,0,1,1,1
+132,C,2014,Rei Pelé,Maceio,AL,Domingo,7, Setembro ,2014,19:00,Crb - AL,Fortaleza - CE,3,0,1,0,0,3,0
+133,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,7, Setembro ,2014,16:00,Salgueiro - PE,Cuiabá - MT,0,0,0,0,1,1,1
+134,C,2014,Almeidão,Joao Pessoa,PB,Segunda,8, Setembro ,2014,21:30,Botafogo - PB,Paysandu - PA,0,1,0,1,0,0,3
+135,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Sábado,6, Setembro ,2014,18:30,Juventude - RS,Macaé - RJ,0,0,0,0,1,1,1
+136,C,2014,Mário Helênio,Juiz de Fora,MG,Domingo,7, Setembro ,2014,16:00,Tupi - MG,Mogi Mirim - SP,5,0,1,0,0,3,0
+137,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,7, Setembro ,2014,16:00,São Caetano - SP,Madureira - RJ,1,0,1,0,0,3,0
+138,C,2014,Los Larios,Duque de Caxias,RJ,Sábado,6, Setembro ,2014,16:00,Duque de Caxias - RJ,Caxias - RS,1,1,0,0,1,1,1
+139,C,2014,Arena Barueri,Barueri,SP,Sábado,6, Setembro ,2014,15:00,Guaratinguetá - SP,Guarani - SP,0,0,0,0,1,1,1
+140,C,2014,Zinho Oliveira,Maraba,PA,Domingo,14, Setembro ,2014,16:00,Águia de Marabá - PA,C.r.a.c. - GO,2,1,1,0,0,3,0
+141,C,2014,Arena Pantanal,Cuiaba,MT,Domingo,14, Setembro ,2014,19:00,Cuiabá - MT,Botafogo - PB,0,1,0,1,0,0,3
+142,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,14, Setembro ,2014,16:00,Asa - AL,Salgueiro - PE,3,3,0,0,1,1,1
+143,C,2014,Castelão,Fortaleza,CE,Domingo,14, Setembro ,2014,19:00,Fortaleza - CE,Paysandu - PA,0,0,0,0,1,1,1
+144,C,2014,Pres. Vargas/PB,Campina Grande,PB,Segunda,15, Setembro ,2014,21:30,Treze - PB,Crb - AL,1,1,0,0,1,1,1
+145,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Segunda,15, Setembro ,2014,19:00,Juventude - RS,São Caetano - SP,1,0,1,0,0,3,0
+146,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,13, Setembro ,2014,16:00,Macaé - RJ,Guaratinguetá - SP,1,1,0,0,1,1,1
+147,C,2014,Décio Vitta,Americana,SP,Sábado,13, Setembro ,2014,18:30,Guarani - SP,Duque de Caxias - RJ,1,0,1,0,0,3,0
+148,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,13, Setembro ,2014,15:00,Madureira - RJ,Tupi - MG,0,1,0,1,0,0,3
+149,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,14, Setembro ,2014,16:00,Mogi Mirim - SP,Caxias - RS,1,1,0,0,1,1,1
+150,C,2014,Curuzu,Belem,PA,Sábado,20, Setembro ,2014,18:30,Paysandu - PA,Cuiabá - MT,1,2,0,1,0,0,3
+151,C,2014,Genervino da Fonseca,Catalao,GO,Sábado,20, Setembro ,2014,18:00,C.r.a.c. - GO,Salgueiro - PE,1,3,0,1,0,0,3
+152,C,2014,Rei Pelé,Maceio,AL,Domingo,21, Setembro ,2014,16:00,Crb - AL,Águia de Marabá - PA,1,1,0,0,1,1,1
+153,C,2014,Castelão,Fortaleza,CE,Segunda,22, Setembro ,2014,20:30,Fortaleza - CE,Treze - PB,4,0,1,0,0,3,0
+154,C,2014,Almeidão,Joao Pessoa,PB,Domingo,21, Setembro ,2014,16:00,Botafogo - PB,Asa - AL,1,2,0,1,0,0,3
+155,C,2014,Centenário,Caxias do Sul,RS,Domingo,21, Setembro ,2014,16:00,Caxias - RS,Madureira - RJ,2,2,0,0,1,1,1
+156,C,2014,Mário Helênio,Juiz de Fora,MG,Domingo,21, Setembro ,2014,16:00,Tupi - MG,São Caetano - SP,4,0,1,0,0,3,0
+157,C,2014,Décio Vitta,Americana,SP,Domingo,21, Setembro ,2014,19:00,Guarani - SP,Mogi Mirim - SP,3,3,0,0,1,1,1
+158,C,2014,Los Larios,Duque de Caxias,RJ,Sábado,20, Setembro ,2014,16:00,Duque de Caxias - RJ,Macaé - RJ,1,2,0,1,0,0,3
+159,C,2014,Arena Barueri,Barueri,SP,Sábado,20, Setembro ,2014,15:00,Guaratinguetá - SP,Juventude - RS,1,1,0,0,1,1,1
+160,C,2014,Curuzu,Belem,PA,Segunda,29, Setembro ,2014,21:30,Paysandu - PA,Treze - PB,3,2,1,0,0,3,0
+161,C,2014,Arena Pantanal,Cuiaba,MT,Sábado,27, Setembro ,2014,18:30,Cuiabá - MT,Águia de Marabá - PA,1,1,0,0,1,1,1
+162,C,2014,Coaracy Fonseca,Arapiraca,AL,Domingo,28, Setembro ,2014,16:00,Asa - AL,C.r.a.c. - GO,1,0,1,0,0,3,0
+163,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,28, Setembro ,2014,16:00,Salgueiro - PE,Crb - AL,1,0,1,0,0,3,0
+164,C,2014,Almeidão,Joao Pessoa,PB,Domingo,28, Setembro ,2014,19:00,Botafogo - PB,Fortaleza - CE,0,0,0,0,1,1,1
+165,C,2014,Centenário,Caxias do Sul,RS,Segunda,29, Setembro ,2014,19:00,Caxias - RS,Guarani - SP,0,1,0,1,0,0,3
+166,C,2014,Mário Helênio,Juiz de Fora,MG,Domingo,28, Setembro ,2014,16:00,Tupi - MG,Duque de Caxias - RJ,4,1,1,0,0,3,0
+167,C,2014,Anacleto Campanella,Sao Caetano do Sul,SP,Domingo,28, Setembro ,2014,16:00,São Caetano - SP,Guaratinguetá - SP,3,2,1,0,0,3,0
+168,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,27, Setembro ,2014,15:00,Madureira - RJ,Juventude - RS,2,0,1,0,0,3,0
+169,C,2014,Romildo Ferreira,Mogi Mirim,SP,Segunda,29, Setembro ,2014,19:00,Mogi Mirim - SP,Macaé - RJ,1,0,1,0,0,3,0
+170,C,2014,Zinho Oliveira,Maraba,PA,Sábado,4, Outubro ,2014,19:00,Águia de Marabá - PA,Botafogo - PB,2,1,1,0,0,3,0
+171,C,2014,Genervino da Fonseca,Catalao,GO,Sábado,4, Outubro ,2014,19:00,C.r.a.c. - GO,Paysandu - PA,0,3,0,1,0,0,3
+172,C,2014,Rei Pelé,Maceio,AL,Sábado,4, Outubro ,2014,19:00,Crb - AL,Cuiabá - MT,3,0,1,0,0,3,0
+173,C,2014,Castelão,Fortaleza,CE,Sábado,4, Outubro ,2014,19:00,Fortaleza - CE,Asa - AL,3,2,1,0,0,3,0
+174,C,2014,Pres. Vargas/PB,Campina Grande,PB,Sábado,4, Outubro ,2014,19:00,Treze - PB,Salgueiro - PE,3,0,1,0,0,3,0
+175,C,2014,Alfredo Jaconi,Caxias do Sul,RS,Sábado,4, Outubro ,2014,16:00,Juventude - RS,Mogi Mirim - SP,4,0,1,0,0,3,0
+176,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,4, Outubro ,2014,16:00,Macaé - RJ,Caxias - RS,1,0,1,0,0,3,0
+177,C,2014,Décio Vitta,Americana,SP,Sábado,4, Outubro ,2014,16:00,Guarani - SP,Tupi - MG,1,1,0,0,1,1,1
+178,C,2014,Romário Faria,Duque de Caxias,RJ,Sábado,4, Outubro ,2014,16:00,Duque de Caxias - RJ,São Caetano - SP,1,2,0,1,0,0,3
+179,C,2014,Arena Barueri,Barueri,SP,Sábado,4, Outubro ,2014,16:00,Guaratinguetá - SP,Madureira - RJ,5,0,1,0,0,3,0
+180,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,18, Outubro ,2014,18:30,Macaé - RJ,Fortaleza - CE,0,0,0,0,1,1,1
+181,C,2014,Castelão,Fortaleza,CE,Sábado,25, Outubro ,2014,19:00,Fortaleza - CE,Macaé - RJ,1,1,0,0,1,1,1
+182,C,2014,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,18, Outubro ,2014,15:00,Madureira - RJ,Crb - AL,1,2,0,1,0,0,3
+183,C,2014,Rei Pelé,Maceio,AL,Sábado,25, Outubro ,2014,21:30,Crb - AL,Madureira - RJ,2,0,1,0,0,3,0
+184,C,2014,Cornélio de Barros,Salgueiro,PE,Domingo,19, Outubro ,2014,18:30,Salgueiro - PE,Mogi Mirim - SP,0,1,0,1,0,0,3
+185,C,2014,Romildo Ferreira,Mogi Mirim,SP,Sexta,24, Outubro ,2014,16:00,Mogi Mirim - SP,Salgueiro - PE,0,0,0,0,1,1,1
+186,C,2014,Olímpico do Pará,Belem,PA,Sábado,18, Outubro ,2014,16:00,Paysandu - PA,Tupi - MG,2,1,1,0,0,3,0
+187,C,2014,Mário Helênio,Juiz de Fora,MG,Sábado,25, Outubro ,2014,16:00,Tupi - MG,Paysandu - PA,0,1,0,1,0,0,3
+188,C,2014,Cláudio Moacyr,Macae,RJ,Domingo,2, Novembro ,2014,19:00,Macaé - RJ,Crb - AL,4,0,1,0,0,3,0
+189,C,2014,Rei Pelé,Maceio,AL,Sábado,8, Novembro ,2014,17:00,Crb - AL,Macaé - RJ,0,0,0,0,1,1,1
+190,C,2014,Olímpico do Pará,Belem,PA,Sábado,1, Novembro ,2014,17:00,Paysandu - PA,Mogi Mirim - SP,4,1,1,0,0,3,0
+191,C,2014,Romildo Ferreira,Mogi Mirim,SP,Domingo,9, Novembro ,2014,16:00,Mogi Mirim - SP,Paysandu - PA,2,1,1,0,0,3,0
+192,C,2014,Cláudio Moacyr,Macae,RJ,Sábado,15, Novembro ,2014,17:00,Macaé - RJ,Paysandu - PA,1,1,0,0,1,1,1
+193,C,2014,Olímpico do Pará,Belem,PA,Sábado,22, Novembro ,2014,17:00,Paysandu - PA,Macaé - RJ,3,3,0,0,1,1,1

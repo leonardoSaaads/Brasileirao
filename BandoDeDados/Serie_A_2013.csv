@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2013,São Januário,Rio de Janeiro,RJ,Sábado,25, Maio ,2013,18:30,Vasco da Gama - RJ,Portuguesa - SP,1,0,1,0,0,3,0
+1,A,2013,Cláudio Moacyr,Macae,RJ,Domingo,26, Maio ,2013,18:30,Fluminense - RJ,Atlético Paranaense - PR,2,1,1,0,0,3,0
+2,A,2013,Pacaembu,Sao Paulo,SP,Sábado,25, Maio ,2013,21:00,Corinthians - SP,Botafogo - RJ,1,1,0,0,1,1,1
+3,A,2013,Fonte Nova,Salvador,BA,Sábado,25, Maio ,2013,18:30,Vitória - BA,Internacional - RS,2,2,0,0,1,1,1
+4,A,2013,Alfredo Jaconi,Caxias do Sul,RS,Domingo,26, Maio ,2013,16:00,Grêmio - RS,Náutico - PE,2,0,1,0,0,3,0
+5,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,26, Maio ,2013,16:00,Ponte Preta - SP,São Paulo - SP,0,2,0,1,0,0,3
+6,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,26, Maio ,2013,16:00,Criciuma - SC,Bahia - BA,3,1,1,0,0,3,0
+7,A,2013,Independência,Belo Horizonte,MG,Domingo,26, Maio ,2013,18:30,Cruzeiro - MG,Goiás - GO,5,0,1,0,0,3,0
+8,A,2013,Couto Pereira,Curitiba,PR,Domingo,26, Maio ,2013,18:30,Coritiba - PR,Atlético - MG,2,1,1,0,0,3,0
+9,A,2013,Mané Garrincha,Brasilia,DF,Domingo,26, Maio ,2013,16:00,Santos - SP,Flamengo - RJ,0,0,0,0,1,1,1
+10,A,2013,Raulino de Oliveira,Volta Redonda,RJ,Quarta,29, Maio ,2013,19:30,Botafogo - RJ,Santos - SP,2,1,1,0,0,3,0
+11,A,2013,Mário Helênio,Juiz de Fora,MG,Quarta,29, Maio ,2013,21:00,Flamengo - RJ,Ponte Preta - SP,0,2,0,1,0,0,3
+12,A,2013,Morumbi,Sao Paulo,SP,Quarta,29, Maio ,2013,19:30,São Paulo - SP,Vasco da Gama - RJ,5,1,1,0,0,3,0
+13,A,2013,Pituaçu,Salvador,BA,Quarta,29, Maio ,2013,21:00,Bahia - BA,Coritiba - PR,0,0,0,0,1,1,1
+14,A,2013,Centenário,Caxias do Sul,RS,Quinta,30, Maio ,2013,19:30,Internacional - RS,Criciuma - SC,2,0,1,0,0,3,0
+15,A,2013,Serra Dourada,Goiania,GO,Quarta,29, Maio ,2013,22:00,Goiás - GO,Corinthians - SP,1,1,0,0,1,1,1
+16,A,2013,Aflitos,Recife,PE,Quarta,29, Maio ,2013,21:00,Náutico - PE,Vitória - BA,0,3,0,1,0,0,3
+17,A,2013,Arena do Jacaré,Sete Lagoas,MG,Domingo,9, Junho ,2013,18:30,Atlético - MG,Grêmio - RS,2,0,1,0,0,3,0
+18,A,2013,Érton Queiroz,Curitiba,PR,Quarta,29, Maio ,2013,15:00,Atlético Paranaense - PR,Cruzeiro - MG,2,2,0,0,1,1,1
+19,A,2013,Canindé,Sao Paulo,SP,Quarta,12, Junho ,2013,22:00,Portuguesa - SP,Fluminense - RJ,2,1,1,0,0,3,0
+20,A,2013,Raulino de Oliveira,Volta Redonda,RJ,Sábado,1, Junho ,2013,16:20,Botafogo - RJ,Cruzeiro - MG,2,1,1,0,0,3,0
+21,A,2013,Cláudio Moacyr,Macae,RJ,Domingo,2, Junho ,2013,18:30,Fluminense - RJ,Criciuma - SC,3,0,1,0,0,3,0
+22,A,2013,Pacaembu,Sao Paulo,SP,Sábado,1, Junho ,2013,21:00,Corinthians - SP,Ponte Preta - SP,1,0,1,0,0,3,0
+23,A,2013,Manoel Barradas,Salvador,BA,Sábado,1, Junho ,2013,18:30,Vitória - BA,Vasco da Gama - RJ,2,0,1,0,0,3,0
+24,A,2013,Centenário,Caxias do Sul,RS,Domingo,2, Junho ,2013,18:30,Internacional - RS,Bahia - BA,1,2,0,1,0,0,3
+25,A,2013,Serra Dourada,Goiania,GO,Sábado,1, Junho ,2013,18:30,Goiás - GO,Coritiba - PR,1,1,0,0,1,1,1
+26,A,2013,Aflitos,Recife,PE,Domingo,2, Junho ,2013,18:30,Náutico - PE,Portuguesa - SP,2,2,0,0,1,1,1
+27,A,2013,Independência,Belo Horizonte,MG,Domingo,2, Junho ,2013,18:30,Atlético - MG,São Paulo - SP,0,0,0,0,1,1,1
+28,A,2013,Arena Joinville,Joinville,SC,Sábado,1, Junho ,2013,16:20,Atlético Paranaense - PR,Flamengo - RJ,2,2,0,0,1,1,1
+29,A,2013,Vila Belmiro,Santos,SP,Sábado,1, Junho ,2013,16:20,Santos - SP,Grêmio - RS,1,1,0,0,1,1,1
+30,A,2013,Raulino de Oliveira,Volta Redonda,RJ,Quarta,5, Junho ,2013,21:00,Vasco da Gama - RJ,Atlético - MG,2,0,1,0,0,3,0
+31,A,2013,Orlando Scarpelli,Florianopolis,SC,Quarta,5, Junho ,2013,22:00,Flamengo - RJ,Náutico - PE,0,1,0,1,0,0,3
+32,A,2013,Morumbi,Sao Paulo,SP,Quarta,5, Junho ,2013,19:30,São Paulo - SP,Goiás - GO,0,1,0,1,0,0,3
+33,A,2013,Lourival Baptista,Aracaju,SE,Quarta,5, Junho ,2013,22:00,Bahia - BA,Botafogo - RJ,2,1,1,0,0,3,0
+34,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,5, Junho ,2013,21:00,Grêmio - RS,Vitória - BA,1,0,1,0,0,3,0
+35,A,2013,Moisés Lucarelli,Campinas,SP,Quarta,5, Junho ,2013,21:00,Ponte Preta - SP,Atlético Paranaense - PR,3,4,0,1,0,0,3
+36,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,5, Junho ,2013,19:30,Criciuma - SC,Santos - SP,3,1,1,0,0,3,0
+37,A,2013,Arena do Jacaré,Sete Lagoas,MG,Quarta,5, Junho ,2013,22:00,Cruzeiro - MG,Corinthians - SP,1,0,1,0,0,3,0
+38,A,2013,Couto Pereira,Curitiba,PR,Quinta,6, Junho ,2013,21:00,Coritiba - PR,Fluminense - RJ,2,1,1,0,0,3,0
+39,A,2013,Canindé,Sao Paulo,SP,Quarta,5, Junho ,2013,19:30,Portuguesa - SP,Internacional - RS,1,1,0,0,1,1,1
+40,A,2013,Raulino de Oliveira,Volta Redonda,RJ,Sábado,8, Junho ,2013,18:30,Vasco da Gama - RJ,Bahia - BA,1,1,0,0,1,1,1
+41,A,2013,Cláudio Moacyr,Macae,RJ,Domingo,9, Junho ,2013,18:30,Fluminense - RJ,Goiás - GO,2,1,1,0,0,3,0
+42,A,2013,Pacaembu,Sao Paulo,SP,Sábado,8, Junho ,2013,18:30,Corinthians - SP,Portuguesa - SP,0,0,0,0,1,1,1
+43,A,2013,Jóia da Princesa,Feira de Santana,BA,Domingo,9, Junho ,2013,18:30,Vitória - BA,Atlético Paranaense - PR,3,2,1,0,0,3,0
+44,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,12, Junho ,2013,22:00,Grêmio - RS,São Paulo - SP,1,1,0,0,1,1,1
+45,A,2013,Moisés Lucarelli,Campinas,SP,Sábado,8, Junho ,2013,21:00,Ponte Preta - SP,Botafogo - RJ,0,2,0,1,0,0,3
+46,A,2013,Heriberto Hulse,Criciuma,SC,Sábado,8, Junho ,2013,16:20,Criciuma - SC,Flamengo - RJ,0,3,0,1,0,0,3
+47,A,2013,Arena do Jacaré,Sete Lagoas,MG,Sábado,8, Junho ,2013,16:20,Cruzeiro - MG,Internacional - RS,2,2,0,0,1,1,1
+48,A,2013,Couto Pereira,Curitiba,PR,Domingo,9, Junho ,2013,18:30,Coritiba - PR,Náutico - PE,1,0,1,0,0,3,0
+49,A,2013,Vila Belmiro,Santos,SP,Quarta,12, Junho ,2013,19:30,Santos - SP,Atlético - MG,1,0,1,0,0,3,0
+50,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,7, Julho ,2013,18:30,Botafogo - RJ,Fluminense - RJ,1,0,1,0,0,3,0
+51,A,2013,Mané Garrincha,Brasilia,DF,Sábado,6, Julho ,2013,18:30,Flamengo - RJ,Coritiba - PR,2,2,0,0,1,1,1
+52,A,2013,Morumbi,Sao Paulo,SP,Domingo,7, Julho ,2013,16:00,São Paulo - SP,Santos - SP,0,2,0,1,0,0,3
+53,A,2013,Fonte Nova,Salvador,BA,Domingo,7, Julho ,2013,16:00,Bahia - BA,Corinthians - SP,0,2,0,1,0,0,3
+54,A,2013,Centenário,Caxias do Sul,RS,Domingo,7, Julho ,2013,16:00,Internacional - RS,Vasco da Gama - RJ,5,3,1,0,0,3,0
+55,A,2013,Serra Dourada,Goiania,GO,Domingo,7, Julho ,2013,16:00,Goiás - GO,Vitória - BA,1,0,1,0,0,3,0
+56,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,6, Julho ,2013,18:30,Náutico - PE,Ponte Preta - SP,1,3,0,1,0,0,3
+57,A,2013,Independência,Belo Horizonte,MG,Domingo,7, Julho ,2013,18:30,Atlético - MG,Criciuma - SC,3,2,1,0,0,3,0
+58,A,2013,Durival Britto,Curitiba,PR,Sábado,6, Julho ,2013,18:30,Atlético Paranaense - PR,Grêmio - RS,1,1,0,0,1,1,1
+59,A,2013,Canindé,Sao Paulo,SP,Sábado,6, Julho ,2013,21:00,Portuguesa - SP,Cruzeiro - MG,1,1,0,0,1,1,1
+60,A,2013,Mané Garrincha,Brasilia,DF,Domingo,14, Julho ,2013,18:30,Vasco da Gama - RJ,Flamengo - RJ,0,1,0,1,0,0,3
+61,A,2013,Cláudio Moacyr,Macae,RJ,Sábado,13, Julho ,2013,18:30,Fluminense - RJ,Internacional - RS,2,3,0,1,0,0,3
+62,A,2013,Pacaembu,Sao Paulo,SP,Domingo,14, Julho ,2013,16:00,Corinthians - SP,Atlético - MG,0,1,0,1,0,0,3
+63,A,2013,Manoel Barradas,Salvador,BA,Domingo,14, Julho ,2013,16:00,Vitória - BA,São Paulo - SP,3,2,1,0,0,3,0
+64,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,14, Julho ,2013,16:00,Grêmio - RS,Botafogo - RJ,2,1,1,0,0,3,0
+65,A,2013,Moisés Lucarelli,Campinas,SP,Sábado,13, Julho ,2013,21:00,Ponte Preta - SP,Bahia - BA,0,0,0,0,1,1,1
+66,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,14, Julho ,2013,18:30,Criciuma - SC,Goiás - GO,0,0,0,0,1,1,1
+67,A,2013,Mineirão,Belo Horizonte,MG,Domingo,14, Julho ,2013,18:30,Cruzeiro - MG,Náutico - PE,3,0,1,0,0,3,0
+68,A,2013,Couto Pereira,Curitiba,PR,Domingo,14, Julho ,2013,16:00,Coritiba - PR,Atlético Paranaense - PR,1,0,1,0,0,3,0
+69,A,2013,Vila Belmiro,Santos,SP,Sábado,13, Julho ,2013,18:30,Santos - SP,Portuguesa - SP,4,1,1,0,0,3,0
+70,A,2013,São Januário,Rio de Janeiro,RJ,Sábado,20, Julho ,2013,18:30,Botafogo - RJ,Náutico - PE,2,0,1,0,0,3,0
+71,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,21, Julho ,2013,18:30,Fluminense - RJ,Vasco da Gama - RJ,1,3,0,1,0,0,3
+72,A,2013,Morumbi,Sao Paulo,SP,Sábado,20, Julho ,2013,18:30,São Paulo - SP,Cruzeiro - MG,0,3,0,1,0,0,3
+73,A,2013,Fonte Nova,Salvador,BA,Domingo,21, Julho ,2013,16:00,Vitória - BA,Bahia - BA,0,0,0,0,1,1,1
+74,A,2013,Centenário,Caxias do Sul,RS,Domingo,21, Julho ,2013,16:00,Internacional - RS,Flamengo - RJ,1,0,1,0,0,3,0
+75,A,2013,Serra Dourada,Goiania,GO,Domingo,21, Julho ,2013,18:30,Goiás - GO,Portuguesa - SP,2,1,1,0,0,3,0
+76,A,2013,Heriberto Hulse,Criciuma,SC,Sábado,20, Julho ,2013,18:30,Criciuma - SC,Grêmio - RS,2,1,1,0,0,3,0
+77,A,2013,Independência,Belo Horizonte,MG,Quinta,3, Outubro ,2013,19:30,Atlético - MG,Ponte Preta - SP,4,0,1,0,0,3,0
+78,A,2013,Durival Britto,Curitiba,PR,Domingo,21, Julho ,2013,16:00,Atlético Paranaense - PR,Corinthians - SP,1,1,0,0,1,1,1
+79,A,2013,Vila Belmiro,Santos,SP,Domingo,21, Julho ,2013,16:00,Santos - SP,Coritiba - PR,2,2,0,0,1,1,1
+80,A,2013,São Januário,Rio de Janeiro,RJ,Sábado,27, Julho ,2013,18:30,Vasco da Gama - RJ,Criciuma - SC,3,2,1,0,0,3,0
+81,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,28, Julho ,2013,18:30,Flamengo - RJ,Botafogo - RJ,1,1,0,0,1,1,1
+82,A,2013,Pacaembu,Sao Paulo,SP,Domingo,28, Julho ,2013,16:00,Corinthians - SP,São Paulo - SP,0,0,0,0,1,1,1
+83,A,2013,Fonte Nova,Salvador,BA,Domingo,28, Julho ,2013,18:30,Bahia - BA,Goiás - GO,2,1,1,0,0,3,0
+84,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,28, Julho ,2013,16:00,Grêmio - RS,Fluminense - RJ,2,0,1,0,0,3,0
+85,A,2013,Moisés Lucarelli,Campinas,SP,Sábado,27, Julho ,2013,21:00,Ponte Preta - SP,Santos - SP,1,0,1,0,0,3,0
+86,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,28, Julho ,2013,16:00,Náutico - PE,Internacional - RS,3,0,1,0,0,3,0
+87,A,2013,Mineirão,Belo Horizonte,MG,Domingo,28, Julho ,2013,16:00,Cruzeiro - MG,Atlético - MG,4,1,1,0,0,3,0
+88,A,2013,Couto Pereira,Curitiba,PR,Domingo,28, Julho ,2013,18:30,Coritiba - PR,Vitória - BA,1,1,0,0,1,1,1
+89,A,2013,Canindé,Sao Paulo,SP,Sábado,27, Julho ,2013,18:30,Portuguesa - SP,Atlético Paranaense - PR,2,3,0,1,0,0,3
+90,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,1, Agosto ,2013,19:30,Botafogo - RJ,Vitória - BA,2,0,1,0,0,3,0
+91,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,31, Julho ,2013,19:30,Fluminense - RJ,Cruzeiro - MG,1,0,1,0,0,3,0
+92,A,2013,Pacaembu,Sao Paulo,SP,Quarta,31, Julho ,2013,21:50,Corinthians - SP,Grêmio - RS,2,0,1,0,0,3,0
+93,A,2013,Fonte Nova,Salvador,BA,Quarta,31, Julho ,2013,21:50,Bahia - BA,Flamengo - RJ,3,0,1,0,0,3,0
+94,A,2013,Estádio do Vale,Novo Hamburgo,RS,Terça,10, Setembro ,2013,19:30,Internacional - RS,Santos - SP,1,2,0,1,0,0,3
+95,A,2013,Serra Dourada,Goiania,GO,Quinta,1, Agosto ,2013,21:00,Goiás - GO,Vasco da Gama - RJ,1,1,0,0,1,1,1
+96,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,3, Setembro ,2013,21:00,Náutico - PE,São Paulo - SP,0,1,0,1,0,0,3
+97,A,2013,Independência,Belo Horizonte,MG,Quarta,31, Julho ,2013,19:30,Atlético - MG,Atlético Paranaense - PR,1,2,0,1,0,0,3
+98,A,2013,Couto Pereira,Curitiba,PR,Quarta,31, Julho ,2013,21:00,Coritiba - PR,Ponte Preta - SP,5,3,1,0,0,3,0
+99,A,2013,Canindé,Sao Paulo,SP,Quarta,31, Julho ,2013,19:30,Portuguesa - SP,Criciuma - SC,1,1,0,0,1,1,1
+100,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,4, Agosto ,2013,18:30,Vasco da Gama - RJ,Botafogo - RJ,2,3,0,1,0,0,3
+101,A,2013,Mané Garrincha,Brasilia,DF,Domingo,4, Agosto ,2013,16:00,Flamengo - RJ,Atlético - MG,3,0,1,0,0,3,0
+102,A,2013,Morumbi,Sao Paulo,SP,Quarta,10, Julho ,2013,21:00,São Paulo - SP,Bahia - BA,1,2,0,1,0,0,3
+103,A,2013,Manoel Barradas,Salvador,BA,Domingo,4, Agosto ,2013,18:30,Vitória - BA,Portuguesa - SP,2,1,1,0,0,3,0
+104,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,4, Agosto ,2013,16:00,Grêmio - RS,Internacional - RS,1,1,0,0,1,1,1
+105,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,4, Agosto ,2013,16:00,Ponte Preta - SP,Fluminense - RJ,1,1,0,0,1,1,1
+106,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,4, Agosto ,2013,16:00,Criciuma - SC,Corinthians - SP,0,2,0,1,0,0,3
+107,A,2013,Mineirão,Belo Horizonte,MG,Sábado,3, Agosto ,2013,18:30,Cruzeiro - MG,Coritiba - PR,1,0,1,0,0,3,0
+108,A,2013,Durival Britto,Curitiba,PR,Domingo,4, Agosto ,2013,16:00,Atlético Paranaense - PR,Goiás - GO,2,0,1,0,0,3,0
+109,A,2013,Vila Belmiro,Santos,SP,Quarta,25, Setembro ,2013,21:00,Santos - SP,Náutico - PE,1,1,0,0,1,1,1
+110,A,2013,São Januário,Rio de Janeiro,RJ,Quinta,8, Agosto ,2013,21:00,Vasco da Gama - RJ,Ponte Preta - SP,1,1,0,0,1,1,1
+111,A,2013,Mané Garrincha,Brasilia,DF,Quarta,7, Agosto ,2013,21:00,Flamengo - RJ,Portuguesa - SP,1,1,0,0,1,1,1
+112,A,2013,Morumbi,Sao Paulo,SP,Quarta,24, Julho ,2013,21:00,São Paulo - SP,Internacional - RS,0,1,0,1,0,0,3
+113,A,2013,Manoel Barradas,Salvador,BA,Quarta,7, Agosto ,2013,19:30,Vitória - BA,Fluminense - RJ,1,1,0,0,1,1,1
+114,A,2013,Arena do Grêmio,Porto Alegre,RS,Quinta,8, Agosto ,2013,21:00,Grêmio - RS,Coritiba - PR,0,1,0,1,0,0,3
+115,A,2013,Serra Dourada,Goiania,GO,Quarta,7, Agosto ,2013,21:50,Goiás - GO,Náutico - PE,2,1,1,0,0,3,0
+116,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,7, Agosto ,2013,19:30,Criciuma - SC,Cruzeiro - MG,1,2,0,1,0,0,3
+117,A,2013,Independência,Belo Horizonte,MG,Quarta,7, Agosto ,2013,21:50,Atlético - MG,Botafogo - RJ,2,2,0,0,1,1,1
+118,A,2013,Durival Britto,Curitiba,PR,Quarta,7, Agosto ,2013,21:00,Atlético Paranaense - PR,Bahia - BA,1,0,1,0,0,3,0
+119,A,2013,Vila Belmiro,Santos,SP,Quarta,7, Agosto ,2013,21:50,Santos - SP,Corinthians - SP,1,1,0,0,1,1,1
+120,A,2013,Mané Garrincha,Brasilia,DF,Sábado,10, Agosto ,2013,18:30,Botafogo - RJ,Goiás - GO,1,1,0,0,1,1,1
+121,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,11, Agosto ,2013,16:00,Fluminense - RJ,Flamengo - RJ,2,3,0,1,0,0,3
+122,A,2013,Pacaembu,Sao Paulo,SP,Domingo,11, Agosto ,2013,16:00,Corinthians - SP,Vitória - BA,2,0,1,0,0,3,0
+123,A,2013,Fonte Nova,Salvador,BA,Domingo,11, Agosto ,2013,18:30,Bahia - BA,Grêmio - RS,0,3,0,1,0,0,3
+124,A,2013,Estádio do Vale,Novo Hamburgo,RS,Domingo,11, Agosto ,2013,18:30,Internacional - RS,Atlético Paranaense - PR,2,2,0,0,1,1,1
+125,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,11, Agosto ,2013,18:30,Ponte Preta - SP,Criciuma - SC,3,1,1,0,0,3,0
+126,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,10, Agosto ,2013,18:30,Náutico - PE,Atlético - MG,0,0,0,0,1,1,1
+127,A,2013,Mineirão,Belo Horizonte,MG,Domingo,11, Agosto ,2013,16:00,Cruzeiro - MG,Santos - SP,0,0,0,0,1,1,1
+128,A,2013,Couto Pereira,Curitiba,PR,Domingo,11, Agosto ,2013,16:00,Coritiba - PR,Vasco da Gama - RJ,0,1,0,1,0,0,3
+129,A,2013,Canindé,Sao Paulo,SP,Domingo,11, Agosto ,2013,18:30,Portuguesa - SP,São Paulo - SP,2,1,1,0,0,3,0
+130,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,15, Agosto ,2013,21:00,Botafogo - RJ,Internacional - RS,3,3,0,0,1,1,1
+131,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,14, Agosto ,2013,21:50,Fluminense - RJ,Corinthians - SP,0,0,0,0,1,1,1
+132,A,2013,Morumbi,Sao Paulo,SP,Quinta,15, Agosto ,2013,19:30,São Paulo - SP,Atlético Paranaense - PR,1,1,0,0,1,1,1
+133,A,2013,Manoel Barradas,Salvador,BA,Quarta,14, Agosto ,2013,21:00,Vitória - BA,Ponte Preta - SP,3,1,1,0,0,3,0
+134,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,14, Agosto ,2013,21:50,Grêmio - RS,Cruzeiro - MG,3,1,1,0,0,3,0
+135,A,2013,Serra Dourada,Goiania,GO,Quarta,14, Agosto ,2013,21:50,Goiás - GO,Flamengo - RJ,1,1,0,0,1,1,1
+136,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,14, Agosto ,2013,19:30,Criciuma - SC,Náutico - PE,3,0,1,0,0,3,0
+137,A,2013,Independência,Belo Horizonte,MG,Quarta,14, Agosto ,2013,19:30,Atlético - MG,Bahia - BA,2,0,1,0,0,3,0
+138,A,2013,Couto Pereira,Curitiba,PR,Quarta,14, Agosto ,2013,21:00,Coritiba - PR,Portuguesa - SP,1,1,0,0,1,1,1
+139,A,2013,Vila Belmiro,Santos,SP,Quarta,14, Agosto ,2013,19:30,Santos - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+140,A,2013,São Januário,Rio de Janeiro,RJ,Sábado,17, Agosto ,2013,21:00,Vasco da Gama - RJ,Grêmio - RS,2,3,0,1,0,0,3
+141,A,2013,Mané Garrincha,Brasilia,DF,Domingo,18, Agosto ,2013,16:00,Flamengo - RJ,São Paulo - SP,0,0,0,0,1,1,1
+142,A,2013,Pacaembu,Sao Paulo,SP,Domingo,18, Agosto ,2013,16:00,Corinthians - SP,Coritiba - PR,1,0,1,0,0,3,0
+143,A,2013,Fonte Nova,Salvador,BA,Domingo,18, Agosto ,2013,18:30,Bahia - BA,Santos - SP,0,0,0,0,1,1,1
+144,A,2013,Estádio do Vale,Novo Hamburgo,RS,Domingo,18, Agosto ,2013,18:30,Internacional - RS,Atlético - MG,0,0,0,0,1,1,1
+145,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,18, Agosto ,2013,16:00,Ponte Preta - SP,Goiás - GO,0,1,0,1,0,0,3
+146,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,17, Agosto ,2013,18:30,Náutico - PE,Fluminense - RJ,0,1,0,1,0,0,3
+147,A,2013,Mineirão,Belo Horizonte,MG,Sábado,17, Agosto ,2013,18:30,Cruzeiro - MG,Vitória - BA,5,1,1,0,0,3,0
+148,A,2013,Durival Britto,Curitiba,PR,Domingo,18, Agosto ,2013,18:30,Atlético Paranaense - PR,Criciuma - SC,2,1,1,0,0,3,0
+149,A,2013,Canindé,Sao Paulo,SP,Domingo,18, Agosto ,2013,16:00,Portuguesa - SP,Botafogo - RJ,1,3,0,1,0,0,3
+150,A,2013,Mané Garrincha,Brasilia,DF,Domingo,25, Agosto ,2013,16:00,Vasco da Gama - RJ,Corinthians - SP,1,1,0,0,1,1,1
+151,A,2013,Mané Garrincha,Brasilia,DF,Sábado,24, Agosto ,2013,18:30,Flamengo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+152,A,2013,Morumbi,Sao Paulo,SP,Domingo,25, Agosto ,2013,16:00,São Paulo - SP,Fluminense - RJ,2,1,1,0,0,3,0
+153,A,2013,Fonte Nova,Salvador,BA,Domingo,25, Agosto ,2013,16:00,Bahia - BA,Náutico - PE,2,0,1,0,0,3,0
+154,A,2013,Estádio do Vale,Novo Hamburgo,RS,Domingo,25, Agosto ,2013,18:30,Internacional - RS,Goiás - GO,3,3,0,0,1,1,1
+155,A,2013,Moisés Lucarelli,Campinas,SP,Sábado,24, Agosto ,2013,18:30,Ponte Preta - SP,Cruzeiro - MG,0,2,0,1,0,0,3
+156,A,2013,Heriberto Hulse,Criciuma,SC,Sábado,24, Agosto ,2013,21:00,Criciuma - SC,Coritiba - PR,2,1,1,0,0,3,0
+157,A,2013,Independência,Belo Horizonte,MG,Domingo,25, Agosto ,2013,16:00,Atlético - MG,Portuguesa - SP,2,1,1,0,0,3,0
+158,A,2013,Durival Britto,Curitiba,PR,Domingo,25, Agosto ,2013,18:30,Atlético Paranaense - PR,Botafogo - RJ,2,0,1,0,0,3,0
+159,A,2013,Vila Belmiro,Santos,SP,Sábado,24, Agosto ,2013,18:30,Santos - SP,Vitória - BA,2,0,1,0,0,3,0
+160,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,1, Setembro ,2013,16:00,Botafogo - RJ,São Paulo - SP,0,0,0,0,1,1,1
+161,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,31, Agosto ,2013,21:00,Fluminense - RJ,Santos - SP,0,2,0,1,0,0,3
+162,A,2013,Pacaembu,Sao Paulo,SP,Domingo,1, Setembro ,2013,16:00,Corinthians - SP,Flamengo - RJ,4,0,1,0,0,3,0
+163,A,2013,Manoel Barradas,Salvador,BA,Domingo,1, Setembro ,2013,16:00,Vitória - BA,Criciuma - SC,0,1,0,1,0,0,3
+164,A,2013,Arena do Grêmio,Porto Alegre,RS,Sábado,31, Agosto ,2013,18:30,Grêmio - RS,Ponte Preta - SP,1,0,1,0,0,3,0
+165,A,2013,Serra Dourada,Goiania,GO,Sábado,31, Agosto ,2013,18:30,Goiás - GO,Atlético - MG,0,0,0,0,1,1,1
+166,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,31, Agosto ,2013,18:30,Náutico - PE,Atlético Paranaense - PR,1,4,0,1,0,0,3
+167,A,2013,Mineirão,Belo Horizonte,MG,Domingo,1, Setembro ,2013,18:30,Cruzeiro - MG,Vasco da Gama - RJ,5,3,1,0,0,3,0
+168,A,2013,Couto Pereira,Curitiba,PR,Domingo,1, Setembro ,2013,16:00,Coritiba - PR,Internacional - RS,0,0,0,0,1,1,1
+169,A,2013,Canindé,Sao Paulo,SP,Sábado,31, Agosto ,2013,18:30,Portuguesa - SP,Bahia - BA,4,2,1,0,0,3,0
+170,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,5, Setembro ,2013,19:30,Botafogo - RJ,Coritiba - PR,3,1,1,0,0,3,0
+171,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,4, Setembro ,2013,19:30,Flamengo - RJ,Vitória - BA,2,1,1,0,0,3,0
+172,A,2013,Morumbi,Sao Paulo,SP,Quinta,5, Setembro ,2013,21:00,São Paulo - SP,Criciuma - SC,1,2,0,1,0,0,3
+173,A,2013,Fonte Nova,Salvador,BA,Quarta,4, Setembro ,2013,21:50,Bahia - BA,Cruzeiro - MG,1,3,0,1,0,0,3
+174,A,2013,Estádio do Vale,Novo Hamburgo,RS,Quarta,4, Setembro ,2013,21:50,Internacional - RS,Corinthians - SP,1,0,1,0,0,3,0
+175,A,2013,Serra Dourada,Goiania,GO,Terça,3, Setembro ,2013,19:30,Goiás - GO,Grêmio - RS,2,0,1,0,0,3,0
+176,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Quinta,5, Setembro ,2013,21:00,Náutico - PE,Vasco da Gama - RJ,0,3,0,1,0,0,3
+177,A,2013,Independência,Belo Horizonte,MG,Quarta,4, Setembro ,2013,21:50,Atlético - MG,Fluminense - RJ,2,2,0,0,1,1,1
+178,A,2013,Durival Britto,Curitiba,PR,Quarta,4, Setembro ,2013,19:30,Atlético Paranaense - PR,Santos - SP,2,1,1,0,0,3,0
+179,A,2013,Canindé,Sao Paulo,SP,Quarta,4, Setembro ,2013,21:00,Portuguesa - SP,Ponte Preta - SP,2,1,1,0,0,3,0
+180,A,2013,São Januário,Rio de Janeiro,RJ,Domingo,8, Setembro ,2013,18:30,Vasco da Gama - RJ,Atlético Paranaense - PR,0,0,0,0,1,1,1
+181,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,7, Setembro ,2013,18:30,Fluminense - RJ,Bahia - BA,1,0,1,0,0,3,0
+182,A,2013,Pacaembu,Sao Paulo,SP,Domingo,8, Setembro ,2013,16:00,Corinthians - SP,Náutico - PE,0,0,0,0,1,1,1
+183,A,2013,Manoel Barradas,Salvador,BA,Sábado,7, Setembro ,2013,18:30,Vitória - BA,Atlético - MG,1,1,0,0,1,1,1
+184,A,2013,Arena do Grêmio,Porto Alegre,RS,Sábado,7, Setembro ,2013,21:00,Grêmio - RS,Portuguesa - SP,3,2,1,0,0,3,0
+185,A,2013,Moisés Lucarelli,Campinas,SP,Sábado,7, Setembro ,2013,18:30,Ponte Preta - SP,Internacional - RS,1,3,0,1,0,0,3
+186,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,8, Setembro ,2013,18:30,Criciuma - SC,Botafogo - RJ,1,2,0,1,0,0,3
+187,A,2013,Mineirão,Belo Horizonte,MG,Domingo,8, Setembro ,2013,16:00,Cruzeiro - MG,Flamengo - RJ,1,0,1,0,0,3,0
+188,A,2013,Couto Pereira,Curitiba,PR,Domingo,8, Setembro ,2013,16:00,Coritiba - PR,São Paulo - SP,2,0,1,0,0,3,0
+189,A,2013,Vila Belmiro,Santos,SP,Sábado,7, Setembro ,2013,18:30,Santos - SP,Goiás - GO,1,0,1,0,0,3,0
+190,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,11, Setembro ,2013,21:50,Botafogo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+191,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,12, Setembro ,2013,21:00,Flamengo - RJ,Santos - SP,2,1,1,0,0,3,0
+192,A,2013,Morumbi,Sao Paulo,SP,Quinta,12, Setembro ,2013,21:00,São Paulo - SP,Ponte Preta - SP,1,0,1,0,0,3,0
+193,A,2013,Fonte Nova,Salvador,BA,Quarta,11, Setembro ,2013,21:00,Bahia - BA,Criciuma - SC,2,2,0,0,1,1,1
+194,A,2013,Estádio do Vale,Novo Hamburgo,RS,Quinta,12, Setembro ,2013,19:30,Internacional - RS,Vitória - BA,2,2,0,0,1,1,1
+195,A,2013,Serra Dourada,Goiania,GO,Quarta,11, Setembro ,2013,21:00,Goiás - GO,Cruzeiro - MG,1,2,0,1,0,0,3
+196,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Quarta,11, Setembro ,2013,21:50,Náutico - PE,Grêmio - RS,0,2,0,1,0,0,3
+197,A,2013,Independência,Belo Horizonte,MG,Quinta,12, Setembro ,2013,21:00,Atlético - MG,Coritiba - PR,3,0,1,0,0,3,0
+198,A,2013,Durival Britto,Curitiba,PR,Quarta,11, Setembro ,2013,19:30,Atlético Paranaense - PR,Fluminense - RJ,1,1,0,0,1,1,1
+199,A,2013,Canindé,Sao Paulo,SP,Quarta,11, Setembro ,2013,21:50,Portuguesa - SP,Vasco da Gama - RJ,2,0,1,0,0,3,0
+200,A,2013,São Januário,Rio de Janeiro,RJ,Domingo,15, Setembro ,2013,16:00,Vasco da Gama - RJ,São Paulo - SP,0,2,0,1,0,0,3
+201,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,14, Setembro ,2013,21:00,Fluminense - RJ,Portuguesa - SP,2,1,1,0,0,3,0
+202,A,2013,Pacaembu,Sao Paulo,SP,Domingo,15, Setembro ,2013,16:00,Corinthians - SP,Goiás - GO,1,2,0,1,0,0,3
+203,A,2013,Manoel Barradas,Salvador,BA,Domingo,15, Setembro ,2013,18:30,Vitória - BA,Náutico - PE,2,1,1,0,0,3,0
+204,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,15, Setembro ,2013,18:30,Grêmio - RS,Atlético - MG,0,1,0,1,0,0,3
+205,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,15, Setembro ,2013,16:00,Ponte Preta - SP,Flamengo - RJ,1,1,0,0,1,1,1
+206,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,15, Setembro ,2013,16:00,Criciuma - SC,Internacional - RS,0,1,0,1,0,0,3
+207,A,2013,Mineirão,Belo Horizonte,MG,Sábado,14, Setembro ,2013,18:30,Cruzeiro - MG,Atlético Paranaense - PR,1,0,1,0,0,3,0
+208,A,2013,Couto Pereira,Curitiba,PR,Domingo,15, Setembro ,2013,16:00,Coritiba - PR,Bahia - BA,2,2,0,0,1,1,1
+209,A,2013,Vila Belmiro,Santos,SP,Domingo,15, Setembro ,2013,18:30,Santos - SP,Botafogo - RJ,1,2,0,1,0,0,3
+210,A,2013,São Januário,Rio de Janeiro,RJ,Quarta,18, Setembro ,2013,19:30,Vasco da Gama - RJ,Vitória - BA,1,2,0,1,0,0,3
+211,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,19, Setembro ,2013,19:30,Flamengo - RJ,Atlético Paranaense - PR,2,4,0,1,0,0,3
+212,A,2013,Morumbi,Sao Paulo,SP,Quarta,18, Setembro ,2013,21:50,São Paulo - SP,Atlético - MG,1,0,1,0,0,3,0
+213,A,2013,Fonte Nova,Salvador,BA,Quinta,19, Setembro ,2013,21:00,Bahia - BA,Internacional - RS,2,0,1,0,0,3,0
+214,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,18, Setembro ,2013,19:30,Grêmio - RS,Santos - SP,1,1,0,0,1,1,1
+215,A,2013,Moisés Lucarelli,Campinas,SP,Quarta,18, Setembro ,2013,21:50,Ponte Preta - SP,Corinthians - SP,2,0,1,0,0,3,0
+216,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,18, Setembro ,2013,21:00,Criciuma - SC,Fluminense - RJ,1,2,0,1,0,0,3
+217,A,2013,Mineirão,Belo Horizonte,MG,Quarta,18, Setembro ,2013,21:50,Cruzeiro - MG,Botafogo - RJ,3,0,1,0,0,3,0
+218,A,2013,Couto Pereira,Curitiba,PR,Quarta,18, Setembro ,2013,21:00,Coritiba - PR,Goiás - GO,2,2,0,0,1,1,1
+219,A,2013,Canindé,Sao Paulo,SP,Quinta,19, Setembro ,2013,21:00,Portuguesa - SP,Náutico - PE,3,0,1,0,0,3,0
+220,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,22, Setembro ,2013,16:00,Botafogo - RJ,Bahia - BA,1,2,0,1,0,0,3
+221,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,21, Setembro ,2013,18:30,Fluminense - RJ,Coritiba - PR,1,1,0,0,1,1,1
+222,A,2013,Pacaembu,Sao Paulo,SP,Domingo,22, Setembro ,2013,16:00,Corinthians - SP,Cruzeiro - MG,0,0,0,0,1,1,1
+223,A,2013,Manoel Barradas,Salvador,BA,Sábado,21, Setembro ,2013,21:00,Vitória - BA,Grêmio - RS,0,0,0,0,1,1,1
+224,A,2013,Estádio do Vale,Novo Hamburgo,RS,Domingo,22, Setembro ,2013,16:00,Internacional - RS,Portuguesa - SP,0,1,0,1,0,0,3
+225,A,2013,Serra Dourada,Goiania,GO,Domingo,22, Setembro ,2013,16:00,Goiás - GO,São Paulo - SP,1,0,1,0,0,3,0
+226,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,22, Setembro ,2013,16:00,Náutico - PE,Flamengo - RJ,0,0,0,0,1,1,1
+227,A,2013,Independência,Belo Horizonte,MG,Domingo,22, Setembro ,2013,18:30,Atlético - MG,Vasco da Gama - RJ,2,1,1,0,0,3,0
+228,A,2013,Durival Britto,Curitiba,PR,Domingo,22, Setembro ,2013,18:30,Atlético Paranaense - PR,Ponte Preta - SP,1,0,1,0,0,3,0
+229,A,2013,Vila Belmiro,Santos,SP,Domingo,22, Setembro ,2013,18:30,Santos - SP,Criciuma - SC,2,1,1,0,0,3,0
+230,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,28, Setembro ,2013,21:00,Botafogo - RJ,Ponte Preta - SP,0,1,0,1,0,0,3
+231,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,29, Setembro ,2013,16:00,Flamengo - RJ,Criciuma - SC,4,1,1,0,0,3,0
+232,A,2013,Morumbi,Sao Paulo,SP,Domingo,29, Setembro ,2013,16:00,São Paulo - SP,Grêmio - RS,0,1,0,1,0,0,3
+233,A,2013,Fonte Nova,Salvador,BA,Domingo,29, Setembro ,2013,16:00,Bahia - BA,Vasco da Gama - RJ,0,0,0,0,1,1,1
+234,A,2013,Estádio do Vale,Novo Hamburgo,RS,Domingo,29, Setembro ,2013,18:30,Internacional - RS,Cruzeiro - MG,1,2,0,1,0,0,3
+235,A,2013,Serra Dourada,Goiania,GO,Sábado,28, Setembro ,2013,18:30,Goiás - GO,Fluminense - RJ,1,2,0,1,0,0,3
+236,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,28, Setembro ,2013,18:30,Náutico - PE,Coritiba - PR,3,0,1,0,0,3,0
+237,A,2013,Independência,Belo Horizonte,MG,Domingo,29, Setembro ,2013,18:30,Atlético - MG,Santos - SP,3,1,1,0,0,3,0
+238,A,2013,Durival Britto,Curitiba,PR,Domingo,29, Setembro ,2013,18:30,Atlético Paranaense - PR,Vitória - BA,3,5,0,1,0,0,3
+239,A,2013,Morenão,Campo Grande,MS,Domingo,29, Setembro ,2013,16:00,Portuguesa - SP,Corinthians - SP,4,0,1,0,0,3,0
+240,A,2013,Cláudio Moacyr,Macae,RJ,Quinta,3, Outubro ,2013,21:00,Vasco da Gama - RJ,Internacional - RS,3,1,1,0,0,3,0
+241,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,2, Outubro ,2013,21:00,Fluminense - RJ,Botafogo - RJ,1,1,0,0,1,1,1
+242,A,2013,Romildão,Mogi Mirim,SP,Quarta,2, Outubro ,2013,21:50,Corinthians - SP,Bahia - BA,2,0,1,0,0,3,0
+243,A,2013,Fonte Nova,Salvador,BA,Quarta,2, Outubro ,2013,21:00,Vitória - BA,Goiás - GO,2,1,1,0,0,3,0
+244,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,2, Outubro ,2013,19:30,Grêmio - RS,Atlético Paranaense - PR,1,0,1,0,0,3,0
+245,A,2013,Moisés Lucarelli,Campinas,SP,Terça,1, Outubro ,2013,19:30,Ponte Preta - SP,Náutico - PE,1,2,0,1,0,0,3
+246,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,25, Setembro ,2013,19:30,Criciuma - SC,Atlético - MG,1,1,0,0,1,1,1
+247,A,2013,Mineirão,Belo Horizonte,MG,Quarta,2, Outubro ,2013,19:30,Cruzeiro - MG,Portuguesa - SP,4,0,1,0,0,3,0
+248,A,2013,Couto Pereira,Curitiba,PR,Quarta,2, Outubro ,2013,21:50,Coritiba - PR,Flamengo - RJ,0,2,0,1,0,0,3
+249,A,2013,Vila Belmiro,Santos,SP,Quarta,2, Outubro ,2013,21:50,Santos - SP,São Paulo - SP,3,0,1,0,0,3,0
+250,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,5, Outubro ,2013,18:30,Botafogo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+251,A,2013,Mané Garrincha,Brasilia,DF,Domingo,6, Outubro ,2013,16:00,Flamengo - RJ,Vasco da Gama - RJ,1,1,0,0,1,1,1
+252,A,2013,Morumbi,Sao Paulo,SP,Sábado,5, Outubro ,2013,21:00,São Paulo - SP,Vitória - BA,3,2,1,0,0,3,0
+253,A,2013,Fonte Nova,Salvador,BA,Domingo,6, Outubro ,2013,18:30,Bahia - BA,Ponte Preta - SP,1,1,0,0,1,1,1
+254,A,2013,Centenário,Caxias do Sul,RS,Domingo,6, Outubro ,2013,16:00,Internacional - RS,Fluminense - RJ,1,0,1,0,0,3,0
+255,A,2013,Serra Dourada,Goiania,GO,Domingo,6, Outubro ,2013,18:30,Goiás - GO,Criciuma - SC,1,1,0,0,1,1,1
+256,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,6, Outubro ,2013,16:00,Náutico - PE,Cruzeiro - MG,1,4,0,1,0,0,3
+257,A,2013,Independência,Belo Horizonte,MG,Domingo,6, Outubro ,2013,16:00,Atlético - MG,Corinthians - SP,0,0,0,0,1,1,1
+258,A,2013,Durival Britto,Curitiba,PR,Domingo,6, Outubro ,2013,16:00,Atlético Paranaense - PR,Coritiba - PR,2,1,1,0,0,3,0
+259,A,2013,Canindé,Sao Paulo,SP,Domingo,6, Outubro ,2013,18:30,Portuguesa - SP,Santos - SP,3,0,1,0,0,3,0
+260,A,2013,Ressacada,Florianopolis,SC,Quarta,9, Outubro ,2013,21:50,Vasco da Gama - RJ,Fluminense - RJ,1,0,1,0,0,3,0
+261,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,10, Outubro ,2013,21:00,Flamengo - RJ,Internacional - RS,2,1,1,0,0,3,0
+262,A,2013,Romildão,Mogi Mirim,SP,Quarta,9, Outubro ,2013,21:50,Corinthians - SP,Atlético Paranaense - PR,0,0,0,0,1,1,1
+263,A,2013,Fonte Nova,Salvador,BA,Quarta,9, Outubro ,2013,21:00,Bahia - BA,Vitória - BA,2,0,1,0,0,3,0
+264,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,9, Outubro ,2013,19:30,Grêmio - RS,Criciuma - SC,1,2,0,1,0,0,3
+265,A,2013,Moisés Lucarelli,Campinas,SP,Quarta,9, Outubro ,2013,21:00,Ponte Preta - SP,Atlético - MG,2,0,1,0,0,3,0
+266,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Quarta,9, Outubro ,2013,21:50,Náutico - PE,Botafogo - RJ,1,3,0,1,0,0,3
+267,A,2013,Mineirão,Belo Horizonte,MG,Quarta,9, Outubro ,2013,21:50,Cruzeiro - MG,São Paulo - SP,0,2,0,1,0,0,3
+268,A,2013,Couto Pereira,Curitiba,PR,Quarta,9, Outubro ,2013,19:30,Coritiba - PR,Santos - SP,1,0,1,0,0,3,0
+269,A,2013,Canindé,Sao Paulo,SP,Quinta,10, Outubro ,2013,19:30,Portuguesa - SP,Goiás - GO,1,2,0,1,0,0,3
+270,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,13, Outubro ,2013,18:30,Botafogo - RJ,Flamengo - RJ,2,1,1,0,0,3,0
+271,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,12, Outubro ,2013,18:30,Fluminense - RJ,Grêmio - RS,1,1,0,0,1,1,1
+272,A,2013,Morumbi,Sao Paulo,SP,Domingo,13, Outubro ,2013,16:00,São Paulo - SP,Corinthians - SP,0,0,0,0,1,1,1
+273,A,2013,Manoel Barradas,Salvador,BA,Sábado,12, Outubro ,2013,18:30,Vitória - BA,Coritiba - PR,2,1,1,0,0,3,0
+274,A,2013,Centenário,Caxias do Sul,RS,Domingo,13, Outubro ,2013,16:00,Internacional - RS,Náutico - PE,4,1,1,0,0,3,0
+275,A,2013,Serra Dourada,Goiania,GO,Domingo,13, Outubro ,2013,18:30,Goiás - GO,Bahia - BA,3,1,1,0,0,3,0
+276,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,13, Outubro ,2013,16:00,Criciuma - SC,Vasco da Gama - RJ,3,2,1,0,0,3,0
+277,A,2013,Independência,Belo Horizonte,MG,Domingo,13, Outubro ,2013,16:00,Atlético - MG,Cruzeiro - MG,1,0,1,0,0,3,0
+278,A,2013,Durival Britto,Curitiba,PR,Domingo,13, Outubro ,2013,18:30,Atlético Paranaense - PR,Portuguesa - SP,1,0,1,0,0,3,0
+279,A,2013,Pacaembu,Sao Paulo,SP,Sábado,12, Outubro ,2013,21:00,Santos - SP,Ponte Preta - SP,2,1,1,0,0,3,0
+280,A,2013,Cláudio Moacyr,Macae,RJ,Quinta,17, Outubro ,2013,19:30,Vasco da Gama - RJ,Goiás - GO,0,2,0,1,0,0,3
+281,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,16, Outubro ,2013,21:50,Flamengo - RJ,Bahia - BA,2,1,1,0,0,3,0
+282,A,2013,Morumbi,Sao Paulo,SP,Quarta,16, Outubro ,2013,21:00,São Paulo - SP,Náutico - PE,3,0,1,0,0,3,0
+283,A,2013,Manoel Barradas,Salvador,BA,Quinta,17, Outubro ,2013,21:00,Vitória - BA,Botafogo - RJ,1,0,1,0,0,3,0
+284,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,16, Outubro ,2013,21:50,Grêmio - RS,Corinthians - SP,1,0,1,0,0,3,0
+285,A,2013,Moisés Lucarelli,Campinas,SP,Quarta,16, Outubro ,2013,21:00,Ponte Preta - SP,Coritiba - PR,1,0,1,0,0,3,0
+286,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,16, Outubro ,2013,21:00,Criciuma - SC,Portuguesa - SP,1,3,0,1,0,0,3
+287,A,2013,Mineirão,Belo Horizonte,MG,Quarta,16, Outubro ,2013,19:30,Cruzeiro - MG,Fluminense - RJ,1,0,1,0,0,3,0
+288,A,2013,Durival Britto,Curitiba,PR,Quarta,16, Outubro ,2013,21:50,Atlético Paranaense - PR,Atlético - MG,1,0,1,0,0,3,0
+289,A,2013,Vila Belmiro,Santos,SP,Quarta,16, Outubro ,2013,19:30,Santos - SP,Internacional - RS,0,0,0,0,1,1,1
+290,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,20, Outubro ,2013,18:30,Botafogo - RJ,Vasco da Gama - RJ,2,2,0,0,1,1,1
+291,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,19, Outubro ,2013,16:00,Fluminense - RJ,Ponte Preta - SP,1,1,0,0,1,1,1
+292,A,2013,Novelli Junior,Itu,SP,Sábado,19, Outubro ,2013,21:00,Corinthians - SP,Criciuma - SC,1,0,1,0,0,3,0
+293,A,2013,Fonte Nova,Salvador,BA,Domingo,20, Outubro ,2013,16:00,Bahia - BA,São Paulo - SP,0,1,0,1,0,0,3
+294,A,2013,Centenário,Caxias do Sul,RS,Domingo,20, Outubro ,2013,16:00,Internacional - RS,Grêmio - RS,2,2,0,0,1,1,1
+295,A,2013,Serra Dourada,Goiania,GO,Domingo,20, Outubro ,2013,16:00,Goiás - GO,Atlético Paranaense - PR,3,0,1,0,0,3,0
+296,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,19, Outubro ,2013,18:30,Náutico - PE,Santos - SP,1,5,0,1,0,0,3
+297,A,2013,Independência,Belo Horizonte,MG,Domingo,20, Outubro ,2013,16:00,Atlético - MG,Flamengo - RJ,1,0,1,0,0,3,0
+298,A,2013,Couto Pereira,Curitiba,PR,Domingo,20, Outubro ,2013,18:30,Coritiba - PR,Cruzeiro - MG,2,1,1,0,0,3,0
+299,A,2013,Canindé,Sao Paulo,SP,Domingo,20, Outubro ,2013,18:30,Portuguesa - SP,Vitória - BA,1,1,0,0,1,1,1
+300,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,26, Outubro ,2013,18:30,Botafogo - RJ,Atlético - MG,1,0,1,0,0,3,0
+301,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,27, Outubro ,2013,18:30,Fluminense - RJ,Vitória - BA,2,3,0,1,0,0,3
+302,A,2013,Fonte Luminosa,Araraquara,SP,Domingo,27, Outubro ,2013,16:00,Corinthians - SP,Santos - SP,1,1,0,0,1,1,1
+303,A,2013,Fonte Nova,Salvador,BA,Domingo,27, Outubro ,2013,16:00,Bahia - BA,Atlético Paranaense - PR,1,1,0,0,1,1,1
+304,A,2013,Centenário,Caxias do Sul,RS,Domingo,27, Outubro ,2013,16:00,Internacional - RS,São Paulo - SP,2,3,0,1,0,0,3
+305,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,27, Outubro ,2013,16:00,Ponte Preta - SP,Vasco da Gama - RJ,2,1,1,0,0,3,0
+306,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,27, Outubro ,2013,18:30,Náutico - PE,Goiás - GO,0,2,0,1,0,0,3
+307,A,2013,Mineirão,Belo Horizonte,MG,Sábado,26, Outubro ,2013,18:30,Cruzeiro - MG,Criciuma - SC,5,3,1,0,0,3,0
+308,A,2013,Couto Pereira,Curitiba,PR,Domingo,27, Outubro ,2013,18:30,Coritiba - PR,Grêmio - RS,4,0,1,0,0,3,0
+309,A,2013,Castelão,Fortaleza,CE,Domingo,27, Outubro ,2013,16:00,Portuguesa - SP,Flamengo - RJ,0,0,0,0,1,1,1
+310,A,2013,Cláudio Moacyr,Macae,RJ,Sábado,2, Novembro ,2013,19:30,Vasco da Gama - RJ,Coritiba - PR,2,1,1,0,0,3,0
+311,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,3, Novembro ,2013,19:30,Flamengo - RJ,Fluminense - RJ,1,0,1,0,0,3,0
+312,A,2013,Morumbi,Sao Paulo,SP,Sábado,2, Novembro ,2013,19:30,São Paulo - SP,Portuguesa - SP,2,1,1,0,0,3,0
+313,A,2013,Manoel Barradas,Salvador,BA,Domingo,3, Novembro ,2013,17:00,Vitória - BA,Corinthians - SP,1,1,0,0,1,1,1
+314,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,3, Novembro ,2013,17:00,Grêmio - RS,Bahia - BA,0,0,0,0,1,1,1
+315,A,2013,Serra Dourada,Goiania,GO,Domingo,3, Novembro ,2013,17:00,Goiás - GO,Botafogo - RJ,1,0,1,0,0,3,0
+316,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,3, Novembro ,2013,19:30,Criciuma - SC,Ponte Preta - SP,1,1,0,0,1,1,1
+317,A,2013,Independência,Belo Horizonte,MG,Sábado,2, Novembro ,2013,21:00,Atlético - MG,Náutico - PE,5,0,1,0,0,3,0
+318,A,2013,Durival Britto,Curitiba,PR,Domingo,3, Novembro ,2013,19:30,Atlético Paranaense - PR,Internacional - RS,1,0,1,0,0,3,0
+319,A,2013,Vila Belmiro,Santos,SP,Domingo,3, Novembro ,2013,17:00,Santos - SP,Cruzeiro - MG,0,1,0,1,0,0,3
+320,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,10, Novembro ,2013,19:30,Vasco da Gama - RJ,Santos - SP,2,2,0,0,1,1,1
+321,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,9, Novembro ,2013,21:00,Flamengo - RJ,Goiás - GO,1,1,0,0,1,1,1
+322,A,2013,Fonte Luminosa,Araraquara,SP,Domingo,10, Novembro ,2013,19:30,Corinthians - SP,Fluminense - RJ,1,0,1,0,0,3,0
+323,A,2013,Fonte Nova,Salvador,BA,Sábado,9, Novembro ,2013,19:30,Bahia - BA,Atlético - MG,0,0,0,0,1,1,1
+324,A,2013,Centenário,Caxias do Sul,RS,Domingo,10, Novembro ,2013,17:00,Internacional - RS,Botafogo - RJ,2,1,1,0,0,3,0
+325,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,10, Novembro ,2013,17:00,Ponte Preta - SP,Vitória - BA,0,3,0,1,0,0,3
+326,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,10, Novembro ,2013,19:30,Náutico - PE,Criciuma - SC,0,1,0,1,0,0,3
+327,A,2013,Mineirão,Belo Horizonte,MG,Domingo,10, Novembro ,2013,17:00,Cruzeiro - MG,Grêmio - RS,3,0,1,0,0,3,0
+328,A,2013,Durival Britto,Curitiba,PR,Domingo,10, Novembro ,2013,17:00,Atlético Paranaense - PR,São Paulo - SP,3,0,1,0,0,3,0
+329,A,2013,Canindé,Sao Paulo,SP,Sábado,9, Novembro ,2013,19:30,Portuguesa - SP,Coritiba - PR,0,0,0,0,1,1,1
+330,A,2013,Maracanã,Rio de Janeiro,RJ,Quarta,13, Novembro ,2013,21:00,Botafogo - RJ,Portuguesa - SP,0,0,0,0,1,1,1
+331,A,2013,Maracanã,Rio de Janeiro,RJ,Quinta,14, Novembro ,2013,21:00,Fluminense - RJ,Náutico - PE,2,0,1,0,0,3,0
+332,A,2013,Novelli Junior,Itu,SP,Quarta,13, Novembro ,2013,21:50,São Paulo - SP,Flamengo - RJ,2,0,1,0,0,3,0
+333,A,2013,Manoel Barradas,Salvador,BA,Quarta,13, Novembro ,2013,21:50,Vitória - BA,Cruzeiro - MG,1,3,0,1,0,0,3
+334,A,2013,Arena do Grêmio,Porto Alegre,RS,Quarta,13, Novembro ,2013,19:30,Grêmio - RS,Vasco da Gama - RJ,1,0,1,0,0,3,0
+335,A,2013,Serra Dourada,Goiania,GO,Quarta,13, Novembro ,2013,19:30,Goiás - GO,Ponte Preta - SP,2,0,1,0,0,3,0
+336,A,2013,Heriberto Hulse,Criciuma,SC,Quarta,13, Novembro ,2013,21:00,Criciuma - SC,Atlético Paranaense - PR,2,1,1,0,0,3,0
+337,A,2013,Independência,Belo Horizonte,MG,Quinta,14, Novembro ,2013,21:00,Atlético - MG,Internacional - RS,2,1,1,0,0,3,0
+338,A,2013,Couto Pereira,Curitiba,PR,Quarta,13, Novembro ,2013,21:50,Coritiba - PR,Corinthians - SP,0,1,0,1,0,0,3
+339,A,2013,Pacaembu,Sao Paulo,SP,Quinta,14, Novembro ,2013,19:30,Santos - SP,Bahia - BA,3,0,1,0,0,3,0
+340,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,16, Novembro ,2013,19:30,Botafogo - RJ,Atlético Paranaense - PR,4,0,1,0,0,3,0
+341,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,17, Novembro ,2013,17:00,Fluminense - RJ,São Paulo - SP,2,1,1,0,0,3,0
+342,A,2013,Pacaembu,Sao Paulo,SP,Domingo,17, Novembro ,2013,17:00,Corinthians - SP,Vasco da Gama - RJ,0,0,0,0,1,1,1
+343,A,2013,Manoel Barradas,Salvador,BA,Domingo,17, Novembro ,2013,17:00,Vitória - BA,Santos - SP,2,0,1,0,0,3,0
+344,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,17, Novembro ,2013,19:30,Grêmio - RS,Flamengo - RJ,2,1,1,0,0,3,0
+345,A,2013,Serra Dourada,Goiania,GO,Domingo,17, Novembro ,2013,19:30,Goiás - GO,Internacional - RS,3,1,1,0,0,3,0
+346,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,17, Novembro ,2013,19:30,Náutico - PE,Bahia - BA,0,1,0,1,0,0,3
+347,A,2013,João Havelange,Uberlandia,MG,Domingo,17, Novembro ,2013,17:00,Cruzeiro - MG,Ponte Preta - SP,2,2,0,0,1,1,1
+348,A,2013,Couto Pereira,Curitiba,PR,Sábado,16, Novembro ,2013,21:00,Coritiba - PR,Criciuma - SC,1,2,0,1,0,0,3
+349,A,2013,Canindé,Sao Paulo,SP,Domingo,17, Novembro ,2013,19:30,Portuguesa - SP,Atlético - MG,2,0,1,0,0,3,0
+350,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,23, Novembro ,2013,19:30,Vasco da Gama - RJ,Cruzeiro - MG,2,1,1,0,0,3,0
+351,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,24, Novembro ,2013,17:00,Flamengo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+352,A,2013,Morumbi,Sao Paulo,SP,Domingo,24, Novembro ,2013,19:30,São Paulo - SP,Botafogo - RJ,1,1,0,0,1,1,1
+353,A,2013,Fonte Nova,Salvador,BA,Domingo,24, Novembro ,2013,19:30,Bahia - BA,Portuguesa - SP,1,0,1,0,0,3,0
+354,A,2013,Centenário,Caxias do Sul,RS,Domingo,24, Novembro ,2013,19:30,Internacional - RS,Coritiba - PR,0,0,0,0,1,1,1
+355,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,24, Novembro ,2013,17:00,Ponte Preta - SP,Grêmio - RS,1,1,0,0,1,1,1
+356,A,2013,Heriberto Hulse,Criciuma,SC,Sábado,23, Novembro ,2013,19:30,Criciuma - SC,Vitória - BA,1,1,0,0,1,1,1
+357,A,2013,Independência,Belo Horizonte,MG,Sábado,23, Novembro ,2013,21:00,Atlético - MG,Goiás - GO,4,1,1,0,0,3,0
+358,A,2013,Arena Joinville,Joinville,SC,Domingo,24, Novembro ,2013,17:00,Atlético Paranaense - PR,Náutico - PE,6,1,1,0,0,3,0
+359,A,2013,Paulo Constantino,Presidente Prudente,SP,Domingo,24, Novembro ,2013,17:00,Santos - SP,Fluminense - RJ,1,0,1,0,0,3,0
+360,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,1, Dezembro ,2013,17:00,Vasco da Gama - RJ,Náutico - PE,2,0,1,0,0,3,0
+361,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,30, Novembro ,2013,19:30,Fluminense - RJ,Atlético - MG,2,2,0,0,1,1,1
+362,A,2013,Pacaembu,Sao Paulo,SP,Sábado,30, Novembro ,2013,21:00,Corinthians - SP,Internacional - RS,0,0,0,0,1,1,1
+363,A,2013,Manoel Barradas,Salvador,BA,Domingo,1, Dezembro ,2013,17:00,Vitória - BA,Flamengo - RJ,4,2,1,0,0,3,0
+364,A,2013,Arena do Grêmio,Porto Alegre,RS,Domingo,1, Dezembro ,2013,19:30,Grêmio - RS,Goiás - GO,1,0,1,0,0,3,0
+365,A,2013,Moisés Lucarelli,Campinas,SP,Domingo,1, Dezembro ,2013,17:00,Ponte Preta - SP,Portuguesa - SP,0,2,0,1,0,0,3
+366,A,2013,Heriberto Hulse,Criciuma,SC,Domingo,1, Dezembro ,2013,17:00,Criciuma - SC,São Paulo - SP,1,0,1,0,0,3,0
+367,A,2013,Mineirão,Belo Horizonte,MG,Domingo,1, Dezembro ,2013,17:00,Cruzeiro - MG,Bahia - BA,1,2,0,1,0,0,3
+368,A,2013,Couto Pereira,Curitiba,PR,Domingo,1, Dezembro ,2013,17:00,Coritiba - PR,Botafogo - RJ,2,1,1,0,0,3,0
+369,A,2013,Benedito Teixeira,Sao Jose do Rio Preto,SP,Domingo,1, Dezembro ,2013,19:30,Santos - SP,Atlético Paranaense - PR,2,1,1,0,0,3,0
+370,A,2013,Maracanã,Rio de Janeiro,RJ,Domingo,8, Dezembro ,2013,17:00,Botafogo - RJ,Criciuma - SC,3,0,1,0,0,3,0
+371,A,2013,Maracanã,Rio de Janeiro,RJ,Sábado,7, Dezembro ,2013,19:00,Flamengo - RJ,Cruzeiro - MG,1,1,0,0,1,1,1
+372,A,2013,Novelli Junior,Itu,SP,Domingo,8, Dezembro ,2013,17:00,São Paulo - SP,Coritiba - PR,0,1,0,1,0,0,3
+373,A,2013,Fonte Nova,Salvador,BA,Domingo,8, Dezembro ,2013,17:00,Bahia - BA,Fluminense - RJ,1,2,0,1,0,0,3
+374,A,2013,Centenário,Caxias do Sul,RS,Domingo,8, Dezembro ,2013,17:00,Internacional - RS,Ponte Preta - SP,0,0,0,0,1,1,1
+375,A,2013,Serra Dourada,Goiania,GO,Domingo,8, Dezembro ,2013,17:00,Goiás - GO,Santos - SP,0,3,0,1,0,0,3
+376,A,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,7, Dezembro ,2013,19:30,Náutico - PE,Corinthians - SP,1,0,1,0,0,3,0
+377,A,2013,Independência,Belo Horizonte,MG,Domingo,8, Dezembro ,2013,17:00,Atlético - MG,Vitória - BA,2,2,0,0,1,1,1
+378,A,2013,Arena Joinville,Joinville,SC,Domingo,8, Dezembro ,2013,17:00,Atlético Paranaense - PR,Vasco da Gama - RJ,5,1,1,0,0,3,0
+379,A,2013,Canindé,Sao Paulo,SP,Domingo,8, Dezembro ,2013,17:00,Portuguesa - SP,Grêmio - RS,0,0,0,0,1,1,1

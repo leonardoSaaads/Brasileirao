@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,20, Maio ,2012,18:30,Vasco da Gama - RJ,Grêmio - RS,2,1,1,0,0,3,0
+1,A,2012,Pituaçu,Salvador,BA,Domingo,20, Maio ,2012,18:30,Bahia - BA,Santos - SP,0,0,0,0,1,1,1
+2,A,2012,Pacaembu,Sao Paulo,SP,Sábado,19, Maio ,2012,18:30,Palmeiras - SP,Portuguesa - SP,1,1,0,0,1,1,1
+3,A,2012,Orlando Scarpelli,Florianopolis,SC,Sábado,19, Maio ,2012,21:00,Figueirense - SC,Náutico - PE,2,1,1,0,0,3,0
+4,A,2012,Pacaembu,Sao Paulo,SP,Domingo,20, Maio ,2012,16:00,Corinthians - SP,Fluminense - RJ,0,1,0,1,0,0,3
+5,A,2012,Beira,Rio,Porto Alegre,Domingo,20, Maio ,2012,16:00,Internacional - RS,Coritiba - PR,2,0,1,0,0,3,0
+6,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,20, Maio ,2012,16:00,Botafogo - RJ,São Paulo - SP,4,2,1,0,0,3,0
+7,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,20, Maio ,2012,16:00,Ponte Preta - SP,Atlético - MG,0,1,0,1,0,0,3
+8,A,2012,João Havelange,Uberlandia,MG,Domingo,20, Maio ,2012,18:30,Cruzeiro - MG,Atlético - GO,0,0,0,0,1,1,1
+9,A,2012,Ilha do Retiro,Recife,PE,Sábado,19, Maio ,2012,18:30,Sport - PE,Flamengo - RJ,1,1,0,0,1,1,1
+10,A,2012,Serra Dourada,Goiania,GO,Sábado,26, Maio ,2012,18:30,Atlético - GO,Ponte Preta - SP,1,1,0,0,1,1,1
+11,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,26, Maio ,2012,18:30,Flamengo - RJ,Internacional - RS,3,3,0,0,1,1,1
+12,A,2012,Canindé,Sao Paulo,SP,Sábado,26, Maio ,2012,18:30,Portuguesa - SP,Vasco da Gama - RJ,0,1,0,1,0,0,3
+13,A,2012,Aflitos,Recife,PE,Sábado,26, Maio ,2012,21:00,Náutico - PE,Cruzeiro - MG,0,0,0,0,1,1,1
+14,A,2012,Morumbi,Sao Paulo,SP,Domingo,27, Maio ,2012,16:00,São Paulo - SP,Bahia - BA,1,0,1,0,0,3,0
+15,A,2012,Independência,Belo Horizonte,MG,Domingo,27, Maio ,2012,16:00,Atlético - MG,Corinthians - SP,1,0,1,0,0,3,0
+16,A,2012,Couto Pereira,Curitiba,PR,Domingo,27, Maio ,2012,16:00,Coritiba - PR,Botafogo - RJ,2,3,0,1,0,0,3
+17,A,2012,Vila Belmiro,Santos,SP,Domingo,27, Maio ,2012,16:00,Santos - SP,Sport - PE,0,0,0,0,1,1,1
+18,A,2012,Olímpico,Porto Alegre,RS,Domingo,27, Maio ,2012,18:30,Grêmio - RS,Palmeiras - SP,1,0,1,0,0,3,0
+19,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,27, Maio ,2012,18:30,Fluminense - RJ,Figueirense - SC,2,2,0,0,1,1,1
+20,A,2012,Serra Dourada,Goiania,GO,Quarta,6, Junho ,2012,19:30,Atlético - GO,Grêmio - RS,0,1,0,1,0,0,3
+21,A,2012,Ilha do Retiro,Recife,PE,Quarta,6, Junho ,2012,19:30,Sport - PE,Palmeiras - SP,2,1,1,0,0,3,0
+22,A,2012,São Januário,Rio de Janeiro,RJ,Quarta,6, Junho ,2012,20:30,Vasco da Gama - RJ,Náutico - PE,4,2,1,0,0,3,0
+23,A,2012,Independência,Belo Horizonte,MG,Quarta,6, Junho ,2012,20:30,Atlético - MG,Bahia - BA,1,1,0,0,1,1,1
+24,A,2012,Couto Pereira,Curitiba,PR,Quarta,6, Junho ,2012,20:30,Coritiba - PR,Portuguesa - SP,2,0,1,0,0,3,0
+25,A,2012,Beira,Rio,Porto Alegre,Quarta,6, Junho ,2012,21:50,Internacional - RS,São Paulo - SP,1,0,1,0,0,3,0
+26,A,2012,Vila Belmiro,Santos,SP,Quarta,6, Junho ,2012,21:50,Santos - SP,Fluminense - RJ,1,1,0,0,1,1,1
+27,A,2012,Moisés Lucarelli,Campinas,SP,Quarta,6, Junho ,2012,21:50,Ponte Preta - SP,Flamengo - RJ,2,2,0,0,1,1,1
+28,A,2012,Pacaembu,Sao Paulo,SP,Quinta,7, Junho ,2012,21:00,Corinthians - SP,Figueirense - SC,1,1,0,0,1,1,1
+29,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,7, Junho ,2012,21:00,Botafogo - RJ,Cruzeiro - MG,2,3,0,1,0,0,3
+30,A,2012,Canindé,Sao Paulo,SP,Domingo,10, Junho ,2012,16:00,Portuguesa - SP,Atlético - GO,2,0,1,0,0,3,0
+31,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,9, Junho ,2012,18:30,Flamengo - RJ,Coritiba - PR,3,1,1,0,0,3,0
+32,A,2012,Pacaembu,Sao Paulo,SP,Sábado,9, Junho ,2012,21:00,Palmeiras - SP,Atlético - MG,0,1,0,1,0,0,3
+33,A,2012,Olímpico,Porto Alegre,RS,Domingo,10, Junho ,2012,17:00,Grêmio - RS,Corinthians - SP,2,0,1,0,0,3,0
+34,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,10, Junho ,2012,17:00,Fluminense - RJ,Internacional - RS,0,0,0,0,1,1,1
+35,A,2012,Pituaçu,Salvador,BA,Domingo,10, Junho ,2012,17:00,Bahia - BA,Vasco da Gama - RJ,1,2,0,1,0,0,3
+36,A,2012,Morumbi,Sao Paulo,SP,Domingo,10, Junho ,2012,18:30,São Paulo - SP,Santos - SP,1,0,1,0,0,3,0
+37,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,10, Junho ,2012,18:30,Figueirense - SC,Ponte Preta - SP,0,0,0,0,1,1,1
+38,A,2012,Dilzon Melo,Varginha,MG,Domingo,10, Junho ,2012,18:30,Cruzeiro - MG,Sport - PE,1,0,1,0,0,3,0
+39,A,2012,Aflitos,Recife,PE,Domingo,10, Junho ,2012,18:30,Náutico - PE,Botafogo - RJ,3,2,1,0,0,3,0
+40,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,16, Junho ,2012,21:00,Fluminense - RJ,Portuguesa - SP,4,1,1,0,0,3,0
+41,A,2012,Morumbi,Sao Paulo,SP,Domingo,17, Junho ,2012,16:00,São Paulo - SP,Atlético - MG,1,0,1,0,0,3,0
+42,A,2012,Beira,Rio,Porto Alegre,Sábado,16, Junho ,2012,18:30,Internacional - RS,Botafogo - RJ,1,2,0,1,0,0,3
+43,A,2012,Independência,Belo Horizonte,MG,Sábado,16, Junho ,2012,18:30,Cruzeiro - MG,Figueirense - SC,1,0,1,0,0,3,0
+44,A,2012,Arena Barueri,Barueri,SP,Domingo,17, Junho ,2012,16:00,Palmeiras - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+45,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,17, Junho ,2012,18:30,Ponte Preta - SP,Corinthians - SP,1,0,1,0,0,3,0
+46,A,2012,Pituaçu,Salvador,BA,Domingo,17, Junho ,2012,16:00,Bahia - BA,Sport - PE,2,1,1,0,0,3,0
+47,A,2012,Couto Pereira,Curitiba,PR,Domingo,17, Junho ,2012,18:30,Coritiba - PR,Atlético - GO,3,0,1,0,0,3,0
+48,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,17, Junho ,2012,16:00,Flamengo - RJ,Santos - SP,1,0,1,0,0,3,0
+49,A,2012,Aflitos,Recife,PE,Domingo,17, Junho ,2012,18:30,Náutico - PE,Grêmio - RS,1,0,1,0,0,3,0
+50,A,2012,Independência,Belo Horizonte,MG,Sábado,23, Junho ,2012,21:00,Atlético - MG,Náutico - PE,5,1,1,0,0,3,0
+51,A,2012,São Januário,Rio de Janeiro,RJ,Sábado,23, Junho ,2012,18:30,Vasco da Gama - RJ,Cruzeiro - MG,1,3,0,1,0,0,3
+52,A,2012,Canindé,Sao Paulo,SP,Sábado,23, Junho ,2012,18:30,Portuguesa - SP,São Paulo - SP,1,0,1,0,0,3,0
+53,A,2012,Ilha do Retiro,Recife,PE,Domingo,24, Junho ,2012,18:30,Sport - PE,Internacional - RS,0,2,0,1,0,0,3
+54,A,2012,Pacaembu,Sao Paulo,SP,Domingo,24, Junho ,2012,16:00,Corinthians - SP,Palmeiras - SP,2,1,1,0,0,3,0
+55,A,2012,Olímpico,Porto Alegre,RS,Domingo,24, Junho ,2012,16:00,Grêmio - RS,Flamengo - RJ,2,0,1,0,0,3,0
+56,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,24, Junho ,2012,16:00,Figueirense - SC,Bahia - BA,1,1,0,0,1,1,1
+57,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,24, Junho ,2012,18:30,Botafogo - RJ,Ponte Preta - SP,1,2,0,1,0,0,3
+58,A,2012,Vila Belmiro,Santos,SP,Domingo,24, Junho ,2012,18:30,Santos - SP,Coritiba - PR,2,2,0,0,1,1,1
+59,A,2012,Serra Dourada,Goiania,GO,Domingo,24, Junho ,2012,18:30,Atlético - GO,Fluminense - RJ,1,4,0,1,0,0,3
+60,A,2012,Pacaembu,Sao Paulo,SP,Quarta,11, Julho ,2012,19:30,Corinthians - SP,Botafogo - RJ,1,3,0,1,0,0,3
+61,A,2012,Independência,Belo Horizonte,MG,Sábado,30, Junho ,2012,16:20,Cruzeiro - MG,São Paulo - SP,2,3,0,1,0,0,3
+62,A,2012,São Januário,Rio de Janeiro,RJ,Sábado,30, Junho ,2012,18:30,Vasco da Gama - RJ,Ponte Preta - SP,3,2,1,0,0,3,0
+63,A,2012,Aflitos,Recife,PE,Sábado,30, Junho ,2012,16:20,Náutico - PE,Fluminense - RJ,0,2,0,1,0,0,3
+64,A,2012,Couto Pereira,Curitiba,PR,Domingo,1, Julho ,2012,16:00,Coritiba - PR,Sport - PE,2,3,0,1,0,0,3
+65,A,2012,Canindé,Sao Paulo,SP,Domingo,1, Julho ,2012,16:00,Portuguesa - SP,Santos - SP,0,0,0,0,1,1,1
+66,A,2012,Pituaçu,Salvador,BA,Domingo,1, Julho ,2012,16:00,Bahia - BA,Internacional - RS,1,1,0,0,1,1,1
+67,A,2012,Olímpico,Porto Alegre,RS,Domingo,1, Julho ,2012,18:30,Grêmio - RS,Atlético - MG,0,1,0,1,0,0,3
+68,A,2012,Arena Barueri,Barueri,SP,Domingo,1, Julho ,2012,18:30,Palmeiras - SP,Figueirense - SC,3,1,1,0,0,3,0
+69,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,1, Julho ,2012,18:30,Flamengo - RJ,Atlético - GO,3,2,1,0,0,3,0
+70,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,7, Julho ,2012,18:30,Botafogo - RJ,Bahia - BA,3,0,1,0,0,3,0
+71,A,2012,Beira,Rio,Porto Alegre,Sábado,7, Julho ,2012,18:30,Internacional - RS,Cruzeiro - MG,2,1,1,0,0,3,0
+72,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,8, Julho ,2012,18:30,Ponte Preta - SP,Palmeiras - SP,1,0,1,0,0,3,0
+73,A,2012,Serra Dourada,Goiania,GO,Sábado,7, Julho ,2012,21:00,Atlético - GO,Náutico - PE,0,1,0,1,0,0,3
+74,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,8, Julho ,2012,16:00,Fluminense - RJ,Flamengo - RJ,1,0,1,0,0,3,0
+75,A,2012,Morumbi,Sao Paulo,SP,Domingo,8, Julho ,2012,16:00,São Paulo - SP,Coritiba - PR,3,1,1,0,0,3,0
+76,A,2012,Ilha do Retiro,Recife,PE,Domingo,8, Julho ,2012,18:30,Sport - PE,Corinthians - SP,1,1,0,0,1,1,1
+77,A,2012,Vila Belmiro,Santos,SP,Domingo,8, Julho ,2012,16:00,Santos - SP,Grêmio - RS,4,2,1,0,0,3,0
+78,A,2012,Independência,Belo Horizonte,MG,Domingo,8, Julho ,2012,18:30,Atlético - MG,Portuguesa - SP,2,0,1,0,0,3,0
+79,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,8, Julho ,2012,16:00,Figueirense - SC,Vasco da Gama - RJ,1,1,0,0,1,1,1
+80,A,2012,Orlando Scarpelli,Florianopolis,SC,Sábado,14, Julho ,2012,18:30,Figueirense - SC,Atlético - MG,3,4,0,1,0,0,3
+81,A,2012,Pacaembu,Sao Paulo,SP,Sábado,14, Julho ,2012,18:30,Corinthians - SP,Náutico - PE,2,1,1,0,0,3,0
+82,A,2012,Moisés Lucarelli,Campinas,SP,Sábado,14, Julho ,2012,21:00,Ponte Preta - SP,Coritiba - PR,4,1,1,0,0,3,0
+83,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,15, Julho ,2012,16:00,Botafogo - RJ,Fluminense - RJ,1,1,0,0,1,1,1
+84,A,2012,Beira,Rio,Porto Alegre,Domingo,15, Julho ,2012,16:00,Internacional - RS,Santos - SP,0,0,0,0,1,1,1
+85,A,2012,Independência,Belo Horizonte,MG,Domingo,15, Julho ,2012,16:00,Cruzeiro - MG,Grêmio - RS,1,3,0,1,0,0,3
+86,A,2012,Pituaçu,Salvador,BA,Domingo,15, Julho ,2012,16:00,Bahia - BA,Flamengo - RJ,1,2,0,1,0,0,3
+87,A,2012,Arena Barueri,Barueri,SP,Domingo,15, Julho ,2012,18:30,Palmeiras - SP,São Paulo - SP,1,1,0,0,1,1,1
+88,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,15, Julho ,2012,18:30,Vasco da Gama - RJ,Atlético - GO,1,0,1,0,0,3,0
+89,A,2012,Ilha do Retiro,Recife,PE,Domingo,15, Julho ,2012,18:30,Sport - PE,Portuguesa - SP,2,1,1,0,0,3,0
+90,A,2012,Vila Belmiro,Santos,SP,Quarta,18, Julho ,2012,19:30,Santos - SP,Botafogo - RJ,0,0,0,0,1,1,1
+91,A,2012,Olímpico,Porto Alegre,RS,Quarta,18, Julho ,2012,19:30,Grêmio - RS,Sport - PE,3,1,1,0,0,3,0
+92,A,2012,Canindé,Sao Paulo,SP,Quarta,18, Julho ,2012,20:30,Portuguesa - SP,Cruzeiro - MG,0,2,0,1,0,0,3
+93,A,2012,Aflitos,Recife,PE,Quarta,18, Julho ,2012,20:30,Náutico - PE,Ponte Preta - SP,3,0,1,0,0,3,0
+94,A,2012,Independência,Belo Horizonte,MG,Quarta,18, Julho ,2012,21:50,Atlético - MG,Internacional - RS,3,1,1,0,0,3,0
+95,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,18, Julho ,2012,21:50,Flamengo - RJ,Corinthians - SP,0,3,0,1,0,0,3
+96,A,2012,Morumbi,Sao Paulo,SP,Quarta,18, Julho ,2012,21:50,São Paulo - SP,Vasco da Gama - RJ,0,1,0,1,0,0,3
+97,A,2012,Serra Dourada,Goiania,GO,Quinta,19, Julho ,2012,21:00,Atlético - GO,Figueirense - SC,3,2,1,0,0,3,0
+98,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,19, Julho ,2012,21:00,Fluminense - RJ,Bahia - BA,4,0,1,0,0,3,0
+99,A,2012,Couto Pereira,Curitiba,PR,Quinta,19, Julho ,2012,21:00,Coritiba - PR,Palmeiras - SP,1,1,0,0,1,1,1
+100,A,2012,Ilha do Retiro,Recife,PE,Sábado,21, Julho ,2012,18:30,Sport - PE,Atlético - MG,1,4,0,1,0,0,3
+101,A,2012,São Januário,Rio de Janeiro,RJ,Sábado,21, Julho ,2012,18:30,Vasco da Gama - RJ,Santos - SP,2,0,1,0,0,3,0
+102,A,2012,Pacaembu,Sao Paulo,SP,Sábado,21, Julho ,2012,21:00,Corinthians - SP,Portuguesa - SP,1,1,0,0,1,1,1
+103,A,2012,Beira,Rio,Porto Alegre,Domingo,22, Julho ,2012,16:00,Internacional - RS,Atlético - GO,4,1,1,0,0,3,0
+104,A,2012,Independência,Belo Horizonte,MG,Domingo,22, Julho ,2012,16:00,Cruzeiro - MG,Flamengo - RJ,1,0,1,0,0,3,0
+105,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,22, Julho ,2012,16:00,Figueirense - SC,São Paulo - SP,0,2,0,1,0,0,3
+106,A,2012,Arena Barueri,Barueri,SP,Domingo,22, Julho ,2012,16:00,Palmeiras - SP,Náutico - PE,3,0,1,0,0,3,0
+107,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,22, Julho ,2012,18:30,Botafogo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+108,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,22, Julho ,2012,18:30,Ponte Preta - SP,Fluminense - RJ,1,2,0,1,0,0,3
+109,A,2012,Pituaçu,Salvador,BA,Domingo,22, Julho ,2012,18:30,Bahia - BA,Coritiba - PR,2,2,0,0,1,1,1
+110,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,25, Julho ,2012,19:30,Figueirense - SC,Internacional - RS,0,1,0,1,0,0,3
+111,A,2012,Moisés Lucarelli,Campinas,SP,Quarta,25, Julho ,2012,19:30,Ponte Preta - SP,Sport - PE,1,1,0,0,1,1,1
+112,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,25, Julho ,2012,20:30,Vasco da Gama - RJ,Botafogo - RJ,1,0,1,0,0,3,0
+113,A,2012,Aflitos,Recife,PE,Quarta,25, Julho ,2012,20:30,Náutico - PE,Coritiba - PR,3,4,0,1,0,0,3
+114,A,2012,Pacaembu,Sao Paulo,SP,Quarta,25, Julho ,2012,21:50,Corinthians - SP,Cruzeiro - MG,2,0,1,0,0,3,0
+115,A,2012,Olímpico,Porto Alegre,RS,Quarta,25, Julho ,2012,21:50,Grêmio - RS,Fluminense - RJ,1,0,1,0,0,3,0
+116,A,2012,Serra Dourada,Goiania,GO,Quarta,25, Julho ,2012,21:50,Atlético - GO,São Paulo - SP,4,3,1,0,0,3,0
+117,A,2012,Arena Barueri,Barueri,SP,Quinta,26, Julho ,2012,21:00,Palmeiras - SP,Bahia - BA,0,2,0,1,0,0,3
+118,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,26, Julho ,2012,21:00,Flamengo - RJ,Portuguesa - SP,0,0,0,0,1,1,1
+119,A,2012,Independência,Belo Horizonte,MG,Quinta,26, Julho ,2012,21:00,Atlético - MG,Santos - SP,2,0,1,0,0,3,0
+120,A,2012,Couto Pereira,Curitiba,PR,Sábado,28, Julho ,2012,18:30,Coritiba - PR,Grêmio - RS,2,1,1,0,0,3,0
+121,A,2012,Beira,Rio,Porto Alegre,Sábado,28, Julho ,2012,18:30,Internacional - RS,Vasco da Gama - RJ,0,0,0,0,1,1,1
+122,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,28, Julho ,2012,21:00,Botafogo - RJ,Figueirense - SC,1,0,1,0,0,3,0
+123,A,2012,Ilha do Retiro,Recife,PE,Domingo,29, Julho ,2012,16:00,Sport - PE,Atlético - GO,0,0,0,0,1,1,1
+124,A,2012,Morumbi,Sao Paulo,SP,Domingo,29, Julho ,2012,16:00,São Paulo - SP,Flamengo - RJ,4,1,1,0,0,3,0
+125,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,29, Julho ,2012,16:00,Fluminense - RJ,Atlético - MG,0,0,0,0,1,1,1
+126,A,2012,Pituaçu,Salvador,BA,Domingo,29, Julho ,2012,16:00,Bahia - BA,Corinthians - SP,0,0,0,0,1,1,1
+127,A,2012,Independência,Belo Horizonte,MG,Domingo,29, Julho ,2012,18:30,Cruzeiro - MG,Palmeiras - SP,2,1,1,0,0,3,0
+128,A,2012,Canindé,Sao Paulo,SP,Domingo,29, Julho ,2012,18:30,Portuguesa - SP,Náutico - PE,3,1,1,0,0,3,0
+129,A,2012,Vila Belmiro,Santos,SP,Domingo,29, Julho ,2012,18:30,Santos - SP,Ponte Preta - SP,2,1,1,0,0,3,0
+130,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,26, Setembro ,2012,22:00,Flamengo - RJ,Atlético - MG,2,1,1,0,0,3,0
+131,A,2012,Arena Barueri,Barueri,SP,Sábado,4, Agosto ,2012,18:30,Palmeiras - SP,Internacional - RS,0,1,0,1,0,0,3
+132,A,2012,Serra Dourada,Goiania,GO,Sábado,4, Agosto ,2012,18:30,Atlético - GO,Botafogo - RJ,1,2,0,1,0,0,3
+133,A,2012,Canindé,Sao Paulo,SP,Sábado,4, Agosto ,2012,21:00,Portuguesa - SP,Figueirense - SC,2,0,1,0,0,3,0
+134,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,5, Agosto ,2012,16:00,Vasco da Gama - RJ,Corinthians - SP,0,0,0,0,1,1,1
+135,A,2012,Olímpico,Porto Alegre,RS,Domingo,5, Agosto ,2012,16:00,Grêmio - RS,Bahia - BA,3,1,1,0,0,3,0
+136,A,2012,Couto Pereira,Curitiba,PR,Domingo,5, Agosto ,2012,16:00,Coritiba - PR,Fluminense - RJ,0,2,0,1,0,0,3
+137,A,2012,Morumbi,Sao Paulo,SP,Domingo,5, Agosto ,2012,16:00,São Paulo - SP,Sport - PE,1,0,1,0,0,3,0
+138,A,2012,Independência,Belo Horizonte,MG,Domingo,5, Agosto ,2012,18:30,Cruzeiro - MG,Ponte Preta - SP,1,2,0,1,0,0,3
+139,A,2012,Aflitos,Recife,PE,Domingo,5, Agosto ,2012,18:30,Náutico - PE,Santos - SP,3,0,1,0,0,3,0
+140,A,2012,Ilha do Retiro,Recife,PE,Quarta,8, Agosto ,2012,19:30,Sport - PE,Vasco da Gama - RJ,0,2,0,1,0,0,3
+141,A,2012,Beira,Rio,Porto Alegre,Quarta,8, Agosto ,2012,19:30,Internacional - RS,Náutico - PE,0,0,0,0,1,1,1
+142,A,2012,Pacaembu,Sao Paulo,SP,Quarta,8, Agosto ,2012,20:30,Corinthians - SP,Atlético - GO,1,1,0,0,1,1,1
+143,A,2012,Pituaçu,Salvador,BA,Quarta,8, Agosto ,2012,20:30,Bahia - BA,Portuguesa - SP,0,0,0,0,1,1,1
+144,A,2012,Vila Belmiro,Santos,SP,Quarta,8, Agosto ,2012,21:50,Santos - SP,Cruzeiro - MG,4,2,1,0,0,3,0
+145,A,2012,São Januário,Rio de Janeiro,RJ,Quinta,9, Agosto ,2012,21:00,Fluminense - RJ,São Paulo - SP,2,1,1,0,0,3,0
+146,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,8, Agosto ,2012,21:50,Figueirense - SC,Flamengo - RJ,0,2,0,1,0,0,3
+147,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,8, Agosto ,2012,21:50,Botafogo - RJ,Palmeiras - SP,1,2,0,1,0,0,3
+148,A,2012,Independência,Belo Horizonte,MG,Quinta,9, Agosto ,2012,21:00,Atlético - MG,Coritiba - PR,1,0,1,0,0,3,0
+149,A,2012,Moisés Lucarelli,Campinas,SP,Quinta,9, Agosto ,2012,21:00,Ponte Preta - SP,Grêmio - RS,0,0,0,0,1,1,1
+150,A,2012,Ilha do Retiro,Recife,PE,Sábado,11, Agosto ,2012,18:30,Sport - PE,Figueirense - SC,0,1,0,1,0,0,3
+151,A,2012,Pituaçu,Salvador,BA,Sábado,11, Agosto ,2012,18:30,Bahia - BA,Cruzeiro - MG,0,1,0,1,0,0,3
+152,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Sábado,11, Agosto ,2012,21:00,Flamengo - RJ,Náutico - PE,2,0,1,0,0,3,0
+153,A,2012,Beira,Rio,Porto Alegre,Domingo,12, Agosto ,2012,16:00,Internacional - RS,Ponte Preta - SP,2,1,1,0,0,3,0
+154,A,2012,Morumbi,Sao Paulo,SP,Domingo,12, Agosto ,2012,16:00,São Paulo - SP,Grêmio - RS,1,2,0,1,0,0,3
+155,A,2012,Independência,Belo Horizonte,MG,Domingo,12, Agosto ,2012,16:00,Atlético - MG,Vasco da Gama - RJ,1,0,1,0,0,3,0
+156,A,2012,Couto Pereira,Curitiba,PR,Domingo,12, Agosto ,2012,16:00,Coritiba - PR,Corinthians - SP,1,2,0,1,0,0,3
+157,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,12, Agosto ,2012,18:30,Fluminense - RJ,Palmeiras - SP,1,0,1,0,0,3,0
+158,A,2012,Canindé,Sao Paulo,SP,Domingo,12, Agosto ,2012,18:30,Portuguesa - SP,Botafogo - RJ,1,1,0,0,1,1,1
+159,A,2012,Pacaembu,Sao Paulo,SP,Sábado,11, Agosto ,2012,18:30,Santos - SP,Atlético - GO,2,2,0,0,1,1,1
+160,A,2012,Olímpico,Porto Alegre,RS,Quarta,15, Agosto ,2012,19:30,Grêmio - RS,Portuguesa - SP,1,2,0,1,0,0,3
+161,A,2012,Independência,Belo Horizonte,MG,Quarta,15, Agosto ,2012,19:30,Cruzeiro - MG,Fluminense - RJ,1,1,0,0,1,1,1
+162,A,2012,Serra Dourada,Goiania,GO,Quarta,15, Agosto ,2012,20:30,Atlético - GO,Atlético - MG,1,1,0,0,1,1,1
+163,A,2012,Moisés Lucarelli,Campinas,SP,Quarta,15, Agosto ,2012,20:30,Ponte Preta - SP,Bahia - BA,0,2,0,1,0,0,3
+164,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,15, Agosto ,2012,21:50,Botafogo - RJ,Sport - PE,2,0,1,0,0,3,0
+165,A,2012,Arena Barueri,Barueri,SP,Quarta,15, Agosto ,2012,21:50,Palmeiras - SP,Flamengo - RJ,1,0,1,0,0,3,0
+166,A,2012,Aflitos,Recife,PE,Quarta,15, Agosto ,2012,21:50,Náutico - PE,São Paulo - SP,3,0,1,0,0,3,0
+167,A,2012,São Januário,Rio de Janeiro,RJ,Quinta,16, Agosto ,2012,21:00,Vasco da Gama - RJ,Coritiba - PR,2,2,0,0,1,1,1
+168,A,2012,Pacaembu,Sao Paulo,SP,Quinta,16, Agosto ,2012,21:00,Corinthians - SP,Internacional - RS,1,0,1,0,0,3,0
+169,A,2012,Orlando Scarpelli,Florianopolis,SC,Quinta,16, Agosto ,2012,21:00,Figueirense - SC,Santos - SP,1,3,0,1,0,0,3
+170,A,2012,Aflitos,Recife,PE,Sábado,18, Agosto ,2012,18:30,Náutico - PE,Bahia - BA,1,0,1,0,0,3,0
+171,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Sábado,18, Agosto ,2012,18:30,Fluminense - RJ,Sport - PE,1,0,1,0,0,3,0
+172,A,2012,Morumbi,Sao Paulo,SP,Sábado,18, Agosto ,2012,21:00,São Paulo - SP,Ponte Preta - SP,3,0,1,0,0,3,0
+173,A,2012,Vila Belmiro,Santos,SP,Domingo,19, Agosto ,2012,16:00,Santos - SP,Corinthians - SP,3,2,1,0,0,3,0
+174,A,2012,Independência,Belo Horizonte,MG,Domingo,19, Agosto ,2012,16:00,Atlético - MG,Botafogo - RJ,3,2,1,0,0,3,0
+175,A,2012,Couto Pereira,Curitiba,PR,Domingo,19, Agosto ,2012,16:00,Coritiba - PR,Cruzeiro - MG,4,0,1,0,0,3,0
+176,A,2012,Olímpico,Porto Alegre,RS,Domingo,19, Agosto ,2012,16:00,Grêmio - RS,Figueirense - SC,4,0,1,0,0,3,0
+177,A,2012,Canindé,Sao Paulo,SP,Domingo,19, Agosto ,2012,18:30,Portuguesa - SP,Internacional - RS,1,1,0,0,1,1,1
+178,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,19, Agosto ,2012,18:30,Flamengo - RJ,Vasco da Gama - RJ,1,0,1,0,0,3,0
+179,A,2012,Serra Dourada,Goiania,GO,Domingo,19, Agosto ,2012,18:30,Atlético - GO,Palmeiras - SP,2,1,1,0,0,3,0
+180,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,25, Agosto ,2012,18:30,Vasco da Gama - RJ,Fluminense - RJ,1,2,0,1,0,0,3
+181,A,2012,Pacaembu,Sao Paulo,SP,Sábado,25, Agosto ,2012,18:30,Palmeiras - SP,Santos - SP,1,2,0,1,0,0,3
+182,A,2012,Moisés Lucarelli,Campinas,SP,Sábado,25, Agosto ,2012,21:00,Ponte Preta - SP,Portuguesa - SP,2,1,1,0,0,3,0
+183,A,2012,Beira,Rio,Porto Alegre,Domingo,26, Agosto ,2012,16:00,Internacional - RS,Grêmio - RS,0,1,0,1,0,0,3
+184,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,26, Agosto ,2012,16:00,Botafogo - RJ,Flamengo - RJ,0,0,0,0,1,1,1
+185,A,2012,Pacaembu,Sao Paulo,SP,Domingo,26, Agosto ,2012,16:00,Corinthians - SP,São Paulo - SP,1,2,0,1,0,0,3
+186,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,26, Agosto ,2012,16:00,Figueirense - SC,Coritiba - PR,3,1,1,0,0,3,0
+187,A,2012,Independência,Belo Horizonte,MG,Domingo,26, Agosto ,2012,18:30,Cruzeiro - MG,Atlético - MG,2,2,0,0,1,1,1
+188,A,2012,Ilha do Retiro,Recife,PE,Domingo,26, Agosto ,2012,18:30,Sport - PE,Náutico - PE,0,0,0,0,1,1,1
+189,A,2012,Pituaçu,Salvador,BA,Domingo,26, Agosto ,2012,18:30,Bahia - BA,Atlético - GO,1,1,0,0,1,1,1
+190,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Quinta,30, Agosto ,2012,21:00,Flamengo - RJ,Sport - PE,1,1,0,0,1,1,1
+191,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,29, Agosto ,2012,22:00,Fluminense - RJ,Corinthians - SP,1,1,0,0,1,1,1
+192,A,2012,Vila Belmiro,Santos,SP,Quarta,29, Agosto ,2012,19:30,Santos - SP,Bahia - BA,1,3,0,1,0,0,3
+193,A,2012,Morumbi,Sao Paulo,SP,Quinta,30, Agosto ,2012,21:00,São Paulo - SP,Botafogo - RJ,4,0,1,0,0,3,0
+194,A,2012,Olímpico,Porto Alegre,RS,Quarta,29, Agosto ,2012,22:00,Grêmio - RS,Vasco da Gama - RJ,2,0,1,0,0,3,0
+195,A,2012,Independência,Belo Horizonte,MG,Quarta,29, Agosto ,2012,20:30,Atlético - MG,Ponte Preta - SP,2,2,0,0,1,1,1
+196,A,2012,Canindé,Sao Paulo,SP,Quarta,29, Agosto ,2012,20:30,Portuguesa - SP,Palmeiras - SP,3,0,1,0,0,3,0
+197,A,2012,Couto Pereira,Curitiba,PR,Quarta,29, Agosto ,2012,19:30,Coritiba - PR,Internacional - RS,1,0,1,0,0,3,0
+198,A,2012,Aflitos,Recife,PE,Quarta,29, Agosto ,2012,20:30,Náutico - PE,Figueirense - SC,3,2,1,0,0,3,0
+199,A,2012,Serra Dourada,Goiania,GO,Quarta,29, Agosto ,2012,22:00,Atlético - GO,Cruzeiro - MG,0,2,0,1,0,0,3
+200,A,2012,Pacaembu,Sao Paulo,SP,Sábado,1, Setembro ,2012,18:30,Palmeiras - SP,Grêmio - RS,0,0,0,0,1,1,1
+201,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,2, Setembro ,2012,18:30,Botafogo - RJ,Coritiba - PR,2,0,1,0,0,3,0
+202,A,2012,São Januário,Rio de Janeiro,RJ,Sábado,1, Setembro ,2012,21:00,Vasco da Gama - RJ,Portuguesa - SP,2,0,1,0,0,3,0
+203,A,2012,Pacaembu,Sao Paulo,SP,Domingo,2, Setembro ,2012,16:00,Corinthians - SP,Atlético - MG,1,0,1,0,0,3,0
+204,A,2012,Beira,Rio,Porto Alegre,Domingo,2, Setembro ,2012,16:00,Internacional - RS,Flamengo - RJ,4,1,1,0,0,3,0
+205,A,2012,Independência,Belo Horizonte,MG,Domingo,2, Setembro ,2012,18:30,Cruzeiro - MG,Náutico - PE,3,0,1,0,0,3,0
+206,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,2, Setembro ,2012,18:30,Ponte Preta - SP,Atlético - GO,3,1,1,0,0,3,0
+207,A,2012,Orlando Scarpelli,Florianopolis,SC,Sábado,1, Setembro ,2012,18:30,Figueirense - SC,Fluminense - RJ,2,2,0,0,1,1,1
+208,A,2012,Ilha do Retiro,Recife,PE,Domingo,2, Setembro ,2012,16:00,Sport - PE,Santos - SP,2,1,1,0,0,3,0
+209,A,2012,Pituaçu,Salvador,BA,Domingo,2, Setembro ,2012,16:00,Bahia - BA,São Paulo - SP,1,0,1,0,0,3,0
+210,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Quarta,5, Setembro ,2012,19:30,Flamengo - RJ,Ponte Preta - SP,0,1,0,1,0,0,3
+211,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,6, Setembro ,2012,21:00,Fluminense - RJ,Santos - SP,3,1,1,0,0,3,0
+212,A,2012,Pacaembu,Sao Paulo,SP,Quinta,6, Setembro ,2012,21:00,Palmeiras - SP,Sport - PE,3,1,1,0,0,3,0
+213,A,2012,Morumbi,Sao Paulo,SP,Quarta,5, Setembro ,2012,22:00,São Paulo - SP,Internacional - RS,1,1,0,0,1,1,1
+214,A,2012,Olímpico,Porto Alegre,RS,Quarta,5, Setembro ,2012,20:30,Grêmio - RS,Atlético - GO,2,1,1,0,0,3,0
+215,A,2012,Independência,Belo Horizonte,MG,Quarta,5, Setembro ,2012,22:00,Cruzeiro - MG,Botafogo - RJ,1,3,0,1,0,0,3
+216,A,2012,Canindé,Sao Paulo,SP,Quarta,5, Setembro ,2012,19:30,Portuguesa - SP,Coritiba - PR,3,0,1,0,0,3,0
+217,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,5, Setembro ,2012,22:00,Figueirense - SC,Corinthians - SP,1,0,1,0,0,3,0
+218,A,2012,Aflitos,Recife,PE,Quarta,5, Setembro ,2012,19:30,Náutico - PE,Vasco da Gama - RJ,1,1,0,0,1,1,1
+219,A,2012,Pituaçu,Salvador,BA,Quarta,5, Setembro ,2012,19:30,Bahia - BA,Atlético - MG,0,0,0,0,1,1,1
+220,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,9, Setembro ,2012,16:00,Botafogo - RJ,Náutico - PE,3,1,1,0,0,3,0
+221,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,9, Setembro ,2012,18:30,Vasco da Gama - RJ,Bahia - BA,0,4,0,1,0,0,3
+222,A,2012,Vila Belmiro,Santos,SP,Domingo,9, Setembro ,2012,16:00,Santos - SP,São Paulo - SP,0,0,0,0,1,1,1
+223,A,2012,Pacaembu,Sao Paulo,SP,Sábado,8, Setembro ,2012,21:00,Corinthians - SP,Grêmio - RS,3,1,1,0,0,3,0
+224,A,2012,Beira,Rio,Porto Alegre,Domingo,9, Setembro ,2012,16:00,Internacional - RS,Fluminense - RJ,0,1,0,1,0,0,3
+225,A,2012,Independência,Belo Horizonte,MG,Domingo,9, Setembro ,2012,18:30,Atlético - MG,Palmeiras - SP,3,0,1,0,0,3,0
+226,A,2012,Moisés Lucarelli,Campinas,SP,Sábado,8, Setembro ,2012,18:30,Ponte Preta - SP,Figueirense - SC,2,2,0,0,1,1,1
+227,A,2012,Couto Pereira,Curitiba,PR,Sábado,8, Setembro ,2012,18:30,Coritiba - PR,Flamengo - RJ,3,0,1,0,0,3,0
+228,A,2012,Ilha do Retiro,Recife,PE,Domingo,9, Setembro ,2012,18:30,Sport - PE,Cruzeiro - MG,2,1,1,0,0,3,0
+229,A,2012,Serra Dourada,Goiania,GO,Domingo,9, Setembro ,2012,18:30,Atlético - GO,Portuguesa - SP,1,1,0,0,1,1,1
+230,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,13, Setembro ,2012,21:00,Botafogo - RJ,Internacional - RS,1,1,0,0,1,1,1
+231,A,2012,São Januário,Rio de Janeiro,RJ,Quarta,12, Setembro ,2012,22:00,Vasco da Gama - RJ,Palmeiras - SP,3,1,1,0,0,3,0
+232,A,2012,Vila Belmiro,Santos,SP,Quarta,12, Setembro ,2012,22:00,Santos - SP,Flamengo - RJ,2,0,1,0,0,3,0
+233,A,2012,Pacaembu,Sao Paulo,SP,Quarta,12, Setembro ,2012,19:30,Corinthians - SP,Ponte Preta - SP,1,1,0,0,1,1,1
+234,A,2012,Olímpico,Porto Alegre,RS,Quinta,13, Setembro ,2012,21:00,Grêmio - RS,Náutico - PE,2,0,1,0,0,3,0
+235,A,2012,Independência,Belo Horizonte,MG,Quarta,12, Setembro ,2012,22:00,Atlético - MG,São Paulo - SP,1,0,1,0,0,3,0
+236,A,2012,Canindé,Sao Paulo,SP,Quarta,12, Setembro ,2012,19:30,Portuguesa - SP,Fluminense - RJ,0,2,0,1,0,0,3
+237,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,12, Setembro ,2012,19:30,Figueirense - SC,Cruzeiro - MG,2,0,1,0,0,3,0
+238,A,2012,Ilha do Retiro,Recife,PE,Quarta,12, Setembro ,2012,20:30,Sport - PE,Bahia - BA,1,1,0,0,1,1,1
+239,A,2012,Serra Dourada,Goiania,GO,Quarta,12, Setembro ,2012,20:30,Atlético - GO,Coritiba - PR,1,2,0,1,0,0,3
+240,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,16, Setembro ,2012,18:30,Flamengo - RJ,Grêmio - RS,1,1,0,0,1,1,1
+241,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Sábado,15, Setembro ,2012,18:30,Fluminense - RJ,Atlético - GO,1,2,0,1,0,0,3
+242,A,2012,Pacaembu,Sao Paulo,SP,Domingo,16, Setembro ,2012,16:00,Palmeiras - SP,Corinthians - SP,0,2,0,1,0,0,3
+243,A,2012,Morumbi,Sao Paulo,SP,Sábado,15, Setembro ,2012,18:30,São Paulo - SP,Portuguesa - SP,3,1,1,0,0,3,0
+244,A,2012,Beira,Rio,Porto Alegre,Domingo,16, Setembro ,2012,18:30,Internacional - RS,Sport - PE,2,2,0,0,1,1,1
+245,A,2012,Dilzon Melo,Varginha,MG,Domingo,16, Setembro ,2012,16:00,Cruzeiro - MG,Vasco da Gama - RJ,1,1,0,0,1,1,1
+246,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,16, Setembro ,2012,18:30,Ponte Preta - SP,Botafogo - RJ,0,0,0,0,1,1,1
+247,A,2012,Couto Pereira,Curitiba,PR,Domingo,16, Setembro ,2012,16:00,Coritiba - PR,Santos - SP,1,2,0,1,0,0,3
+248,A,2012,Aflitos,Recife,PE,Domingo,16, Setembro ,2012,16:00,Náutico - PE,Atlético - MG,1,0,1,0,0,3,0
+249,A,2012,Pituaçu,Salvador,BA,Domingo,16, Setembro ,2012,16:00,Bahia - BA,Figueirense - SC,2,1,1,0,0,3,0
+250,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,23, Setembro ,2012,16:00,Botafogo - RJ,Corinthians - SP,2,2,0,0,1,1,1
+251,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Sábado,22, Setembro ,2012,18:30,Fluminense - RJ,Náutico - PE,2,1,1,0,0,3,0
+252,A,2012,Pacaembu,Sao Paulo,SP,Sábado,22, Setembro ,2012,21:00,Santos - SP,Portuguesa - SP,1,3,0,1,0,0,3
+253,A,2012,Morumbi,Sao Paulo,SP,Domingo,23, Setembro ,2012,16:00,São Paulo - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+254,A,2012,Beira,Rio,Porto Alegre,Domingo,23, Setembro ,2012,18:30,Internacional - RS,Bahia - BA,3,1,1,0,0,3,0
+255,A,2012,Independência,Belo Horizonte,MG,Domingo,23, Setembro ,2012,18:30,Atlético - MG,Grêmio - RS,0,0,0,0,1,1,1
+256,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,23, Setembro ,2012,16:00,Ponte Preta - SP,Vasco da Gama - RJ,0,0,0,0,1,1,1
+257,A,2012,Orlando Scarpelli,Florianopolis,SC,Sábado,22, Setembro ,2012,18:30,Figueirense - SC,Palmeiras - SP,1,3,0,1,0,0,3
+258,A,2012,Ilha do Retiro,Recife,PE,Domingo,23, Setembro ,2012,18:30,Sport - PE,Coritiba - PR,1,0,1,0,0,3,0
+259,A,2012,Serra Dourada,Goiania,GO,Domingo,23, Setembro ,2012,16:00,Atlético - GO,Flamengo - RJ,1,2,0,1,0,0,3
+260,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,30, Setembro ,2012,16:00,Flamengo - RJ,Fluminense - RJ,0,1,0,1,0,0,3
+261,A,2012,São Januário,Rio de Janeiro,RJ,Sábado,29, Setembro ,2012,18:30,Vasco da Gama - RJ,Figueirense - SC,3,1,1,0,0,3,0
+262,A,2012,Pacaembu,Sao Paulo,SP,Sábado,29, Setembro ,2012,21:00,Palmeiras - SP,Ponte Preta - SP,3,0,1,0,0,3,0
+263,A,2012,Pacaembu,Sao Paulo,SP,Domingo,30, Setembro ,2012,16:00,Corinthians - SP,Sport - PE,3,0,1,0,0,3,0
+264,A,2012,Olímpico,Porto Alegre,RS,Domingo,30, Setembro ,2012,18:30,Grêmio - RS,Santos - SP,1,1,0,0,1,1,1
+265,A,2012,Dilzon Melo,Varginha,MG,Sábado,29, Setembro ,2012,18:30,Cruzeiro - MG,Internacional - RS,0,0,0,0,1,1,1
+266,A,2012,Canindé,Sao Paulo,SP,Sábado,29, Setembro ,2012,18:30,Portuguesa - SP,Atlético - MG,1,1,0,0,1,1,1
+267,A,2012,Couto Pereira,Curitiba,PR,Domingo,30, Setembro ,2012,16:00,Coritiba - PR,São Paulo - SP,1,1,0,0,1,1,1
+268,A,2012,Aflitos,Recife,PE,Sábado,29, Setembro ,2012,18:30,Náutico - PE,Atlético - GO,2,0,1,0,0,3,0
+269,A,2012,Pituaçu,Salvador,BA,Domingo,30, Setembro ,2012,16:00,Bahia - BA,Botafogo - RJ,2,0,1,0,0,3,0
+270,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,4, Outubro ,2012,21:00,Flamengo - RJ,Bahia - BA,0,0,0,0,1,1,1
+271,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,6, Outubro ,2012,18:30,Fluminense - RJ,Botafogo - RJ,1,0,1,0,0,3,0
+272,A,2012,Vila Belmiro,Santos,SP,Sábado,6, Outubro ,2012,16:20,Santos - SP,Internacional - RS,1,1,0,0,1,1,1
+273,A,2012,Morumbi,Sao Paulo,SP,Sábado,6, Outubro ,2012,16:00,São Paulo - SP,Palmeiras - SP,3,0,1,0,0,3,0
+274,A,2012,Olímpico,Porto Alegre,RS,Sábado,6, Outubro ,2012,18:30,Grêmio - RS,Cruzeiro - MG,2,1,1,0,0,3,0
+275,A,2012,Independência,Belo Horizonte,MG,Sábado,6, Outubro ,2012,18:30,Atlético - MG,Figueirense - SC,6,0,1,0,0,3,0
+276,A,2012,Canindé,Sao Paulo,SP,Quinta,4, Outubro ,2012,21:00,Portuguesa - SP,Sport - PE,5,1,1,0,0,3,0
+277,A,2012,Couto Pereira,Curitiba,PR,Quinta,4, Outubro ,2012,21:00,Coritiba - PR,Ponte Preta - SP,1,0,1,0,0,3,0
+278,A,2012,Aflitos,Recife,PE,Sábado,6, Outubro ,2012,16:20,Náutico - PE,Corinthians - SP,2,1,1,0,0,3,0
+279,A,2012,Serra Dourada,Goiania,GO,Sábado,6, Outubro ,2012,16:20,Atlético - GO,Vasco da Gama - RJ,0,1,0,1,0,0,3
+280,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,10, Outubro ,2012,19:30,Botafogo - RJ,Santos - SP,0,2,0,1,0,0,3
+281,A,2012,São Januário,Rio de Janeiro,RJ,Quarta,10, Outubro ,2012,22:00,Vasco da Gama - RJ,São Paulo - SP,0,2,0,1,0,0,3
+282,A,2012,Fonte Luminosa,Araraquara,SP,Quinta,11, Outubro ,2012,21:00,Palmeiras - SP,Coritiba - PR,0,1,0,1,0,0,3
+283,A,2012,Pacaembu,Sao Paulo,SP,Quarta,10, Outubro ,2012,22:00,Corinthians - SP,Flamengo - RJ,3,2,1,0,0,3,0
+284,A,2012,Beira,Rio,Porto Alegre,Quarta,10, Outubro ,2012,22:00,Internacional - RS,Atlético - MG,3,0,1,0,0,3,0
+285,A,2012,Dilzon Melo,Varginha,MG,Quarta,10, Outubro ,2012,19:30,Cruzeiro - MG,Portuguesa - SP,2,0,1,0,0,3,0
+286,A,2012,Moisés Lucarelli,Campinas,SP,Quarta,10, Outubro ,2012,19:30,Ponte Preta - SP,Náutico - PE,2,1,1,0,0,3,0
+287,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,10, Outubro ,2012,19:30,Figueirense - SC,Atlético - GO,3,1,1,0,0,3,0
+288,A,2012,Ilha do Retiro,Recife,PE,Quinta,11, Outubro ,2012,21:00,Sport - PE,Grêmio - RS,1,3,0,1,0,0,3
+289,A,2012,Pituaçu,Salvador,BA,Quarta,10, Outubro ,2012,19:30,Bahia - BA,Fluminense - RJ,0,2,0,1,0,0,3
+290,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,13, Outubro ,2012,18:30,Flamengo - RJ,Cruzeiro - MG,1,1,0,0,1,1,1
+291,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,14, Outubro ,2012,18:30,Fluminense - RJ,Ponte Preta - SP,2,1,1,0,0,3,0
+292,A,2012,Vila Belmiro,Santos,SP,Domingo,14, Outubro ,2012,16:00,Santos - SP,Vasco da Gama - RJ,2,0,1,0,0,3,0
+293,A,2012,Morumbi,Sao Paulo,SP,Domingo,14, Outubro ,2012,16:00,São Paulo - SP,Figueirense - SC,2,0,1,0,0,3,0
+294,A,2012,Olímpico,Porto Alegre,RS,Domingo,14, Outubro ,2012,18:30,Grêmio - RS,Botafogo - RJ,1,1,0,0,1,1,1
+295,A,2012,Independência,Belo Horizonte,MG,Domingo,14, Outubro ,2012,16:00,Atlético - MG,Sport - PE,2,1,1,0,0,3,0
+296,A,2012,Canindé,Sao Paulo,SP,Sábado,13, Outubro ,2012,21:00,Portuguesa - SP,Corinthians - SP,1,1,0,0,1,1,1
+297,A,2012,Couto Pereira,Curitiba,PR,Domingo,14, Outubro ,2012,16:00,Coritiba - PR,Bahia - BA,2,1,1,0,0,3,0
+298,A,2012,Aflitos,Recife,PE,Domingo,14, Outubro ,2012,16:00,Náutico - PE,Palmeiras - SP,1,0,1,0,0,3,0
+299,A,2012,Serra Dourada,Goiania,GO,Sábado,13, Outubro ,2012,18:30,Atlético - GO,Internacional - RS,3,1,1,0,0,3,0
+300,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,18, Outubro ,2012,21:00,Botafogo - RJ,Vasco da Gama - RJ,3,2,1,0,0,3,0
+301,A,2012,João Havelange,Rio de Janeiro,RJ,Quarta,17, Outubro ,2012,19:30,Fluminense - RJ,Grêmio - RS,2,2,0,0,1,1,1
+302,A,2012,Vila Belmiro,Santos,SP,Quarta,17, Outubro ,2012,22:00,Santos - SP,Atlético - MG,2,2,0,0,1,1,1
+303,A,2012,Morumbi,Sao Paulo,SP,Quinta,18, Outubro ,2012,21:00,São Paulo - SP,Atlético - GO,2,0,1,0,0,3,0
+304,A,2012,Beira,Rio,Porto Alegre,Quarta,17, Outubro ,2012,19:30,Internacional - RS,Figueirense - SC,2,3,0,1,0,0,3
+305,A,2012,Dilzon Melo,Varginha,MG,Quarta,17, Outubro ,2012,22:00,Cruzeiro - MG,Corinthians - SP,2,0,1,0,0,3,0
+306,A,2012,Canindé,Sao Paulo,SP,Quarta,17, Outubro ,2012,22:00,Portuguesa - SP,Flamengo - RJ,0,0,0,0,1,1,1
+307,A,2012,Couto Pereira,Curitiba,PR,Quarta,17, Outubro ,2012,19:30,Coritiba - PR,Náutico - PE,2,1,1,0,0,3,0
+308,A,2012,Ilha do Retiro,Recife,PE,Quinta,18, Outubro ,2012,21:00,Sport - PE,Ponte Preta - SP,3,1,1,0,0,3,0
+309,A,2012,Pituaçu,Salvador,BA,Quarta,17, Outubro ,2012,19:30,Bahia - BA,Palmeiras - SP,0,1,0,1,0,0,3
+310,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,21, Outubro ,2012,16:00,Flamengo - RJ,São Paulo - SP,1,0,1,0,0,3,0
+311,A,2012,São Januário,Rio de Janeiro,RJ,Quarta,24, Outubro ,2012,20:30,Vasco da Gama - RJ,Internacional - RS,1,2,0,1,0,0,3
+312,A,2012,Fonte Luminosa,Araraquara,SP,Sábado,20, Outubro ,2012,18:30,Palmeiras - SP,Cruzeiro - MG,2,0,1,0,0,3,0
+313,A,2012,Pacaembu,Sao Paulo,SP,Sábado,20, Outubro ,2012,18:30,Corinthians - SP,Bahia - BA,1,1,0,0,1,1,1
+314,A,2012,Olímpico,Porto Alegre,RS,Sábado,20, Outubro ,2012,18:30,Grêmio - RS,Coritiba - PR,0,0,0,0,1,1,1
+315,A,2012,Independência,Belo Horizonte,MG,Domingo,21, Outubro ,2012,16:00,Atlético - MG,Fluminense - RJ,3,2,1,0,0,3,0
+316,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,21, Outubro ,2012,18:30,Ponte Preta - SP,Santos - SP,1,0,1,0,0,3,0
+317,A,2012,Orlando Scarpelli,Florianopolis,SC,Quarta,24, Outubro ,2012,22:00,Figueirense - SC,Botafogo - RJ,0,2,0,1,0,0,3
+318,A,2012,Aflitos,Recife,PE,Domingo,21, Outubro ,2012,16:00,Náutico - PE,Portuguesa - SP,0,0,0,0,1,1,1
+319,A,2012,Serra Dourada,Goiania,GO,Domingo,21, Outubro ,2012,18:30,Atlético - GO,Sport - PE,0,1,0,1,0,0,3
+320,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,27, Outubro ,2012,18:30,Botafogo - RJ,Atlético - GO,4,0,1,0,0,3,0
+321,A,2012,João Havelange,Rio de Janeiro,RJ,Quinta,25, Outubro ,2012,21:00,Fluminense - RJ,Coritiba - PR,2,1,1,0,0,3,0
+322,A,2012,Vila Belmiro,Santos,SP,Quinta,25, Outubro ,2012,21:00,Santos - SP,Náutico - PE,0,0,0,0,1,1,1
+323,A,2012,Pacaembu,Sao Paulo,SP,Sábado,27, Outubro ,2012,16:20,Corinthians - SP,Vasco da Gama - RJ,1,0,1,0,0,3,0
+324,A,2012,Beira,Rio,Porto Alegre,Sábado,27, Outubro ,2012,16:20,Internacional - RS,Palmeiras - SP,2,1,1,0,0,3,0
+325,A,2012,Independência,Belo Horizonte,MG,Quarta,31, Outubro ,2012,21:50,Atlético - MG,Flamengo - RJ,1,1,0,0,1,1,1
+326,A,2012,Moisés Lucarelli,Campinas,SP,Quinta,25, Outubro ,2012,21:00,Ponte Preta - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+327,A,2012,Orlando Scarpelli,Florianopolis,SC,Sábado,27, Outubro ,2012,18:30,Figueirense - SC,Portuguesa - SP,0,0,0,0,1,1,1
+328,A,2012,Ilha do Retiro,Recife,PE,Sábado,27, Outubro ,2012,18:30,Sport - PE,São Paulo - SP,2,4,0,1,0,0,3
+329,A,2012,Pituaçu,Salvador,BA,Sábado,27, Outubro ,2012,18:30,Bahia - BA,Grêmio - RS,1,1,0,0,1,1,1
+330,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Sábado,3, Novembro ,2012,21:00,Flamengo - RJ,Figueirense - SC,1,0,1,0,0,3,0
+331,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,4, Novembro ,2012,17:00,Vasco da Gama - RJ,Sport - PE,0,3,0,1,0,0,3
+332,A,2012,Fonte Luminosa,Araraquara,SP,Domingo,4, Novembro ,2012,17:00,Palmeiras - SP,Botafogo - RJ,2,2,0,0,1,1,1
+333,A,2012,Morumbi,Sao Paulo,SP,Domingo,4, Novembro ,2012,17:00,São Paulo - SP,Fluminense - RJ,1,1,0,0,1,1,1
+334,A,2012,Olímpico,Porto Alegre,RS,Sábado,3, Novembro ,2012,19:30,Grêmio - RS,Ponte Preta - SP,1,0,1,0,0,3,0
+335,A,2012,Independência,Belo Horizonte,MG,Sábado,3, Novembro ,2012,19:30,Cruzeiro - MG,Santos - SP,0,4,0,1,0,0,3
+336,A,2012,Canindé,Sao Paulo,SP,Domingo,4, Novembro ,2012,19:30,Portuguesa - SP,Bahia - BA,0,1,0,1,0,0,3
+337,A,2012,Couto Pereira,Curitiba,PR,Domingo,4, Novembro ,2012,19:30,Coritiba - PR,Atlético - MG,1,0,1,0,0,3,0
+338,A,2012,Aflitos,Recife,PE,Domingo,4, Novembro ,2012,19:30,Náutico - PE,Internacional - RS,3,0,1,0,0,3,0
+339,A,2012,Elmo Serejo Farias,Taguatinga,DF,Domingo,4, Novembro ,2012,17:00,Atlético - GO,Corinthians - SP,0,2,0,1,0,0,3
+340,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,10, Novembro ,2012,19:30,Botafogo - RJ,Portuguesa - SP,3,0,1,0,0,3,0
+341,A,2012,São Januário,Rio de Janeiro,RJ,Domingo,11, Novembro ,2012,17:00,Vasco da Gama - RJ,Atlético - MG,1,1,0,0,1,1,1
+342,A,2012,Paulo Constantino,Presidente Prudente,SP,Domingo,11, Novembro ,2012,17:00,Palmeiras - SP,Fluminense - RJ,2,3,0,1,0,0,3
+343,A,2012,Pacaembu,Sao Paulo,SP,Sábado,10, Novembro ,2012,21:00,Corinthians - SP,Coritiba - PR,5,1,1,0,0,3,0
+344,A,2012,Olímpico,Porto Alegre,RS,Domingo,11, Novembro ,2012,17:00,Grêmio - RS,São Paulo - SP,2,1,1,0,0,3,0
+345,A,2012,Independência,Belo Horizonte,MG,Domingo,11, Novembro ,2012,19:30,Cruzeiro - MG,Bahia - BA,3,1,1,0,0,3,0
+346,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,11, Novembro ,2012,19:30,Ponte Preta - SP,Internacional - RS,1,0,1,0,0,3,0
+347,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,11, Novembro ,2012,19:30,Figueirense - SC,Sport - PE,1,1,0,0,1,1,1
+348,A,2012,Aflitos,Recife,PE,Domingo,11, Novembro ,2012,19:30,Náutico - PE,Flamengo - RJ,0,1,0,1,0,0,3
+349,A,2012,Valmir Bezerra,Gama,DF,Sábado,10, Novembro ,2012,19:30,Atlético - GO,Santos - SP,2,1,1,0,0,3,0
+350,A,2012,Raulino de Oliveira,Volta Redonda,RJ,Domingo,18, Novembro ,2012,17:00,Flamengo - RJ,Palmeiras - SP,1,1,0,0,1,1,1
+351,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,18, Novembro ,2012,17:00,Fluminense - RJ,Cruzeiro - MG,0,2,0,1,0,0,3
+352,A,2012,Vila Belmiro,Santos,SP,Sábado,17, Novembro ,2012,19:30,Santos - SP,Figueirense - SC,2,0,1,0,0,3,0
+353,A,2012,Morumbi,Sao Paulo,SP,Domingo,18, Novembro ,2012,17:00,São Paulo - SP,Náutico - PE,2,1,1,0,0,3,0
+354,A,2012,Beira,Rio,Porto Alegre,Domingo,18, Novembro ,2012,19:30,Internacional - RS,Corinthians - SP,0,2,0,1,0,0,3
+355,A,2012,Independência,Belo Horizonte,MG,Domingo,18, Novembro ,2012,17:00,Atlético - MG,Atlético - GO,2,2,0,0,1,1,1
+356,A,2012,Canindé,Sao Paulo,SP,Domingo,18, Novembro ,2012,19:30,Portuguesa - SP,Grêmio - RS,2,2,0,0,1,1,1
+357,A,2012,Couto Pereira,Curitiba,PR,Sábado,17, Novembro ,2012,19:30,Coritiba - PR,Vasco da Gama - RJ,1,2,0,1,0,0,3
+358,A,2012,Ilha do Retiro,Recife,PE,Domingo,18, Novembro ,2012,19:30,Sport - PE,Botafogo - RJ,2,0,1,0,0,3,0
+359,A,2012,Pituaçu,Salvador,BA,Domingo,18, Novembro ,2012,17:00,Bahia - BA,Ponte Preta - SP,1,0,1,0,0,3,0
+360,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,25, Novembro ,2012,17:00,Botafogo - RJ,Atlético - MG,2,3,0,1,0,0,3
+361,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,24, Novembro ,2012,19:30,Vasco da Gama - RJ,Flamengo - RJ,1,1,0,0,1,1,1
+362,A,2012,Pacaembu,Sao Paulo,SP,Domingo,25, Novembro ,2012,17:00,Palmeiras - SP,Atlético - GO,1,2,0,1,0,0,3
+363,A,2012,Pacaembu,Sao Paulo,SP,Sábado,24, Novembro ,2012,19:30,Corinthians - SP,Santos - SP,1,1,0,0,1,1,1
+364,A,2012,Beira,Rio,Porto Alegre,Domingo,25, Novembro ,2012,17:00,Internacional - RS,Portuguesa - SP,0,2,0,1,0,0,3
+365,A,2012,Independência,Belo Horizonte,MG,Domingo,25, Novembro ,2012,17:00,Cruzeiro - MG,Coritiba - PR,2,1,1,0,0,3,0
+366,A,2012,Moisés Lucarelli,Campinas,SP,Domingo,25, Novembro ,2012,17:00,Ponte Preta - SP,São Paulo - SP,0,0,0,0,1,1,1
+367,A,2012,Orlando Scarpelli,Florianopolis,SC,Domingo,25, Novembro ,2012,17:00,Figueirense - SC,Grêmio - RS,2,4,0,1,0,0,3
+368,A,2012,Ilha do Retiro,Recife,PE,Domingo,25, Novembro ,2012,17:00,Sport - PE,Fluminense - RJ,1,1,0,0,1,1,1
+369,A,2012,Pituaçu,Salvador,BA,Domingo,25, Novembro ,2012,17:00,Bahia - BA,Náutico - PE,1,1,0,0,1,1,1
+370,A,2012,João Havelange,Rio de Janeiro,RJ,Sábado,1, Dezembro ,2012,19:30,Flamengo - RJ,Botafogo - RJ,2,2,0,0,1,1,1
+371,A,2012,João Havelange,Rio de Janeiro,RJ,Domingo,2, Dezembro ,2012,17:00,Fluminense - RJ,Vasco da Gama - RJ,1,2,0,1,0,0,3
+372,A,2012,Vila Belmiro,Santos,SP,Sábado,1, Dezembro ,2012,19:30,Santos - SP,Palmeiras - SP,3,1,1,0,0,3,0
+373,A,2012,Pacaembu,Sao Paulo,SP,Domingo,2, Dezembro ,2012,17:00,São Paulo - SP,Corinthians - SP,3,1,1,0,0,3,0
+374,A,2012,Olímpico,Porto Alegre,RS,Domingo,2, Dezembro ,2012,17:00,Grêmio - RS,Internacional - RS,0,0,0,0,1,1,1
+375,A,2012,Independência,Belo Horizonte,MG,Domingo,2, Dezembro ,2012,17:00,Atlético - MG,Cruzeiro - MG,3,2,1,0,0,3,0
+376,A,2012,Canindé,Sao Paulo,SP,Domingo,2, Dezembro ,2012,17:00,Portuguesa - SP,Ponte Preta - SP,0,0,0,0,1,1,1
+377,A,2012,Couto Pereira,Curitiba,PR,Domingo,2, Dezembro ,2012,17:00,Coritiba - PR,Figueirense - SC,3,0,1,0,0,3,0
+378,A,2012,Aflitos,Recife,PE,Domingo,2, Dezembro ,2012,17:00,Náutico - PE,Sport - PE,1,0,1,0,0,3,0
+379,A,2012,Serra Dourada,Goiania,GO,Domingo,2, Dezembro ,2012,17:00,Atlético - GO,Bahia - BA,0,1,0,1,0,0,3

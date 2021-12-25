@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,19, Abril ,2014,16:20,Bragantino - SP,Náutico - PE,2,2,0,0,1,1,1
+1,B,2014,Moisés Lucarelli,Campinas,SP,Sexta,18, Abril ,2014,21:50,Ponte Preta - SP,Icasa - CE,1,1,0,0,1,1,1
+2,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,19, Abril ,2014,16:20,Vasco da Gama - RJ,América - MG,1,1,0,0,1,1,1
+3,B,2014,Arruda,Recife,PE,Sábado,19, Abril ,2014,16:20,Santa Cruz - PE,Abc - RN,1,1,0,0,1,1,1
+4,B,2014,Castelão/MA,Sao Luis,MA,Sexta,18, Abril ,2014,19:30,Sampaio Correa - MA,Paraná - PR,0,2,0,1,0,0,3
+5,B,2014,Castelão,Fortaleza,CE,Sábado,19, Abril ,2014,21:00,Ceará - CE,Oeste - SP,1,0,1,0,0,3,0
+6,B,2014,Arena Joinville,Joinville,SC,Sexta,18, Abril ,2014,19:30,Joinville - SC,Portuguesa - SP,3,0,1,0,0,3,0
+7,B,2014,Serra Dourada,Goiania,GO,Sexta,18, Abril ,2014,19:30,Vila Nova - GO,Luverdense - MT,0,0,0,0,1,1,1
+8,B,2014,Arena das Dunas,Natal,RN,Sábado,19, Abril ,2014,21:00,América - RN,Avaí - SC,3,1,1,0,0,3,0
+9,B,2014,Dilzon Melo,Varginha,MG,Sábado,19, Abril ,2014,16:20,Boa - MG,Atlético - GO,1,1,0,0,1,1,1
+10,B,2014,Dos Amaros,Itapolis,SP,Sábado,26, Abril ,2014,16:20,Oeste - SP,América - RN,2,1,1,0,0,3,0
+11,B,2014,Canindé,Sao Paulo,SP,Sábado,26, Abril ,2014,16:20,Portuguesa - SP,Santa Cruz - PE,1,1,0,0,1,1,1
+12,B,2014,Durival Britto,Curitiba,PR,Sexta,25, Abril ,2014,21:00,Paraná - PR,Joinville - SC,2,3,0,1,0,0,3
+13,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,26, Abril ,2014,16:20,Náutico - PE,Vila Nova - GO,2,0,1,0,0,3,0
+14,B,2014,Arena Pantanal,Cuiaba,MT,Sábado,26, Abril ,2014,16:20,Luverdense - MT,Vasco da Gama - RJ,2,1,1,0,0,3,0
+15,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,25, Abril ,2014,19:30,Icasa - CE,Sampaio Correa - MA,0,3,0,1,0,0,3
+16,B,2014,Ressacada,Florianopolis,SC,Terça,22, Abril ,2014,21:50,Avaí - SC,Bragantino - SP,1,2,0,1,0,0,3
+17,B,2014,Serra Dourada,Goiania,GO,Sábado,26, Abril ,2014,16:20,Atlético - GO,Ponte Preta - SP,2,2,0,0,1,1,1
+18,B,2014,Iberezão,Santa Cruz,RN,Sábado,26, Abril ,2014,21:00,Abc - RN,Boa - MG,1,0,1,0,0,3,0
+19,B,2014,Independência,Belo Horizonte,MG,Sábado,26, Abril ,2014,21:00,América - MG,Ceará - CE,3,0,1,0,0,3,0
+20,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,29, Abril ,2014,21:50,Bragantino - SP,Portuguesa - SP,2,2,0,0,1,1,1
+21,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,3, Maio ,2014,16:20,Ponte Preta - SP,Luverdense - MT,2,2,0,0,1,1,1
+22,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,3, Maio ,2014,16:20,Vasco da Gama - RJ,Atlético - GO,3,0,1,0,0,3,0
+23,B,2014,Arruda,Recife,PE,Sexta,2, Maio ,2014,21:00,Santa Cruz - PE,Paraná - PR,1,1,0,0,1,1,1
+24,B,2014,Castelão/MA,Sao Luis,MA,Sábado,3, Maio ,2014,21:00,Sampaio Correa - MA,Oeste - SP,2,2,0,0,1,1,1
+25,B,2014,Castelão,Fortaleza,CE,Sábado,3, Maio ,2014,16:20,Ceará - CE,Náutico - PE,2,2,0,0,1,1,1
+26,B,2014,Arena Joinville,Joinville,SC,Sexta,2, Maio ,2014,19:30,Joinville - SC,Icasa - CE,2,1,1,0,0,3,0
+27,B,2014,Serra Dourada,Goiania,GO,Sábado,3, Maio ,2014,21:00,Vila Nova - GO,Avaí - SC,0,1,0,1,0,0,3
+28,B,2014,Arena das Dunas,Natal,RN,Sábado,3, Maio ,2014,16:20,América - RN,Abc - RN,0,2,0,1,0,0,3
+29,B,2014,Dilzon Melo,Varginha,MG,Sábado,3, Maio ,2014,16:20,Boa - MG,América - MG,1,3,0,1,0,0,3
+30,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,10, Maio ,2014,21:00,Bragantino - SP,América - MG,0,2,0,1,0,0,3
+31,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,10, Maio ,2014,16:20,Ponte Preta - SP,Abc - RN,2,1,1,0,0,3,0
+32,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,10, Maio ,2014,16:20,Vasco da Gama - RJ,Oeste - SP,2,0,1,0,0,3,0
+33,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,10, Maio ,2014,16:20,Santa Cruz - PE,Luverdense - MT,0,0,0,0,1,1,1
+34,B,2014,Castelão/MA,Sao Luis,MA,Sábado,7, Junho ,2014,16:20,Sampaio Correa - MA,Avaí - SC,1,1,0,0,1,1,1
+35,B,2014,Castelão,Fortaleza,CE,Sábado,10, Maio ,2014,21:00,Ceará - CE,Paraná - PR,2,1,1,0,0,3,0
+36,B,2014,Arena Joinville,Joinville,SC,Sábado,10, Maio ,2014,16:20,Joinville - SC,Náutico - PE,1,0,1,0,0,3,0
+37,B,2014,Serra Dourada,Goiania,GO,Sexta,9, Maio ,2014,21:00,Vila Nova - GO,Icasa - CE,0,1,0,1,0,0,3
+38,B,2014,Arena das Dunas,Natal,RN,Sábado,10, Maio ,2014,16:20,América - RN,Atlético - GO,3,3,0,0,1,1,1
+39,B,2014,Dilzon Melo,Varginha,MG,Terça,6, Maio ,2014,21:50,Boa - MG,Portuguesa - SP,2,1,1,0,0,3,0
+40,B,2014,Dos Amaros,Itapolis,SP,Terça,13, Maio ,2014,21:50,Oeste - SP,Ponte Preta - SP,1,1,0,0,1,1,1
+41,B,2014,Canindé,Sao Paulo,SP,Sábado,17, Maio ,2014,16:20,Portuguesa - SP,América - RN,1,2,0,1,0,0,3
+42,B,2014,Durival Britto,Curitiba,PR,Sexta,16, Maio ,2014,21:00,Paraná - PR,Boa - MG,0,0,0,0,1,1,1
+43,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,12, Agosto ,2014,21:00,Náutico - PE,Vasco da Gama - RJ,0,1,0,1,0,0,3
+44,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,17, Maio ,2014,21:00,Luverdense - MT,Bragantino - SP,2,0,1,0,0,3,0
+45,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,17, Maio ,2014,16:20,Icasa - CE,Santa Cruz - PE,1,1,0,0,1,1,1
+46,B,2014,Ressacada,Florianopolis,SC,Sábado,17, Maio ,2014,16:20,Avaí - SC,Ceará - CE,1,1,0,0,1,1,1
+47,B,2014,Serra Dourada,Goiania,GO,Sábado,17, Maio ,2014,21:00,Atlético - GO,Joinville - SC,0,0,0,0,1,1,1
+48,B,2014,Iberezão,Santa Cruz,RN,Sábado,17, Maio ,2014,16:20,Abc - RN,Sampaio Correa - MA,1,0,1,0,0,3,0
+49,B,2014,Independência,Belo Horizonte,MG,Sábado,17, Maio ,2014,16:20,América - MG,Vila Nova - GO,2,0,1,0,0,3,0
+50,B,2014,Dos Amaros,Itapolis,SP,Terça,20, Maio ,2014,19:30,Oeste - SP,Santa Cruz - PE,1,1,0,0,1,1,1
+51,B,2014,Moisés Lucarelli,Campinas,SP,Terça,20, Maio ,2014,19:30,Ponte Preta - SP,Vila Nova - GO,1,0,1,0,0,3,0
+52,B,2014,Alberto Silva,Teresina,PI,Terça,20, Maio ,2014,21:50,Vasco da Gama - RJ,Sampaio Correa - MA,1,1,0,0,1,1,1
+53,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,20, Maio ,2014,21:50,Náutico - PE,Portuguesa - SP,2,1,1,0,0,3,0
+54,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,20, Maio ,2014,21:50,Luverdense - MT,Boa - MG,4,2,1,0,0,3,0
+55,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,20, Maio ,2014,21:50,Icasa - CE,Bragantino - SP,3,0,1,0,0,3,0
+56,B,2014,Ressacada,Florianopolis,SC,Terça,20, Maio ,2014,19:30,Avaí - SC,Paraná - PR,2,1,1,0,0,3,0
+57,B,2014,Serra Dourada,Goiania,GO,Terça,20, Maio ,2014,19:30,Atlético - GO,Abc - RN,2,0,1,0,0,3,0
+58,B,2014,Arena das Dunas,Natal,RN,Terça,20, Maio ,2014,21:50,América - RN,Ceará - CE,0,1,0,1,0,0,3
+59,B,2014,Mineirão,Belo Horizonte,MG,Terça,20, Maio ,2014,19:30,América - MG,Joinville - SC,3,1,1,0,0,3,0
+60,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,23, Maio ,2014,19:30,Bragantino - SP,Oeste - SP,3,0,1,0,0,3,0
+61,B,2014,Canindé,Sao Paulo,SP,Sábado,24, Maio ,2014,16:20,Portuguesa - SP,Atlético - GO,2,0,1,0,0,3,0
+62,B,2014,Durival Britto,Curitiba,PR,Sábado,24, Maio ,2014,21:00,Paraná - PR,Náutico - PE,2,0,1,0,0,3,0
+63,B,2014,Aflitos,Recife,PE,Sexta,23, Maio ,2014,19:30,Santa Cruz - PE,América - MG,1,1,0,0,1,1,1
+64,B,2014,Castelão/MA,Sao Luis,MA,Sábado,24, Maio ,2014,16:20,Sampaio Correa - MA,Luverdense - MT,1,0,1,0,0,3,0
+65,B,2014,Horácio Domingos,Horizonte,CE,Sexta,23, Maio ,2014,21:50,Ceará - CE,Ponte Preta - SP,3,2,1,0,0,3,0
+66,B,2014,Arena Joinville,Joinville,SC,Sábado,24, Maio ,2014,16:20,Joinville - SC,Vasco da Gama - RJ,0,0,0,0,1,1,1
+67,B,2014,Serra Dourada,Goiania,GO,Sábado,24, Maio ,2014,16:20,Vila Nova - GO,América - RN,1,3,0,1,0,0,3
+68,B,2014,Iberezão,Santa Cruz,RN,Sábado,24, Maio ,2014,21:00,Abc - RN,Icasa - CE,3,0,1,0,0,3,0
+69,B,2014,Dilzon Melo,Varginha,MG,Sexta,23, Maio ,2014,19:30,Boa - MG,Avaí - SC,2,0,1,0,0,3,0
+70,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,27, Maio ,2014,21:50,Bragantino - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+71,B,2014,Canindé,Sao Paulo,SP,Terça,27, Maio ,2014,19:30,Portuguesa - SP,Sampaio Correa - MA,1,4,0,1,0,0,3
+72,B,2014,Durival Britto,Curitiba,PR,Terça,27, Maio ,2014,19:30,Paraná - PR,Ponte Preta - SP,1,2,0,1,0,0,3
+73,B,2014,Aflitos,Recife,PE,Terça,27, Maio ,2014,21:50,Náutico - PE,Avaí - SC,0,1,0,1,0,0,3
+74,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,27, Maio ,2014,21:50,Luverdense - MT,Icasa - CE,1,0,1,0,0,3,0
+75,B,2014,Horácio Domingos,Horizonte,CE,Terça,27, Maio ,2014,21:50,Ceará - CE,Vila Nova - GO,4,0,1,0,0,3,0
+76,B,2014,Arena Joinville,Joinville,SC,Terça,27, Maio ,2014,19:30,Joinville - SC,América - RN,1,0,1,0,0,3,0
+77,B,2014,Serra Dourada,Goiania,GO,Terça,27, Maio ,2014,21:50,Atlético - GO,América - MG,3,0,1,0,0,3,0
+78,B,2014,Iberezão,Santa Cruz,RN,Terça,27, Maio ,2014,19:30,Abc - RN,Oeste - SP,0,1,0,1,0,0,3
+79,B,2014,Dilzon Melo,Varginha,MG,Terça,27, Maio ,2014,19:30,Boa - MG,Santa Cruz - PE,0,2,0,1,0,0,3
+80,B,2014,Dos Amaros,Itapolis,SP,Sexta,30, Maio ,2014,19:30,Oeste - SP,Paraná - PR,2,2,0,0,1,1,1
+81,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,31, Maio ,2014,16:20,Ponte Preta - SP,Boa - MG,1,0,1,0,0,3,0
+82,B,2014,Raulino de Oliveira,Volta Redonda,RJ,Sábado,31, Maio ,2014,16:20,Vasco da Gama - RJ,Portuguesa - SP,1,1,0,0,1,1,1
+83,B,2014,Aflitos,Recife,PE,Sexta,30, Maio ,2014,21:50,Santa Cruz - PE,Joinville - SC,2,0,1,0,0,3,0
+84,B,2014,Castelão/MA,Sao Luis,MA,Sábado,31, Maio ,2014,16:20,Sampaio Correa - MA,Ceará - CE,2,2,0,0,1,1,1
+85,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,31, Maio ,2014,21:00,Icasa - CE,Atlético - GO,1,0,1,0,0,3,0
+86,B,2014,Ressacada,Florianopolis,SC,Sexta,30, Maio ,2014,19:30,Avaí - SC,Abc - RN,0,1,0,1,0,0,3
+87,B,2014,Serra Dourada,Goiania,GO,Sábado,31, Maio ,2014,21:00,Vila Nova - GO,Bragantino - SP,1,1,0,0,1,1,1
+88,B,2014,Nazarenão,Goianinha,RN,Sexta,30, Maio ,2014,19:30,América - RN,Luverdense - MT,2,0,1,0,0,3,0
+89,B,2014,Soares de Azevedo,Muriae,MG,Sábado,31, Maio ,2014,16:20,América - MG,Náutico - PE,1,3,0,1,0,0,3
+90,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,3, Junho ,2014,19:30,Bragantino - SP,Ceará - CE,1,2,0,1,0,0,3
+91,B,2014,Canindé,Sao Paulo,SP,Terça,3, Junho ,2014,19:30,Portuguesa - SP,América - MG,2,1,1,0,0,3,0
+92,B,2014,Durival Britto,Curitiba,PR,Sexta,6, Junho ,2014,19:30,Paraná - PR,Luverdense - MT,0,2,0,1,0,0,3
+93,B,2014,Arruda,Recife,PE,Terça,3, Junho ,2014,19:30,Santa Cruz - PE,Ponte Preta - SP,2,1,1,0,0,3,0
+94,B,2014,Castelão/MA,Sao Luis,MA,Terça,3, Junho ,2014,19:30,Sampaio Correa - MA,América - RN,3,0,1,0,0,3,0
+95,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,3, Junho ,2014,21:50,Icasa - CE,Avaí - SC,0,2,0,1,0,0,3
+96,B,2014,Arena Joinville,Joinville,SC,Sexta,6, Junho ,2014,19:30,Joinville - SC,Vila Nova - GO,1,0,1,0,0,3,0
+97,B,2014,Serra Dourada,Goiania,GO,Terça,22, Julho ,2014,19:30,Atlético - GO,Oeste - SP,4,2,1,0,0,3,0
+98,B,2014,Iberezão,Santa Cruz,RN,Terça,3, Junho ,2014,21:50,Abc - RN,Náutico - PE,1,1,0,0,1,1,1
+99,B,2014,Dilzon Melo,Varginha,MG,Terça,3, Junho ,2014,21:50,Boa - MG,Vasco da Gama - RJ,0,2,0,1,0,0,3
+100,B,2014,Dos Amaros,Itapolis,SP,Terça,15, Julho ,2014,21:50,Oeste - SP,Icasa - CE,0,0,0,0,1,1,1
+101,B,2014,Moisés Lucarelli,Campinas,SP,Terça,15, Julho ,2014,19:30,Ponte Preta - SP,Portuguesa - SP,0,0,0,0,1,1,1
+102,B,2014,Arena Pantanal,Cuiaba,MT,Terça,15, Julho ,2014,21:50,Vasco da Gama - RJ,Santa Cruz - PE,4,1,1,0,0,3,0
+103,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,15, Julho ,2014,19:30,Náutico - PE,Sampaio Correa - MA,1,0,1,0,0,3,0
+104,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,15, Julho ,2014,21:50,Luverdense - MT,Abc - RN,3,1,1,0,0,3,0
+105,B,2014,Presidente Vargas/CE,Fortaleza,CE,Terça,15, Julho ,2014,21:50,Ceará - CE,Joinville - SC,1,3,0,1,0,0,3
+106,B,2014,Ressacada,Florianopolis,SC,Terça,15, Julho ,2014,19:30,Avaí - SC,Atlético - GO,2,1,1,0,0,3,0
+107,B,2014,Serra Dourada,Goiania,GO,Terça,15, Julho ,2014,19:30,Vila Nova - GO,Boa - MG,0,2,0,1,0,0,3
+108,B,2014,Arena das Dunas,Natal,RN,Terça,15, Julho ,2014,21:50,América - RN,Bragantino - SP,4,2,1,0,0,3,0
+109,B,2014,Independência,Belo Horizonte,MG,Terça,15, Julho ,2014,19:30,América - MG,Paraná - PR,1,0,1,0,0,3,0
+110,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,19, Julho ,2014,21:00,Bragantino - SP,Sampaio Correa - MA,0,1,0,1,0,0,3
+111,B,2014,Canindé,Sao Paulo,SP,Sexta,18, Julho ,2014,19:30,Portuguesa - SP,Paraná - PR,1,1,0,0,1,1,1
+112,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,19, Julho ,2014,16:20,Vasco da Gama - RJ,América - RN,1,1,0,0,1,1,1
+113,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,19, Julho ,2014,21:00,Náutico - PE,Boa - MG,1,3,0,1,0,0,3
+114,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,19, Julho ,2014,16:20,Luverdense - MT,Atlético - GO,0,2,0,1,0,0,3
+115,B,2014,Castelão,Fortaleza,CE,Sábado,19, Julho ,2014,16:20,Ceará - CE,Icasa - CE,2,1,1,0,0,3,0
+116,B,2014,Ressacada,Florianopolis,SC,Sexta,18, Julho ,2014,21:50,Avaí - SC,Ponte Preta - SP,1,0,1,0,0,3,0
+117,B,2014,Serra Dourada,Goiania,GO,Sábado,19, Julho ,2014,16:20,Vila Nova - GO,Santa Cruz - PE,3,2,1,0,0,3,0
+118,B,2014,Frasqueirão,Natal,RN,Sexta,18, Julho ,2014,19:30,Abc - RN,Joinville - SC,2,1,1,0,0,3,0
+119,B,2014,Independência,Belo Horizonte,MG,Sexta,18, Julho ,2014,19:30,América - MG,Oeste - SP,3,0,1,0,0,3,0
+120,B,2014,Dos Amaros,Itapolis,SP,Sexta,25, Julho ,2014,19:30,Oeste - SP,Luverdense - MT,2,1,1,0,0,3,0
+121,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,26, Julho ,2014,16:20,Ponte Preta - SP,Vasco da Gama - RJ,0,0,0,0,1,1,1
+122,B,2014,Durival Britto,Curitiba,PR,Sábado,26, Julho ,2014,21:00,Paraná - PR,Abc - RN,1,0,1,0,0,3,0
+123,B,2014,Arruda,Recife,PE,Sábado,26, Julho ,2014,16:20,Santa Cruz - PE,Ceará - CE,2,3,0,1,0,0,3
+124,B,2014,Castelão/MA,Sao Luis,MA,Sábado,26, Julho ,2014,21:00,Sampaio Correa - MA,Vila Nova - GO,2,0,1,0,0,3,0
+125,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,22, Julho ,2014,19:00,Icasa - CE,Portuguesa - SP,2,0,1,0,0,3,0
+126,B,2014,Arena Joinville,Joinville,SC,Sábado,26, Julho ,2014,16:20,Joinville - SC,Avaí - SC,0,1,0,1,0,0,3
+127,B,2014,Serra Dourada,Goiania,GO,Sábado,26, Julho ,2014,16:20,Atlético - GO,Náutico - PE,2,0,1,0,0,3,0
+128,B,2014,Arena das Dunas,Natal,RN,Sexta,25, Julho ,2014,21:00,América - RN,América - MG,1,0,1,0,0,3,0
+129,B,2014,Dilzon Melo,Varginha,MG,Sexta,25, Julho ,2014,21:00,Boa - MG,Bragantino - SP,2,1,1,0,0,3,0
+130,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,2, Agosto ,2014,16:20,Bragantino - SP,Joinville - SC,1,0,1,0,0,3,0
+131,B,2014,Canindé,Sao Paulo,SP,Terça,29, Julho ,2014,21:00,Portuguesa - SP,Oeste - SP,0,0,0,0,1,1,1
+132,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,2, Agosto ,2014,16:20,Vasco da Gama - RJ,Paraná - PR,1,0,1,0,0,3,0
+133,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,29, Julho ,2014,19:00,Náutico - PE,Icasa - CE,1,0,1,0,0,3,0
+134,B,2014,Castelão/MA,Sao Luis,MA,Sábado,2, Agosto ,2014,16:20,Sampaio Correa - MA,Ponte Preta - SP,3,3,0,0,1,1,1
+135,B,2014,Presidente Vargas/CE,Fortaleza,CE,Sábado,2, Agosto ,2014,21:00,Ceará - CE,Boa - MG,2,2,0,0,1,1,1
+136,B,2014,Ressacada,Florianopolis,SC,Sexta,1, Agosto ,2014,21:00,Avaí - SC,Luverdense - MT,1,2,0,1,0,0,3
+137,B,2014,Serra Dourada,Goiania,GO,Sexta,1, Agosto ,2014,21:00,Vila Nova - GO,Atlético - GO,0,2,0,1,0,0,3
+138,B,2014,Arena das Dunas,Natal,RN,Sábado,2, Agosto ,2014,16:20,América - RN,Santa Cruz - PE,0,1,0,1,0,0,3
+139,B,2014,Independência,Belo Horizonte,MG,Sábado,2, Agosto ,2014,16:20,América - MG,Abc - RN,1,0,1,0,0,3,0
+140,B,2014,Dos Amaros,Itapolis,SP,Sábado,9, Agosto ,2014,21:00,Oeste - SP,Avaí - SC,0,0,0,0,1,1,1
+141,B,2014,Moisés Lucarelli,Campinas,SP,Sexta,8, Agosto ,2014,21:00,Ponte Preta - SP,Bragantino - SP,1,0,1,0,0,3,0
+142,B,2014,Durival Britto,Curitiba,PR,Sábado,9, Agosto ,2014,16:20,Paraná - PR,Vila Nova - GO,3,1,1,0,0,3,0
+143,B,2014,Arruda,Recife,PE,Sábado,9, Agosto ,2014,16:20,Santa Cruz - PE,Náutico - PE,3,0,1,0,0,3,0
+144,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,5, Agosto ,2014,19:30,Luverdense - MT,Portuguesa - SP,3,1,1,0,0,3,0
+145,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,8, Agosto ,2014,19:30,Icasa - CE,América - MG,2,0,1,0,0,3,0
+146,B,2014,Arena Joinville,Joinville,SC,Terça,5, Agosto ,2014,21:00,Joinville - SC,Sampaio Correa - MA,3,1,1,0,0,3,0
+147,B,2014,Serra Dourada,Goiania,GO,Sexta,8, Agosto ,2014,19:30,Atlético - GO,Ceará - CE,0,2,0,1,0,0,3
+148,B,2014,Arena das Dunas,Natal,RN,Sábado,9, Agosto ,2014,16:20,Abc - RN,Vasco da Gama - RJ,1,2,0,1,0,0,3
+149,B,2014,Dilzon Melo,Varginha,MG,Sábado,9, Agosto ,2014,21:00,Boa - MG,América - RN,3,2,1,0,0,3,0
+150,B,2014,Dos Amaros,Itapolis,SP,Sábado,16, Agosto ,2014,21:00,Oeste - SP,Vila Nova - GO,1,3,0,1,0,0,3
+151,B,2014,Moisés Lucarelli,Campinas,SP,Sexta,15, Agosto ,2014,21:00,Ponte Preta - SP,Joinville - SC,2,0,1,0,0,3,0
+152,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,16, Agosto ,2014,16:20,Vasco da Gama - RJ,Ceará - CE,2,0,1,0,0,3,0
+153,B,2014,Arruda,Recife,PE,Terça,14, Outubro ,2014,19:30,Santa Cruz - PE,Bragantino - SP,2,1,1,0,0,3,0
+154,B,2014,Arena Pantanal,Cuiaba,MT,Sábado,16, Agosto ,2014,16:20,Luverdense - MT,Náutico - PE,0,2,0,1,0,0,3
+155,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,16, Agosto ,2014,16:20,Icasa - CE,América - RN,0,2,0,1,0,0,3
+156,B,2014,Ressacada,Florianopolis,SC,Terça,12, Agosto ,2014,21:00,Avaí - SC,América - MG,2,0,1,0,0,3,0
+157,B,2014,Serra Dourada,Goiania,GO,Sexta,15, Agosto ,2014,19:30,Atlético - GO,Paraná - PR,2,1,1,0,0,3,0
+158,B,2014,Arena das Dunas,Natal,RN,Terça,12, Agosto ,2014,19:30,Abc - RN,Portuguesa - SP,0,0,0,0,1,1,1
+159,B,2014,Dilzon Melo,Varginha,MG,Sábado,16, Agosto ,2014,21:00,Boa - MG,Sampaio Correa - MA,2,1,1,0,0,3,0
+160,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,19, Agosto ,2014,21:50,Bragantino - SP,Atlético - GO,2,1,1,0,0,3,0
+161,B,2014,Canindé,Sao Paulo,SP,Terça,19, Agosto ,2014,21:50,Portuguesa - SP,Avaí - SC,1,3,0,1,0,0,3
+162,B,2014,Durival Britto,Curitiba,PR,Terça,19, Agosto ,2014,19:30,Paraná - PR,Icasa - CE,1,0,1,0,0,3,0
+163,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,19, Agosto ,2014,19:30,Náutico - PE,Oeste - SP,3,2,1,0,0,3,0
+164,B,2014,Castelão/MA,Sao Luis,MA,Terça,19, Agosto ,2014,19:30,Sampaio Correa - MA,Santa Cruz - PE,0,0,0,0,1,1,1
+165,B,2014,Presidente Vargas/CE,Fortaleza,CE,Terça,19, Agosto ,2014,19:30,Ceará - CE,Abc - RN,1,2,0,1,0,0,3
+166,B,2014,Arena Joinville,Joinville,SC,Terça,19, Agosto ,2014,19:30,Joinville - SC,Boa - MG,2,1,1,0,0,3,0
+167,B,2014,Mané Garrincha,Brasilia,DF,Terça,19, Agosto ,2014,21:50,Vila Nova - GO,Vasco da Gama - RJ,2,1,1,0,0,3,0
+168,B,2014,Arena das Dunas,Natal,RN,Terça,19, Agosto ,2014,19:30,América - RN,Ponte Preta - SP,0,2,0,1,0,0,3
+169,B,2014,Independência,Belo Horizonte,MG,Terça,19, Agosto ,2014,21:50,América - MG,Luverdense - MT,2,0,1,0,0,3,0
+170,B,2014,Dos Amaros,Itapolis,SP,Sexta,22, Agosto ,2014,19:30,Oeste - SP,Boa - MG,2,1,1,0,0,3,0
+171,B,2014,Canindé,Sao Paulo,SP,Sábado,23, Agosto ,2014,16:10,Portuguesa - SP,Ceará - CE,1,1,0,0,1,1,1
+172,B,2014,Durival Britto,Curitiba,PR,Sábado,23, Agosto ,2014,16:10,Paraná - PR,Bragantino - SP,1,0,1,0,0,3,0
+173,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,23, Agosto ,2014,16:10,Náutico - PE,América - RN,2,1,1,0,0,3,0
+174,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,23, Agosto ,2014,21:00,Luverdense - MT,Joinville - SC,2,2,0,0,1,1,1
+175,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,22, Agosto ,2014,21:50,Icasa - CE,Vasco da Gama - RJ,1,1,0,0,1,1,1
+176,B,2014,Ressacada,Florianopolis,SC,Sábado,23, Agosto ,2014,16:10,Avaí - SC,Santa Cruz - PE,0,0,0,0,1,1,1
+177,B,2014,Serra Dourada,Goiania,GO,Sábado,23, Agosto ,2014,16:10,Atlético - GO,Sampaio Correa - MA,2,4,0,1,0,0,3
+178,B,2014,Frasqueirão,Natal,RN,Sábado,23, Agosto ,2014,21:00,Abc - RN,Vila Nova - GO,0,2,0,1,0,0,3
+179,B,2014,Independência,Belo Horizonte,MG,Sexta,22, Agosto ,2014,19:30,América - MG,Ponte Preta - SP,3,0,1,0,0,3,0
+180,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,30, Agosto ,2014,16:10,Bragantino - SP,Abc - RN,1,0,1,0,0,3,0
+181,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,30, Agosto ,2014,16:10,Ponte Preta - SP,Náutico - PE,2,0,1,0,0,3,0
+182,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,30, Agosto ,2014,16:10,Vasco da Gama - RJ,Avaí - SC,0,5,0,1,0,0,3
+183,B,2014,Arruda,Recife,PE,Sexta,29, Agosto ,2014,20:30,Santa Cruz - PE,Atlético - GO,2,0,1,0,0,3,0
+184,B,2014,Castelão/MA,Sao Luis,MA,Sexta,29, Agosto ,2014,20:30,Sampaio Correa - MA,América - MG,0,0,0,0,1,1,1
+185,B,2014,Castelão,Fortaleza,CE,Sábado,30, Agosto ,2014,21:00,Ceará - CE,Luverdense - MT,3,1,1,0,0,3,0
+186,B,2014,Arena Joinville,Joinville,SC,Sexta,29, Agosto ,2014,20:30,Joinville - SC,Oeste - SP,2,1,1,0,0,3,0
+187,B,2014,Serra Dourada,Goiania,GO,Terça,26, Agosto ,2014,21:50,Vila Nova - GO,Portuguesa - SP,1,2,0,1,0,0,3
+188,B,2014,Arena das Dunas,Natal,RN,Sábado,30, Agosto ,2014,16:10,América - RN,Paraná - PR,2,3,0,1,0,0,3
+189,B,2014,Dilzon Melo,Varginha,MG,Terça,26, Agosto ,2014,19:30,Boa - MG,Icasa - CE,2,0,1,0,0,3,0
+190,B,2014,Dos Amaros,Itapolis,SP,Sábado,6, Setembro ,2014,21:00,Oeste - SP,Ceará - CE,3,1,1,0,0,3,0
+191,B,2014,Canindé,Sao Paulo,SP,Terça,2, Setembro ,2014,20:30,Portuguesa - SP,Joinville - SC,1,2,0,1,0,0,3
+192,B,2014,Durival Britto,Curitiba,PR,Terça,2, Setembro ,2014,19:30,Paraná - PR,Sampaio Correa - MA,0,0,0,0,1,1,1
+193,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,6, Setembro ,2014,16:10,Náutico - PE,Bragantino - SP,0,0,0,0,1,1,1
+194,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,6, Setembro ,2014,21:00,Luverdense - MT,Vila Nova - GO,2,0,1,0,0,3,0
+195,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,5, Setembro ,2014,19:30,Icasa - CE,Ponte Preta - SP,0,1,0,1,0,0,3
+196,B,2014,Ressacada,Florianopolis,SC,Sábado,6, Setembro ,2014,16:10,Avaí - SC,América - RN,0,0,0,0,1,1,1
+197,B,2014,Serra Dourada,Goiania,GO,Terça,2, Setembro ,2014,19:30,Atlético - GO,Boa - MG,0,3,0,1,0,0,3
+198,B,2014,Arena das Dunas,Natal,RN,Sábado,6, Setembro ,2014,16:10,Abc - RN,Santa Cruz - PE,2,1,1,0,0,3,0
+199,B,2014,Independência,Belo Horizonte,MG,Sábado,6, Setembro ,2014,16:10,América - MG,Vasco da Gama - RJ,2,3,0,1,0,0,3
+200,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,9, Setembro ,2014,19:30,Bragantino - SP,Avaí - SC,1,4,0,1,0,0,3
+201,B,2014,Moisés Lucarelli,Campinas,SP,Terça,9, Setembro ,2014,17:00,Ponte Preta - SP,Atlético - GO,3,4,0,1,0,0,3
+202,B,2014,São Januário,Rio de Janeiro,RJ,Terça,9, Setembro ,2014,19:30,Vasco da Gama - RJ,Luverdense - MT,2,0,1,0,0,3,0
+203,B,2014,Arruda,Recife,PE,Terça,9, Setembro ,2014,19:30,Santa Cruz - PE,Portuguesa - SP,1,0,1,0,0,3,0
+204,B,2014,Castelão/MA,Sao Luis,MA,Terça,9, Setembro ,2014,19:30,Sampaio Correa - MA,Icasa - CE,3,2,1,0,0,3,0
+205,B,2014,Castelão,Fortaleza,CE,Terça,9, Setembro ,2014,19:30,Ceará - CE,América - MG,5,2,1,0,0,3,0
+206,B,2014,Arena Joinville,Joinville,SC,Segunda,8, Setembro ,2014,21:00,Joinville - SC,Paraná - PR,3,0,1,0,0,3,0
+207,B,2014,Serra Dourada,Goiania,GO,Terça,9, Setembro ,2014,19:30,Vila Nova - GO,Náutico - PE,0,1,0,1,0,0,3
+208,B,2014,Arena das Dunas,Natal,RN,Terça,9, Setembro ,2014,19:30,América - RN,Oeste - SP,0,1,0,1,0,0,3
+209,B,2014,Dilzon Melo,Varginha,MG,Terça,9, Setembro ,2014,17:00,Boa - MG,Abc - RN,0,0,0,0,1,1,1
+210,B,2014,Dos Amaros,Itapolis,SP,Sexta,12, Setembro ,2014,19:30,Oeste - SP,Sampaio Correa - MA,0,0,0,0,1,1,1
+211,B,2014,Canindé,Sao Paulo,SP,Sábado,13, Setembro ,2014,21:00,Portuguesa - SP,Bragantino - SP,1,3,0,1,0,0,3
+212,B,2014,Durival Britto,Curitiba,PR,Sábado,13, Setembro ,2014,16:10,Paraná - PR,Santa Cruz - PE,3,2,1,0,0,3,0
+213,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sexta,12, Setembro ,2014,19:30,Náutico - PE,Ceará - CE,2,1,1,0,0,3,0
+214,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sexta,12, Setembro ,2014,21:50,Luverdense - MT,Ponte Preta - SP,0,1,0,1,0,0,3
+215,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,12, Setembro ,2014,19:30,Icasa - CE,Joinville - SC,1,1,0,0,1,1,1
+216,B,2014,Ressacada,Florianopolis,SC,Sábado,13, Setembro ,2014,21:00,Avaí - SC,Vila Nova - GO,2,1,1,0,0,3,0
+217,B,2014,Mané Garrincha,Brasilia,DF,Sábado,13, Setembro ,2014,16:10,Atlético - GO,Vasco da Gama - RJ,1,1,0,0,1,1,1
+218,B,2014,Arena das Dunas,Natal,RN,Sábado,13, Setembro ,2014,16:10,Abc - RN,América - RN,0,0,0,0,1,1,1
+219,B,2014,Independência,Belo Horizonte,MG,Sábado,13, Setembro ,2014,16:10,América - MG,Boa - MG,0,2,0,1,0,0,3
+220,B,2014,Arena da Amazônia,Manaus,AM,Terça,16, Setembro ,2014,21:50,Oeste - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+221,B,2014,Canindé,Sao Paulo,SP,Terça,16, Setembro ,2014,19:30,Portuguesa - SP,Boa - MG,1,1,0,0,1,1,1
+222,B,2014,Durival Britto,Curitiba,PR,Terça,16, Setembro ,2014,19:30,Paraná - PR,Ceará - CE,0,0,0,0,1,1,1
+223,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,16, Setembro ,2014,19:30,Náutico - PE,Joinville - SC,1,2,0,1,0,0,3
+224,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,16, Setembro ,2014,21:50,Luverdense - MT,Santa Cruz - PE,2,1,1,0,0,3,0
+225,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,16, Setembro ,2014,21:50,Icasa - CE,Vila Nova - GO,0,1,0,1,0,0,3
+226,B,2014,Ressacada,Florianopolis,SC,Terça,16, Setembro ,2014,19:30,Avaí - SC,Sampaio Correa - MA,3,2,1,0,0,3,0
+227,B,2014,Serra Dourada,Goiania,GO,Terça,16, Setembro ,2014,19:30,Atlético - GO,América - RN,2,0,1,0,0,3,0
+228,B,2014,Arena das Dunas,Natal,RN,Terça,16, Setembro ,2014,21:50,Abc - RN,Ponte Preta - SP,0,2,0,1,0,0,3
+229,B,2014,Independência,Belo Horizonte,MG,Terça,16, Setembro ,2014,19:30,América - MG,Bragantino - SP,0,2,0,1,0,0,3
+230,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,20, Setembro ,2014,21:00,Bragantino - SP,Luverdense - MT,2,0,1,0,0,3,0
+231,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,20, Setembro ,2014,16:10,Ponte Preta - SP,Oeste - SP,5,1,1,0,0,3,0
+232,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,20, Setembro ,2014,16:10,Vasco da Gama - RJ,Náutico - PE,2,1,1,0,0,3,0
+233,B,2014,Arruda,Recife,PE,Sábado,20, Setembro ,2014,16:10,Santa Cruz - PE,Icasa - CE,1,1,0,0,1,1,1
+234,B,2014,Castelão/MA,Sao Luis,MA,Sábado,20, Setembro ,2014,16:10,Sampaio Correa - MA,Abc - RN,2,1,1,0,0,3,0
+235,B,2014,Castelão,Fortaleza,CE,Sexta,19, Setembro ,2014,21:50,Ceará - CE,Avaí - SC,2,2,0,0,1,1,1
+236,B,2014,Arena Joinville,Joinville,SC,Sábado,20, Setembro ,2014,16:10,Joinville - SC,Atlético - GO,2,0,1,0,0,3,0
+237,B,2014,Serra Dourada,Goiania,GO,Sábado,20, Setembro ,2014,16:10,Vila Nova - GO,América - MG,0,1,0,1,0,0,3
+238,B,2014,Arena das Dunas,Natal,RN,Sexta,19, Setembro ,2014,19:30,América - RN,Portuguesa - SP,1,1,0,0,1,1,1
+239,B,2014,Dilzon Melo,Varginha,MG,Sábado,20, Setembro ,2014,21:00,Boa - MG,Paraná - PR,1,0,1,0,0,3,0
+240,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,23, Setembro ,2014,19:30,Bragantino - SP,Icasa - CE,2,1,1,0,0,3,0
+241,B,2014,Canindé,Sao Paulo,SP,Terça,23, Setembro ,2014,21:50,Portuguesa - SP,Náutico - PE,0,0,0,0,1,1,1
+242,B,2014,Durival Britto,Curitiba,PR,Terça,23, Setembro ,2014,19:30,Paraná - PR,Avaí - SC,1,1,0,0,1,1,1
+243,B,2014,Arruda,Recife,PE,Terça,23, Setembro ,2014,21:50,Santa Cruz - PE,Oeste - SP,3,0,1,0,0,3,0
+244,B,2014,Castelão/MA,Sao Luis,MA,Terça,23, Setembro ,2014,21:50,Sampaio Correa - MA,Vasco da Gama - RJ,2,2,0,0,1,1,1
+245,B,2014,Castelão,Fortaleza,CE,Terça,23, Setembro ,2014,21:50,Ceará - CE,América - RN,2,0,1,0,0,3,0
+246,B,2014,Arena Joinville,Joinville,SC,Terça,23, Setembro ,2014,19:30,Joinville - SC,América - MG,1,1,0,0,1,1,1
+247,B,2014,Serra Dourada,Goiania,GO,Terça,23, Setembro ,2014,19:30,Vila Nova - GO,Ponte Preta - SP,0,3,0,1,0,0,3
+248,B,2014,Frasqueirão,Natal,RN,Terça,23, Setembro ,2014,19:30,Abc - RN,Atlético - GO,2,0,1,0,0,3,0
+249,B,2014,Dilzon Melo,Varginha,MG,Terça,23, Setembro ,2014,19:30,Boa - MG,Luverdense - MT,2,1,1,0,0,3,0
+250,B,2014,Dos Amaros,Itapolis,SP,Sábado,27, Setembro ,2014,16:10,Oeste - SP,Bragantino - SP,4,1,1,0,0,3,0
+251,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,27, Setembro ,2014,16:10,Ponte Preta - SP,Ceará - CE,3,1,1,0,0,3,0
+252,B,2014,São Januário,Rio de Janeiro,RJ,Sexta,26, Setembro ,2014,21:50,Vasco da Gama - RJ,Joinville - SC,2,0,1,0,0,3,0
+253,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sexta,26, Setembro ,2014,19:30,Náutico - PE,Paraná - PR,3,1,1,0,0,3,0
+254,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sexta,26, Setembro ,2014,19:30,Luverdense - MT,Sampaio Correa - MA,0,1,0,1,0,0,3
+255,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,27, Setembro ,2014,21:00,Icasa - CE,Abc - RN,1,0,1,0,0,3,0
+256,B,2014,Ressacada,Florianopolis,SC,Sábado,27, Setembro ,2014,16:10,Avaí - SC,Boa - MG,2,0,1,0,0,3,0
+257,B,2014,Serra Dourada,Goiania,GO,Sábado,27, Setembro ,2014,21:00,Atlético - GO,Portuguesa - SP,2,1,1,0,0,3,0
+258,B,2014,Arena das Dunas,Natal,RN,Sexta,26, Setembro ,2014,19:30,América - RN,Vila Nova - GO,0,1,0,1,0,0,3
+259,B,2014,Independência,Belo Horizonte,MG,Sábado,27, Setembro ,2014,16:10,América - MG,Santa Cruz - PE,1,0,1,0,0,3,0
+260,B,2014,Dos Amaros,Itapolis,SP,Sábado,4, Outubro ,2014,21:00,Oeste - SP,Abc - RN,1,0,1,0,0,3,0
+261,B,2014,Moisés Lucarelli,Campinas,SP,Terça,30, Setembro ,2014,20:30,Ponte Preta - SP,Paraná - PR,2,2,0,0,1,1,1
+262,B,2014,São Januário,Rio de Janeiro,RJ,Sexta,3, Outubro ,2014,21:00,Vasco da Gama - RJ,Bragantino - SP,2,2,0,0,1,1,1
+263,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sexta,3, Outubro ,2014,19:30,Santa Cruz - PE,Boa - MG,3,0,1,0,0,3,0
+264,B,2014,Castelão/MA,Sao Luis,MA,Terça,30, Setembro ,2014,19:30,Sampaio Correa - MA,Portuguesa - SP,0,0,0,0,1,1,1
+265,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,30, Setembro ,2014,19:30,Icasa - CE,Luverdense - MT,1,0,1,0,0,3,0
+266,B,2014,Ressacada,Florianopolis,SC,Sábado,4, Outubro ,2014,16:20,Avaí - SC,Náutico - PE,0,2,0,1,0,0,3
+267,B,2014,Serra Dourada,Goiania,GO,Terça,30, Setembro ,2014,19:30,Vila Nova - GO,Ceará - CE,1,5,0,1,0,0,3
+268,B,2014,Arena das Dunas,Natal,RN,Sábado,4, Outubro ,2014,21:00,América - RN,Joinville - SC,1,0,1,0,0,3,0
+269,B,2014,Independência,Belo Horizonte,MG,Sexta,3, Outubro ,2014,19:30,América - MG,Atlético - GO,1,1,0,0,1,1,1
+270,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Terça,7, Outubro ,2014,19:30,Bragantino - SP,Vila Nova - GO,1,2,0,1,0,0,3
+271,B,2014,Canindé,Sao Paulo,SP,Terça,7, Outubro ,2014,21:50,Portuguesa - SP,Vasco da Gama - RJ,0,1,0,1,0,0,3
+272,B,2014,Durival Britto,Curitiba,PR,Terça,7, Outubro ,2014,19:30,Paraná - PR,Oeste - SP,0,0,0,0,1,1,1
+273,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,7, Outubro ,2014,19:30,Náutico - PE,América - MG,1,4,0,1,0,0,3
+274,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,7, Outubro ,2014,21:50,Luverdense - MT,América - RN,2,1,1,0,0,3,0
+275,B,2014,Castelão,Fortaleza,CE,Terça,7, Outubro ,2014,19:30,Ceará - CE,Sampaio Correa - MA,1,1,0,0,1,1,1
+276,B,2014,Arena Joinville,Joinville,SC,Terça,7, Outubro ,2014,21:50,Joinville - SC,Santa Cruz - PE,1,1,0,0,1,1,1
+277,B,2014,Serra Dourada,Goiania,GO,Terça,7, Outubro ,2014,19:30,Atlético - GO,Icasa - CE,0,0,0,0,1,1,1
+278,B,2014,Frasqueirão,Natal,RN,Terça,7, Outubro ,2014,21:50,Abc - RN,Avaí - SC,2,1,1,0,0,3,0
+279,B,2014,Dilzon Melo,Varginha,MG,Terça,7, Outubro ,2014,19:30,Boa - MG,Ponte Preta - SP,0,1,0,1,0,0,3
+280,B,2014,Dos Amaros,Itapolis,SP,Sexta,10, Outubro ,2014,19:30,Oeste - SP,Atlético - GO,1,2,0,1,0,0,3
+281,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,11, Outubro ,2014,16:10,Ponte Preta - SP,Santa Cruz - PE,1,1,0,0,1,1,1
+282,B,2014,São Januário,Rio de Janeiro,RJ,Sexta,10, Outubro ,2014,19:30,Vasco da Gama - RJ,Boa - MG,2,0,1,0,0,3,0
+283,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,11, Outubro ,2014,16:10,Náutico - PE,Abc - RN,2,1,1,0,0,3,0
+284,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,11, Outubro ,2014,21:00,Luverdense - MT,Paraná - PR,0,2,0,1,0,0,3
+285,B,2014,Castelão,Fortaleza,CE,Sexta,10, Outubro ,2014,19:30,Ceará - CE,Bragantino - SP,1,0,1,0,0,3,0
+286,B,2014,Ressacada,Florianopolis,SC,Sábado,11, Outubro ,2014,21:00,Avaí - SC,Icasa - CE,1,0,1,0,0,3,0
+287,B,2014,Serra Dourada,Goiania,GO,Sexta,10, Outubro ,2014,19:30,Vila Nova - GO,Joinville - SC,0,1,0,1,0,0,3
+288,B,2014,Arena das Dunas,Natal,RN,Sábado,11, Outubro ,2014,16:20,América - RN,Sampaio Correa - MA,2,2,0,0,1,1,1
+289,B,2014,Independência,Belo Horizonte,MG,Sábado,11, Outubro ,2014,16:10,América - MG,Portuguesa - SP,3,1,1,0,0,3,0
+290,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,18, Outubro ,2014,16:20,Bragantino - SP,América - RN,2,1,1,0,0,3,0
+291,B,2014,Canindé,Sao Paulo,SP,Sexta,17, Outubro ,2014,19:30,Portuguesa - SP,Ponte Preta - SP,0,3,0,1,0,0,3
+292,B,2014,Durival Britto,Curitiba,PR,Sexta,17, Outubro ,2014,21:50,Paraná - PR,América - MG,1,1,0,0,1,1,1
+293,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,18, Outubro ,2014,16:10,Santa Cruz - PE,Vasco da Gama - RJ,1,0,1,0,0,3,0
+294,B,2014,Castelão/MA,Sao Luis,MA,Sábado,18, Outubro ,2014,16:10,Sampaio Correa - MA,Náutico - PE,1,1,0,0,1,1,1
+295,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,17, Outubro ,2014,19:30,Icasa - CE,Oeste - SP,0,0,0,0,1,1,1
+296,B,2014,Arena Joinville,Joinville,SC,Sábado,18, Outubro ,2014,16:10,Joinville - SC,Ceará - CE,3,0,1,0,0,3,0
+297,B,2014,Serra Dourada,Goiania,GO,Terça,14, Outubro ,2014,21:00,Atlético - GO,Avaí - SC,2,0,1,0,0,3,0
+298,B,2014,Frasqueirão,Natal,RN,Sábado,18, Outubro ,2014,21:00,Abc - RN,Luverdense - MT,0,1,0,1,0,0,3
+299,B,2014,Dilzon Melo,Varginha,MG,Terça,14, Outubro ,2014,19:30,Boa - MG,Vila Nova - GO,3,0,1,0,0,3,0
+300,B,2014,Dos Amaros,Itapolis,SP,Terça,21, Outubro ,2014,19:30,Oeste - SP,América - MG,1,3,0,1,0,0,3
+301,B,2014,Moisés Lucarelli,Campinas,SP,Terça,21, Outubro ,2014,19:30,Ponte Preta - SP,Avaí - SC,3,1,1,0,0,3,0
+302,B,2014,Durival Britto,Curitiba,PR,Terça,21, Outubro ,2014,19:30,Paraná - PR,Portuguesa - SP,1,0,1,0,0,3,0
+303,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,28, Outubro ,2014,19:30,Santa Cruz - PE,Vila Nova - GO,5,1,1,0,0,3,0
+304,B,2014,Castelão/MA,Sao Luis,MA,Terça,21, Outubro ,2014,19:30,Sampaio Correa - MA,Bragantino - SP,3,0,1,0,0,3,0
+305,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,21, Outubro ,2014,19:30,Icasa - CE,Ceará - CE,2,1,1,0,0,3,0
+306,B,2014,Arena Joinville,Joinville,SC,Terça,21, Outubro ,2014,21:50,Joinville - SC,Abc - RN,3,0,1,0,0,3,0
+307,B,2014,Serra Dourada,Goiania,GO,Terça,21, Outubro ,2014,21:50,Atlético - GO,Luverdense - MT,3,0,1,0,0,3,0
+308,B,2014,Arena das Dunas,Natal,RN,Terça,21, Outubro ,2014,19:30,América - RN,Vasco da Gama - RJ,2,0,1,0,0,3,0
+309,B,2014,Dilzon Melo,Varginha,MG,Terça,21, Outubro ,2014,21:50,Boa - MG,Náutico - PE,1,0,1,0,0,3,0
+310,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,25, Outubro ,2014,16:20,Bragantino - SP,Boa - MG,4,2,1,0,0,3,0
+311,B,2014,Canindé,Sao Paulo,SP,Sexta,24, Outubro ,2014,19:30,Portuguesa - SP,Icasa - CE,1,2,0,1,0,0,3
+312,B,2014,São Januário,Rio de Janeiro,RJ,Sábado,25, Outubro ,2014,16:20,Vasco da Gama - RJ,Ponte Preta - SP,1,1,0,0,1,1,1
+313,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,25, Outubro ,2014,17:20,Náutico - PE,Atlético - GO,1,2,0,1,0,0,3
+314,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,25, Outubro ,2014,21:00,Luverdense - MT,Oeste - SP,1,0,1,0,0,3,0
+315,B,2014,Castelão,Fortaleza,CE,Sexta,24, Outubro ,2014,21:50,Ceará - CE,Santa Cruz - PE,0,2,0,1,0,0,3
+316,B,2014,Ressacada,Florianopolis,SC,Sexta,24, Outubro ,2014,19:30,Avaí - SC,Joinville - SC,0,3,0,1,0,0,3
+317,B,2014,Serra Dourada,Goiania,GO,Sábado,25, Outubro ,2014,21:00,Vila Nova - GO,Sampaio Correa - MA,4,1,1,0,0,3,0
+318,B,2014,Frasqueirão,Natal,RN,Sexta,24, Outubro ,2014,21:50,Abc - RN,Paraná - PR,2,1,1,0,0,3,0
+319,B,2014,Independência,Belo Horizonte,MG,Sexta,24, Outubro ,2014,19:30,América - MG,América - RN,2,1,1,0,0,3,0
+320,B,2014,Dos Amaros,Itapolis,SP,Terça,28, Outubro ,2014,19:30,Oeste - SP,Portuguesa - SP,3,0,1,0,0,3,0
+321,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,1, Novembro ,2014,16:20,Ponte Preta - SP,Sampaio Correa - MA,1,0,1,0,0,3,0
+322,B,2014,Durival Britto,Curitiba,PR,Sexta,31, Outubro ,2014,21:50,Paraná - PR,Vasco da Gama - RJ,1,1,0,0,1,1,1
+323,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,1, Novembro ,2014,17:20,Santa Cruz - PE,América - RN,0,1,0,1,0,0,3
+324,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,28, Outubro ,2014,21:50,Luverdense - MT,Avaí - SC,3,1,1,0,0,3,0
+325,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,1, Novembro ,2014,17:20,Icasa - CE,Náutico - PE,3,1,1,0,0,3,0
+326,B,2014,Arena Joinville,Joinville,SC,Terça,28, Outubro ,2014,21:50,Joinville - SC,Bragantino - SP,1,0,1,0,0,3,0
+327,B,2014,Serra Dourada,Goiania,GO,Sexta,31, Outubro ,2014,19:30,Atlético - GO,Vila Nova - GO,3,1,1,0,0,3,0
+328,B,2014,Frasqueirão,Natal,RN,Sábado,1, Novembro ,2014,17:20,Abc - RN,América - MG,1,0,1,0,0,3,0
+329,B,2014,Dilzon Melo,Varginha,MG,Sábado,1, Novembro ,2014,21:00,Boa - MG,Ceará - CE,3,1,1,0,0,3,0
+330,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,8, Novembro ,2014,16:20,Bragantino - SP,Ponte Preta - SP,0,2,0,1,0,0,3
+331,B,2014,Canindé,Sao Paulo,SP,Sábado,8, Novembro ,2014,21:00,Portuguesa - SP,Luverdense - MT,1,0,1,0,0,3,0
+332,B,2014,Maracanã,Rio de Janeiro,RJ,Sábado,8, Novembro ,2014,16:20,Vasco da Gama - RJ,Abc - RN,1,0,1,0,0,3,0
+333,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,8, Novembro ,2014,17:20,Náutico - PE,Santa Cruz - PE,0,0,0,0,1,1,1
+334,B,2014,Castelão/MA,Sao Luis,MA,Terça,4, Novembro ,2014,21:50,Sampaio Correa - MA,Joinville - SC,1,2,0,1,0,0,3
+335,B,2014,Castelão,Fortaleza,CE,Sexta,7, Novembro ,2014,21:00,Ceará - CE,Atlético - GO,0,0,0,0,1,1,1
+336,B,2014,Ressacada,Florianopolis,SC,Terça,4, Novembro ,2014,19:30,Avaí - SC,Oeste - SP,0,0,0,0,1,1,1
+337,B,2014,Serra Dourada,Goiania,GO,Sábado,8, Novembro ,2014,21:00,Vila Nova - GO,Paraná - PR,2,0,1,0,0,3,0
+338,B,2014,Arena das Dunas,Natal,RN,Sexta,7, Novembro ,2014,19:30,América - RN,Boa - MG,1,3,0,1,0,0,3
+339,B,2014,Independência,Belo Horizonte,MG,Sábado,8, Novembro ,2014,17:20,América - MG,Icasa - CE,1,1,0,0,1,1,1
+340,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,15, Novembro ,2014,17:20,Bragantino - SP,Santa Cruz - PE,2,1,1,0,0,3,0
+341,B,2014,Canindé,Sao Paulo,SP,Terça,11, Novembro ,2014,19:30,Portuguesa - SP,Abc - RN,0,0,0,0,1,1,1
+342,B,2014,Durival Britto,Curitiba,PR,Terça,11, Novembro ,2014,21:00,Paraná - PR,Atlético - GO,2,0,1,0,0,3,0
+343,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,15, Novembro ,2014,17:20,Náutico - PE,Luverdense - MT,1,0,1,0,0,3,0
+344,B,2014,Castelão/MA,Sao Luis,MA,Sábado,15, Novembro ,2014,21:00,Sampaio Correa - MA,Boa - MG,3,0,1,0,0,3,0
+345,B,2014,Castelão,Fortaleza,CE,Sábado,15, Novembro ,2014,16:20,Ceará - CE,Vasco da Gama - RJ,2,0,1,0,0,3,0
+346,B,2014,Arena Joinville,Joinville,SC,Sábado,15, Novembro ,2014,16:20,Joinville - SC,Ponte Preta - SP,3,1,1,0,0,3,0
+347,B,2014,Serra Dourada,Goiania,GO,Sexta,14, Novembro ,2014,19:30,Vila Nova - GO,Oeste - SP,0,1,0,1,0,0,3
+348,B,2014,Nazarenão,Goianinha,RN,Sábado,15, Novembro ,2014,21:00,América - RN,Icasa - CE,2,0,1,0,0,3,0
+349,B,2014,Independência,Belo Horizonte,MG,Sexta,14, Novembro ,2014,21:50,América - MG,Avaí - SC,3,0,1,0,0,3,0
+350,B,2014,Dos Amaros,Itapolis,SP,Terça,18, Novembro ,2014,19:30,Oeste - SP,Náutico - PE,2,0,1,0,0,3,0
+351,B,2014,Moisés Lucarelli,Campinas,SP,Terça,18, Novembro ,2014,21:50,Ponte Preta - SP,América - RN,2,2,0,0,1,1,1
+352,B,2014,São Januário,Rio de Janeiro,RJ,Terça,18, Novembro ,2014,21:50,Vasco da Gama - RJ,Vila Nova - GO,3,1,1,0,0,3,0
+353,B,2014,Arruda,Recife,PE,Terça,18, Novembro ,2014,21:50,Santa Cruz - PE,Sampaio Correa - MA,0,2,0,1,0,0,3
+354,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Terça,18, Novembro ,2014,21:50,Luverdense - MT,América - MG,1,2,0,1,0,0,3
+355,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Terça,18, Novembro ,2014,19:30,Icasa - CE,Paraná - PR,1,2,0,1,0,0,3
+356,B,2014,Ressacada,Florianopolis,SC,Terça,18, Novembro ,2014,19:30,Avaí - SC,Portuguesa - SP,2,0,1,0,0,3,0
+357,B,2014,Serra Dourada,Goiania,GO,Terça,18, Novembro ,2014,19:30,Atlético - GO,Bragantino - SP,1,0,1,0,0,3,0
+358,B,2014,Arena das Dunas,Natal,RN,Terça,18, Novembro ,2014,21:50,Abc - RN,Ceará - CE,1,0,1,0,0,3,0
+359,B,2014,Dilzon Melo,Varginha,MG,Terça,18, Novembro ,2014,21:50,Boa - MG,Joinville - SC,1,0,1,0,0,3,0
+360,B,2014,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,21, Novembro ,2014,21:00,Bragantino - SP,Paraná - PR,1,1,0,0,1,1,1
+361,B,2014,Moisés Lucarelli,Campinas,SP,Sábado,22, Novembro ,2014,16:20,Ponte Preta - SP,América - MG,0,1,0,1,0,0,3
+362,B,2014,Maracanã,Rio de Janeiro,RJ,Sábado,22, Novembro ,2014,16:20,Vasco da Gama - RJ,Icasa - CE,1,1,0,0,1,1,1
+363,B,2014,Arruda,Recife,PE,Sábado,22, Novembro ,2014,17:20,Santa Cruz - PE,Avaí - SC,0,1,0,1,0,0,3
+364,B,2014,Castelão/MA,Sao Luis,MA,Sábado,22, Novembro ,2014,21:00,Sampaio Correa - MA,Atlético - GO,1,2,0,1,0,0,3
+365,B,2014,Castelão,Fortaleza,CE,Sábado,22, Novembro ,2014,21:00,Ceará - CE,Portuguesa - SP,2,1,1,0,0,3,0
+366,B,2014,Arena Joinville,Joinville,SC,Sábado,22, Novembro ,2014,16:20,Joinville - SC,Luverdense - MT,1,1,0,0,1,1,1
+367,B,2014,Serra Dourada,Goiania,GO,Sexta,21, Novembro ,2014,21:00,Vila Nova - GO,Abc - RN,3,5,0,1,0,0,3
+368,B,2014,Arena das Dunas,Natal,RN,Sexta,21, Novembro ,2014,19:30,América - RN,Náutico - PE,1,0,1,0,0,3,0
+369,B,2014,Dilzon Melo,Varginha,MG,Sábado,22, Novembro ,2014,16:20,Boa - MG,Oeste - SP,1,0,1,0,0,3,0
+370,B,2014,Dos Amaros,Itapolis,SP,Sábado,29, Novembro ,2014,16:20,Oeste - SP,Joinville - SC,1,0,1,0,0,3,0
+371,B,2014,Canindé,Sao Paulo,SP,Sexta,28, Novembro ,2014,19:30,Portuguesa - SP,Vila Nova - GO,2,3,0,1,0,0,3
+372,B,2014,Durival Britto,Curitiba,PR,Sábado,29, Novembro ,2014,16:20,Paraná - PR,América - RN,4,1,1,0,0,3,0
+373,B,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,29, Novembro ,2014,16:20,Náutico - PE,Ponte Preta - SP,1,1,0,0,1,1,1
+374,B,2014,Passo das Emas,Lucas do Rio Verde,MT,Sábado,29, Novembro ,2014,16:20,Luverdense - MT,Ceará - CE,1,0,1,0,0,3,0
+375,B,2014,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,29, Novembro ,2014,16:20,Icasa - CE,Boa - MG,3,2,1,0,0,3,0
+376,B,2014,Ressacada,Florianopolis,SC,Sábado,29, Novembro ,2014,16:20,Avaí - SC,Vasco da Gama - RJ,1,0,1,0,0,3,0
+377,B,2014,Serra Dourada,Goiania,GO,Sábado,29, Novembro ,2014,16:20,Atlético - GO,Santa Cruz - PE,2,3,0,1,0,0,3
+378,B,2014,Frasqueirão,Natal,RN,Sábado,29, Novembro ,2014,16:20,Abc - RN,Bragantino - SP,0,2,0,1,0,0,3
+379,B,2014,Independência,Belo Horizonte,MG,Sábado,29, Novembro ,2014,16:20,América - MG,Sampaio Correa - MA,4,0,1,0,0,3,0

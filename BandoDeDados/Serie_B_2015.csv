@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2015,Durival Britto,Curitiba,PR,Sexta,8, Maio ,2015,21:00,Paraná - PR,Ceará - CE,1,0,1,0,0,3,0
+1,B,2015,Serra Dourada,Goiania,GO,Sexta,8, Maio ,2015,19:30,Atlético - GO,Boa - MG,1,0,1,0,0,3,0
+2,B,2015,Mangueirão,Belem,PA,Sábado,9, Maio ,2015,21:00,Paysandu - PA,Botafogo - RJ,0,1,0,1,0,0,3
+3,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sexta,8, Maio ,2015,21:50,Mogi Mirim - SP,Criciúma - SC,1,2,0,1,0,0,3
+4,B,2015,Manoel Barradas,Salvador,BA,Sábado,9, Maio ,2015,16:30,Vitória - BA,Sampaio Correa - MA,0,2,0,1,0,0,3
+5,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,9, Maio ,2015,16:30,Macaé - RJ,Santa Cruz - PE,2,0,1,0,0,3,0
+6,B,2015,Independência,Belo Horizonte,MG,Sábado,9, Maio ,2015,16:30,América - MG,Bahia - BA,1,1,0,0,1,1,1
+7,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,9, Maio ,2015,16:30,Náutico - PE,Luverdense - MT,1,0,1,0,0,3,0
+8,B,2015,Frasqueirão,Natal,RN,Sexta,8, Maio ,2015,19:30,Abc - RN,Oeste - SP,0,1,0,1,0,0,3
+9,B,2015,Rei Pelé,Maceio,AL,Sábado,9, Maio ,2015,21:00,Crb - AL,Bragantino - SP,2,0,1,0,0,3,0
+10,B,2015,Pituaçu,Salvador,BA,Sexta,15, Maio ,2015,19:30,Bahia - BA,Mogi Mirim - SP,4,1,1,0,0,3,0
+11,B,2015,Heriberto Hulse,Criciuma,SC,Sexta,15, Maio ,2015,21:50,Criciúma - SC,Abc - RN,0,2,0,1,0,0,3
+12,B,2015,Castelão/MA,Sao Luis,MA,Sexta,15, Maio ,2015,19:30,Sampaio Correa - MA,Macaé - RJ,3,1,1,0,0,3,0
+13,B,2015,Arruda,Recife,PE,Sexta,15, Maio ,2015,19:30,Santa Cruz - PE,Paraná - PR,4,1,1,0,0,3,0
+14,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,16, Maio ,2015,16:30,Botafogo - RJ,Crb - AL,4,1,1,0,0,3,0
+15,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,16, Maio ,2015,16:30,Bragantino - SP,Paysandu - PA,1,0,1,0,0,3,0
+16,B,2015,Dilzon Melo,Varginha,MG,Sábado,16, Maio ,2015,16:30,Boa - MG,Náutico - PE,0,1,0,1,0,0,3
+17,B,2015,José Liberatti,Osasco,SP,Sábado,16, Maio ,2015,16:30,Oeste - SP,Vitória - BA,1,2,0,1,0,0,3
+18,B,2015,Presidente Vargas/CE,Fortaleza,CE,Sábado,16, Maio ,2015,21:00,Ceará - CE,Atlético - GO,2,0,1,0,0,3,0
+19,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,16, Maio ,2015,21:00,Luverdense - MT,América - MG,1,0,1,0,0,3,0
+20,B,2015,Cláudio Moacyr,Macae,RJ,Terça,19, Maio ,2015,19:30,Macaé - RJ,Oeste - SP,4,2,1,0,0,3,0
+21,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,19, Maio ,2015,21:50,Náutico - PE,Criciúma - SC,2,0,1,0,0,3,0
+22,B,2015,Frasqueirão,Natal,RN,Sábado,23, Maio ,2015,21:00,Abc - RN,Luverdense - MT,1,1,0,0,1,1,1
+23,B,2015,Rei Pelé,Maceio,AL,Sábado,23, Maio ,2015,21:00,Crb - AL,Bahia - BA,0,3,0,1,0,0,3
+24,B,2015,Independência,Belo Horizonte,MG,Sábado,23, Maio ,2015,16:30,América - MG,Santa Cruz - PE,4,1,1,0,0,3,0
+25,B,2015,Mangueirão,Belem,PA,Sábado,23, Maio ,2015,16:30,Paysandu - PA,Ceará - CE,2,1,1,0,0,3,0
+26,B,2015,Mané Garrincha,Brasilia,DF,Sábado,23, Maio ,2015,16:30,Atlético - GO,Botafogo - RJ,0,0,0,0,1,1,1
+27,B,2015,Durival Britto,Curitiba,PR,Sábado,23, Maio ,2015,16:30,Paraná - PR,Boa - MG,1,1,0,0,1,1,1
+28,B,2015,Manoel Barradas,Salvador,BA,Sexta,22, Maio ,2015,19:30,Vitória - BA,Bragantino - SP,4,1,1,0,0,3,0
+29,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sexta,22, Maio ,2015,21:50,Mogi Mirim - SP,Sampaio Correa - MA,1,1,0,0,1,1,1
+30,B,2015,Presidente Vargas/CE,Fortaleza,CE,Terça,26, Maio ,2015,19:30,Ceará - CE,Crb - AL,1,1,0,0,1,1,1
+31,B,2015,Arruda,Recife,PE,Sexta,29, Maio ,2015,19:30,Santa Cruz - PE,Abc - RN,0,1,0,1,0,0,3
+32,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,29, Maio ,2015,19:30,Bragantino - SP,América - MG,0,1,0,1,0,0,3
+33,B,2015,Arena Fonte Nova,Salvador,BA,Sexta,29, Maio ,2015,21:50,Bahia - BA,Paraná - PR,1,0,1,0,0,3,0
+34,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,30, Maio ,2015,16:30,Botafogo - RJ,Vitória - BA,2,0,1,0,0,3,0
+35,B,2015,Dilzon Melo,Varginha,MG,Sábado,30, Maio ,2015,16:30,Boa - MG,Paysandu - PA,0,1,0,1,0,0,3
+36,B,2015,Castelão/MA,Sao Luis,MA,Sábado,30, Maio ,2015,16:30,Sampaio Correa - MA,Náutico - PE,1,1,0,0,1,1,1
+37,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,30, Maio ,2015,16:30,Criciúma - SC,Atlético - GO,1,0,1,0,0,3,0
+38,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,30, Maio ,2015,21:00,Luverdense - MT,Macaé - RJ,1,2,0,1,0,0,3
+39,B,2015,José Liberatti,Osasco,SP,Sábado,30, Maio ,2015,21:00,Oeste - SP,Mogi Mirim - SP,0,0,0,0,1,1,1
+40,B,2015,Manoel Barradas,Salvador,BA,Terça,2, Junho ,2015,19:30,Vitória - BA,Criciúma - SC,2,1,1,0,0,3,0
+41,B,2015,Romildo Ferreira,Mogi Mirim,SP,Terça,2, Junho ,2015,19:30,Mogi Mirim - SP,Boa - MG,0,2,0,1,0,0,3
+42,B,2015,Independência,Belo Horizonte,MG,Terça,2, Junho ,2015,19:30,América - MG,Sampaio Correa - MA,1,0,1,0,0,3,0
+43,B,2015,Curuzu,Belem,PA,Terça,2, Junho ,2015,19:30,Paysandu - PA,Santa Cruz - PE,2,1,1,0,0,3,0
+44,B,2015,Frasqueirão,Natal,RN,Terça,2, Junho ,2015,19:30,Abc - RN,Bragantino - SP,1,1,0,0,1,1,1
+45,B,2015,Cláudio Moacyr,Macae,RJ,Terça,2, Junho ,2015,21:50,Macaé - RJ,Bahia - BA,0,0,0,0,1,1,1
+46,B,2015,Durival Britto,Curitiba,PR,Terça,2, Junho ,2015,21:50,Paraná - PR,Botafogo - RJ,1,2,0,1,0,0,3
+47,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,2, Junho ,2015,19:30,Náutico - PE,Ceará - CE,2,0,1,0,0,3,0
+48,B,2015,Serra Dourada,Goiania,GO,Terça,2, Junho ,2015,21:50,Atlético - GO,Luverdense - MT,0,1,0,1,0,0,3
+49,B,2015,Rei Pelé,Maceio,AL,Terça,2, Junho ,2015,21:50,Crb - AL,Oeste - SP,3,0,1,0,0,3,0
+50,B,2015,Manoel Barradas,Salvador,BA,Sexta,5, Junho ,2015,19:30,Vitória - BA,Atlético - GO,3,1,1,0,0,3,0
+51,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sexta,5, Junho ,2015,19:30,Náutico - PE,América - MG,2,1,1,0,0,3,0
+52,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sexta,5, Junho ,2015,21:50,Botafogo - RJ,Mogi Mirim - SP,3,0,1,0,0,3,0
+53,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,6, Junho ,2015,16:30,Bragantino - SP,Bahia - BA,2,0,1,0,0,3,0
+54,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,6, Junho ,2015,16:30,Criciúma - SC,Macaé - RJ,0,3,0,1,0,0,3
+55,B,2015,Presidente Vargas/CE,Fortaleza,CE,Sábado,6, Junho ,2015,16:30,Ceará - CE,Sampaio Correa - MA,1,3,0,1,0,0,3
+56,B,2015,Rei Pelé,Maceio,AL,Sábado,6, Junho ,2015,21:00,Crb - AL,Abc - RN,0,1,0,1,0,0,3
+57,B,2015,Dilzon Melo,Varginha,MG,Sábado,6, Junho ,2015,21:00,Boa - MG,Oeste - SP,1,2,0,1,0,0,3
+58,B,2015,Mangueirão,Belem,PA,Sábado,6, Junho ,2015,21:00,Paysandu - PA,Paraná - PR,2,1,1,0,0,3,0
+59,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,6, Junho ,2015,16:30,Luverdense - MT,Santa Cruz - PE,2,2,0,0,1,1,1
+60,B,2015,Durival Britto,Curitiba,PR,Terça,9, Junho ,2015,19:30,Paraná - PR,Luverdense - MT,1,0,1,0,0,3,0
+61,B,2015,Frasqueirão,Natal,RN,Sexta,12, Junho ,2015,19:30,Abc - RN,Paysandu - PA,0,2,0,1,0,0,3
+62,B,2015,José Liberatti,Osasco,SP,Terça,9, Junho ,2015,21:50,Oeste - SP,Botafogo - RJ,0,1,0,1,0,0,3
+63,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,13, Junho ,2015,21:00,Macaé - RJ,Bragantino - SP,2,5,0,1,0,0,3
+64,B,2015,Arruda,Recife,PE,Sexta,12, Junho ,2015,21:50,Santa Cruz - PE,Boa - MG,0,0,0,0,1,1,1
+65,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,13, Junho ,2015,16:30,Bahia - BA,Ceará - CE,1,0,1,0,0,3,0
+66,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,13, Junho ,2015,16:30,Mogi Mirim - SP,Vitória - BA,1,1,0,0,1,1,1
+67,B,2015,Serra Dourada,Goiania,GO,Sábado,13, Junho ,2015,16:30,Atlético - GO,Náutico - PE,2,0,1,0,0,3,0
+68,B,2015,Castelão/MA,Sao Luis,MA,Sexta,12, Junho ,2015,19:30,Sampaio Correa - MA,Criciúma - SC,3,1,1,0,0,3,0
+69,B,2015,Independência,Belo Horizonte,MG,Sábado,13, Junho ,2015,21:00,América - MG,Crb - AL,1,0,1,0,0,3,0
+70,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,16, Junho ,2015,19:30,Náutico - PE,Paysandu - PA,1,1,0,0,1,1,1
+71,B,2015,Castelão/MA,Sao Luis,MA,Sexta,19, Junho ,2015,19:30,Sampaio Correa - MA,Bahia - BA,0,0,0,0,1,1,1
+72,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,16, Junho ,2015,21:50,Luverdense - MT,Criciúma - SC,0,1,0,1,0,0,3
+73,B,2015,Durival Britto,Curitiba,PR,Sexta,19, Junho ,2015,19:30,Paraná - PR,Mogi Mirim - SP,3,1,1,0,0,3,0
+74,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sexta,19, Junho ,2015,21:50,Botafogo - RJ,Boa - MG,1,1,0,0,1,1,1
+75,B,2015,Manoel Barradas,Salvador,BA,Sábado,20, Junho ,2015,16:30,Vitória - BA,Abc - RN,2,0,1,0,0,3,0
+76,B,2015,Independência,Belo Horizonte,MG,Sábado,20, Junho ,2015,16:30,América - MG,Atlético - GO,1,0,1,0,0,3,0
+77,B,2015,Castelão,Fortaleza,CE,Sábado,20, Junho ,2015,16:30,Ceará - CE,Santa Cruz - PE,3,3,0,0,1,1,1
+78,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,20, Junho ,2015,21:00,Bragantino - SP,Oeste - SP,3,1,1,0,0,3,0
+79,B,2015,Rei Pelé,Maceio,AL,Sábado,20, Junho ,2015,21:00,Crb - AL,Macaé - RJ,3,1,1,0,0,3,0
+80,B,2015,Heriberto Hulse,Criciuma,SC,Terça,23, Junho ,2015,19:30,Criciúma - SC,América - MG,2,2,0,0,1,1,1
+81,B,2015,Mangueirão,Belem,PA,Terça,23, Junho ,2015,21:50,Paysandu - PA,Vitória - BA,1,0,1,0,0,3,0
+82,B,2015,José Liberatti,Osasco,SP,Sexta,26, Junho ,2015,21:00,Oeste - SP,Ceará - CE,2,0,1,0,0,3,0
+83,B,2015,Dilzon Melo,Varginha,MG,Sábado,27, Junho ,2015,21:00,Boa - MG,Bragantino - SP,3,0,1,0,0,3,0
+84,B,2015,Frasqueirão,Natal,RN,Sábado,27, Junho ,2015,16:30,Abc - RN,Náutico - PE,3,3,0,0,1,1,1
+85,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,27, Junho ,2015,16:30,Macaé - RJ,Botafogo - RJ,4,2,1,0,0,3,0
+86,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,27, Junho ,2015,16:30,Mogi Mirim - SP,Crb - AL,0,1,0,1,0,0,3
+87,B,2015,Arruda,Recife,PE,Sábado,27, Junho ,2015,16:30,Santa Cruz - PE,Sampaio Correa - MA,1,0,1,0,0,3,0
+88,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,27, Junho ,2015,16:30,Bahia - BA,Luverdense - MT,1,0,1,0,0,3,0
+89,B,2015,Serra Dourada,Goiania,GO,Sexta,26, Junho ,2015,21:00,Atlético - GO,Paraná - PR,1,1,0,0,1,1,1
+90,B,2015,Mangueirão,Belem,PA,Terça,30, Junho ,2015,18:30,Paysandu - PA,Atlético - GO,2,0,1,0,0,3,0
+91,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,30, Junho ,2015,22:30,Luverdense - MT,Ceará - CE,3,0,1,0,0,3,0
+92,B,2015,Durival Britto,Curitiba,PR,Sexta,3, Julho ,2015,19:30,Paraná - PR,Criciúma - SC,0,0,0,0,1,1,1
+93,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sexta,3, Julho ,2015,21:50,Botafogo - RJ,Sampaio Correa - MA,5,0,1,0,0,3,0
+94,B,2015,Manoel Barradas,Salvador,BA,Sábado,4, Julho ,2015,16:30,Vitória - BA,Bahia - BA,4,1,1,0,0,3,0
+95,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,4, Julho ,2015,16:30,Bragantino - SP,Santa Cruz - PE,1,2,0,1,0,0,3
+96,B,2015,Frasqueirão,Natal,RN,Sábado,4, Julho ,2015,16:30,Abc - RN,Macaé - RJ,1,1,0,0,1,1,1
+97,B,2015,Rei Pelé,Maceio,AL,Sábado,4, Julho ,2015,21:00,Crb - AL,Boa - MG,1,1,0,0,1,1,1
+98,B,2015,Independência,Belo Horizonte,MG,Sábado,4, Julho ,2015,21:00,América - MG,Mogi Mirim - SP,3,1,1,0,0,3,0
+99,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,4, Julho ,2015,16:30,Náutico - PE,Oeste - SP,2,1,1,0,0,3,0
+100,B,2015,Arena Fonte Nova,Salvador,BA,Terça,7, Julho ,2015,19:30,Bahia - BA,Paysandu - PA,2,0,1,0,0,3,0
+101,B,2015,Cláudio Moacyr,Macae,RJ,Terça,7, Julho ,2015,19:30,Macaé - RJ,América - MG,1,1,0,0,1,1,1
+102,B,2015,Romildo Ferreira,Mogi Mirim,SP,Terça,7, Julho ,2015,19:30,Mogi Mirim - SP,Náutico - PE,2,1,1,0,0,3,0
+103,B,2015,Dilzon Melo,Varginha,MG,Terça,7, Julho ,2015,19:30,Boa - MG,Vitória - BA,0,0,0,0,1,1,1
+104,B,2015,Heriberto Hulse,Criciuma,SC,Terça,7, Julho ,2015,19:30,Criciúma - SC,Bragantino - SP,1,0,1,0,0,3,0
+105,B,2015,Castelão/MA,Sao Luis,MA,Terça,7, Julho ,2015,19:30,Sampaio Correa - MA,Luverdense - MT,3,1,1,0,0,3,0
+106,B,2015,Serra Dourada,Goiania,GO,Terça,7, Julho ,2015,19:30,Atlético - GO,Abc - RN,1,2,0,1,0,0,3
+107,B,2015,José Liberatti,Osasco,SP,Terça,7, Julho ,2015,19:30,Oeste - SP,Paraná - PR,1,0,1,0,0,3,0
+108,B,2015,Arruda,Recife,PE,Terça,7, Julho ,2015,21:50,Santa Cruz - PE,Crb - AL,2,1,1,0,0,3,0
+109,B,2015,Castelão,Fortaleza,CE,Terça,7, Julho ,2015,21:50,Ceará - CE,Botafogo - RJ,0,0,0,0,1,1,1
+110,B,2015,Cláudio Moacyr,Macae,RJ,Sexta,10, Julho ,2015,19:30,Macaé - RJ,Paysandu - PA,2,1,1,0,0,3,0
+111,B,2015,Castelão,Fortaleza,CE,Sexta,10, Julho ,2015,19:30,Ceará - CE,Criciúma - SC,1,1,0,0,1,1,1
+112,B,2015,Serra Dourada,Goiania,GO,Sexta,10, Julho ,2015,19:30,Atlético - GO,Mogi Mirim - SP,1,1,0,0,1,1,1
+113,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,10, Julho ,2015,21:50,Bragantino - SP,Botafogo - RJ,1,0,1,0,0,3,0
+114,B,2015,Independência,Belo Horizonte,MG,Sábado,11, Julho ,2015,16:30,América - MG,Abc - RN,2,1,1,0,0,3,0
+115,B,2015,Durival Britto,Curitiba,PR,Sábado,11, Julho ,2015,16:30,Paraná - PR,Vitória - BA,0,1,0,1,0,0,3
+116,B,2015,Castelão/MA,Sao Luis,MA,Sábado,11, Julho ,2015,16:30,Sampaio Correa - MA,Boa - MG,3,0,1,0,0,3,0
+117,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,11, Julho ,2015,16:30,Náutico - PE,Santa Cruz - PE,2,1,1,0,0,3,0
+118,B,2015,Rei Pelé,Maceio,AL,Sábado,11, Julho ,2015,16:30,Crb - AL,Luverdense - MT,0,0,0,0,1,1,1
+119,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,11, Julho ,2015,21:00,Bahia - BA,Oeste - SP,1,0,1,0,0,3,0
+120,B,2015,Frasqueirão,Natal,RN,Terça,14, Julho ,2015,19:30,Abc - RN,Paraná - PR,1,4,0,1,0,0,3
+121,B,2015,Romildo Ferreira,Mogi Mirim,SP,Terça,14, Julho ,2015,19:30,Mogi Mirim - SP,Macaé - RJ,3,1,1,0,0,3,0
+122,B,2015,Manoel Barradas,Salvador,BA,Sexta,17, Julho ,2015,21:50,Vitória - BA,Crb - AL,3,1,1,0,0,3,0
+123,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sexta,17, Julho ,2015,21:50,Luverdense - MT,Bragantino - SP,2,1,1,0,0,3,0
+124,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,18, Julho ,2015,16:30,Botafogo - RJ,Náutico - PE,1,0,1,0,0,3,0
+125,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,18, Julho ,2015,16:30,Criciúma - SC,Bahia - BA,2,1,1,0,0,3,0
+126,B,2015,Mangueirão,Belem,PA,Sábado,18, Julho ,2015,16:30,Paysandu - PA,Sampaio Correa - MA,1,1,0,0,1,1,1
+127,B,2015,Arruda,Recife,PE,Sábado,18, Julho ,2015,16:30,Santa Cruz - PE,Atlético - GO,3,0,1,0,0,3,0
+128,B,2015,José Liberatti,Osasco,SP,Sábado,18, Julho ,2015,21:00,Oeste - SP,América - MG,3,1,1,0,0,3,0
+129,B,2015,Dilzon Melo,Varginha,MG,Sábado,18, Julho ,2015,21:00,Boa - MG,Ceará - CE,0,0,0,0,1,1,1
+130,B,2015,Cláudio Moacyr,Macae,RJ,Terça,21, Julho ,2015,19:30,Macaé - RJ,Paraná - PR,0,0,0,0,1,1,1
+131,B,2015,Castelão/MA,Sao Luis,MA,Sábado,25, Julho ,2015,16:30,Sampaio Correa - MA,Abc - RN,3,2,1,0,0,3,0
+132,B,2015,Independência,Belo Horizonte,MG,Sexta,24, Julho ,2015,19:30,América - MG,Boa - MG,2,0,1,0,0,3,0
+133,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,24, Julho ,2015,21:50,Bragantino - SP,Atlético - GO,0,1,0,1,0,0,3
+134,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,25, Julho ,2015,16:30,Bahia - BA,Botafogo - RJ,1,1,0,0,1,1,1
+135,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,25, Julho ,2015,16:30,Criciúma - SC,Santa Cruz - PE,0,0,0,0,1,1,1
+136,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,25, Julho ,2015,16:30,Náutico - PE,Vitória - BA,2,1,1,0,0,3,0
+137,B,2015,Rei Pelé,Maceio,AL,Sábado,25, Julho ,2015,16:30,Crb - AL,Paysandu - PA,3,0,1,0,0,3,0
+138,B,2015,Castelão,Fortaleza,CE,Sábado,25, Julho ,2015,21:00,Ceará - CE,Mogi Mirim - SP,2,3,0,1,0,0,3
+139,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,25, Julho ,2015,21:00,Luverdense - MT,Oeste - SP,1,1,0,0,1,1,1
+140,B,2015,Manoel Barradas,Salvador,BA,Terça,28, Julho ,2015,19:30,Vitória - BA,Macaé - RJ,0,0,0,0,1,1,1
+141,B,2015,Romildo Ferreira,Mogi Mirim,SP,Terça,28, Julho ,2015,19:30,Mogi Mirim - SP,Bragantino - SP,2,3,0,1,0,0,3
+142,B,2015,Dilzon Melo,Varginha,MG,Terça,28, Julho ,2015,19:30,Boa - MG,Luverdense - MT,2,1,1,0,0,3,0
+143,B,2015,Durival Britto,Curitiba,PR,Terça,28, Julho ,2015,19:30,Paraná - PR,Náutico - PE,2,0,1,0,0,3,0
+144,B,2015,Arruda,Recife,PE,Terça,28, Julho ,2015,19:30,Santa Cruz - PE,Bahia - BA,3,1,1,0,0,3,0
+145,B,2015,José Liberatti,Osasco,SP,Terça,28, Julho ,2015,19:30,Oeste - SP,Sampaio Correa - MA,1,0,1,0,0,3,0
+146,B,2015,Mangueirão,Belem,PA,Terça,28, Julho ,2015,19:30,Paysandu - PA,América - MG,2,0,1,0,0,3,0
+147,B,2015,Frasqueirão,Natal,RN,Terça,28, Julho ,2015,19:30,Abc - RN,Ceará - CE,0,1,0,1,0,0,3
+148,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,28, Julho ,2015,21:50,Botafogo - RJ,Criciúma - SC,0,0,0,0,1,1,1
+149,B,2015,Serra Dourada,Goiania,GO,Terça,28, Julho ,2015,21:50,Atlético - GO,Crb - AL,1,0,1,0,0,3,0
+150,B,2015,Dilzon Melo,Varginha,MG,Sexta,31, Julho ,2015,19:00,Boa - MG,Criciúma - SC,1,1,0,0,1,1,1
+151,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,1, Agosto ,2015,16:30,Náutico - PE,Macaé - RJ,1,1,0,0,1,1,1
+152,B,2015,Mangueirão,Belem,PA,Sexta,31, Julho ,2015,21:30,Paysandu - PA,Mogi Mirim - SP,1,1,0,0,1,1,1
+153,B,2015,Frasqueirão,Natal,RN,Sexta,31, Julho ,2015,21:30,Abc - RN,Bahia - BA,0,3,0,1,0,0,3
+154,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,1, Agosto ,2015,16:30,Botafogo - RJ,Luverdense - MT,0,0,0,0,1,1,1
+155,B,2015,Durival Britto,Curitiba,PR,Sábado,1, Agosto ,2015,16:30,Paraná - PR,Crb - AL,0,0,0,0,1,1,1
+156,B,2015,Serra Dourada,Goiania,GO,Sábado,1, Agosto ,2015,16:30,Atlético - GO,Sampaio Correa - MA,3,1,1,0,0,3,0
+157,B,2015,José Liberatti,Osasco,SP,Sábado,1, Agosto ,2015,16:30,Oeste - SP,Santa Cruz - PE,1,0,1,0,0,3,0
+158,B,2015,Manoel Barradas,Salvador,BA,Sábado,1, Agosto ,2015,16:30,Vitória - BA,América - MG,1,1,0,0,1,1,1
+159,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,1, Agosto ,2015,21:00,Bragantino - SP,Ceará - CE,3,0,1,0,0,3,0
+160,B,2015,Independência,Belo Horizonte,MG,Terça,4, Agosto ,2015,21:00,América - MG,Paraná - PR,2,0,1,0,0,3,0
+161,B,2015,Castelão/MA,Sao Luis,MA,Terça,4, Agosto ,2015,21:00,Sampaio Correa - MA,Bragantino - SP,2,0,1,0,0,3,0
+162,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sexta,7, Agosto ,2015,20:30,Luverdense - MT,Paysandu - PA,1,0,1,0,0,3,0
+163,B,2015,Arena Fonte Nova,Salvador,BA,Sexta,7, Agosto ,2015,21:00,Bahia - BA,Boa - MG,4,1,1,0,0,3,0
+164,B,2015,Heriberto Hulse,Criciuma,SC,Sexta,7, Agosto ,2015,19:30,Criciúma - SC,Oeste - SP,3,2,1,0,0,3,0
+165,B,2015,Arruda,Recife,PE,Sábado,8, Agosto ,2015,16:30,Santa Cruz - PE,Botafogo - RJ,1,0,1,0,0,3,0
+166,B,2015,Castelão,Fortaleza,CE,Sábado,8, Agosto ,2015,16:30,Ceará - CE,Vitória - BA,1,2,0,1,0,0,3
+167,B,2015,Rei Pelé,Maceio,AL,Sábado,8, Agosto ,2015,16:30,Crb - AL,Náutico - PE,1,0,1,0,0,3,0
+168,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,8, Agosto ,2015,16:30,Macaé - RJ,Atlético - GO,0,1,0,1,0,0,3
+169,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,8, Agosto ,2015,21:00,Mogi Mirim - SP,Abc - RN,2,2,0,0,1,1,1
+170,B,2015,Arena Fonte Nova,Salvador,BA,Terça,11, Agosto ,2015,19:00,Bahia - BA,Náutico - PE,1,1,0,0,1,1,1
+171,B,2015,Heriberto Hulse,Criciuma,SC,Terça,11, Agosto ,2015,19:00,Criciúma - SC,Paysandu - PA,1,0,1,0,0,3,0
+172,B,2015,Castelão/MA,Sao Luis,MA,Terça,11, Agosto ,2015,19:00,Sampaio Correa - MA,Crb - AL,1,0,1,0,0,3,0
+173,B,2015,Arruda,Recife,PE,Terça,11, Agosto ,2015,19:00,Santa Cruz - PE,Mogi Mirim - SP,2,1,1,0,0,3,0
+174,B,2015,Castelão,Fortaleza,CE,Terça,11, Agosto ,2015,19:00,Ceará - CE,América - MG,0,2,0,1,0,0,3
+175,B,2015,José Liberatti,Osasco,SP,Terça,11, Agosto ,2015,19:00,Oeste - SP,Atlético - GO,0,0,0,0,1,1,1
+176,B,2015,Arena Pantanal,Cuiaba,MT,Terça,11, Agosto ,2015,20:30,Luverdense - MT,Vitória - BA,0,2,0,1,0,0,3
+177,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,11, Agosto ,2015,21:30,Botafogo - RJ,Abc - RN,3,1,1,0,0,3,0
+178,B,2015,Dilzon Melo,Varginha,MG,Terça,11, Agosto ,2015,21:30,Boa - MG,Macaé - RJ,2,1,1,0,0,3,0
+179,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,11, Agosto ,2015,21:30,Bragantino - SP,Paraná - PR,2,1,1,0,0,3,0
+180,B,2015,Rei Pelé,Maceio,AL,Sábado,15, Agosto ,2015,16:30,Crb - AL,Criciúma - SC,3,1,1,0,0,3,0
+181,B,2015,Durival Britto,Curitiba,PR,Sexta,14, Agosto ,2015,19:00,Paraná - PR,Sampaio Correa - MA,1,0,1,0,0,3,0
+182,B,2015,Serra Dourada,Goiania,GO,Sexta,14, Agosto ,2015,21:30,Atlético - GO,Bahia - BA,1,1,0,0,1,1,1
+183,B,2015,Manoel Barradas,Salvador,BA,Sexta,14, Agosto ,2015,19:00,Vitória - BA,Santa Cruz - PE,2,1,1,0,0,3,0
+184,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,15, Agosto ,2015,21:00,Mogi Mirim - SP,Luverdense - MT,1,1,0,0,1,1,1
+185,B,2015,Independência,Belo Horizonte,MG,Sábado,15, Agosto ,2015,16:30,América - MG,Botafogo - RJ,1,2,0,1,0,0,3
+186,B,2015,Mangueirão,Belem,PA,Sábado,15, Agosto ,2015,16:30,Paysandu - PA,Oeste - SP,3,1,1,0,0,3,0
+187,B,2015,Frasqueirão,Natal,RN,Sábado,15, Agosto ,2015,16:30,Abc - RN,Boa - MG,0,1,0,1,0,0,3
+188,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,15, Agosto ,2015,16:30,Náutico - PE,Bragantino - SP,3,1,1,0,0,3,0
+189,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,15, Agosto ,2015,21:00,Macaé - RJ,Ceará - CE,1,2,0,1,0,0,3
+190,B,2015,Castelão,Fortaleza,CE,Domingo,23, Agosto ,2015,16:00,Ceará - CE,Paraná - PR,4,3,1,0,0,3,0
+191,B,2015,Heriberto Hulse,Criciuma,SC,Sexta,21, Agosto ,2015,19:00,Criciúma - SC,Mogi Mirim - SP,0,0,0,0,1,1,1
+192,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,22, Agosto ,2015,16:30,Bahia - BA,América - MG,1,1,0,0,1,1,1
+193,B,2015,Nilton Santos,Rio de Janeiro,RJ,Domingo,23, Agosto ,2015,11:00,Botafogo - RJ,Paysandu - PA,2,3,0,1,0,0,3
+194,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,22, Agosto ,2015,16:30,Bragantino - SP,Crb - AL,2,1,1,0,0,3,0
+195,B,2015,Castelão/MA,Sao Luis,MA,Sábado,22, Agosto ,2015,16:30,Sampaio Correa - MA,Vitória - BA,1,0,1,0,0,3,0
+196,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,22, Agosto ,2015,16:30,Luverdense - MT,Náutico - PE,5,1,1,0,0,3,0
+197,B,2015,Dilzon Melo,Varginha,MG,Sábado,22, Agosto ,2015,16:30,Boa - MG,Atlético - GO,2,2,0,0,1,1,1
+198,B,2015,Arruda,Recife,PE,Sexta,21, Agosto ,2015,21:30,Santa Cruz - PE,Macaé - RJ,1,0,1,0,0,3,0
+199,B,2015,José Liberatti,Osasco,SP,Sábado,22, Agosto ,2015,16:30,Oeste - SP,Abc - RN,1,1,0,0,1,1,1
+200,B,2015,Manoel Barradas,Salvador,BA,Terça,25, Agosto ,2015,19:00,Vitória - BA,Oeste - SP,1,1,0,0,1,1,1
+201,B,2015,Frasqueirão,Natal,RN,Terça,25, Agosto ,2015,21:30,Abc - RN,Criciúma - SC,2,2,0,0,1,1,1
+202,B,2015,Independência,Belo Horizonte,MG,Sexta,28, Agosto ,2015,19:30,América - MG,Luverdense - MT,1,2,0,1,0,0,3
+203,B,2015,Rei Pelé,Maceio,AL,Sexta,28, Agosto ,2015,21:00,Crb - AL,Botafogo - RJ,2,1,1,0,0,3,0
+204,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,29, Agosto ,2015,16:30,Macaé - RJ,Sampaio Correa - MA,1,1,0,0,1,1,1
+205,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,29, Agosto ,2015,21:00,Mogi Mirim - SP,Bahia - BA,1,1,0,0,1,1,1
+206,B,2015,Durival Britto,Curitiba,PR,Sábado,29, Agosto ,2015,16:30,Paraná - PR,Santa Cruz - PE,3,2,1,0,0,3,0
+207,B,2015,Mangueirão,Belem,PA,Sábado,29, Agosto ,2015,16:30,Paysandu - PA,Bragantino - SP,2,0,1,0,0,3,0
+208,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,29, Agosto ,2015,16:30,Náutico - PE,Boa - MG,1,0,1,0,0,3,0
+209,B,2015,Serra Dourada,Goiania,GO,Sábado,29, Agosto ,2015,16:30,Atlético - GO,Ceará - CE,3,2,1,0,0,3,0
+210,B,2015,Heriberto Hulse,Criciuma,SC,Terça,1, Setembro ,2015,19:00,Criciúma - SC,Náutico - PE,1,0,1,0,0,3,0
+211,B,2015,Castelão,Fortaleza,CE,Terça,1, Setembro ,2015,19:00,Ceará - CE,Paysandu - PA,0,0,0,0,1,1,1
+212,B,2015,Arena Fonte Nova,Salvador,BA,Terça,1, Setembro ,2015,20:30,Bahia - BA,Crb - AL,3,2,1,0,0,3,0
+213,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,1, Setembro ,2015,20:30,Bragantino - SP,Vitória - BA,2,1,1,0,0,3,0
+214,B,2015,Dilzon Melo,Varginha,MG,Terça,1, Setembro ,2015,20:30,Boa - MG,Paraná - PR,1,2,0,1,0,0,3
+215,B,2015,Castelão/MA,Sao Luis,MA,Terça,1, Setembro ,2015,20:30,Sampaio Correa - MA,Mogi Mirim - SP,3,1,1,0,0,3,0
+216,B,2015,Arruda,Recife,PE,Terça,1, Setembro ,2015,20:30,Santa Cruz - PE,América - MG,2,1,1,0,0,3,0
+217,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,1, Setembro ,2015,20:30,Luverdense - MT,Abc - RN,1,1,0,0,1,1,1
+218,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,1, Setembro ,2015,21:30,Botafogo - RJ,Atlético - GO,4,0,1,0,0,3,0
+219,B,2015,José Liberatti,Osasco,SP,Terça,1, Setembro ,2015,21:30,Oeste - SP,Macaé - RJ,1,2,0,1,0,0,3
+220,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sexta,4, Setembro ,2015,19:00,Náutico - PE,Sampaio Correa - MA,1,1,0,0,1,1,1
+221,B,2015,Arena das Dunas,Natal,RN,Sexta,4, Setembro ,2015,19:00,Abc - RN,Santa Cruz - PE,1,1,0,0,1,1,1
+222,B,2015,Rei Pelé,Maceio,AL,Sexta,4, Setembro ,2015,19:00,Crb - AL,Ceará - CE,1,3,0,1,0,0,3
+223,B,2015,Serra Dourada,Goiania,GO,Terça,22, Setembro ,2015,19:30,Atlético - GO,Criciúma - SC,0,0,0,0,1,1,1
+224,B,2015,Cláudio Moacyr,Macae,RJ,Sexta,4, Setembro ,2015,21:30,Macaé - RJ,Luverdense - MT,1,3,0,1,0,0,3
+225,B,2015,Durival Britto,Curitiba,PR,Sexta,4, Setembro ,2015,21:30,Paraná - PR,Bahia - BA,1,0,1,0,0,3,0
+226,B,2015,Manoel Barradas,Salvador,BA,Sábado,5, Setembro ,2015,15:00,Vitória - BA,Botafogo - RJ,1,2,0,1,0,0,3
+227,B,2015,Independência,Belo Horizonte,MG,Sábado,5, Setembro ,2015,21:00,América - MG,Bragantino - SP,1,2,0,1,0,0,3
+228,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sexta,4, Setembro ,2015,19:00,Mogi Mirim - SP,Oeste - SP,0,0,0,0,1,1,1
+229,B,2015,Mangueirão,Belem,PA,Sábado,5, Setembro ,2015,21:00,Paysandu - PA,Boa - MG,3,0,1,0,0,3,0
+230,B,2015,José Liberatti,Osasco,SP,Segunda,7, Setembro ,2015,16:00,Oeste - SP,Crb - AL,0,0,0,0,1,1,1
+231,B,2015,Castelão,Fortaleza,CE,Segunda,7, Setembro ,2015,19:00,Ceará - CE,Náutico - PE,1,0,1,0,0,3,0
+232,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,8, Setembro ,2015,19:30,Luverdense - MT,Atlético - GO,1,1,0,0,1,1,1
+233,B,2015,Arena Fonte Nova,Salvador,BA,Terça,8, Setembro ,2015,19:00,Bahia - BA,Macaé - RJ,1,0,1,0,0,3,0
+234,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,8, Setembro ,2015,19:00,Botafogo - RJ,Paraná - PR,2,1,1,0,0,3,0
+235,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,8, Setembro ,2015,19:00,Bragantino - SP,Abc - RN,3,1,1,0,0,3,0
+236,B,2015,Dilzon Melo,Varginha,MG,Terça,8, Setembro ,2015,19:00,Boa - MG,Mogi Mirim - SP,0,1,0,1,0,0,3
+237,B,2015,Heriberto Hulse,Criciuma,SC,Terça,8, Setembro ,2015,19:00,Criciúma - SC,Vitória - BA,2,3,0,1,0,0,3
+238,B,2015,Castelão/MA,Sao Luis,MA,Terça,8, Setembro ,2015,16:30,Sampaio Correa - MA,América - MG,0,2,0,1,0,0,3
+239,B,2015,Arruda,Recife,PE,Terça,8, Setembro ,2015,19:00,Santa Cruz - PE,Paysandu - PA,1,2,0,1,0,0,3
+240,B,2015,Arena Fonte Nova,Salvador,BA,Sexta,11, Setembro ,2015,19:00,Bahia - BA,Bragantino - SP,3,2,1,0,0,3,0
+241,B,2015,Durival Britto,Curitiba,PR,Sexta,11, Setembro ,2015,20:30,Paraná - PR,Paysandu - PA,1,1,0,0,1,1,1
+242,B,2015,José Liberatti,Osasco,SP,Sexta,11, Setembro ,2015,20:30,Oeste - SP,Boa - MG,2,1,1,0,0,3,0
+243,B,2015,Kleber Andrade,Cariacica,ES,Sexta,11, Setembro ,2015,21:30,Mogi Mirim - SP,Botafogo - RJ,0,3,0,1,0,0,3
+244,B,2015,Independência,Belo Horizonte,MG,Sábado,12, Setembro ,2015,16:30,América - MG,Náutico - PE,2,1,1,0,0,3,0
+245,B,2015,Castelão/MA,Sao Luis,MA,Sábado,12, Setembro ,2015,16:30,Sampaio Correa - MA,Ceará - CE,1,0,1,0,0,3,0
+246,B,2015,Arruda,Recife,PE,Sábado,12, Setembro ,2015,16:30,Santa Cruz - PE,Luverdense - MT,2,0,1,0,0,3,0
+247,B,2015,Arena das Dunas,Natal,RN,Sábado,12, Setembro ,2015,16:30,Abc - RN,Crb - AL,0,0,0,0,1,1,1
+248,B,2015,Serra Dourada,Goiania,GO,Sábado,12, Setembro ,2015,16:30,Atlético - GO,Vitória - BA,0,0,0,0,1,1,1
+249,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,12, Setembro ,2015,21:00,Macaé - RJ,Criciúma - SC,1,1,0,0,1,1,1
+250,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,15, Setembro ,2015,21:30,Botafogo - RJ,Oeste - SP,1,1,0,0,1,1,1
+251,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,15, Setembro ,2015,19:00,Bragantino - SP,Macaé - RJ,2,2,0,0,1,1,1
+252,B,2015,Arena Fonte Nova,Salvador,BA,Terça,15, Setembro ,2015,20:30,Vitória - BA,Mogi Mirim - SP,4,1,1,0,0,3,0
+253,B,2015,Heriberto Hulse,Criciuma,SC,Terça,15, Setembro ,2015,20:30,Criciúma - SC,Sampaio Correa - MA,1,1,0,0,1,1,1
+254,B,2015,Mangueirão,Belem,PA,Terça,15, Setembro ,2015,20:30,Paysandu - PA,Abc - RN,3,2,1,0,0,3,0
+255,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,15, Setembro ,2015,20:30,Náutico - PE,Atlético - GO,1,1,0,0,1,1,1
+256,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,15, Setembro ,2015,20:30,Luverdense - MT,Paraná - PR,2,0,1,0,0,3,0
+257,B,2015,Rei Pelé,Maceio,AL,Terça,15, Setembro ,2015,20:30,Crb - AL,América - MG,1,0,1,0,0,3,0
+258,B,2015,Castelão,Fortaleza,CE,Terça,15, Setembro ,2015,19:00,Ceará - CE,Bahia - BA,2,2,0,0,1,1,1
+259,B,2015,Dilzon Melo,Varginha,MG,Terça,15, Setembro ,2015,21:30,Boa - MG,Santa Cruz - PE,1,3,0,1,0,0,3
+260,B,2015,Arena das Dunas,Natal,RN,Sexta,18, Setembro ,2015,19:00,Abc - RN,Vitória - BA,0,0,0,0,1,1,1
+261,B,2015,Serra Dourada,Goiania,GO,Sexta,18, Setembro ,2015,20:30,Atlético - GO,América - MG,1,1,0,0,1,1,1
+262,B,2015,Dilzon Melo,Varginha,MG,Sexta,18, Setembro ,2015,21:30,Boa - MG,Botafogo - RJ,0,1,0,1,0,0,3
+263,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,19, Setembro ,2015,16:30,Bahia - BA,Sampaio Correa - MA,1,1,0,0,1,1,1
+264,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,19, Setembro ,2015,16:30,Mogi Mirim - SP,Paraná - PR,1,2,0,1,0,0,3
+265,B,2015,Mangueirão,Belem,PA,Sábado,19, Setembro ,2015,16:30,Paysandu - PA,Náutico - PE,0,1,0,1,0,0,3
+266,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,19, Setembro ,2015,16:30,Santa Cruz - PE,Ceará - CE,2,1,1,0,0,3,0
+267,B,2015,José Liberatti,Osasco,SP,Sábado,19, Setembro ,2015,16:30,Oeste - SP,Bragantino - SP,1,1,0,0,1,1,1
+268,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,19, Setembro ,2015,21:00,Criciúma - SC,Luverdense - MT,0,1,0,1,0,0,3
+269,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,19, Setembro ,2015,21:00,Macaé - RJ,Crb - AL,0,0,0,0,1,1,1
+270,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,22, Setembro ,2015,19:00,Botafogo - RJ,Macaé - RJ,2,1,1,0,0,3,0
+271,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,22, Setembro ,2015,20:30,Bragantino - SP,Boa - MG,2,1,1,0,0,3,0
+272,B,2015,Independência,Belo Horizonte,MG,Sexta,25, Setembro ,2015,21:00,América - MG,Criciúma - SC,2,1,1,0,0,3,0
+273,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,26, Setembro ,2015,16:30,Vitória - BA,Paysandu - PA,3,1,1,0,0,3,0
+274,B,2015,Rei Pelé,Maceio,AL,Sábado,26, Setembro ,2015,16:30,Crb - AL,Mogi Mirim - SP,2,1,1,0,0,3,0
+275,B,2015,Castelão/MA,Sao Luis,MA,Sábado,26, Setembro ,2015,16:30,Sampaio Correa - MA,Santa Cruz - PE,0,0,0,0,1,1,1
+276,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,26, Setembro ,2015,16:30,Náutico - PE,Abc - RN,3,0,1,0,0,3,0
+277,B,2015,Castelão,Fortaleza,CE,Sábado,26, Setembro ,2015,16:30,Ceará - CE,Oeste - SP,1,1,0,0,1,1,1
+278,B,2015,Durival Britto,Curitiba,PR,Sábado,26, Setembro ,2015,21:00,Paraná - PR,Atlético - GO,1,2,0,1,0,0,3
+279,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,26, Setembro ,2015,21:00,Luverdense - MT,Bahia - BA,2,2,0,0,1,1,1
+280,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,3, Outubro ,2015,21:00,Mogi Mirim - SP,América - MG,1,2,0,1,0,0,3
+281,B,2015,Arruda,Recife,PE,Terça,29, Setembro ,2015,21:00,Santa Cruz - PE,Bragantino - SP,3,1,1,0,0,3,0
+282,B,2015,Heriberto Hulse,Criciuma,SC,Sexta,2, Outubro ,2015,19:30,Criciúma - SC,Paraná - PR,0,0,0,0,1,1,1
+283,B,2015,Castelão/MA,Sao Luis,MA,Sexta,2, Outubro ,2015,21:00,Sampaio Correa - MA,Botafogo - RJ,2,2,0,0,1,1,1
+284,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,3, Outubro ,2015,16:30,Bahia - BA,Vitória - BA,1,3,0,1,0,0,3
+285,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,3, Outubro ,2015,16:30,Macaé - RJ,Abc - RN,3,1,1,0,0,3,0
+286,B,2015,Dilzon Melo,Varginha,MG,Sábado,3, Outubro ,2015,16:30,Boa - MG,Crb - AL,1,3,0,1,0,0,3
+287,B,2015,Serra Dourada,Goiania,GO,Sábado,3, Outubro ,2015,16:30,Atlético - GO,Paysandu - PA,2,1,1,0,0,3,0
+288,B,2015,José Liberatti,Osasco,SP,Sábado,3, Outubro ,2015,16:30,Oeste - SP,Náutico - PE,2,0,1,0,0,3,0
+289,B,2015,Castelão,Fortaleza,CE,Terça,29, Setembro ,2015,21:00,Ceará - CE,Luverdense - MT,0,1,0,1,0,0,3
+290,B,2015,Mangueirão,Belem,PA,Terça,6, Outubro ,2015,21:30,Paysandu - PA,Bahia - BA,0,0,0,0,1,1,1
+291,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,6, Outubro ,2015,19:00,Bragantino - SP,Criciúma - SC,2,0,1,0,0,3,0
+292,B,2015,Manoel Barradas,Salvador,BA,Sábado,10, Outubro ,2015,16:30,Vitória - BA,Boa - MG,2,1,1,0,0,3,0
+293,B,2015,Independência,Belo Horizonte,MG,Terça,6, Outubro ,2015,20:30,América - MG,Macaé - RJ,1,0,1,0,0,3,0
+294,B,2015,Durival Britto,Curitiba,PR,Terça,6, Outubro ,2015,20:30,Paraná - PR,Oeste - SP,1,1,0,0,1,1,1
+295,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Terça,6, Outubro ,2015,20:30,Náutico - PE,Mogi Mirim - SP,1,0,1,0,0,3,0
+296,B,2015,Arena das Dunas,Natal,RN,Terça,6, Outubro ,2015,20:30,Abc - RN,Atlético - GO,1,1,0,0,1,1,1
+297,B,2015,Rei Pelé,Maceio,AL,Terça,6, Outubro ,2015,20:30,Crb - AL,Santa Cruz - PE,3,2,1,0,0,3,0
+298,B,2015,Nilton Santos,Rio de Janeiro,RJ,Terça,20, Outubro ,2015,21:00,Botafogo - RJ,Ceará - CE,0,1,0,1,0,0,3
+299,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,6, Outubro ,2015,21:30,Luverdense - MT,Sampaio Correa - MA,2,1,1,0,0,3,0
+300,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,17, Outubro ,2015,16:00,Botafogo - RJ,Bragantino - SP,4,0,1,0,0,3,0
+301,B,2015,Dilzon Melo,Varginha,MG,Sexta,16, Outubro ,2015,19:30,Boa - MG,Sampaio Correa - MA,2,2,0,0,1,1,1
+302,B,2015,Arena Fonte Nova,Salvador,BA,Sexta,16, Outubro ,2015,21:30,Vitória - BA,Paraná - PR,1,1,0,0,1,1,1
+303,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,17, Outubro ,2015,16:30,Mogi Mirim - SP,Atlético - GO,0,2,0,1,0,0,3
+304,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,17, Outubro ,2015,16:30,Criciúma - SC,Ceará - CE,3,0,1,0,0,3,0
+305,B,2015,Arruda,Recife,PE,Sábado,17, Outubro ,2015,16:30,Santa Cruz - PE,Náutico - PE,1,3,0,1,0,0,3
+306,B,2015,Frasqueirão,Natal,RN,Sábado,17, Outubro ,2015,16:30,Abc - RN,América - MG,4,2,1,0,0,3,0
+307,B,2015,José Liberatti,Osasco,SP,Sábado,17, Outubro ,2015,16:30,Oeste - SP,Bahia - BA,0,1,0,1,0,0,3
+308,B,2015,Mangueirão,Belem,PA,Sábado,17, Outubro ,2015,21:00,Paysandu - PA,Macaé - RJ,1,1,0,0,1,1,1
+309,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sábado,17, Outubro ,2015,21:00,Luverdense - MT,Crb - AL,2,0,1,0,0,3,0
+310,B,2015,Arena Fonte Nova,Salvador,BA,Terça,20, Outubro ,2015,21:00,Bahia - BA,Criciúma - SC,1,0,1,0,0,3,0
+311,B,2015,Independência,Belo Horizonte,MG,Sexta,23, Outubro ,2015,21:00,América - MG,Oeste - SP,2,1,1,0,0,3,0
+312,B,2015,Cláudio Moacyr,Macae,RJ,Sexta,23, Outubro ,2015,21:00,Macaé - RJ,Mogi Mirim - SP,1,0,1,0,0,3,0
+313,B,2015,Castelão/MA,Sao Luis,MA,Sábado,24, Outubro ,2015,17:30,Sampaio Correa - MA,Paysandu - PA,2,0,1,0,0,3,0
+314,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,24, Outubro ,2015,21:00,Bragantino - SP,Luverdense - MT,3,2,1,0,0,3,0
+315,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,24, Outubro ,2015,17:30,Náutico - PE,Botafogo - RJ,1,4,0,1,0,0,3
+316,B,2015,Serra Dourada,Goiania,GO,Sábado,24, Outubro ,2015,17:30,Atlético - GO,Santa Cruz - PE,0,0,0,0,1,1,1
+317,B,2015,Rei Pelé,Maceio,AL,Sábado,24, Outubro ,2015,17:30,Crb - AL,Vitória - BA,0,0,0,0,1,1,1
+318,B,2015,Durival Britto,Curitiba,PR,Terça,27, Outubro ,2015,21:00,Paraná - PR,Abc - RN,0,0,0,0,1,1,1
+319,B,2015,Presidente Vargas/CE,Fortaleza,CE,Sábado,24, Outubro ,2015,21:00,Ceará - CE,Boa - MG,2,1,1,0,0,3,0
+320,B,2015,Dilzon Melo,Varginha,MG,Terça,27, Outubro ,2015,19:00,Boa - MG,América - MG,1,2,0,1,0,0,3
+321,B,2015,José Liberatti,Osasco,SP,Terça,27, Outubro ,2015,21:00,Oeste - SP,Luverdense - MT,1,0,1,0,0,3,0
+322,B,2015,Arruda,Recife,PE,Terça,27, Outubro ,2015,21:30,Santa Cruz - PE,Criciúma - SC,2,0,1,0,0,3,0
+323,B,2015,Durival Britto,Curitiba,PR,Sexta,30, Outubro ,2015,21:00,Paraná - PR,Macaé - RJ,3,0,1,0,0,3,0
+324,B,2015,Serra Dourada,Goiania,GO,Sexta,30, Outubro ,2015,21:00,Atlético - GO,Bragantino - SP,0,1,0,1,0,0,3
+325,B,2015,Manoel Barradas,Salvador,BA,Sábado,31, Outubro ,2015,17:10,Vitória - BA,Náutico - PE,2,3,0,1,0,0,3
+326,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,31, Outubro ,2015,17:10,Botafogo - RJ,Bahia - BA,1,0,1,0,0,3,0
+327,B,2015,Romildo Ferreira,Mogi Mirim,SP,Sábado,31, Outubro ,2015,17:30,Mogi Mirim - SP,Ceará - CE,0,2,0,1,0,0,3
+328,B,2015,Mangueirão,Belem,PA,Sábado,31, Outubro ,2015,17:30,Paysandu - PA,Crb - AL,5,1,1,0,0,3,0
+329,B,2015,Frasqueirão,Natal,RN,Sábado,31, Outubro ,2015,21:00,Abc - RN,Sampaio Correa - MA,2,3,0,1,0,0,3
+330,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Terça,3, Novembro ,2015,19:00,Bragantino - SP,Mogi Mirim - SP,3,1,1,0,0,3,0
+331,B,2015,Independência,Belo Horizonte,MG,Terça,3, Novembro ,2015,21:30,América - MG,Paysandu - PA,3,1,1,0,0,3,0
+332,B,2015,Presidente Vargas/CE,Fortaleza,CE,Sexta,6, Novembro ,2015,21:00,Ceará - CE,Abc - RN,3,0,1,0,0,3,0
+333,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sexta,6, Novembro ,2015,21:00,Luverdense - MT,Boa - MG,2,0,1,0,0,3,0
+334,B,2015,Heriberto Hulse,Criciuma,SC,Sábado,7, Novembro ,2015,17:30,Criciúma - SC,Botafogo - RJ,1,0,1,0,0,3,0
+335,B,2015,Cláudio Moacyr,Macae,RJ,Sábado,7, Novembro ,2015,17:30,Macaé - RJ,Vitória - BA,0,2,0,1,0,0,3
+336,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,7, Novembro ,2015,17:30,Bahia - BA,Santa Cruz - PE,1,2,0,1,0,0,3
+337,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,7, Novembro ,2015,17:30,Náutico - PE,Paraná - PR,2,0,1,0,0,3,0
+338,B,2015,Rei Pelé,Maceio,AL,Sábado,7, Novembro ,2015,21:00,Crb - AL,Atlético - GO,4,1,1,0,0,3,0
+339,B,2015,Castelão/MA,Sao Luis,MA,Sábado,7, Novembro ,2015,21:00,Sampaio Correa - MA,Oeste - SP,1,1,0,0,1,1,1
+340,B,2015,Cláudio Moacyr,Macae,RJ,Terça,10, Novembro ,2015,19:00,Macaé - RJ,Náutico - PE,1,1,0,0,1,1,1
+341,B,2015,Romildo Ferreira,Mogi Mirim,SP,Terça,10, Novembro ,2015,19:00,Mogi Mirim - SP,Paysandu - PA,1,1,0,0,1,1,1
+342,B,2015,Independência,Belo Horizonte,MG,Terça,10, Novembro ,2015,19:00,América - MG,Vitória - BA,4,0,1,0,0,3,0
+343,B,2015,Heriberto Hulse,Criciuma,SC,Terça,10, Novembro ,2015,19:00,Criciúma - SC,Boa - MG,3,0,1,0,0,3,0
+344,B,2015,Arena Fonte Nova,Salvador,BA,Terça,10, Novembro ,2015,21:30,Bahia - BA,Abc - RN,2,2,0,0,1,1,1
+345,B,2015,Castelão/MA,Sao Luis,MA,Terça,10, Novembro ,2015,21:30,Sampaio Correa - MA,Atlético - GO,2,0,1,0,0,3,0
+346,B,2015,Arruda,Recife,PE,Terça,10, Novembro ,2015,21:30,Santa Cruz - PE,Oeste - SP,3,1,1,0,0,3,0
+347,B,2015,Presidente Vargas/CE,Fortaleza,CE,Terça,10, Novembro ,2015,21:30,Ceará - CE,Bragantino - SP,3,0,1,0,0,3,0
+348,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Terça,10, Novembro ,2015,21:30,Luverdense - MT,Botafogo - RJ,0,1,0,1,0,0,3
+349,B,2015,Rei Pelé,Maceio,AL,Terça,10, Novembro ,2015,21:30,Crb - AL,Paraná - PR,2,0,1,0,0,3,0
+350,B,2015,Mangueirão,Belem,PA,Sexta,13, Novembro ,2015,21:00,Paysandu - PA,Luverdense - MT,3,2,1,0,0,3,0
+351,B,2015,Frasqueirão,Natal,RN,Sexta,13, Novembro ,2015,21:00,Abc - RN,Mogi Mirim - SP,3,1,1,0,0,3,0
+352,B,2015,José Liberatti,Osasco,SP,Sexta,13, Novembro ,2015,21:00,Oeste - SP,Criciúma - SC,1,1,0,0,1,1,1
+353,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,14, Novembro ,2015,17:30,Botafogo - RJ,Santa Cruz - PE,0,3,0,1,0,0,3
+354,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,14, Novembro ,2015,17:30,Bragantino - SP,Sampaio Correa - MA,3,0,1,0,0,3,0
+355,B,2015,Dilzon Melo,Varginha,MG,Sábado,14, Novembro ,2015,17:30,Boa - MG,Bahia - BA,3,0,1,0,0,3,0
+356,B,2015,Durival Britto,Curitiba,PR,Sábado,14, Novembro ,2015,21:00,Paraná - PR,América - MG,1,0,1,0,0,3,0
+357,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,14, Novembro ,2015,17:30,Náutico - PE,Crb - AL,1,1,0,0,1,1,1
+358,B,2015,Manoel Barradas,Salvador,BA,Sábado,14, Novembro ,2015,17:30,Vitória - BA,Ceará - CE,1,0,1,0,0,3,0
+359,B,2015,Serra Dourada,Goiania,GO,Sábado,14, Novembro ,2015,21:00,Atlético - GO,Macaé - RJ,3,4,0,1,0,0,3
+360,B,2015,Serra Dourada,Goiania,GO,Sexta,20, Novembro ,2015,19:00,Atlético - GO,Oeste - SP,3,1,1,0,0,3,0
+361,B,2015,Cláudio Moacyr,Macae,RJ,Sexta,20, Novembro ,2015,20:30,Macaé - RJ,Boa - MG,1,1,0,0,1,1,1
+362,B,2015,Mané Garrincha,Brasilia,DF,Sexta,20, Novembro ,2015,21:30,Abc - RN,Botafogo - RJ,1,2,0,1,0,0,3
+363,B,2015,Mangueirão,Belem,PA,Sábado,21, Novembro ,2015,17:30,Paysandu - PA,Criciúma - SC,1,0,1,0,0,3,0
+364,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,21, Novembro ,2015,17:30,Vitória - BA,Luverdense - MT,3,0,1,0,0,3,0
+365,B,2015,Novelli Junior,Itu,SP,Sábado,21, Novembro ,2015,17:30,Mogi Mirim - SP,Santa Cruz - PE,0,3,0,1,0,0,3
+366,B,2015,Independência,Belo Horizonte,MG,Sábado,21, Novembro ,2015,17:30,América - MG,Ceará - CE,1,1,0,0,1,1,1
+367,B,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,21, Novembro ,2015,17:30,Náutico - PE,Bahia - BA,1,0,1,0,0,3,0
+368,B,2015,Durival Britto,Curitiba,PR,Sábado,21, Novembro ,2015,17:30,Paraná - PR,Bragantino - SP,0,2,0,1,0,0,3
+369,B,2015,Rei Pelé,Maceio,AL,Sábado,21, Novembro ,2015,17:30,Crb - AL,Sampaio Correa - MA,2,1,1,0,0,3,0
+370,B,2015,Dilzon Melo,Varginha,MG,Terça,24, Novembro ,2015,20:30,Boa - MG,Abc - RN,2,0,1,0,0,3,0
+371,B,2015,Arena Fonte Nova,Salvador,BA,Sábado,28, Novembro ,2015,17:30,Bahia - BA,Atlético - GO,1,0,1,0,0,3,0
+372,B,2015,Nilton Santos,Rio de Janeiro,RJ,Sábado,28, Novembro ,2015,17:30,Botafogo - RJ,América - MG,0,0,0,0,1,1,1
+373,B,2015,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,28, Novembro ,2015,17:30,Bragantino - SP,Náutico - PE,0,2,0,1,0,0,3
+374,B,2015,Heriberto Hulse,Criciuma,SC,Sexta,27, Novembro ,2015,20:30,Criciúma - SC,Crb - AL,2,1,1,0,0,3,0
+375,B,2015,Castelão/MA,Sao Luis,MA,Sábado,28, Novembro ,2015,17:30,Sampaio Correa - MA,Paraná - PR,1,1,0,0,1,1,1
+376,B,2015,Arruda,Recife,PE,Sábado,28, Novembro ,2015,17:30,Santa Cruz - PE,Vitória - BA,3,1,1,0,0,3,0
+377,B,2015,Castelão,Fortaleza,CE,Sábado,28, Novembro ,2015,17:30,Ceará - CE,Macaé - RJ,1,0,1,0,0,3,0
+378,B,2015,Passo das Emas,Lucas do Rio Verde,MT,Sexta,27, Novembro ,2015,21:30,Luverdense - MT,Mogi Mirim - SP,2,0,1,0,0,3,0
+379,B,2015,José Liberatti,Osasco,SP,Sábado,28, Novembro ,2015,17:30,Oeste - SP,Paysandu - PA,0,0,0,0,1,1,1

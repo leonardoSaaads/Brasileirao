@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2014,Mané Garrincha,Brasilia,DF,Domingo,20, Abril ,2014,18:30,Flamengo - RJ,Goiás - GO,0,0,0,0,1,1,1
+1,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,19, Abril ,2014,18:30,Fluminense - RJ,Figueirense - SC,3,0,1,0,0,3,0
+2,A,2014,Morumbi,Sao Paulo,SP,Domingo,20, Abril ,2014,16:00,São Paulo - SP,Botafogo - RJ,3,0,1,0,0,3,0
+3,A,2014,Vila Belmiro,Santos,SP,Domingo,20, Abril ,2014,18:30,Santos - SP,Sport - PE,1,1,0,0,1,1,1
+4,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,20, Abril ,2014,16:00,Atletico - PR,Grêmio - RS,1,0,1,0,0,3,0
+5,A,2014,João Havelange,Uberlandia,MG,Domingo,20, Abril ,2014,16:00,Atlético - MG,Corinthians - SP,0,0,0,0,1,1,1
+6,A,2014,Fonte Nova,Salvador,BA,Domingo,20, Abril ,2014,16:00,Bahia - BA,Cruzeiro - MG,1,2,0,1,0,0,3
+7,A,2014,Beira,Rio,Porto Alegre,Sábado,19, Abril ,2014,18:30,Internacional - RS,Vitória - BA,1,0,1,0,0,3,0
+8,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,20, Abril ,2014,18:30,Criciuma - SC,Palmeiras - SP,1,2,0,1,0,0,3
+9,A,2014,Arena Condá,Chapeco,SC,Sábado,19, Abril ,2014,21:00,Chapecoense - SC,Coritiba - PR,0,0,0,0,1,1,1
+10,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,27, Abril ,2014,16:00,Botafogo - RJ,Internacional - RS,2,2,0,0,1,1,1
+11,A,2014,Ilha do Retiro,Recife,PE,Domingo,27, Abril ,2014,18:30,Sport - PE,Chapecoense - SC,2,1,1,0,0,3,0
+12,A,2014,Pacaembu,Sao Paulo,SP,Domingo,27, Abril ,2014,16:00,Corinthians - SP,Flamengo - RJ,2,0,1,0,0,3,0
+13,A,2014,Pacaembu,Sao Paulo,SP,Sábado,26, Abril ,2014,21:00,Palmeiras - SP,Fluminense - RJ,0,1,0,1,0,0,3
+14,A,2014,Couto Pereira,Curitiba,PR,Sábado,26, Abril ,2014,18:30,Coritiba - PR,Santos - SP,0,0,0,0,1,1,1
+15,A,2014,João Havelange,Uberlandia,MG,Domingo,27, Abril ,2014,16:00,Cruzeiro - MG,São Paulo - SP,1,1,0,0,1,1,1
+16,A,2014,Pituaçu,Salvador,BA,Domingo,27, Abril ,2014,16:00,Vitória - BA,Atletico - PR,2,2,0,0,1,1,1
+17,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,27, Abril ,2014,18:30,Grêmio - RS,Atlético - MG,2,1,1,0,0,3,0
+18,A,2014,Arena Barueri,Barueri,SP,Domingo,27, Abril ,2014,18:30,Figueirense - SC,Bahia - BA,0,2,0,1,0,0,3
+19,A,2014,Juscelino Kubitschek,Itumbiara,GO,Domingo,27, Abril ,2014,18:30,Goiás - GO,Criciuma - SC,1,0,1,0,0,3,0
+20,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,4, Maio ,2014,16:00,Flamengo - RJ,Palmeiras - SP,4,2,1,0,0,3,0
+21,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,3, Maio ,2014,21:00,Fluminense - RJ,Vitória - BA,1,2,0,1,0,0,3
+22,A,2014,Pacaembu,Sao Paulo,SP,Sábado,3, Maio ,2014,18:30,São Paulo - SP,Coritiba - PR,2,2,0,0,1,1,1
+23,A,2014,Vila Belmiro,Santos,SP,Sábado,3, Maio ,2014,18:30,Santos - SP,Grêmio - RS,0,0,0,0,1,1,1
+24,A,2014,Mané Garrincha,Brasilia,DF,Sábado,3, Maio ,2014,18:30,Atletico - PR,Cruzeiro - MG,2,3,0,1,0,0,3
+25,A,2014,Independência,Belo Horizonte,MG,Domingo,4, Maio ,2014,18:30,Atlético - MG,Goiás - GO,0,1,0,1,0,0,3
+26,A,2014,Fonte Nova,Salvador,BA,Domingo,4, Maio ,2014,16:00,Bahia - BA,Botafogo - RJ,1,0,1,0,0,3,0
+27,A,2014,Beira,Rio,Porto Alegre,Domingo,4, Maio ,2014,16:00,Internacional - RS,Sport - PE,2,1,1,0,0,3,0
+28,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,4, Maio ,2014,16:00,Criciuma - SC,Figueirense - SC,1,0,1,0,0,3,0
+29,A,2014,Arena Condá,Chapeco,SC,Domingo,4, Maio ,2014,18:30,Chapecoense - SC,Corinthians - SP,0,1,0,1,0,0,3
+30,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,10, Maio ,2014,21:00,Botafogo - RJ,Criciuma - SC,6,0,1,0,0,3,0
+31,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,11, Maio ,2014,16:00,Fluminense - RJ,Flamengo - RJ,2,0,1,0,0,3,0
+32,A,2014,Arena Barueri,Barueri,SP,Domingo,11, Maio ,2014,16:00,São Paulo - SP,Corinthians - SP,1,1,0,0,1,1,1
+33,A,2014,Pacaembu,Sao Paulo,SP,Sábado,10, Maio ,2014,18:30,Palmeiras - SP,Goiás - GO,2,0,1,0,0,3,0
+34,A,2014,Couto Pereira,Curitiba,PR,Domingo,11, Maio ,2014,18:30,Coritiba - PR,Sport - PE,0,1,0,1,0,0,3
+35,A,2014,Independência,Belo Horizonte,MG,Domingo,11, Maio ,2014,16:00,Atlético - MG,Cruzeiro - MG,2,1,1,0,0,3,0
+36,A,2014,Fonte Nova,Salvador,BA,Domingo,11, Maio ,2014,18:30,Bahia - BA,Vitória - BA,1,1,0,0,1,1,1
+37,A,2014,Beira,Rio,Porto Alegre,Sábado,10, Maio ,2014,18:30,Internacional - RS,Atletico - PR,2,1,1,0,0,3,0
+38,A,2014,Do Café,Londrina,PR,Domingo,11, Maio ,2014,18:30,Figueirense - SC,Santos - SP,0,2,0,1,0,0,3
+39,A,2014,Arena Condá,Chapeco,SC,Domingo,11, Maio ,2014,16:00,Chapecoense - SC,Grêmio - RS,1,2,0,1,0,0,3
+40,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,18, Maio ,2014,16:00,Flamengo - RJ,São Paulo - SP,0,2,0,1,0,0,3
+41,A,2014,Ilha do Retiro,Recife,PE,Quarta,4, Junho ,2014,21:00,Sport - PE,Bahia - BA,1,0,1,0,0,3,0
+42,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,18, Maio ,2014,16:00,Corinthians - SP,Figueirense - SC,0,1,0,1,0,0,3
+43,A,2014,Arena Pantanal,Cuiaba,MT,Domingo,18, Maio ,2014,18:30,Santos - SP,Atlético - MG,1,2,0,1,0,0,3
+44,A,2014,Willie Davids,Maringa,PR,Domingo,18, Maio ,2014,16:00,Atletico - PR,Chapecoense - SC,1,1,0,0,1,1,1
+45,A,2014,Mineirão,Belo Horizonte,MG,Sábado,17, Maio ,2014,18:30,Cruzeiro - MG,Coritiba - PR,3,2,1,0,0,3,0
+46,A,2014,Pituaçu,Salvador,BA,Domingo,18, Maio ,2014,18:30,Vitória - BA,Palmeiras - SP,0,1,0,1,0,0,3
+47,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,18, Maio ,2014,16:00,Grêmio - RS,Fluminense - RJ,1,0,1,0,0,3,0
+48,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,18, Maio ,2014,18:30,Criciuma - SC,Internacional - RS,0,0,0,0,1,1,1
+49,A,2014,Mário Helênio,Juiz de Fora,MG,Quarta,14, Maio ,2014,22:00,Goiás - GO,Botafogo - RJ,2,0,1,0,0,3,0
+50,A,2014,Cláudio Moacyr,Macae,RJ,Quarta,21, Maio ,2014,19:30,Flamengo - RJ,Bahia - BA,1,1,0,0,1,1,1
+51,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,21, Maio ,2014,22:00,Fluminense - RJ,São Paulo - SP,5,2,1,0,0,3,0
+52,A,2014,Canindé,Sao Paulo,SP,Quarta,21, Maio ,2014,22:00,Corinthians - SP,Atletico - PR,1,1,0,0,1,1,1
+53,A,2014,Fonte Luminosa,Araraquara,SP,Quinta,22, Maio ,2014,19:30,Palmeiras - SP,Figueirense - SC,1,0,1,0,0,3,0
+54,A,2014,Couto Pereira,Curitiba,PR,Quarta,21, Maio ,2014,19:30,Coritiba - PR,Internacional - RS,1,1,0,0,1,1,1
+55,A,2014,Mineirão,Belo Horizonte,MG,Quarta,21, Maio ,2014,21:00,Cruzeiro - MG,Sport - PE,2,0,1,0,0,3,0
+56,A,2014,Jóia da Princesa,Feira de Santana,BA,Quinta,22, Maio ,2014,21:00,Vitória - BA,Atlético - MG,2,3,0,1,0,0,3
+57,A,2014,Alfredo Jaconi,Caxias do Sul,RS,Quarta,21, Maio ,2014,22:00,Grêmio - RS,Botafogo - RJ,2,1,1,0,0,3,0
+58,A,2014,Heriberto Hulse,Criciuma,SC,Quarta,21, Maio ,2014,21:00,Criciuma - SC,Chapecoense - SC,1,0,1,0,0,3,0
+59,A,2014,Serra Dourada,Goiania,GO,Quinta,22, Maio ,2014,19:30,Goiás - GO,Santos - SP,2,2,0,0,1,1,1
+60,A,2014,Cláudio Moacyr,Macae,RJ,Domingo,25, Maio ,2014,18:30,Botafogo - RJ,Vitória - BA,1,1,0,0,1,1,1
+61,A,2014,Ilha do Retiro,Recife,PE,Domingo,25, Maio ,2014,16:00,Sport - PE,Corinthians - SP,1,4,0,1,0,0,3
+62,A,2014,Morumbi,Sao Paulo,SP,Sábado,24, Maio ,2014,21:00,São Paulo - SP,Grêmio - RS,1,0,1,0,0,3,0
+63,A,2014,Morumbi,Sao Paulo,SP,Domingo,25, Maio ,2014,16:00,Santos - SP,Flamengo - RJ,0,0,0,0,1,1,1
+64,A,2014,Willie Davids,Maringa,PR,Domingo,25, Maio ,2014,16:00,Atletico - PR,Coritiba - PR,2,0,1,0,0,3,0
+65,A,2014,João Lamego,Ipatinga,MG,Domingo,25, Maio ,2014,18:30,Atlético - MG,Criciuma - SC,0,0,0,0,1,1,1
+66,A,2014,Arena Barueri,Barueri,SP,Sábado,24, Maio ,2014,18:30,Bahia - BA,Fluminense - RJ,0,1,0,1,0,0,3
+67,A,2014,Centenário,Caxias do Sul,RS,Domingo,25, Maio ,2014,18:30,Internacional - RS,Cruzeiro - MG,1,3,0,1,0,0,3
+68,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,25, Maio ,2014,16:00,Figueirense - SC,Goiás - GO,0,1,0,1,0,0,3
+69,A,2014,Arena Condá,Chapeco,SC,Domingo,25, Maio ,2014,18:30,Chapecoense - SC,Palmeiras - SP,2,0,1,0,0,3,0
+70,A,2014,Morumbi,Sao Paulo,SP,Quinta,29, Maio ,2014,19:30,Flamengo - RJ,Figueirense - SC,1,1,0,0,1,1,1
+71,A,2014,Ilha do Retiro,Recife,PE,Quarta,28, Maio ,2014,19:30,Sport - PE,Grêmio - RS,0,0,0,0,1,1,1
+72,A,2014,Canindé,Sao Paulo,SP,Quarta,28, Maio ,2014,22:00,Corinthians - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+73,A,2014,Paulo Constantino,Presidente Prudente,SP,Quarta,28, Maio ,2014,19:30,Palmeiras - SP,Botafogo - RJ,0,2,0,1,0,0,3
+74,A,2014,João Havelange,Uberlandia,MG,Quarta,28, Maio ,2014,22:00,Atletico - PR,São Paulo - SP,2,2,0,0,1,1,1
+75,A,2014,João Lamego,Ipatinga,MG,Quarta,28, Maio ,2014,22:00,Atlético - MG,Fluminense - RJ,2,0,1,0,0,3,0
+76,A,2014,Jóia da Princesa,Feira de Santana,BA,Quinta,29, Maio ,2014,21:00,Bahia - BA,Santos - SP,0,2,0,1,0,0,3
+77,A,2014,Centenário,Caxias do Sul,RS,Quarta,28, Maio ,2014,21:00,Internacional - RS,Chapecoense - SC,2,0,1,0,0,3,0
+78,A,2014,Heriberto Hulse,Criciuma,SC,Quarta,28, Maio ,2014,19:30,Criciuma - SC,Coritiba - PR,1,0,1,0,0,3,0
+79,A,2014,Serra Dourada,Goiania,GO,Quarta,28, Maio ,2014,21:00,Goiás - GO,Vitória - BA,0,0,0,0,1,1,1
+80,A,2014,Arena da Amazônia,Manaus,AM,Sábado,11, Outubro ,2014,18:30,Botafogo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+81,A,2014,Cláudio Moacyr,Macae,RJ,Domingo,1, Junho ,2014,18:30,Fluminense - RJ,Internacional - RS,1,1,0,0,1,1,1
+82,A,2014,Morumbi,Sao Paulo,SP,Sábado,31, Maio ,2014,18:30,São Paulo - SP,Atlético - MG,2,1,1,0,0,3,0
+83,A,2014,1º de Maio,Sao Bernardo do Campo,SP,Domingo,1, Junho ,2014,18:30,Santos - SP,Criciuma - SC,2,0,1,0,0,3,0
+84,A,2014,Durival Britto,Curitiba,PR,Sábado,31, Maio ,2014,18:30,Coritiba - PR,Goiás - GO,3,0,1,0,0,3,0
+85,A,2014,João Havelange,Uberlandia,MG,Domingo,1, Junho ,2014,16:00,Cruzeiro - MG,Flamengo - RJ,3,0,1,0,0,3,0
+86,A,2014,Jóia da Princesa,Feira de Santana,BA,Sábado,31, Maio ,2014,21:00,Vitória - BA,Sport - PE,0,1,0,1,0,0,3
+87,A,2014,Alfredo Jaconi,Caxias do Sul,RS,Domingo,1, Junho ,2014,16:00,Grêmio - RS,Palmeiras - SP,0,0,0,0,1,1,1
+88,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,1, Junho ,2014,18:30,Figueirense - SC,Atletico - PR,1,3,0,1,0,0,3
+89,A,2014,Arena Condá,Chapeco,SC,Domingo,1, Junho ,2014,16:00,Chapecoense - SC,Bahia - BA,2,1,1,0,0,3,0
+90,A,2014,Cláudio Moacyr,Macae,RJ,Quarta,16, Julho ,2014,22:00,Flamengo - RJ,Atletico - PR,1,2,0,1,0,0,3
+91,A,2014,Ilha do Retiro,Recife,PE,Quarta,16, Julho ,2014,19:30,Sport - PE,Botafogo - RJ,1,0,1,0,0,3,0
+92,A,2014,Arena Corinthians,Sao Paulo,SP,Quinta,17, Julho ,2014,19:30,Corinthians - SP,Internacional - RS,2,1,1,0,0,3,0
+93,A,2014,Vila Belmiro,Santos,SP,Quinta,17, Julho ,2014,19:30,Santos - SP,Palmeiras - SP,2,0,1,0,0,3,0
+94,A,2014,Couto Pereira,Curitiba,PR,Quarta,16, Julho ,2014,19:30,Coritiba - PR,Figueirense - SC,0,2,0,1,0,0,3
+95,A,2014,Mineirão,Belo Horizonte,MG,Quinta,17, Julho ,2014,21:00,Cruzeiro - MG,Vitória - BA,3,1,1,0,0,3,0
+96,A,2014,Fonte Nova,Salvador,BA,Quarta,16, Julho ,2014,22:00,Bahia - BA,São Paulo - SP,0,2,0,1,0,0,3
+97,A,2014,Arena do Grêmio,Porto Alegre,RS,Quarta,16, Julho ,2014,19:30,Grêmio - RS,Goiás - GO,0,0,0,0,1,1,1
+98,A,2014,Heriberto Hulse,Criciuma,SC,Quarta,16, Julho ,2014,22:00,Criciuma - SC,Fluminense - RJ,3,2,1,0,0,3,0
+99,A,2014,Arena Condá,Chapeco,SC,Quarta,6, Agosto ,2014,21:00,Chapecoense - SC,Atlético - MG,1,1,0,0,1,1,1
+100,A,2014,Raulino de Oliveira,Volta Redonda,RJ,Sábado,19, Julho ,2014,21:00,Botafogo - RJ,Coritiba - PR,1,0,1,0,0,3,0
+101,A,2014,Raulino de Oliveira,Volta Redonda,RJ,Domingo,20, Julho ,2014,18:30,Fluminense - RJ,Santos - SP,1,0,1,0,0,3,0
+102,A,2014,Morumbi,Sao Paulo,SP,Sábado,19, Julho ,2014,18:30,São Paulo - SP,Chapecoense - SC,0,1,0,1,0,0,3
+103,A,2014,Pacaembu,Sao Paulo,SP,Domingo,20, Julho ,2014,16:00,Palmeiras - SP,Cruzeiro - MG,1,2,0,1,0,0,3
+104,A,2014,Arena da Baixada,Curitiba,PR,Domingo,20, Julho ,2014,18:30,Atletico - PR,Criciuma - SC,2,0,1,0,0,3,0
+105,A,2014,Independência,Belo Horizonte,MG,Sábado,19, Julho ,2014,18:30,Atlético - MG,Bahia - BA,1,1,0,0,1,1,1
+106,A,2014,Manoel Barradas,Salvador,BA,Domingo,20, Julho ,2014,16:00,Vitória - BA,Corinthians - SP,0,0,0,0,1,1,1
+107,A,2014,Beira,Rio,Porto Alegre,Domingo,20, Julho ,2014,16:00,Internacional - RS,Flamengo - RJ,4,0,1,0,0,3,0
+108,A,2014,Orlando Scarpelli,Florianopolis,SC,Sábado,19, Julho ,2014,18:30,Figueirense - SC,Grêmio - RS,0,1,0,1,0,0,3
+109,A,2014,Serra Dourada,Goiania,GO,Domingo,20, Julho ,2014,18:30,Goiás - GO,Sport - PE,0,0,0,0,1,1,1
+110,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,27, Julho ,2014,18:30,Flamengo - RJ,Botafogo - RJ,1,0,1,0,0,3,0
+111,A,2014,Ilha do Retiro,Recife,PE,Domingo,27, Julho ,2014,16:00,Sport - PE,Atlético - MG,2,1,1,0,0,3,0
+112,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,27, Julho ,2014,16:00,Corinthians - SP,Palmeiras - SP,2,0,1,0,0,3,0
+113,A,2014,Vila Belmiro,Santos,SP,Sábado,26, Julho ,2014,18:30,Santos - SP,Chapecoense - SC,3,0,1,0,0,3,0
+114,A,2014,Arena da Baixada,Curitiba,PR,Domingo,27, Julho ,2014,16:00,Atletico - PR,Fluminense - RJ,0,3,0,1,0,0,3
+115,A,2014,Mineirão,Belo Horizonte,MG,Sábado,26, Julho ,2014,18:30,Cruzeiro - MG,Figueirense - SC,5,0,1,0,0,3,0
+116,A,2014,Fonte Nova,Salvador,BA,Sábado,26, Julho ,2014,21:00,Bahia - BA,Internacional - RS,0,1,0,1,0,0,3
+117,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,27, Julho ,2014,18:30,Grêmio - RS,Coritiba - PR,2,3,0,1,0,0,3
+118,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,26, Julho ,2014,18:30,Criciuma - SC,Vitória - BA,1,3,0,1,0,0,3
+119,A,2014,Serra Dourada,Goiania,GO,Domingo,27, Julho ,2014,16:00,Goiás - GO,São Paulo - SP,2,1,1,0,0,3,0
+120,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,2, Agosto ,2014,18:30,Botafogo - RJ,Cruzeiro - MG,1,1,0,0,1,1,1
+121,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,3, Agosto ,2014,18:30,Fluminense - RJ,Goiás - GO,2,0,1,0,0,3,0
+122,A,2014,Morumbi,Sao Paulo,SP,Sábado,2, Agosto ,2014,18:30,São Paulo - SP,Criciuma - SC,1,1,0,0,1,1,1
+123,A,2014,Pacaembu,Sao Paulo,SP,Domingo,3, Agosto ,2014,16:00,Palmeiras - SP,Bahia - BA,1,1,0,0,1,1,1
+124,A,2014,Couto Pereira,Curitiba,PR,Domingo,3, Agosto ,2014,16:00,Coritiba - PR,Corinthians - SP,0,0,0,0,1,1,1
+125,A,2014,Independência,Belo Horizonte,MG,Domingo,3, Agosto ,2014,18:30,Atlético - MG,Atletico - PR,3,1,1,0,0,3,0
+126,A,2014,Manoel Barradas,Salvador,BA,Sábado,2, Agosto ,2014,21:00,Vitória - BA,Grêmio - RS,2,1,1,0,0,3,0
+127,A,2014,Beira,Rio,Porto Alegre,Domingo,3, Agosto ,2014,18:30,Internacional - RS,Santos - SP,1,0,1,0,0,3,0
+128,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,3, Agosto ,2014,16:00,Figueirense - SC,Sport - PE,3,0,1,0,0,3,0
+129,A,2014,Arena Condá,Chapeco,SC,Domingo,3, Agosto ,2014,16:00,Chapecoense - SC,Flamengo - RJ,1,0,1,0,0,3,0
+130,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,10, Agosto ,2014,16:00,Flamengo - RJ,Sport - PE,1,0,1,0,0,3,0
+131,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,9, Agosto ,2014,21:00,Fluminense - RJ,Coritiba - PR,1,1,0,0,1,1,1
+132,A,2014,Morumbi,Sao Paulo,SP,Domingo,10, Agosto ,2014,18:30,São Paulo - SP,Vitória - BA,3,1,1,0,0,3,0
+133,A,2014,Vila Belmiro,Santos,SP,Domingo,10, Agosto ,2014,16:00,Santos - SP,Corinthians - SP,0,1,0,1,0,0,3
+134,A,2014,Arena da Baixada,Curitiba,PR,Domingo,10, Agosto ,2014,16:00,Atletico - PR,Botafogo - RJ,2,0,1,0,0,3,0
+135,A,2014,Independência,Belo Horizonte,MG,Domingo,10, Agosto ,2014,18:30,Atlético - MG,Palmeiras - SP,2,1,1,0,0,3,0
+136,A,2014,Fonte Nova,Salvador,BA,Sábado,9, Agosto ,2014,18:30,Bahia - BA,Goiás - GO,1,0,1,0,0,3,0
+137,A,2014,Beira,Rio,Porto Alegre,Domingo,10, Agosto ,2014,16:00,Internacional - RS,Grêmio - RS,2,0,1,0,0,3,0
+138,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,9, Agosto ,2014,18:30,Criciuma - SC,Cruzeiro - MG,0,0,0,0,1,1,1
+139,A,2014,Arena Condá,Chapeco,SC,Domingo,10, Agosto ,2014,18:30,Chapecoense - SC,Figueirense - SC,0,1,0,1,0,0,3
+140,A,2014,Mané Garrincha,Brasilia,DF,Domingo,17, Agosto ,2014,18:30,Botafogo - RJ,Fluminense - RJ,2,0,1,0,0,3,0
+141,A,2014,Ilha do Retiro,Recife,PE,Domingo,17, Agosto ,2014,18:30,Sport - PE,Atletico - PR,1,1,0,0,1,1,1
+142,A,2014,Arena Corinthians,Sao Paulo,SP,Sábado,16, Agosto ,2014,21:00,Corinthians - SP,Bahia - BA,1,1,0,0,1,1,1
+143,A,2014,Pacaembu,Sao Paulo,SP,Domingo,17, Agosto ,2014,16:00,Palmeiras - SP,São Paulo - SP,1,2,0,1,0,0,3
+144,A,2014,Couto Pereira,Curitiba,PR,Domingo,17, Agosto ,2014,16:00,Coritiba - PR,Flamengo - RJ,0,1,0,1,0,0,3
+145,A,2014,Mineirão,Belo Horizonte,MG,Domingo,17, Agosto ,2014,16:00,Cruzeiro - MG,Santos - SP,3,0,1,0,0,3,0
+146,A,2014,Manoel Barradas,Salvador,BA,Domingo,17, Agosto ,2014,16:00,Vitória - BA,Chapecoense - SC,0,0,0,0,1,1,1
+147,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,17, Agosto ,2014,16:00,Grêmio - RS,Criciuma - SC,2,0,1,0,0,3,0
+148,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,17, Agosto ,2014,18:30,Figueirense - SC,Atlético - MG,2,2,0,0,1,1,1
+149,A,2014,Serra Dourada,Goiania,GO,Sábado,16, Agosto ,2014,18:30,Goiás - GO,Internacional - RS,0,1,0,1,0,0,3
+150,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,20, Agosto ,2014,22:00,Flamengo - RJ,Atlético - MG,2,1,1,0,0,3,0
+151,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Quarta,20, Agosto ,2014,19:30,Sport - PE,Palmeiras - SP,2,1,1,0,0,3,0
+152,A,2014,Arena Corinthians,Sao Paulo,SP,Quinta,21, Agosto ,2014,19:30,Corinthians - SP,Goiás - GO,5,2,1,0,0,3,0
+153,A,2014,Vila Belmiro,Santos,SP,Quarta,20, Agosto ,2014,19:30,Santos - SP,Atletico - PR,2,0,1,0,0,3,0
+154,A,2014,Couto Pereira,Curitiba,PR,Quarta,20, Agosto ,2014,21:00,Coritiba - PR,Vitória - BA,2,0,1,0,0,3,0
+155,A,2014,Mineirão,Belo Horizonte,MG,Quinta,21, Agosto ,2014,20:30,Cruzeiro - MG,Grêmio - RS,1,0,1,0,0,3,0
+156,A,2014,Fonte Nova,Salvador,BA,Quarta,20, Agosto ,2014,21:00,Bahia - BA,Criciuma - SC,0,0,0,0,1,1,1
+157,A,2014,Beira,Rio,Porto Alegre,Quarta,20, Agosto ,2014,22:00,Internacional - RS,São Paulo - SP,0,1,0,1,0,0,3
+158,A,2014,Orlando Scarpelli,Florianopolis,SC,Quarta,20, Agosto ,2014,19:30,Figueirense - SC,Botafogo - RJ,1,0,1,0,0,3,0
+159,A,2014,Arena Condá,Chapeco,SC,Quarta,20, Agosto ,2014,22:00,Chapecoense - SC,Fluminense - RJ,1,0,1,0,0,3,0
+160,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,23, Agosto ,2014,18:30,Botafogo - RJ,Chapecoense - SC,1,0,1,0,0,3,0
+161,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,24, Agosto ,2014,16:00,Fluminense - RJ,Sport - PE,4,0,1,0,0,3,0
+162,A,2014,Morumbi,Sao Paulo,SP,Domingo,24, Agosto ,2014,16:00,São Paulo - SP,Santos - SP,2,1,1,0,0,3,0
+163,A,2014,Pacaembu,Sao Paulo,SP,Sábado,23, Agosto ,2014,21:00,Palmeiras - SP,Coritiba - PR,1,0,1,0,0,3,0
+164,A,2014,Arena da Baixada,Curitiba,PR,Domingo,24, Agosto ,2014,18:30,Atletico - PR,Bahia - BA,0,0,0,0,1,1,1
+165,A,2014,Independência,Belo Horizonte,MG,Sábado,23, Agosto ,2014,18:30,Atlético - MG,Internacional - RS,1,0,1,0,0,3,0
+166,A,2014,Manoel Barradas,Salvador,BA,Domingo,24, Agosto ,2014,16:00,Vitória - BA,Figueirense - SC,0,1,0,1,0,0,3
+167,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,24, Agosto ,2014,16:00,Grêmio - RS,Corinthians - SP,2,1,1,0,0,3,0
+168,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,24, Agosto ,2014,16:00,Criciuma - SC,Flamengo - RJ,0,2,0,1,0,0,3
+169,A,2014,Serra Dourada,Goiania,GO,Domingo,24, Agosto ,2014,18:30,Goiás - GO,Cruzeiro - MG,0,1,0,1,0,0,3
+170,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,31, Agosto ,2014,16:00,Botafogo - RJ,Santos - SP,1,0,1,0,0,3,0
+171,A,2014,Ilha do Retiro,Recife,PE,Domingo,31, Agosto ,2014,16:00,Sport - PE,Criciuma - SC,2,0,1,0,0,3,0
+172,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,31, Agosto ,2014,16:00,Corinthians - SP,Fluminense - RJ,1,1,0,0,1,1,1
+173,A,2014,Pacaembu,Sao Paulo,SP,Sábado,30, Agosto ,2014,18:30,Palmeiras - SP,Internacional - RS,0,1,0,1,0,0,3
+174,A,2014,Couto Pereira,Curitiba,PR,Domingo,31, Agosto ,2014,16:00,Coritiba - PR,Atlético - MG,0,0,0,0,1,1,1
+175,A,2014,Mineirão,Belo Horizonte,MG,Sábado,30, Agosto ,2014,18:30,Cruzeiro - MG,Chapecoense - SC,4,2,1,0,0,3,0
+176,A,2014,Manoel Barradas,Salvador,BA,Domingo,31, Agosto ,2014,18:30,Vitória - BA,Flamengo - RJ,1,2,0,1,0,0,3
+177,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,31, Agosto ,2014,18:30,Grêmio - RS,Bahia - BA,1,0,1,0,0,3,0
+178,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,31, Agosto ,2014,16:00,Figueirense - SC,São Paulo - SP,1,1,0,0,1,1,1
+179,A,2014,Serra Dourada,Goiania,GO,Domingo,31, Agosto ,2014,18:30,Goiás - GO,Atletico - PR,3,1,1,0,0,3,0
+180,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,6, Setembro ,2014,18:30,Flamengo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+181,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,7, Setembro ,2014,16:00,Fluminense - RJ,Cruzeiro - MG,3,3,0,0,1,1,1
+182,A,2014,Morumbi,Sao Paulo,SP,Domingo,7, Setembro ,2014,16:00,São Paulo - SP,Sport - PE,2,0,1,0,0,3,0
+183,A,2014,Pacaembu,Sao Paulo,SP,Sábado,6, Setembro ,2014,18:30,Santos - SP,Vitória - BA,3,1,1,0,0,3,0
+184,A,2014,Arena da Baixada,Curitiba,PR,Domingo,7, Setembro ,2014,18:30,Atletico - PR,Palmeiras - SP,1,1,0,0,1,1,1
+185,A,2014,Independência,Belo Horizonte,MG,Domingo,7, Setembro ,2014,16:00,Atlético - MG,Botafogo - RJ,1,0,1,0,0,3,0
+186,A,2014,Fonte Nova,Salvador,BA,Domingo,7, Setembro ,2014,18:30,Bahia - BA,Coritiba - PR,0,0,0,0,1,1,1
+187,A,2014,Beira,Rio,Porto Alegre,Domingo,7, Setembro ,2014,18:30,Internacional - RS,Figueirense - SC,2,3,0,1,0,0,3
+188,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,7, Setembro ,2014,16:00,Criciuma - SC,Corinthians - SP,0,0,0,0,1,1,1
+189,A,2014,Arena Condá,Chapeco,SC,Sábado,6, Setembro ,2014,21:00,Chapecoense - SC,Goiás - GO,0,0,0,0,1,1,1
+190,A,2014,Mané Garrincha,Brasilia,DF,Quarta,10, Setembro ,2014,22:00,Botafogo - RJ,São Paulo - SP,2,4,0,1,0,0,3
+191,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Quarta,10, Setembro ,2014,21:00,Sport - PE,Santos - SP,3,1,1,0,0,3,0
+192,A,2014,Arena Corinthians,Sao Paulo,SP,Quinta,11, Setembro ,2014,19:30,Corinthians - SP,Atlético - MG,1,0,1,0,0,3,0
+193,A,2014,Pacaembu,Sao Paulo,SP,Quarta,10, Setembro ,2014,19:30,Palmeiras - SP,Criciuma - SC,1,0,1,0,0,3,0
+194,A,2014,Couto Pereira,Curitiba,PR,Quarta,10, Setembro ,2014,21:00,Coritiba - PR,Chapecoense - SC,3,0,1,0,0,3,0
+195,A,2014,Mineirão,Belo Horizonte,MG,Quinta,11, Setembro ,2014,20:30,Cruzeiro - MG,Bahia - BA,2,1,1,0,0,3,0
+196,A,2014,Manoel Barradas,Salvador,BA,Quarta,10, Setembro ,2014,22:00,Vitória - BA,Internacional - RS,2,0,1,0,0,3,0
+197,A,2014,Arena do Grêmio,Porto Alegre,RS,Quarta,10, Setembro ,2014,19:30,Grêmio - RS,Atletico - PR,1,0,1,0,0,3,0
+198,A,2014,Orlando Scarpelli,Florianopolis,SC,Quarta,10, Setembro ,2014,19:30,Figueirense - SC,Fluminense - RJ,1,1,0,0,1,1,1
+199,A,2014,Arena Pantanal,Cuiaba,MT,Quarta,10, Setembro ,2014,22:00,Goiás - GO,Flamengo - RJ,1,0,1,0,0,3,0
+200,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,14, Setembro ,2014,16:00,Flamengo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+201,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,13, Setembro ,2014,18:30,Fluminense - RJ,Palmeiras - SP,3,0,1,0,0,3,0
+202,A,2014,Morumbi,Sao Paulo,SP,Domingo,14, Setembro ,2014,16:00,São Paulo - SP,Cruzeiro - MG,2,0,1,0,0,3,0
+203,A,2014,Vila Belmiro,Santos,SP,Sábado,13, Setembro ,2014,21:00,Santos - SP,Coritiba - PR,2,1,1,0,0,3,0
+204,A,2014,Arena da Baixada,Curitiba,PR,Domingo,14, Setembro ,2014,18:30,Atletico - PR,Vitória - BA,2,0,1,0,0,3,0
+205,A,2014,Independência,Belo Horizonte,MG,Domingo,14, Setembro ,2014,18:30,Atlético - MG,Grêmio - RS,0,0,0,0,1,1,1
+206,A,2014,Jóia da Princesa,Feira de Santana,BA,Domingo,14, Setembro ,2014,16:00,Bahia - BA,Figueirense - SC,3,0,1,0,0,3,0
+207,A,2014,Beira,Rio,Porto Alegre,Domingo,14, Setembro ,2014,16:00,Internacional - RS,Botafogo - RJ,2,0,1,0,0,3,0
+208,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,14, Setembro ,2014,18:30,Criciuma - SC,Goiás - GO,1,0,1,0,0,3,0
+209,A,2014,Arena Condá,Chapeco,SC,Sábado,13, Setembro ,2014,18:30,Chapecoense - SC,Sport - PE,3,1,1,0,0,3,0
+210,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,17, Setembro ,2014,22:00,Botafogo - RJ,Bahia - BA,2,3,0,1,0,0,3
+211,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Quarta,17, Setembro ,2014,21:00,Sport - PE,Internacional - RS,0,0,0,0,1,1,1
+212,A,2014,Arena Corinthians,Sao Paulo,SP,Quinta,18, Setembro ,2014,19:30,Corinthians - SP,Chapecoense - SC,1,1,0,0,1,1,1
+213,A,2014,Pacaembu,Sao Paulo,SP,Quarta,17, Setembro ,2014,22:00,Palmeiras - SP,Flamengo - RJ,2,2,0,0,1,1,1
+214,A,2014,Couto Pereira,Curitiba,PR,Quarta,17, Setembro ,2014,22:00,Coritiba - PR,São Paulo - SP,3,1,1,0,0,3,0
+215,A,2014,Mineirão,Belo Horizonte,MG,Quarta,17, Setembro ,2014,19:30,Cruzeiro - MG,Atletico - PR,2,0,1,0,0,3,0
+216,A,2014,Manoel Barradas,Salvador,BA,Quarta,17, Setembro ,2014,19:30,Vitória - BA,Fluminense - RJ,3,1,1,0,0,3,0
+217,A,2014,Arena do Grêmio,Porto Alegre,RS,Quinta,18, Setembro ,2014,20:30,Grêmio - RS,Santos - SP,0,0,0,0,1,1,1
+218,A,2014,Orlando Scarpelli,Florianopolis,SC,Quarta,17, Setembro ,2014,21:00,Figueirense - SC,Criciuma - SC,1,1,0,0,1,1,1
+219,A,2014,Serra Dourada,Goiania,GO,Quinta,18, Setembro ,2014,19:30,Goiás - GO,Atlético - MG,2,3,0,1,0,0,3
+220,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,21, Setembro ,2014,16:00,Flamengo - RJ,Fluminense - RJ,1,1,0,0,1,1,1
+221,A,2014,Ilha do Retiro,Recife,PE,Domingo,21, Setembro ,2014,16:00,Sport - PE,Coritiba - PR,1,0,1,0,0,3,0
+222,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,21, Setembro ,2014,16:00,Corinthians - SP,São Paulo - SP,3,2,1,0,0,3,0
+223,A,2014,Vila Belmiro,Santos,SP,Domingo,21, Setembro ,2014,18:30,Santos - SP,Figueirense - SC,3,1,1,0,0,3,0
+224,A,2014,Arena da Baixada,Curitiba,PR,Sábado,20, Setembro ,2014,18:30,Atletico - PR,Internacional - RS,0,1,0,1,0,0,3
+225,A,2014,Mineirão,Belo Horizonte,MG,Domingo,21, Setembro ,2014,16:00,Cruzeiro - MG,Atlético - MG,2,3,0,1,0,0,3
+226,A,2014,Fonte Nova,Salvador,BA,Domingo,21, Setembro ,2014,16:00,Vitória - BA,Bahia - BA,2,1,1,0,0,3,0
+227,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,21, Setembro ,2014,18:30,Grêmio - RS,Chapecoense - SC,1,0,1,0,0,3,0
+228,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,20, Setembro ,2014,21:00,Criciuma - SC,Botafogo - RJ,1,1,0,0,1,1,1
+229,A,2014,Serra Dourada,Goiania,GO,Domingo,21, Setembro ,2014,18:30,Goiás - GO,Palmeiras - SP,6,0,1,0,0,3,0
+230,A,2014,Maracanã,Rio de Janeiro,RJ,Quinta,25, Setembro ,2014,19:30,Botafogo - RJ,Goiás - GO,1,0,1,0,0,3,0
+231,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,24, Setembro ,2014,22:00,Fluminense - RJ,Grêmio - RS,0,0,0,0,1,1,1
+232,A,2014,Morumbi,Sao Paulo,SP,Quarta,24, Setembro ,2014,22:00,São Paulo - SP,Flamengo - RJ,2,2,0,0,1,1,1
+233,A,2014,Pacaembu,Sao Paulo,SP,Quinta,25, Setembro ,2014,19:30,Palmeiras - SP,Vitória - BA,2,0,1,0,0,3,0
+234,A,2014,Couto Pereira,Curitiba,PR,Quarta,24, Setembro ,2014,19:30,Coritiba - PR,Cruzeiro - MG,1,2,0,1,0,0,3
+235,A,2014,Independência,Belo Horizonte,MG,Quinta,25, Setembro ,2014,20:30,Atlético - MG,Santos - SP,3,2,1,0,0,3,0
+236,A,2014,Fonte Nova,Salvador,BA,Quarta,24, Setembro ,2014,21:00,Bahia - BA,Sport - PE,1,0,1,0,0,3,0
+237,A,2014,Beira,Rio,Porto Alegre,Quarta,24, Setembro ,2014,19:30,Internacional - RS,Criciuma - SC,3,0,1,0,0,3,0
+238,A,2014,Orlando Scarpelli,Florianopolis,SC,Quarta,24, Setembro ,2014,22:00,Figueirense - SC,Corinthians - SP,1,0,1,0,0,3,0
+239,A,2014,Arena Condá,Chapeco,SC,Quarta,24, Setembro ,2014,21:00,Chapecoense - SC,Atletico - PR,3,0,1,0,0,3,0
+240,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,28, Setembro ,2014,16:00,Botafogo - RJ,Grêmio - RS,0,2,0,1,0,0,3
+241,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,27, Setembro ,2014,18:30,Sport - PE,Cruzeiro - MG,0,0,0,0,1,1,1
+242,A,2014,Morumbi,Sao Paulo,SP,Sábado,27, Setembro ,2014,21:00,São Paulo - SP,Fluminense - RJ,1,3,0,1,0,0,3
+243,A,2014,Pacaembu,Sao Paulo,SP,Domingo,28, Setembro ,2014,18:30,Santos - SP,Goiás - GO,2,0,1,0,0,3,0
+244,A,2014,Arena da Baixada,Curitiba,PR,Domingo,28, Setembro ,2014,16:00,Atletico - PR,Corinthians - SP,1,0,1,0,0,3,0
+245,A,2014,Independência,Belo Horizonte,MG,Domingo,28, Setembro ,2014,16:00,Atlético - MG,Vitória - BA,2,0,1,0,0,3,0
+246,A,2014,Fonte Nova,Salvador,BA,Domingo,28, Setembro ,2014,16:00,Bahia - BA,Flamengo - RJ,2,1,1,0,0,3,0
+247,A,2014,Beira,Rio,Porto Alegre,Domingo,28, Setembro ,2014,18:30,Internacional - RS,Coritiba - PR,4,2,1,0,0,3,0
+248,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,28, Setembro ,2014,18:30,Figueirense - SC,Palmeiras - SP,3,1,1,0,0,3,0
+249,A,2014,Arena Condá,Chapeco,SC,Sábado,27, Setembro ,2014,18:30,Chapecoense - SC,Criciuma - SC,1,1,0,0,1,1,1
+250,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,4, Outubro ,2014,16:20,Flamengo - RJ,Santos - SP,0,1,0,1,0,0,3
+251,A,2014,Mané Garrincha,Brasilia,DF,Sábado,4, Outubro ,2014,16:20,Fluminense - RJ,Bahia - BA,1,1,0,0,1,1,1
+252,A,2014,Arena Corinthians,Sao Paulo,SP,Sábado,4, Outubro ,2014,18:30,Corinthians - SP,Sport - PE,3,0,1,0,0,3,0
+253,A,2014,Pacaembu,Sao Paulo,SP,Quinta,2, Outubro ,2014,19:30,Palmeiras - SP,Chapecoense - SC,4,2,1,0,0,3,0
+254,A,2014,Couto Pereira,Curitiba,PR,Sábado,4, Outubro ,2014,16:20,Coritiba - PR,Atletico - PR,1,0,1,0,0,3,0
+255,A,2014,Mineirão,Belo Horizonte,MG,Sábado,4, Outubro ,2014,18:30,Cruzeiro - MG,Internacional - RS,2,1,1,0,0,3,0
+256,A,2014,Manoel Barradas,Salvador,BA,Sábado,4, Outubro ,2014,16:20,Vitória - BA,Botafogo - RJ,2,1,1,0,0,3,0
+257,A,2014,Arena do Grêmio,Porto Alegre,RS,Sábado,4, Outubro ,2014,16:20,Grêmio - RS,São Paulo - SP,0,1,0,1,0,0,3
+258,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,4, Outubro ,2014,18:30,Criciuma - SC,Atlético - MG,3,1,1,0,0,3,0
+259,A,2014,Serra Dourada,Goiania,GO,Sábado,4, Outubro ,2014,21:00,Goiás - GO,Figueirense - SC,1,0,1,0,0,3,0
+260,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,8, Outubro ,2014,19:30,Botafogo - RJ,Palmeiras - SP,0,1,0,1,0,0,3
+261,A,2014,Maracanã,Rio de Janeiro,RJ,Quinta,9, Outubro ,2014,19:30,Fluminense - RJ,Atlético - MG,0,0,0,0,1,1,1
+262,A,2014,Morumbi,Sao Paulo,SP,Quarta,8, Outubro ,2014,19:30,São Paulo - SP,Atletico - PR,1,0,1,0,0,3,0
+263,A,2014,Vila Belmiro,Santos,SP,Quinta,9, Outubro ,2014,19:30,Santos - SP,Bahia - BA,1,0,1,0,0,3,0
+264,A,2014,Couto Pereira,Curitiba,PR,Quarta,8, Outubro ,2014,19:30,Coritiba - PR,Criciuma - SC,1,0,1,0,0,3,0
+265,A,2014,Mineirão,Belo Horizonte,MG,Quarta,8, Outubro ,2014,22:00,Cruzeiro - MG,Corinthians - SP,0,1,0,1,0,0,3
+266,A,2014,Manoel Barradas,Salvador,BA,Quarta,8, Outubro ,2014,21:00,Vitória - BA,Goiás - GO,2,2,0,0,1,1,1
+267,A,2014,Arena do Grêmio,Porto Alegre,RS,Quarta,8, Outubro ,2014,22:00,Grêmio - RS,Sport - PE,2,0,1,0,0,3,0
+268,A,2014,Orlando Scarpelli,Florianopolis,SC,Quarta,8, Outubro ,2014,22:00,Figueirense - SC,Flamengo - RJ,1,2,0,1,0,0,3
+269,A,2014,Arena Condá,Chapeco,SC,Quinta,9, Outubro ,2014,20:30,Chapecoense - SC,Internacional - RS,5,0,1,0,0,3,0
+270,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,12, Outubro ,2014,16:00,Flamengo - RJ,Cruzeiro - MG,3,0,1,0,0,3,0
+271,A,2014,Ilha do Retiro,Recife,PE,Domingo,12, Outubro ,2014,18:30,Sport - PE,Vitória - BA,1,2,0,1,0,0,3
+272,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,1, Junho ,2014,16:00,Corinthians - SP,Botafogo - RJ,1,1,0,0,1,1,1
+273,A,2014,Pacaembu,Sao Paulo,SP,Sábado,11, Outubro ,2014,21:00,Palmeiras - SP,Grêmio - RS,2,1,1,0,0,3,0
+274,A,2014,Arena da Baixada,Curitiba,PR,Domingo,12, Outubro ,2014,18:30,Atletico - PR,Figueirense - SC,3,0,1,0,0,3,0
+275,A,2014,Independência,Belo Horizonte,MG,Domingo,12, Outubro ,2014,16:00,Atlético - MG,São Paulo - SP,1,0,1,0,0,3,0
+276,A,2014,Fonte Nova,Salvador,BA,Domingo,12, Outubro ,2014,16:00,Bahia - BA,Chapecoense - SC,0,1,0,1,0,0,3
+277,A,2014,Beira,Rio,Porto Alegre,Domingo,12, Outubro ,2014,16:00,Internacional - RS,Fluminense - RJ,2,1,1,0,0,3,0
+278,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,12, Outubro ,2014,18:30,Criciuma - SC,Santos - SP,3,0,1,0,0,3,0
+279,A,2014,Serra Dourada,Goiania,GO,Sábado,11, Outubro ,2014,18:30,Goiás - GO,Coritiba - PR,3,0,1,0,0,3,0
+280,A,2014,Raulino de Oliveira,Volta Redonda,RJ,Domingo,19, Outubro ,2014,18:30,Botafogo - RJ,Sport - PE,1,1,0,0,1,1,1
+281,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,18, Outubro ,2014,18:30,Fluminense - RJ,Criciuma - SC,4,2,1,0,0,3,0
+282,A,2014,Morumbi,Sao Paulo,SP,Sábado,18, Outubro ,2014,18:30,São Paulo - SP,Bahia - BA,2,1,1,0,0,3,0
+283,A,2014,Pacaembu,Sao Paulo,SP,Domingo,19, Outubro ,2014,16:00,Palmeiras - SP,Santos - SP,1,3,0,1,0,0,3
+284,A,2014,Arena da Baixada,Curitiba,PR,Domingo,19, Outubro ,2014,16:00,Atletico - PR,Flamengo - RJ,2,1,1,0,0,3,0
+285,A,2014,Independência,Belo Horizonte,MG,Sábado,18, Outubro ,2014,21:00,Atlético - MG,Chapecoense - SC,1,0,1,0,0,3,0
+286,A,2014,Manoel Barradas,Salvador,BA,Domingo,19, Outubro ,2014,18:30,Vitória - BA,Cruzeiro - MG,0,1,0,1,0,0,3
+287,A,2014,Beira,Rio,Porto Alegre,Domingo,19, Outubro ,2014,16:00,Internacional - RS,Corinthians - SP,1,2,0,1,0,0,3
+288,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,19, Outubro ,2014,16:00,Figueirense - SC,Coritiba - PR,4,0,1,0,0,3,0
+289,A,2014,Serra Dourada,Goiania,GO,Sábado,18, Outubro ,2014,18:30,Goiás - GO,Grêmio - RS,0,0,0,0,1,1,1
+290,A,2014,Maracanã,Rio de Janeiro,RJ,Quarta,22, Outubro ,2014,19:30,Flamengo - RJ,Internacional - RS,2,0,1,0,0,3,0
+291,A,2014,Ilha do Retiro,Recife,PE,Quarta,22, Outubro ,2014,22:30,Sport - PE,Goiás - GO,0,1,0,1,0,0,3
+292,A,2014,Arena Pantanal,Cuiaba,MT,Quarta,22, Outubro ,2014,19:30,Corinthians - SP,Vitória - BA,2,1,1,0,0,3,0
+293,A,2014,Vila Belmiro,Santos,SP,Quarta,22, Outubro ,2014,22:00,Santos - SP,Fluminense - RJ,0,1,0,1,0,0,3
+294,A,2014,Couto Pereira,Curitiba,PR,Quarta,22, Outubro ,2014,21:00,Coritiba - PR,Botafogo - RJ,2,0,1,0,0,3,0
+295,A,2014,Mineirão,Belo Horizonte,MG,Quarta,22, Outubro ,2014,19:30,Cruzeiro - MG,Palmeiras - SP,1,1,0,0,1,1,1
+296,A,2014,Fonte Nova,Salvador,BA,Terça,21, Outubro ,2014,21:50,Bahia - BA,Atlético - MG,1,1,0,0,1,1,1
+297,A,2014,Arena do Grêmio,Porto Alegre,RS,Quarta,22, Outubro ,2014,21:00,Grêmio - RS,Figueirense - SC,1,0,1,0,0,3,0
+298,A,2014,Heriberto Hulse,Criciuma,SC,Quarta,22, Outubro ,2014,19:30,Criciuma - SC,Atletico - PR,0,1,0,1,0,0,3
+299,A,2014,Arena Condá,Chapeco,SC,Quarta,22, Outubro ,2014,22:00,Chapecoense - SC,São Paulo - SP,0,0,0,0,1,1,1
+300,A,2014,Arena da Amazônia,Manaus,AM,Sábado,25, Outubro ,2014,21:00,Botafogo - RJ,Flamengo - RJ,2,1,1,0,0,3,0
+301,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,25, Outubro ,2014,16:20,Fluminense - RJ,Atletico - PR,2,1,1,0,0,3,0
+302,A,2014,Morumbi,Sao Paulo,SP,Segunda,27, Outubro ,2014,20:30,São Paulo - SP,Goiás - GO,3,0,1,0,0,3,0
+303,A,2014,Pacaembu,Sao Paulo,SP,Sábado,25, Outubro ,2014,16:20,Palmeiras - SP,Corinthians - SP,1,1,0,0,1,1,1
+304,A,2014,Couto Pereira,Curitiba,PR,Sábado,25, Outubro ,2014,18:30,Coritiba - PR,Grêmio - RS,1,1,0,0,1,1,1
+305,A,2014,Independência,Belo Horizonte,MG,Sábado,25, Outubro ,2014,18:30,Atlético - MG,Sport - PE,3,2,1,0,0,3,0
+306,A,2014,Manoel Barradas,Salvador,BA,Sábado,25, Outubro ,2014,18:30,Vitória - BA,Criciuma - SC,3,1,1,0,0,3,0
+307,A,2014,Beira,Rio,Porto Alegre,Sábado,25, Outubro ,2014,21:00,Internacional - RS,Bahia - BA,2,0,1,0,0,3,0
+308,A,2014,Orlando Scarpelli,Florianopolis,SC,Sábado,25, Outubro ,2014,16:20,Figueirense - SC,Cruzeiro - MG,1,1,0,0,1,1,1
+309,A,2014,Arena Condá,Chapeco,SC,Sábado,25, Outubro ,2014,18:30,Chapecoense - SC,Santos - SP,1,1,0,0,1,1,1
+310,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,2, Novembro ,2014,19:30,Flamengo - RJ,Chapecoense - SC,3,0,1,0,0,3,0
+311,A,2014,Ilha do Retiro,Recife,PE,Domingo,2, Novembro ,2014,17:00,Sport - PE,Figueirense - SC,1,0,1,0,0,3,0
+312,A,2014,Arena Corinthians,Sao Paulo,SP,Sábado,1, Novembro ,2014,21:00,Corinthians - SP,Coritiba - PR,2,2,0,0,1,1,1
+313,A,2014,Vila Belmiro,Santos,SP,Domingo,2, Novembro ,2014,17:00,Santos - SP,Internacional - RS,1,2,0,1,0,0,3
+314,A,2014,Arena da Baixada,Curitiba,PR,Domingo,2, Novembro ,2014,19:30,Atletico - PR,Atlético - MG,1,0,1,0,0,3,0
+315,A,2014,Mineirão,Belo Horizonte,MG,Domingo,2, Novembro ,2014,17:00,Cruzeiro - MG,Botafogo - RJ,2,1,1,0,0,3,0
+316,A,2014,Fonte Nova,Salvador,BA,Domingo,2, Novembro ,2014,20:00,Bahia - BA,Palmeiras - SP,0,1,0,1,0,0,3
+317,A,2014,Arena do Grêmio,Porto Alegre,RS,Sábado,1, Novembro ,2014,19:30,Grêmio - RS,Vitória - BA,1,0,1,0,0,3,0
+318,A,2014,Heriberto Hulse,Criciuma,SC,Domingo,2, Novembro ,2014,17:00,Criciuma - SC,São Paulo - SP,1,2,0,1,0,0,3
+319,A,2014,Serra Dourada,Goiania,GO,Sábado,1, Novembro ,2014,19:30,Goiás - GO,Fluminense - RJ,0,2,0,1,0,0,3
+320,A,2014,Raulino de Oliveira,Volta Redonda,RJ,Sábado,8, Novembro ,2014,21:00,Botafogo - RJ,Atletico - PR,0,2,0,1,0,0,3
+321,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,9, Novembro ,2014,17:00,Sport - PE,Flamengo - RJ,2,2,0,0,1,1,1
+322,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,9, Novembro ,2014,19:30,Corinthians - SP,Santos - SP,1,0,1,0,0,3,0
+323,A,2014,Pacaembu,Sao Paulo,SP,Sábado,8, Novembro ,2014,19:30,Palmeiras - SP,Atlético - MG,0,2,0,1,0,0,3
+324,A,2014,Couto Pereira,Curitiba,PR,Sábado,8, Novembro ,2014,19:30,Coritiba - PR,Fluminense - RJ,1,0,1,0,0,3,0
+325,A,2014,Mineirão,Belo Horizonte,MG,Domingo,9, Novembro ,2014,19:30,Cruzeiro - MG,Criciuma - SC,3,1,1,0,0,3,0
+326,A,2014,Manoel Barradas,Salvador,BA,Domingo,9, Novembro ,2014,17:00,Vitória - BA,São Paulo - SP,1,2,0,1,0,0,3
+327,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,9, Novembro ,2014,17:00,Grêmio - RS,Internacional - RS,4,1,1,0,0,3,0
+328,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,9, Novembro ,2014,17:00,Figueirense - SC,Chapecoense - SC,1,0,1,0,0,3,0
+329,A,2014,Serra Dourada,Goiania,GO,Domingo,9, Novembro ,2014,19:30,Goiás - GO,Bahia - BA,3,0,1,0,0,3,0
+330,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,16, Novembro ,2014,17:00,Flamengo - RJ,Coritiba - PR,3,2,1,0,0,3,0
+331,A,2014,Maracanã,Rio de Janeiro,RJ,Sábado,15, Novembro ,2014,19:30,Fluminense - RJ,Botafogo - RJ,1,0,1,0,0,3,0
+332,A,2014,Morumbi,Sao Paulo,SP,Domingo,16, Novembro ,2014,19:30,São Paulo - SP,Palmeiras - SP,2,0,1,0,0,3,0
+333,A,2014,Vila Belmiro,Santos,SP,Domingo,16, Novembro ,2014,17:00,Santos - SP,Cruzeiro - MG,0,1,0,1,0,0,3
+334,A,2014,Arena da Baixada,Curitiba,PR,Domingo,16, Novembro ,2014,17:00,Atletico - PR,Sport - PE,0,1,0,1,0,0,3
+335,A,2014,Independência,Belo Horizonte,MG,Domingo,16, Novembro ,2014,19:30,Atlético - MG,Figueirense - SC,1,1,0,0,1,1,1
+336,A,2014,Fonte Nova,Salvador,BA,Domingo,16, Novembro ,2014,17:00,Bahia - BA,Corinthians - SP,1,2,0,1,0,0,3
+337,A,2014,Beira,Rio,Porto Alegre,Domingo,16, Novembro ,2014,17:00,Internacional - RS,Goiás - GO,1,0,1,0,0,3,0
+338,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,15, Novembro ,2014,19:30,Criciuma - SC,Grêmio - RS,0,3,0,1,0,0,3
+339,A,2014,Arena Condá,Chapeco,SC,Domingo,16, Novembro ,2014,19:30,Chapecoense - SC,Vitória - BA,0,1,0,1,0,0,3
+340,A,2014,São Januário,Rio de Janeiro,RJ,Quarta,19, Novembro ,2014,19:30,Botafogo - RJ,Figueirense - SC,0,1,0,1,0,0,3
+341,A,2014,Maracanã,Rio de Janeiro,RJ,Quinta,20, Novembro ,2014,19:30,Fluminense - RJ,Chapecoense - SC,1,4,0,1,0,0,3
+342,A,2014,Morumbi,Sao Paulo,SP,Quarta,12, Novembro ,2014,22:00,São Paulo - SP,Internacional - RS,1,1,0,0,1,1,1
+343,A,2014,Allianz Parque,Sao Paulo,SP,Quarta,19, Novembro ,2014,22:00,Palmeiras - SP,Sport - PE,0,2,0,1,0,0,3
+344,A,2014,Arena da Baixada,Curitiba,PR,Quarta,19, Novembro ,2014,19:30,Atletico - PR,Santos - SP,1,1,0,0,1,1,1
+345,A,2014,Independência,Belo Horizonte,MG,Quarta,19, Novembro ,2014,22:00,Atlético - MG,Flamengo - RJ,4,0,1,0,0,3,0
+346,A,2014,Manoel Barradas,Salvador,BA,Quarta,19, Novembro ,2014,21:00,Vitória - BA,Coritiba - PR,1,1,0,0,1,1,1
+347,A,2014,Arena do Grêmio,Porto Alegre,RS,Quinta,20, Novembro ,2014,21:50,Grêmio - RS,Cruzeiro - MG,1,2,0,1,0,0,3
+348,A,2014,Heriberto Hulse,Criciuma,SC,Quarta,19, Novembro ,2014,21:00,Criciuma - SC,Bahia - BA,0,1,0,1,0,0,3
+349,A,2014,Olímpico do Pará,Belem,PA,Quarta,19, Novembro ,2014,21:00,Goiás - GO,Corinthians - SP,0,1,0,1,0,0,3
+350,A,2014,Castelão/MA,Sao Luis,MA,Domingo,23, Novembro ,2014,17:00,Flamengo - RJ,Criciuma - SC,1,1,0,0,1,1,1
+351,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,23, Novembro ,2014,17:00,Sport - PE,Fluminense - RJ,2,2,0,0,1,1,1
+352,A,2014,Arena Corinthians,Sao Paulo,SP,Domingo,23, Novembro ,2014,19:30,Corinthians - SP,Grêmio - RS,1,0,1,0,0,3,0
+353,A,2014,Arena Pantanal,Cuiaba,MT,Domingo,23, Novembro ,2014,17:00,Santos - SP,São Paulo - SP,0,1,0,1,0,0,3
+354,A,2014,Couto Pereira,Curitiba,PR,Domingo,23, Novembro ,2014,19:30,Coritiba - PR,Palmeiras - SP,2,0,1,0,0,3,0
+355,A,2014,Mineirão,Belo Horizonte,MG,Domingo,23, Novembro ,2014,17:00,Cruzeiro - MG,Goiás - GO,2,1,1,0,0,3,0
+356,A,2014,Fonte Nova,Salvador,BA,Sábado,22, Novembro ,2014,21:00,Bahia - BA,Atletico - PR,1,2,0,1,0,0,3
+357,A,2014,Beira,Rio,Porto Alegre,Sábado,22, Novembro ,2014,19:30,Internacional - RS,Atlético - MG,2,1,1,0,0,3,0
+358,A,2014,Orlando Scarpelli,Florianopolis,SC,Domingo,23, Novembro ,2014,17:00,Figueirense - SC,Vitória - BA,2,0,1,0,0,3,0
+359,A,2014,Arena Condá,Chapeco,SC,Domingo,23, Novembro ,2014,19:30,Chapecoense - SC,Botafogo - RJ,2,0,1,0,0,3,0
+360,A,2014,Arena da Amazônia,Manaus,AM,Sábado,29, Novembro ,2014,21:00,Flamengo - RJ,Vitória - BA,4,0,1,0,0,3,0
+361,A,2014,Maracanã,Rio de Janeiro,RJ,Domingo,30, Novembro ,2014,17:00,Fluminense - RJ,Corinthians - SP,5,2,1,0,0,3,0
+362,A,2014,Morumbi,Sao Paulo,SP,Domingo,30, Novembro ,2014,17:00,São Paulo - SP,Figueirense - SC,1,1,0,0,1,1,1
+363,A,2014,Vila Belmiro,Santos,SP,Domingo,30, Novembro ,2014,17:00,Santos - SP,Botafogo - RJ,2,0,1,0,0,3,0
+364,A,2014,Arena da Baixada,Curitiba,PR,Domingo,30, Novembro ,2014,19:30,Atletico - PR,Goiás - GO,1,0,1,0,0,3,0
+365,A,2014,Independência,Belo Horizonte,MG,Domingo,30, Novembro ,2014,19:30,Atlético - MG,Coritiba - PR,1,2,0,1,0,0,3
+366,A,2014,Fonte Nova,Salvador,BA,Domingo,30, Novembro ,2014,19:30,Bahia - BA,Grêmio - RS,1,0,1,0,0,3,0
+367,A,2014,Beira,Rio,Porto Alegre,Sábado,29, Novembro ,2014,19:30,Internacional - RS,Palmeiras - SP,3,1,1,0,0,3,0
+368,A,2014,Heriberto Hulse,Criciuma,SC,Sábado,29, Novembro ,2014,19:30,Criciuma - SC,Sport - PE,2,2,0,0,1,1,1
+369,A,2014,Arena Condá,Chapeco,SC,Domingo,30, Novembro ,2014,17:00,Chapecoense - SC,Cruzeiro - MG,1,1,0,0,1,1,1
+370,A,2014,Mané Garrincha,Brasilia,DF,Domingo,7, Dezembro ,2014,17:00,Botafogo - RJ,Atlético - MG,0,0,0,0,1,1,1
+371,A,2014,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,7, Dezembro ,2014,17:00,Sport - PE,São Paulo - SP,1,0,1,0,0,3,0
+372,A,2014,Arena Corinthians,Sao Paulo,SP,Sábado,6, Dezembro ,2014,16:30,Corinthians - SP,Criciuma - SC,2,1,1,0,0,3,0
+373,A,2014,Allianz Parque,Sao Paulo,SP,Domingo,7, Dezembro ,2014,17:00,Palmeiras - SP,Atletico - PR,1,1,0,0,1,1,1
+374,A,2014,Couto Pereira,Curitiba,PR,Domingo,7, Dezembro ,2014,17:00,Coritiba - PR,Bahia - BA,3,2,1,0,0,3,0
+375,A,2014,Mineirão,Belo Horizonte,MG,Domingo,7, Dezembro ,2014,17:00,Cruzeiro - MG,Fluminense - RJ,2,1,1,0,0,3,0
+376,A,2014,Manoel Barradas,Salvador,BA,Domingo,7, Dezembro ,2014,17:00,Vitória - BA,Santos - SP,0,1,0,1,0,0,3
+377,A,2014,Arena do Grêmio,Porto Alegre,RS,Domingo,7, Dezembro ,2014,17:00,Grêmio - RS,Flamengo - RJ,1,1,0,0,1,1,1
+378,A,2014,Orlando Scarpelli,Florianopolis,SC,Sábado,6, Dezembro ,2014,16:30,Figueirense - SC,Internacional - RS,1,2,0,1,0,0,3
+379,A,2014,Serra Dourada,Goiania,GO,Domingo,7, Dezembro ,2014,17:00,Goiás - GO,Chapecoense - SC,4,2,1,0,0,3,0

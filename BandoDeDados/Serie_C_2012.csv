@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2012,Arruda,Recife,PE,Domingo,1, Julho ,2012,16:00,Santa Cruz - PE,Guarany - CE,1,1,0,0,1,1,1
+1,C,2012,Curuzu,Belem,PA,Segunda,2, Julho ,2012,20:30,Paysandu - PA,Luverdense - MT,2,0,1,0,0,3,0
+2,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,1, Julho ,2012,17:00,Fortaleza - CE,Aguia - PA,0,0,0,0,1,1,1
+3,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,1, Julho ,2012,16:00,Cuiabá - MT,Icasa - CE,0,0,0,0,1,1,1
+4,C,2012,Junco,Sobral,CE,Sábado,7, Julho ,2012,16:00,Guarany - CE,Paysandu - PA,1,2,0,1,0,0,3
+5,C,2012,Zinho Oliveira,Maraba,PA,Sábado,7, Julho ,2012,16:00,Aguia - PA,Cuiabá - MT,2,1,1,0,0,3,0
+6,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,8, Julho ,2012,16:00,Icasa - CE,Treze - PB,3,0,1,0,0,3,0
+7,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,8, Julho ,2012,16:00,Salgueiro - PE,Santa Cruz - PE,2,2,0,0,1,1,1
+8,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,8, Julho ,2012,16:00,Luverdense - MT,Fortaleza - CE,2,0,1,0,0,3,0
+9,C,2012,Junco,Sobral,CE,Sábado,14, Julho ,2012,16:00,Guarany - CE,Salgueiro - PE,2,0,1,0,0,3,0
+10,C,2012,Arruda,Recife,PE,Sábado,14, Julho ,2012,16:00,Santa Cruz - PE,Treze - PB,2,1,1,0,0,3,0
+11,C,2012,Olímpico do Pará,Belem,PA,Segunda,16, Julho ,2012,20:30,Paysandu - PA,Fortaleza - CE,0,1,0,1,0,0,3
+12,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,15, Julho ,2012,16:00,Icasa - CE,Aguia - PA,2,1,1,0,0,3,0
+13,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,15, Julho ,2012,16:00,Cuiabá - MT,Luverdense - MT,0,2,0,1,0,0,3
+14,C,2012,Arruda,Recife,PE,Sexta,20, Julho ,2012,19:00,Santa Cruz - PE,Paysandu - PA,3,3,0,0,1,1,1
+15,C,2012,Zinho Oliveira,Maraba,PA,Sábado,21, Julho ,2012,16:00,Aguia - PA,Guarany - CE,2,1,1,0,0,3,0
+16,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,22, Julho ,2012,16:00,Fortaleza - CE,Salgueiro - PE,2,1,1,0,0,3,0
+17,C,2012,Ernani Sátyro,Campina Grande,PB,Terça,24, Julho ,2012,20:30,Treze - PB,Cuiabá - MT,0,0,0,0,1,1,1
+18,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,22, Julho ,2012,16:00,Luverdense - MT,Icasa - CE,2,1,1,0,0,3,0
+19,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,29, Julho ,2012,16:00,Fortaleza - CE,Treze - PB,2,1,1,0,0,3,0
+20,C,2012,Olímpico do Pará,Belem,PA,Segunda,30, Julho ,2012,20:30,Paysandu - PA,Aguia - PA,0,0,0,0,1,1,1
+21,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,29, Julho ,2012,16:00,Icasa - CE,Guarany - CE,1,0,1,0,0,3,0
+22,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,29, Julho ,2012,16:00,Salgueiro - PE,Luverdense - MT,6,2,1,0,0,3,0
+23,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,29, Julho ,2012,16:00,Cuiabá - MT,Santa Cruz - PE,0,0,0,0,1,1,1
+24,C,2012,Junco,Sobral,CE,Domingo,5, Agosto ,2012,16:00,Guarany - CE,Luverdense - MT,0,1,0,1,0,0,3
+25,C,2012,Zinho Oliveira,Maraba,PA,Sábado,4, Agosto ,2012,16:00,Aguia - PA,Salgueiro - PE,2,2,0,0,1,1,1
+26,C,2012,Arruda,Recife,PE,Sábado,4, Agosto ,2012,16:00,Santa Cruz - PE,Icasa - CE,4,0,1,0,0,3,0
+27,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,5, Agosto ,2012,16:00,Cuiabá - MT,Fortaleza - CE,0,0,0,0,1,1,1
+28,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,5, Agosto ,2012,16:00,Treze - PB,Paysandu - PA,1,0,1,0,0,3,0
+29,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,12, Agosto ,2012,16:00,Fortaleza - CE,Santa Cruz - PE,2,0,1,0,0,3,0
+30,C,2012,Olímpico do Pará,Belem,PA,Sábado,11, Agosto ,2012,16:00,Paysandu - PA,Cuiabá - MT,2,1,1,0,0,3,0
+31,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,12, Agosto ,2012,16:00,Salgueiro - PE,Icasa - CE,2,1,1,0,0,3,0
+32,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,12, Agosto ,2012,16:00,Treze - PB,Guarany - CE,3,1,1,0,0,3,0
+33,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,12, Agosto ,2012,16:00,Luverdense - MT,Aguia - PA,5,1,1,0,0,3,0
+34,C,2012,Junco,Sobral,CE,Sábado,18, Agosto ,2012,16:30,Guarany - CE,Cuiabá - MT,3,4,0,1,0,0,3
+35,C,2012,Zinho Oliveira,Maraba,PA,Sábado,18, Agosto ,2012,16:00,Aguia - PA,Treze - PB,5,1,1,0,0,3,0
+36,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,19, Agosto ,2012,16:00,Icasa - CE,Fortaleza - CE,0,2,0,1,0,0,3
+37,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,19, Agosto ,2012,16:00,Salgueiro - PE,Paysandu - PA,1,1,0,0,1,1,1
+38,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,19, Agosto ,2012,16:00,Luverdense - MT,Santa Cruz - PE,2,1,1,0,0,3,0
+39,C,2012,Arruda,Recife,PE,Sábado,25, Agosto ,2012,16:00,Santa Cruz - PE,Aguia - PA,6,1,1,0,0,3,0
+40,C,2012,Olímpico do Pará,Belem,PA,Sábado,25, Agosto ,2012,16:00,Paysandu - PA,Icasa - CE,1,1,0,0,1,1,1
+41,C,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,25, Agosto ,2012,16:00,Fortaleza - CE,Guarany - CE,4,1,1,0,0,3,0
+42,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,26, Agosto ,2012,16:00,Cuiabá - MT,Salgueiro - PE,1,1,0,0,1,1,1
+43,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,26, Agosto ,2012,16:00,Treze - PB,Luverdense - MT,1,2,0,1,0,0,3
+44,C,2012,Junco,Sobral,CE,Domingo,2, Setembro ,2012,16:30,Guarany - CE,Santa Cruz - PE,1,1,0,0,1,1,1
+45,C,2012,Zinho Oliveira,Maraba,PA,Sábado,1, Setembro ,2012,16:00,Aguia - PA,Fortaleza - CE,0,0,0,0,1,1,1
+46,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,2, Setembro ,2012,16:00,Icasa - CE,Cuiabá - MT,0,0,0,0,1,1,1
+47,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,2, Setembro ,2012,16:00,Treze - PB,Salgueiro - PE,4,0,1,0,0,3,0
+48,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,2, Setembro ,2012,18:00,Luverdense - MT,Paysandu - PA,2,2,0,0,1,1,1
+49,C,2012,Arruda,Recife,PE,Quinta,13, Setembro ,2012,20:30,Santa Cruz - PE,Salgueiro - PE,0,0,0,0,1,1,1
+50,C,2012,Olímpico do Pará,Belem,PA,Sábado,8, Setembro ,2012,16:00,Paysandu - PA,Guarany - CE,1,1,0,0,1,1,1
+51,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,9, Setembro ,2012,17:00,Fortaleza - CE,Luverdense - MT,3,3,0,0,1,1,1
+52,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,9, Setembro ,2012,16:00,Cuiabá - MT,Aguia - PA,3,1,1,0,0,3,0
+53,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,9, Setembro ,2012,16:00,Treze - PB,Icasa - CE,2,1,1,0,0,3,0
+54,C,2012,Zinho Oliveira,Maraba,PA,Sábado,15, Setembro ,2012,16:00,Aguia - PA,Icasa - CE,1,0,1,0,0,3,0
+55,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,16, Setembro ,2012,17:00,Fortaleza - CE,Paysandu - PA,3,1,1,0,0,3,0
+56,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,16, Setembro ,2012,16:00,Salgueiro - PE,Guarany - CE,3,0,1,0,0,3,0
+57,C,2012,Ernani Sátyro,Campina Grande,PB,Domingo,16, Setembro ,2012,16:00,Treze - PB,Santa Cruz - PE,2,1,1,0,0,3,0
+58,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,16, Setembro ,2012,17:00,Luverdense - MT,Cuiabá - MT,1,0,1,0,0,3,0
+59,C,2012,Junco,Sobral,CE,Domingo,23, Setembro ,2012,16:30,Guarany - CE,Aguia - PA,3,1,1,0,0,3,0
+60,C,2012,Olímpico do Pará,Belem,PA,Sábado,22, Setembro ,2012,16:00,Paysandu - PA,Santa Cruz - PE,0,0,0,0,1,1,1
+61,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,23, Setembro ,2012,16:00,Icasa - CE,Luverdense - MT,0,1,0,1,0,0,3
+62,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,23, Setembro ,2012,16:00,Salgueiro - PE,Fortaleza - CE,0,0,0,0,1,1,1
+63,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,23, Setembro ,2012,16:00,Cuiabá - MT,Treze - PB,5,1,1,0,0,3,0
+64,C,2012,Junco,Sobral,CE,Sábado,29, Setembro ,2012,16:30,Guarany - CE,Icasa - CE,1,2,0,1,0,0,3
+65,C,2012,Zinho Oliveira,Maraba,PA,Sábado,29, Setembro ,2012,19:00,Aguia - PA,Paysandu - PA,1,1,0,0,1,1,1
+66,C,2012,Arruda,Recife,PE,Domingo,30, Setembro ,2012,16:00,Santa Cruz - PE,Cuiabá - MT,1,0,1,0,0,3,0
+67,C,2012,Ernani Sátyro,Campina Grande,PB,Sábado,29, Setembro ,2012,16:00,Treze - PB,Fortaleza - CE,0,2,0,1,0,0,3
+68,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,30, Setembro ,2012,17:00,Luverdense - MT,Salgueiro - PE,3,2,1,0,0,3,0
+69,C,2012,Olímpico do Pará,Belem,PA,Sábado,6, Outubro ,2012,16:00,Paysandu - PA,Treze - PB,5,1,1,0,0,3,0
+70,C,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,6, Outubro ,2012,17:00,Fortaleza - CE,Cuiabá - MT,3,0,1,0,0,3,0
+71,C,2012,Agenorzão,Iguatu,CE,Sábado,6, Outubro ,2012,16:00,Icasa - CE,Santa Cruz - PE,3,1,1,0,0,3,0
+72,C,2012,Cornélio de Barros,Salgueiro,PE,Sábado,6, Outubro ,2012,16:00,Salgueiro - PE,Aguia - PA,1,1,0,0,1,1,1
+73,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Sexta,5, Outubro ,2012,21:30,Luverdense - MT,Guarany - CE,1,1,0,0,1,1,1
+74,C,2012,Junco,Sobral,CE,Segunda,15, Outubro ,2012,20:30,Guarany - CE,Treze - PB,2,0,1,0,0,3,0
+75,C,2012,Zinho Oliveira,Maraba,PA,Domingo,14, Outubro ,2012,19:00,Aguia - PA,Luverdense - MT,2,2,0,0,1,1,1
+76,C,2012,Arruda,Recife,PE,Sábado,13, Outubro ,2012,16:00,Santa Cruz - PE,Fortaleza - CE,1,2,0,1,0,0,3
+77,C,2012,Agenorzão,Iguatu,CE,Domingo,14, Outubro ,2012,16:00,Icasa - CE,Salgueiro - PE,2,0,1,0,0,3,0
+78,C,2012,Pres.Dutra,Cuiaba,MT,Domingo,14, Outubro ,2012,16:00,Cuiabá - MT,Paysandu - PA,1,1,0,0,1,1,1
+79,C,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,20, Outubro ,2012,17:00,Fortaleza - CE,Icasa - CE,1,0,1,0,0,3,0
+80,C,2012,Arruda,Recife,PE,Sábado,20, Outubro ,2012,16:00,Santa Cruz - PE,Luverdense - MT,2,1,1,0,0,3,0
+81,C,2012,Olímpico do Pará,Belem,PA,Sábado,20, Outubro ,2012,17:00,Paysandu - PA,Salgueiro - PE,4,0,1,0,0,3,0
+82,C,2012,Pres.Dutra,Cuiaba,MT,Sábado,20, Outubro ,2012,17:00,Cuiabá - MT,Guarany - CE,2,1,1,0,0,3,0
+83,C,2012,Ernani Sátyro,Campina Grande,PB,Sábado,20, Outubro ,2012,17:00,Treze - PB,Aguia - PA,4,0,1,0,0,3,0
+84,C,2012,Junco,Sobral,CE,Domingo,28, Outubro ,2012,18:00,Guarany - CE,Fortaleza - CE,1,1,0,0,1,1,1
+85,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Domingo,28, Outubro ,2012,18:00,Luverdense - MT,Treze - PB,0,2,0,1,0,0,3
+86,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Domingo,28, Outubro ,2012,18:00,Icasa - CE,Paysandu - PA,1,0,1,0,0,3,0
+87,C,2012,Cornélio de Barros,Salgueiro,PE,Domingo,28, Outubro ,2012,18:00,Salgueiro - PE,Cuiabá - MT,2,2,0,0,1,1,1
+88,C,2012,Zinho Oliveira,Maraba,PA,Domingo,28, Outubro ,2012,18:00,Aguia - PA,Santa Cruz - PE,1,0,1,0,0,3,0
+89,C,2012,Hermínio Ometto,Araras,SP,Sábado,30, Junho ,2012,15:30,Santo André - SP,Chapecoense - SC,0,0,0,0,1,1,1
+90,C,2012,Centenário,Caxias do Sul,RS,Domingo,1, Julho ,2012,19:00,Caxias - RS,Macae - RJ,0,4,0,1,0,0,3
+91,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,30, Junho ,2012,16:00,Tupi - MG,Duque de Caxias - RJ,0,2,0,1,0,0,3
+92,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,30, Junho ,2012,15:00,Madureira - RJ,Brasiliense - DF,1,0,1,0,0,3,0
+93,C,2012,Serra Dourada,Goiania,GO,Sábado,30, Junho ,2012,16:00,Vila Nova - GO,Oeste - SP,4,1,1,0,0,3,0
+94,C,2012,Dos Amaros,Itapolis,SP,Sexta,6, Julho ,2012,19:30,Oeste - SP,Caxias - RS,1,2,0,1,0,0,3
+95,C,2012,Elmo Serejo Farias,Taguatinga,DF,Domingo,8, Julho ,2012,16:00,Brasiliense - DF,Santo André - SP,1,2,0,1,0,0,3
+96,C,2012,Arena Condá,Chapeco,SC,Domingo,8, Julho ,2012,15:00,Chapecoense - SC,Vila Nova - GO,3,2,1,0,0,3,0
+97,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,7, Julho ,2012,16:00,Macae - RJ,Tupi - MG,4,2,1,0,0,3,0
+98,C,2012,Romário Faria,Duque de Caxias,RJ,Domingo,8, Julho ,2012,16:00,Duque de Caxias - RJ,Madureira - RJ,0,2,0,1,0,0,3
+99,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,14, Julho ,2012,16:00,Macae - RJ,Oeste - SP,0,2,0,1,0,0,3
+100,C,2012,Hermínio Ometto,Araras,SP,Sábado,14, Julho ,2012,15:30,Santo André - SP,Vila Nova - GO,0,0,0,0,1,1,1
+101,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,14, Julho ,2012,15:00,Madureira - RJ,Tupi - MG,1,0,1,0,0,3,0
+102,C,2012,Centenário,Caxias do Sul,RS,Domingo,15, Julho ,2012,15:00,Caxias - RS,Chapecoense - SC,2,0,1,0,0,3,0
+103,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,14, Julho ,2012,16:00,Brasiliense - DF,Duque de Caxias - RJ,3,2,1,0,0,3,0
+104,C,2012,Dos Amaros,Itapolis,SP,Sexta,20, Julho ,2012,19:30,Oeste - SP,Brasiliense - DF,2,1,1,0,0,3,0
+105,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,21, Julho ,2012,16:00,Tupi - MG,Caxias - RS,2,2,0,0,1,1,1
+106,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,21, Julho ,2012,15:00,Madureira - RJ,Santo André - SP,1,1,0,0,1,1,1
+107,C,2012,Arena Condá,Chapeco,SC,Domingo,22, Julho ,2012,15:30,Chapecoense - SC,Macae - RJ,1,1,0,0,1,1,1
+108,C,2012,Serra Dourada,Goiania,GO,Domingo,22, Julho ,2012,16:00,Vila Nova - GO,Duque de Caxias - RJ,4,1,1,0,0,3,0
+109,C,2012,Serra Dourada,Goiania,GO,Sábado,28, Julho ,2012,16:00,Vila Nova - GO,Tupi - MG,0,0,0,0,1,1,1
+110,C,2012,Hermínio Ometto,Araras,SP,Sábado,28, Julho ,2012,15:30,Santo André - SP,Oeste - SP,1,1,0,0,1,1,1
+111,C,2012,Centenário,Caxias do Sul,RS,Domingo,29, Julho ,2012,15:00,Caxias - RS,Madureira - RJ,2,0,1,0,0,3,0
+112,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,28, Julho ,2012,16:00,Macae - RJ,Brasiliense - DF,2,2,0,0,1,1,1
+113,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,28, Julho ,2012,16:00,Duque de Caxias - RJ,Chapecoense - SC,0,1,0,1,0,0,3
+114,C,2012,Dos Amaros,Itapolis,SP,Sexta,3, Agosto ,2012,19:30,Oeste - SP,Duque de Caxias - RJ,1,0,1,0,0,3,0
+115,C,2012,Centenário,Caxias do Sul,RS,Domingo,5, Agosto ,2012,15:00,Caxias - RS,Vila Nova - GO,2,1,1,0,0,3,0
+116,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,4, Agosto ,2012,16:00,Tupi - MG,Santo André - SP,0,0,0,0,1,1,1
+117,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,4, Agosto ,2012,15:00,Madureira - RJ,Macae - RJ,2,1,1,0,0,3,0
+118,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,4, Agosto ,2012,16:00,Brasiliense - DF,Chapecoense - SC,1,1,0,0,1,1,1
+119,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,11, Agosto ,2012,16:00,Tupi - MG,Brasiliense - DF,2,0,1,0,0,3,0
+120,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,11, Agosto ,2012,15:30,Santo André - SP,Caxias - RS,2,1,1,0,0,3,0
+121,C,2012,Arena Condá,Chapeco,SC,Domingo,12, Agosto ,2012,15:30,Chapecoense - SC,Oeste - SP,1,0,1,0,0,3,0
+122,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,11, Agosto ,2012,16:00,Duque de Caxias - RJ,Macae - RJ,2,1,1,0,0,3,0
+123,C,2012,Serra Dourada,Goiania,GO,Domingo,12, Agosto ,2012,16:00,Vila Nova - GO,Madureira - RJ,5,1,1,0,0,3,0
+124,C,2012,Dos Amaros,Itapolis,SP,Sexta,17, Agosto ,2012,19:30,Oeste - SP,Tupi - MG,1,0,1,0,0,3,0
+125,C,2012,Arena Condá,Chapeco,SC,Domingo,19, Agosto ,2012,15:30,Chapecoense - SC,Madureira - RJ,1,0,1,0,0,3,0
+126,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,18, Agosto ,2012,16:00,Macae - RJ,Vila Nova - GO,3,0,1,0,0,3,0
+127,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,18, Agosto ,2012,16:00,Duque de Caxias - RJ,Santo André - SP,3,2,1,0,0,3,0
+128,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,18, Agosto ,2012,16:00,Brasiliense - DF,Caxias - RS,2,1,1,0,0,3,0
+129,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,25, Agosto ,2012,16:00,Tupi - MG,Chapecoense - SC,1,0,1,0,0,3,0
+130,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,25, Agosto ,2012,15:30,Santo André - SP,Macae - RJ,0,3,0,1,0,0,3
+131,C,2012,Centenário,Caxias do Sul,RS,Sábado,25, Agosto ,2012,15:30,Caxias - RS,Duque de Caxias - RJ,0,1,0,1,0,0,3
+132,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,25, Agosto ,2012,15:00,Madureira - RJ,Oeste - SP,1,1,0,0,1,1,1
+133,C,2012,Serra Dourada,Goiania,GO,Sábado,25, Agosto ,2012,16:00,Vila Nova - GO,Brasiliense - DF,1,0,1,0,0,3,0
+134,C,2012,Dos Amaros,Itapolis,SP,Sexta,31, Agosto ,2012,19:00,Oeste - SP,Vila Nova - GO,3,1,1,0,0,3,0
+135,C,2012,Arena Condá,Chapeco,SC,Domingo,2, Setembro ,2012,16:00,Chapecoense - SC,Santo André - SP,0,0,0,0,1,1,1
+136,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,1, Setembro ,2012,16:00,Brasiliense - DF,Madureira - RJ,2,0,1,0,0,3,0
+137,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,1, Setembro ,2012,16:00,Macae - RJ,Caxias - RS,4,1,1,0,0,3,0
+138,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,1, Setembro ,2012,16:00,Duque de Caxias - RJ,Tupi - MG,2,1,1,0,0,3,0
+139,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,8, Setembro ,2012,16:00,Tupi - MG,Macae - RJ,0,1,0,1,0,0,3
+140,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,8, Setembro ,2012,15:30,Santo André - SP,Brasiliense - DF,0,3,0,1,0,0,3
+141,C,2012,Centenário,Caxias do Sul,RS,Domingo,9, Setembro ,2012,15:30,Caxias - RS,Oeste - SP,3,2,1,0,0,3,0
+142,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,8, Setembro ,2012,15:00,Madureira - RJ,Duque de Caxias - RJ,1,2,0,1,0,0,3
+143,C,2012,Serra Dourada,Goiania,GO,Sábado,8, Setembro ,2012,16:00,Vila Nova - GO,Chapecoense - SC,1,0,1,0,0,3,0
+144,C,2012,Dos Amaros,Itapolis,SP,Sexta,14, Setembro ,2012,19:30,Oeste - SP,Macae - RJ,1,1,0,0,1,1,1
+145,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,15, Setembro ,2012,16:00,Tupi - MG,Madureira - RJ,2,1,1,0,0,3,0
+146,C,2012,Arena Condá,Chapeco,SC,Sábado,15, Setembro ,2012,16:00,Chapecoense - SC,Caxias - RS,4,0,1,0,0,3,0
+147,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,15, Setembro ,2012,16:00,Duque de Caxias - RJ,Brasiliense - DF,1,0,1,0,0,3,0
+148,C,2012,Serra Dourada,Goiania,GO,Domingo,16, Setembro ,2012,16:00,Vila Nova - GO,Santo André - SP,2,2,0,0,1,1,1
+149,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,22, Setembro ,2012,15:30,Santo André - SP,Madureira - RJ,1,0,1,0,0,3,0
+150,C,2012,Centenário,Caxias do Sul,RS,Domingo,23, Setembro ,2012,15:30,Caxias - RS,Tupi - MG,1,0,1,0,0,3,0
+151,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,22, Setembro ,2012,16:00,Brasiliense - DF,Oeste - SP,3,2,1,0,0,3,0
+152,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,22, Setembro ,2012,16:00,Macae - RJ,Chapecoense - SC,0,0,0,0,1,1,1
+153,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,22, Setembro ,2012,16:00,Duque de Caxias - RJ,Vila Nova - GO,1,1,0,0,1,1,1
+154,C,2012,Dos Amaros,Itapolis,SP,Sexta,28, Setembro ,2012,19:30,Oeste - SP,Santo André - SP,2,1,1,0,0,3,0
+155,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,29, Setembro ,2012,16:00,Tupi - MG,Vila Nova - GO,1,1,0,0,1,1,1
+156,C,2012,Arena Condá,Chapeco,SC,Domingo,30, Setembro ,2012,16:00,Chapecoense - SC,Duque de Caxias - RJ,3,1,1,0,0,3,0
+157,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,29, Setembro ,2012,15:00,Madureira - RJ,Caxias - RS,1,1,0,0,1,1,1
+158,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,29, Setembro ,2012,16:00,Brasiliense - DF,Macae - RJ,1,3,0,1,0,0,3
+159,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,6, Outubro ,2012,15:30,Santo André - SP,Tupi - MG,1,1,0,0,1,1,1
+160,C,2012,Arena Condá,Chapeco,SC,Sábado,6, Outubro ,2012,16:00,Chapecoense - SC,Brasiliense - DF,3,0,1,0,0,3,0
+161,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,6, Outubro ,2012,16:00,Duque de Caxias - RJ,Oeste - SP,0,0,0,0,1,1,1
+162,C,2012,Cláudio Moacyr,Macae,RJ,Terça,9, Outubro ,2012,20:30,Macae - RJ,Madureira - RJ,0,0,0,0,1,1,1
+163,C,2012,Serra Dourada,Goiania,GO,Sexta,5, Outubro ,2012,20:30,Vila Nova - GO,Caxias - RS,0,1,0,1,0,0,3
+164,C,2012,Dos Amaros,Itapolis,SP,Sexta,12, Outubro ,2012,19:30,Oeste - SP,Chapecoense - SC,1,0,1,0,0,3,0
+165,C,2012,Centenário,Caxias do Sul,RS,Domingo,14, Outubro ,2012,15:30,Caxias - RS,Santo André - SP,0,0,0,0,1,1,1
+166,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,13, Outubro ,2012,15:00,Madureira - RJ,Vila Nova - GO,3,1,1,0,0,3,0
+167,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,13, Outubro ,2012,16:00,Brasiliense - DF,Tupi - MG,2,1,1,0,0,3,0
+168,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,13, Outubro ,2012,16:00,Macae - RJ,Duque de Caxias - RJ,2,1,1,0,0,3,0
+169,C,2012,Mário Helênio,Juiz de Fora,MG,Sábado,20, Outubro ,2012,16:00,Tupi - MG,Oeste - SP,0,1,0,1,0,0,3
+170,C,2012,Bruno José Daniel,Santo Andre,SP,Sábado,20, Outubro ,2012,16:00,Santo André - SP,Duque de Caxias - RJ,0,1,0,1,0,0,3
+171,C,2012,Aniceto Moscoso,Rio de Janeiro,RJ,Sábado,20, Outubro ,2012,15:00,Madureira - RJ,Chapecoense - SC,2,1,1,0,0,3,0
+172,C,2012,Centenário,Caxias do Sul,RS,Sábado,20, Outubro ,2012,16:00,Caxias - RS,Brasiliense - DF,3,0,1,0,0,3,0
+173,C,2012,Serra Dourada,Goiania,GO,Sábado,20, Outubro ,2012,16:00,Vila Nova - GO,Macae - RJ,1,0,1,0,0,3,0
+174,C,2012,Elmo Serejo Farias,Taguatinga,DF,Sábado,27, Outubro ,2012,16:00,Brasiliense - DF,Vila Nova - GO,4,2,1,0,0,3,0
+175,C,2012,Arena Condá,Chapeco,SC,Sábado,27, Outubro ,2012,16:00,Chapecoense - SC,Tupi - MG,5,0,1,0,0,3,0
+176,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,27, Outubro ,2012,16:00,Macae - RJ,Santo André - SP,3,1,1,0,0,3,0
+177,C,2012,Dos Amaros,Itapolis,SP,Sábado,27, Outubro ,2012,16:00,Oeste - SP,Madureira - RJ,0,0,0,0,1,1,1
+178,C,2012,Romário Faria,Duque de Caxias,RJ,Sábado,27, Outubro ,2012,16:00,Duque de Caxias - RJ,Caxias - RS,2,1,1,0,0,3,0
+179,C,2012,Cornélio de Barros,Salgueiro,PE,Quarta,4, Julho ,2012,20:30,Salgueiro - PE,Treze - PB,2,0,1,0,0,3,0
+180,C,2012,Dos Amaros,Itapolis,SP,Sábado,3, Novembro ,2012,17:00,Oeste - SP,Fortaleza - CE,1,1,0,0,1,1,1
+181,C,2012,Presidente Vargas/CE,Fortaleza,CE,Domingo,11, Novembro ,2012,17:00,Fortaleza - CE,Oeste - SP,1,3,0,1,0,0,3
+182,C,2012,Arena Condá,Chapeco,SC,Quinta,1, Novembro ,2012,19:00,Chapecoense - SC,Luverdense - MT,3,0,1,0,0,3,0
+183,C,2012,Passo das Emas,Lucas do Rio Verde,MT,Quinta,8, Novembro ,2012,19:00,Luverdense - MT,Chapecoense - SC,1,0,1,0,0,3,0
+184,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Quinta,1, Novembro ,2012,21:00,Icasa - CE,Duque de Caxias - RJ,2,1,1,0,0,3,0
+185,C,2012,Romário Faria,Duque de Caxias,RJ,Sexta,9, Novembro ,2012,19:00,Duque de Caxias - RJ,Icasa - CE,0,0,0,0,1,1,1
+186,C,2012,Arena Verde,Paragominas,PA,Sexta,2, Novembro ,2012,19:00,Paysandu - PA,Macae - RJ,2,0,1,0,0,3,0
+187,C,2012,Cláudio Moacyr,Macae,RJ,Sábado,10, Novembro ,2012,17:00,Macae - RJ,Paysandu - PA,3,2,1,0,0,3,0
+188,C,2012,Arena Condá,Chapeco,SC,Sábado,17, Novembro ,2012,19:00,Chapecoense - SC,Oeste - SP,0,1,0,1,0,0,3
+189,C,2012,Dos Amaros,Itapolis,SP,Sexta,23, Novembro ,2012,19:00,Oeste - SP,Chapecoense - SC,0,0,0,0,1,1,1
+190,C,2012,Arena Verde,Paragominas,PA,Sexta,16, Novembro ,2012,19:00,Paysandu - PA,Icasa - CE,3,2,1,0,0,3,0
+191,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Quinta,22, Novembro ,2012,21:00,Icasa - CE,Paysandu - PA,2,1,1,0,0,3,0
+192,C,2012,Mauro Sampaio,Juazeiro do Norte,CE,Quarta,28, Novembro ,2012,21:30,Icasa - CE,Oeste - SP,0,0,0,0,1,1,1
+193,C,2012,Dos Amaros,Itapolis,SP,Sábado,1, Dezembro ,2012,17:00,Oeste - SP,Icasa - CE,2,0,1,0,0,3,0

@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2015,Batistão,Aracaju,SE,Sábado,16, Maio ,2015,16:00,Confiança - SE,Asa - AL,1,1,0,0,1,1,1
+1,C,2015,Zinho Oliveira,Maraba,PA,Domingo,17, Maio ,2015,17:00,Águia de Marabá - PA,América - RN,1,1,0,0,1,1,1
+2,C,2015,Serra Dourada,Goiania,GO,Domingo,17, Maio ,2015,16:00,Vila Nova - GO,Cuiabá - MT,1,0,1,0,0,3,0
+3,C,2015,Amigão,Campina Grande,PB,Domingo,17, Maio ,2015,16:00,Botafogo - PB,Salgueiro - PE,1,2,0,1,0,0,3
+4,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,17, Maio ,2015,19:00,Icasa - CE,Fortaleza - CE,0,2,0,1,0,0,3
+5,C,2015,Estádio do Vale,Novo Hamburgo,RS,Sábado,16, Maio ,2015,19:00,Brasil - RS,Juventude - RS,1,1,0,0,1,1,1
+6,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,16, Maio ,2015,16:00,Tombense - MG,Tupi - MG,0,1,0,1,0,0,3
+7,C,2015,Do Café,Londrina,PR,Domingo,17, Maio ,2015,16:00,Londrina - PR,Portuguesa - SP,2,1,1,0,0,3,0
+8,C,2015,Centenário,Caxias do Sul,RS,Domingo,17, Maio ,2015,16:00,Caxias - RS,Madureira - RJ,1,1,0,0,1,1,1
+9,C,2015,Dario Leite,Guaratingueta,SP,Domingo,17, Maio ,2015,16:00,Guaratinguetá - SP,Guarani - SP,1,1,0,0,1,1,1
+10,C,2015,Arena Castelão,Fortaleza,CE,Sábado,23, Maio ,2015,19:30,Fortaleza - CE,Vila Nova - GO,3,2,1,0,0,3,0
+11,C,2015,Arena das Dunas,Natal,RN,Domingo,24, Maio ,2015,16:00,América - RN,Icasa - CE,2,1,1,0,0,3,0
+12,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,24, Maio ,2015,16:00,Asa - AL,Botafogo - PB,1,1,0,0,1,1,1
+13,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,24, Maio ,2015,16:00,Salgueiro - PE,Águia de Marabá - PA,0,0,0,0,1,1,1
+14,C,2015,Arena Pantanal,Cuiaba,MT,Domingo,24, Maio ,2015,19:00,Cuiabá - MT,Confiança - SE,1,0,1,0,0,3,0
+15,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,23, Maio ,2015,15:00,Madureira - RJ,Tombense - MG,1,1,0,0,1,1,1
+16,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,23, Maio ,2015,16:00,Tupi - MG,Guaratinguetá - SP,3,0,1,0,0,3,0
+17,C,2015,Brinco de Ouro,Campinas,SP,Segunda,25, Maio ,2015,20:15,Guarani - SP,Londrina - PR,1,2,0,1,0,0,3
+18,C,2015,Pacaembu,Sao Paulo,SP,Sábado,23, Maio ,2015,19:00,Portuguesa - SP,Brasil - RS,1,1,0,0,1,1,1
+19,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Domingo,24, Maio ,2015,16:00,Juventude - RS,Caxias - RS,0,0,0,0,1,1,1
+20,C,2015,Zinho Oliveira,Maraba,PA,Domingo,31, Maio ,2015,16:00,Águia de Marabá - PA,Vila Nova - GO,1,2,0,1,0,0,3
+21,C,2015,Romeirão,Juazeiro do Norte,CE,Sábado,30, Maio ,2015,16:00,Icasa - CE,Salgueiro - PE,1,2,0,1,0,0,3
+22,C,2015,Coaracy Fonseca,Arapiraca,AL,Sábado,30, Maio ,2015,19:30,Asa - AL,América - RN,3,0,1,0,0,3,0
+23,C,2015,Almeidão,Joao Pessoa,PB,Sábado,30, Maio ,2015,19:00,Botafogo - PB,Confiança - SE,2,1,1,0,0,3,0
+24,C,2015,Arena Pantanal,Cuiaba,MT,Segunda,1, Junho ,2015,20:15,Cuiabá - MT,Fortaleza - CE,1,3,0,1,0,0,3
+25,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,30, Maio ,2015,15:00,Madureira - RJ,Portuguesa - SP,1,2,0,1,0,0,3
+26,C,2015,Brinco de Ouro,Campinas,SP,Domingo,31, Maio ,2015,19:00,Guarani - SP,Tupi - MG,1,1,0,0,1,1,1
+27,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,30, Maio ,2015,16:00,Tombense - MG,Caxias - RS,1,0,1,0,0,3,0
+28,C,2015,Do Café,Londrina,PR,Domingo,31, Maio ,2015,15:00,Londrina - PR,Juventude - RS,0,0,0,0,1,1,1
+29,C,2015,Estádio do Vale,Novo Hamburgo,RS,Domingo,31, Maio ,2015,16:00,Brasil - RS,Guaratinguetá - SP,2,0,1,0,0,3,0
+30,C,2015,Arena Castelão,Fortaleza,CE,Domingo,7, Junho ,2015,19:00,Fortaleza - CE,Asa - AL,1,1,0,0,1,1,1
+31,C,2015,OBA,Goiania,GO,Domingo,7, Junho ,2015,11:00,Vila Nova - GO,Icasa - CE,2,0,1,0,0,3,0
+32,C,2015,Batistão,Aracaju,SE,Domingo,7, Junho ,2015,19:00,Confiança - SE,Águia de Marabá - PA,1,1,0,0,1,1,1
+33,C,2015,Almeidão,Joao Pessoa,PB,Domingo,7, Junho ,2015,19:00,Botafogo - PB,Cuiabá - MT,0,0,0,0,1,1,1
+34,C,2015,Arena das Dunas,Natal,RN,Domingo,7, Junho ,2015,19:00,América - RN,Salgueiro - PE,2,2,0,0,1,1,1
+35,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Sábado,6, Junho ,2015,16:00,Juventude - RS,Guarani - SP,1,1,0,0,1,1,1
+36,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,6, Junho ,2015,16:45,Tupi - MG,Madureira - RJ,3,3,0,0,1,1,1
+37,C,2015,Regional,Maringa,PR,Domingo,7, Junho ,2015,15:00,Londrina - PR,Tombense - MG,1,0,1,0,0,3,0
+38,C,2015,Centenário,Caxias do Sul,RS,Domingo,7, Junho ,2015,15:00,Caxias - RS,Brasil - RS,1,2,0,1,0,0,3
+39,C,2015,Dario Leite,Guaratingueta,SP,Segunda,8, Junho ,2015,20:15,Guaratinguetá - SP,Portuguesa - SP,0,3,0,1,0,0,3
+40,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,28, Junho ,2015,19:00,Salgueiro - PE,Fortaleza - CE,0,1,0,1,0,0,3
+41,C,2015,OBA,Goiania,GO,Sábado,27, Junho ,2015,16:00,Vila Nova - GO,América - RN,0,1,0,1,0,0,3
+42,C,2015,Zinho Oliveira,Maraba,PA,Domingo,28, Junho ,2015,16:00,Águia de Marabá - PA,Botafogo - PB,2,2,0,0,1,1,1
+43,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,28, Junho ,2015,16:00,Icasa - CE,Confiança - SE,2,3,0,1,0,0,3
+44,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,28, Junho ,2015,16:00,Asa - AL,Cuiabá - MT,1,0,1,0,0,3,0
+45,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,27, Junho ,2015,15:00,Madureira - RJ,Juventude - RS,3,4,0,1,0,0,3
+46,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,27, Junho ,2015,11:00,Tombense - MG,Guarani - SP,1,2,0,1,0,0,3
+47,C,2015,Dario Leite,Guaratingueta,SP,Domingo,28, Junho ,2015,11:00,Guaratinguetá - SP,Caxias - RS,0,0,0,0,1,1,1
+48,C,2015,Bento Freitas,Pelotas,RS,Domingo,28, Junho ,2015,11:00,Brasil - RS,Londrina - PR,3,1,1,0,0,3,0
+49,C,2015,Canindé,Sao Paulo,SP,Sábado,27, Junho ,2015,16:00,Portuguesa - SP,Tupi - MG,0,1,0,1,0,0,3
+50,C,2015,Zinho Oliveira,Maraba,PA,Domingo,5, Julho ,2015,16:00,Águia de Marabá - PA,Asa - AL,1,2,0,1,0,0,3
+51,C,2015,Arena Castelão,Fortaleza,CE,Sábado,4, Julho ,2015,20:00,Fortaleza - CE,América - RN,1,0,1,0,0,3,0
+52,C,2015,Batistão,Aracaju,SE,Segunda,6, Julho ,2015,20:15,Confiança - SE,Vila Nova - GO,0,0,0,0,1,1,1
+53,C,2015,Almeidão,Joao Pessoa,PB,Domingo,5, Julho ,2015,16:00,Botafogo - PB,Icasa - CE,2,0,1,0,0,3,0
+54,C,2015,Arena Pantanal,Cuiaba,MT,Sábado,4, Julho ,2015,19:00,Cuiabá - MT,Salgueiro - PE,0,1,0,1,0,0,3
+55,C,2015,Centenário,Caxias do Sul,RS,Domingo,5, Julho ,2015,16:00,Caxias - RS,Tupi - MG,0,1,0,1,0,0,3
+56,C,2015,Brinco de Ouro,Campinas,SP,Domingo,5, Julho ,2015,11:00,Guarani - SP,Madureira - RJ,0,0,0,0,1,1,1
+57,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,4, Julho ,2015,16:00,Tombense - MG,Brasil - RS,0,0,0,0,1,1,1
+58,C,2015,Do Café,Londrina,PR,Domingo,5, Julho ,2015,19:00,Londrina - PR,Guaratinguetá - SP,0,0,0,0,1,1,1
+59,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Sábado,4, Julho ,2015,11:00,Juventude - RS,Portuguesa - SP,3,2,1,0,0,3,0
+60,C,2015,Batistão,Aracaju,SE,Sábado,11, Julho ,2015,16:00,Confiança - SE,Fortaleza - CE,1,0,1,0,0,3,0
+61,C,2015,Arena das Dunas,Natal,RN,Sábado,11, Julho ,2015,19:00,América - RN,Cuiabá - MT,2,1,1,0,0,3,0
+62,C,2015,Romeirão,Juazeiro do Norte,CE,Sábado,11, Julho ,2015,16:00,Icasa - CE,Águia de Marabá - PA,2,0,1,0,0,3,0
+63,C,2015,OBA,Goiania,GO,Sábado,11, Julho ,2015,19:00,Vila Nova - GO,Botafogo - PB,2,0,1,0,0,3,0
+64,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,11, Julho ,2015,16:00,Salgueiro - PE,Asa - AL,1,1,0,0,1,1,1
+65,C,2015,Mário Helênio,Juiz de Fora,MG,Domingo,12, Julho ,2015,11:00,Tupi - MG,Juventude - RS,1,1,0,0,1,1,1
+66,C,2015,Centenário,Caxias do Sul,RS,Segunda,13, Julho ,2015,20:15,Caxias - RS,Londrina - PR,1,1,0,0,1,1,1
+67,C,2015,Dario Leite,Guaratingueta,SP,Domingo,12, Julho ,2015,11:00,Guaratinguetá - SP,Tombense - MG,0,2,0,1,0,0,3
+68,C,2015,Bento Freitas,Pelotas,RS,Domingo,12, Julho ,2015,16:00,Brasil - RS,Madureira - RJ,3,1,1,0,0,3,0
+69,C,2015,Canindé,Sao Paulo,SP,Domingo,12, Julho ,2015,19:00,Portuguesa - SP,Guarani - SP,1,0,1,0,0,3,0
+70,C,2015,Arena Castelão,Fortaleza,CE,Sábado,18, Julho ,2015,16:00,Fortaleza - CE,Botafogo - PB,3,0,1,0,0,3,0
+71,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,19, Julho ,2015,16:00,Asa - AL,Icasa - CE,3,1,1,0,0,3,0
+72,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,19, Julho ,2015,16:00,Salgueiro - PE,Vila Nova - GO,0,1,0,1,0,0,3
+73,C,2015,Arena das Dunas,Natal,RN,Domingo,19, Julho ,2015,19:00,América - RN,Confiança - SE,2,0,1,0,0,3,0
+74,C,2015,Arena Pantanal,Cuiaba,MT,Domingo,19, Julho ,2015,17:00,Cuiabá - MT,Águia de Marabá - PA,2,1,1,0,0,3,0
+75,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,18, Julho ,2015,15:00,Madureira - RJ,Guaratinguetá - SP,2,0,1,0,0,3,0
+76,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,18, Julho ,2015,19:00,Tupi - MG,Londrina - PR,0,1,0,1,0,0,3
+77,C,2015,Canindé,Sao Paulo,SP,Sábado,18, Julho ,2015,11:00,Portuguesa - SP,Caxias - RS,3,0,1,0,0,3,0
+78,C,2015,Brinco de Ouro,Campinas,SP,Segunda,20, Julho ,2015,20:15,Guarani - SP,Brasil - RS,2,2,0,0,1,1,1
+79,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Domingo,19, Julho ,2015,16:00,Juventude - RS,Tombense - MG,1,0,1,0,0,3,0
+80,C,2015,Zinho Oliveira,Maraba,PA,Sábado,25, Julho ,2015,16:00,Águia de Marabá - PA,Fortaleza - CE,2,2,0,0,1,1,1
+81,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,26, Julho ,2015,16:00,Icasa - CE,Cuiabá - MT,1,4,0,1,0,0,3
+82,C,2015,Serra Dourada,Goiania,GO,Sábado,25, Julho ,2015,16:00,Vila Nova - GO,Asa - AL,3,0,1,0,0,3,0
+83,C,2015,Batistão,Aracaju,SE,Domingo,26, Julho ,2015,16:00,Confiança - SE,Salgueiro - PE,2,0,1,0,0,3,0
+84,C,2015,Almeidão,Joao Pessoa,PB,Domingo,26, Julho ,2015,19:00,Botafogo - PB,América - RN,1,0,1,0,0,3,0
+85,C,2015,Centenário,Caxias do Sul,RS,Sábado,25, Julho ,2015,19:00,Caxias - RS,Guarani - SP,0,2,0,1,0,0,3
+86,C,2015,Campo do Nacional,Muriae,MG,Segunda,27, Julho ,2015,20:15,Tombense - MG,Portuguesa - SP,2,2,0,0,1,1,1
+87,C,2015,Do Café,Londrina,PR,Domingo,26, Julho ,2015,11:00,Londrina - PR,Madureira - RJ,0,0,0,0,1,1,1
+88,C,2015,Dario Leite,Guaratingueta,SP,Domingo,26, Julho ,2015,11:00,Guaratinguetá - SP,Juventude - RS,2,3,0,1,0,0,3
+89,C,2015,Bento Freitas,Pelotas,RS,Domingo,26, Julho ,2015,16:00,Brasil - RS,Tupi - MG,0,0,0,0,1,1,1
+90,C,2015,Moça Bonita,Rio de Janeiro,RJ,Sábado,1, Agosto ,2015,11:00,Madureira - RJ,Caxias - RS,2,2,0,0,1,1,1
+91,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,1, Agosto ,2015,16:00,Tupi - MG,Tombense - MG,1,1,0,0,1,1,1
+92,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Sábado,1, Agosto ,2015,19:00,Juventude - RS,Brasil - RS,2,3,0,1,0,0,3
+93,C,2015,Arena das Dunas,Natal,RN,Domingo,2, Agosto ,2015,18:30,América - RN,Águia de Marabá - PA,2,0,1,0,0,3,0
+94,C,2015,Arena Castelão,Fortaleza,CE,Sábado,1, Agosto ,2015,16:00,Fortaleza - CE,Icasa - CE,2,0,1,0,0,3,0
+95,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,2, Agosto ,2015,16:00,Salgueiro - PE,Botafogo - PB,4,1,1,0,0,3,0
+96,C,2015,Arena Pantanal,Cuiaba,MT,Segunda,3, Agosto ,2015,20:15,Cuiabá - MT,Vila Nova - GO,1,1,0,0,1,1,1
+97,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,2, Agosto ,2015,19:00,Asa - AL,Confiança - SE,1,0,1,0,0,3,0
+98,C,2015,Canindé,Sao Paulo,SP,Sábado,1, Agosto ,2015,11:00,Portuguesa - SP,Londrina - PR,1,1,0,0,1,1,1
+99,C,2015,Brinco de Ouro,Campinas,SP,Domingo,2, Agosto ,2015,16:00,Guarani - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+100,C,2015,Campo do Nacional,Muriae,MG,Segunda,10, Agosto ,2015,20:15,Tombense - MG,Madureira - RJ,1,1,0,0,1,1,1
+101,C,2015,Serra Dourada,Goiania,GO,Sábado,8, Agosto ,2015,16:00,Vila Nova - GO,Fortaleza - CE,0,0,0,0,1,1,1
+102,C,2015,Zinho Oliveira,Maraba,PA,Domingo,9, Agosto ,2015,16:00,Águia de Marabá - PA,Salgueiro - PE,0,0,0,0,1,1,1
+103,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,9, Agosto ,2015,16:00,Icasa - CE,América - RN,1,0,1,0,0,3,0
+104,C,2015,Batistão,Aracaju,SE,Domingo,9, Agosto ,2015,16:00,Confiança - SE,Cuiabá - MT,4,1,1,0,0,3,0
+105,C,2015,Almeidão,Joao Pessoa,PB,Sábado,8, Agosto ,2015,19:00,Botafogo - PB,Asa - AL,2,2,0,0,1,1,1
+106,C,2015,Dario Leite,Guaratingueta,SP,Domingo,9, Agosto ,2015,11:00,Guaratinguetá - SP,Tupi - MG,0,1,0,1,0,0,3
+107,C,2015,Do Café,Londrina,PR,Sábado,8, Agosto ,2015,11:00,Londrina - PR,Guarani - SP,2,2,0,0,1,1,1
+108,C,2015,Bento Freitas,Pelotas,RS,Segunda,10, Agosto ,2015,20:30,Brasil - RS,Portuguesa - SP,4,1,1,0,0,3,0
+109,C,2015,Centenário,Caxias do Sul,RS,Domingo,9, Agosto ,2015,19:00,Caxias - RS,Juventude - RS,0,0,0,0,1,1,1
+110,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,15, Agosto ,2015,11:00,Tupi - MG,Guarani - SP,1,0,1,0,0,3,0
+111,C,2015,Centenário,Caxias do Sul,RS,Sábado,15, Agosto ,2015,16:00,Caxias - RS,Tombense - MG,1,2,0,1,0,0,3
+112,C,2015,Arena Castelão,Fortaleza,CE,Sábado,15, Agosto ,2015,16:00,Fortaleza - CE,Cuiabá - MT,1,0,1,0,0,3,0
+113,C,2015,Serra Dourada,Goiania,GO,Sábado,15, Agosto ,2015,16:00,Vila Nova - GO,Águia de Marabá - PA,1,0,1,0,0,3,0
+114,C,2015,Batistão,Aracaju,SE,Domingo,16, Agosto ,2015,19:00,Confiança - SE,Botafogo - PB,1,2,0,1,0,0,3
+115,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,15, Agosto ,2015,19:00,Salgueiro - PE,Icasa - CE,1,1,0,0,1,1,1
+116,C,2015,Arena das Dunas,Natal,RN,Sexta,14, Agosto ,2015,21:00,América - RN,Asa - AL,2,0,1,0,0,3,0
+117,C,2015,Eco,Estádio,Curitiba,Sábado,15, Agosto ,2015,11:00,Guaratinguetá - SP,Brasil - RS,2,1,1,0,0,3,0
+118,C,2015,Canindé,Sao Paulo,SP,Segunda,17, Agosto ,2015,20:30,Portuguesa - SP,Madureira - RJ,4,2,1,0,0,3,0
+119,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Domingo,16, Agosto ,2015,16:00,Juventude - RS,Londrina - PR,1,3,0,1,0,0,3
+120,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,22, Agosto ,2015,11:00,Madureira - RJ,Tupi - MG,1,1,0,0,1,1,1
+121,C,2015,Campo do Nacional,Muriae,MG,Sábado,22, Agosto ,2015,18:30,Tombense - MG,Londrina - PR,0,1,0,1,0,0,3
+122,C,2015,Canindé,Sao Paulo,SP,Domingo,23, Agosto ,2015,11:00,Portuguesa - SP,Guaratinguetá - SP,2,1,1,0,0,3,0
+123,C,2015,Brinco de Ouro,Campinas,SP,Sábado,22, Agosto ,2015,19:00,Guarani - SP,Juventude - RS,1,1,0,0,1,1,1
+124,C,2015,Zinho Oliveira,Maraba,PA,Domingo,23, Agosto ,2015,16:00,Águia de Marabá - PA,Confiança - SE,1,2,0,1,0,0,3
+125,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,23, Agosto ,2015,18:30,Icasa - CE,Vila Nova - GO,0,3,0,1,0,0,3
+126,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Segunda,24, Agosto ,2015,20:30,Salgueiro - PE,América - RN,1,1,0,0,1,1,1
+127,C,2015,Arena Pantanal,Cuiaba,MT,Segunda,24, Agosto ,2015,21:00,Cuiabá - MT,Botafogo - PB,1,2,0,1,0,0,3
+128,C,2015,Bento Freitas,Pelotas,RS,Domingo,23, Agosto ,2015,19:00,Brasil - RS,Caxias - RS,1,1,0,0,1,1,1
+129,C,2015,Coaracy Fonseca,Arapiraca,AL,Sábado,22, Agosto ,2015,16:00,Asa - AL,Fortaleza - CE,1,0,1,0,0,3,0
+130,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Sábado,29, Agosto ,2015,16:00,Juventude - RS,Madureira - RJ,5,0,1,0,0,3,0
+131,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,29, Agosto ,2015,19:00,Tupi - MG,Portuguesa - SP,1,0,1,0,0,3,0
+132,C,2015,Arena das Dunas,Natal,RN,Domingo,30, Agosto ,2015,18:00,América - RN,Vila Nova - GO,2,1,1,0,0,3,0
+133,C,2015,Arena Castelão,Fortaleza,CE,Sábado,29, Agosto ,2015,16:00,Fortaleza - CE,Salgueiro - PE,4,2,1,0,0,3,0
+134,C,2015,Batistão,Aracaju,SE,Domingo,30, Agosto ,2015,16:00,Confiança - SE,Icasa - CE,4,0,1,0,0,3,0
+135,C,2015,Arena Pantanal,Cuiaba,MT,Domingo,30, Agosto ,2015,17:00,Cuiabá - MT,Asa - AL,3,1,1,0,0,3,0
+136,C,2015,Almeidão,Joao Pessoa,PB,Domingo,30, Agosto ,2015,19:00,Botafogo - PB,Águia de Marabá - PA,1,2,0,1,0,0,3
+137,C,2015,Do Café,Londrina,PR,Domingo,30, Agosto ,2015,11:00,Londrina - PR,Brasil - RS,2,1,1,0,0,3,0
+138,C,2015,Centenário,Caxias do Sul,RS,Domingo,30, Agosto ,2015,16:00,Caxias - RS,Guaratinguetá - SP,2,3,0,1,0,0,3
+139,C,2015,Brinco de Ouro,Campinas,SP,Segunda,31, Agosto ,2015,20:30,Guarani - SP,Tombense - MG,1,0,1,0,0,3,0
+140,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,5, Setembro ,2015,11:00,Madureira - RJ,Guarani - SP,0,0,0,0,1,1,1
+141,C,2015,Serra Dourada,Goiania,GO,Quinta,17, Setembro ,2015,20:30,Vila Nova - GO,Confiança - SE,1,2,0,1,0,0,3
+142,C,2015,Mário Helênio,Juiz de Fora,MG,Domingo,6, Setembro ,2015,16:00,Tupi - MG,Caxias - RS,2,0,1,0,0,3,0
+143,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,6, Setembro ,2015,19:00,Icasa - CE,Botafogo - PB,1,4,0,1,0,0,3
+144,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,6, Setembro ,2015,19:00,Asa - AL,Águia de Marabá - PA,1,0,1,0,0,3,0
+145,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,6, Setembro ,2015,16:00,Salgueiro - PE,Cuiabá - MT,0,0,0,0,1,1,1
+146,C,2015,Arena das Dunas,Natal,RN,Sábado,5, Setembro ,2015,19:00,América - RN,Fortaleza - CE,0,0,0,0,1,1,1
+147,C,2015,Dario Leite,Guaratingueta,SP,Sábado,5, Setembro ,2015,11:00,Guaratinguetá - SP,Londrina - PR,2,1,1,0,0,3,0
+148,C,2015,Canindé,Sao Paulo,SP,Segunda,7, Setembro ,2015,20:30,Portuguesa - SP,Juventude - RS,4,2,1,0,0,3,0
+149,C,2015,Beira Rio,Porto Alegre,RS,Domingo,6, Setembro ,2015,11:00,Brasil - RS,Tombense - MG,2,2,0,0,1,1,1
+150,C,2015,Conselheiro Galvão,Rio de Janeiro,RJ,Sábado,12, Setembro ,2015,11:00,Madureira - RJ,Brasil - RS,1,1,0,0,1,1,1
+151,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,12, Setembro ,2015,16:00,Tombense - MG,Guaratinguetá - SP,3,3,0,0,1,1,1
+152,C,2015,Do Café,Londrina,PR,Domingo,13, Setembro ,2015,19:00,Londrina - PR,Caxias - RS,1,1,0,0,1,1,1
+153,C,2015,Zinho Oliveira,Maraba,PA,Domingo,13, Setembro ,2015,16:00,Águia de Marabá - PA,Icasa - CE,3,2,1,0,0,3,0
+154,C,2015,Arena Castelão,Fortaleza,CE,Domingo,13, Setembro ,2015,19:00,Fortaleza - CE,Confiança - SE,1,1,0,0,1,1,1
+155,C,2015,Coaracy Fonseca,Arapiraca,AL,Sábado,12, Setembro ,2015,16:00,Asa - AL,Salgueiro - PE,1,0,1,0,0,3,0
+156,C,2015,Arena Pantanal,Cuiaba,MT,Domingo,13, Setembro ,2015,16:00,Cuiabá - MT,América - RN,2,2,0,0,1,1,1
+157,C,2015,Almeidão,Joao Pessoa,PB,Sábado,12, Setembro ,2015,19:00,Botafogo - PB,Vila Nova - GO,1,2,0,1,0,0,3
+158,C,2015,Brinco de Ouro,Campinas,SP,Segunda,14, Setembro ,2015,20:30,Guarani - SP,Portuguesa - SP,1,0,1,0,0,3,0
+159,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Domingo,13, Setembro ,2015,16:00,Juventude - RS,Tupi - MG,2,0,1,0,0,3,0
+160,C,2015,Serra Dourada,Goiania,GO,Segunda,21, Setembro ,2015,20:30,Vila Nova - GO,Salgueiro - PE,2,1,1,0,0,3,0
+161,C,2015,Antônio Guimarães de Almeida,Tombos,MG,Sábado,19, Setembro ,2015,16:00,Tombense - MG,Juventude - RS,0,0,0,0,1,1,1
+162,C,2015,Bento Freitas,Pelotas,RS,Sábado,19, Setembro ,2015,19:00,Brasil - RS,Guarani - SP,1,2,0,1,0,0,3
+163,C,2015,Zinho Oliveira,Maraba,PA,Domingo,20, Setembro ,2015,16:00,Águia de Marabá - PA,Cuiabá - MT,3,1,1,0,0,3,0
+164,C,2015,Romeirão,Juazeiro do Norte,CE,Domingo,20, Setembro ,2015,16:00,Icasa - CE,Asa - AL,1,3,0,1,0,0,3
+165,C,2015,Batistão,Aracaju,SE,Segunda,21, Setembro ,2015,20:30,Confiança - SE,América - RN,1,0,1,0,0,3,0
+166,C,2015,Almeidão,Joao Pessoa,PB,Domingo,20, Setembro ,2015,19:00,Botafogo - PB,Fortaleza - CE,2,2,0,0,1,1,1
+167,C,2015,Dario Leite,Guaratingueta,SP,Domingo,20, Setembro ,2015,11:00,Guaratinguetá - SP,Madureira - RJ,5,0,1,0,0,3,0
+168,C,2015,Do Café,Londrina,PR,Domingo,20, Setembro ,2015,16:00,Londrina - PR,Tupi - MG,3,0,1,0,0,3,0
+169,C,2015,Centenário,Caxias do Sul,RS,Domingo,20, Setembro ,2015,11:00,Caxias - RS,Portuguesa - SP,1,2,0,1,0,0,3
+170,C,2015,Arena das Dunas,Natal,RN,Domingo,27, Setembro ,2015,19:00,América - RN,Botafogo - PB,4,1,1,0,0,3,0
+171,C,2015,Arena Castelão,Fortaleza,CE,Domingo,27, Setembro ,2015,19:00,Fortaleza - CE,Águia de Marabá - PA,4,1,1,0,0,3,0
+172,C,2015,Arena Pantanal,Cuiaba,MT,Domingo,27, Setembro ,2015,19:00,Cuiabá - MT,Icasa - CE,2,1,1,0,0,3,0
+173,C,2015,Coaracy Fonseca,Arapiraca,AL,Domingo,27, Setembro ,2015,19:00,Asa - AL,Vila Nova - GO,1,0,1,0,0,3,0
+174,C,2015,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,27, Setembro ,2015,19:00,Salgueiro - PE,Confiança - SE,0,1,0,1,0,0,3
+175,C,2015,Mário Helênio,Juiz de Fora,MG,Domingo,27, Setembro ,2015,16:00,Tupi - MG,Brasil - RS,0,2,0,1,0,0,3
+176,C,2015,Canindé,Sao Paulo,SP,Domingo,27, Setembro ,2015,16:00,Portuguesa - SP,Tombense - MG,1,0,1,0,0,3,0
+177,C,2015,Moça Bonita,Rio de Janeiro,RJ,Domingo,27, Setembro ,2015,16:00,Madureira - RJ,Londrina - PR,0,1,0,1,0,0,3
+178,C,2015,Brinco de Ouro,Campinas,SP,Domingo,27, Setembro ,2015,16:00,Guarani - SP,Caxias - RS,5,3,1,0,0,3,0
+179,C,2015,Alfredo Jaconi,Caxias do Sul,RS,Domingo,27, Setembro ,2015,16:00,Juventude - RS,Guaratinguetá - SP,3,0,1,0,0,3,0
+180,C,2015,Bento Freitas,Pelotas,RS,Sábado,10, Outubro ,2015,16:00,Brasil - RS,Fortaleza - CE,1,0,1,0,0,3,0
+181,C,2015,Arena Castelão,Fortaleza,CE,Sábado,17, Outubro ,2015,16:00,Fortaleza - CE,Brasil - RS,0,0,0,0,1,1,1
+182,C,2015,Serra Dourada,Goiania,GO,Quarta,7, Outubro ,2015,20:30,Vila Nova - GO,Portuguesa - SP,1,0,1,0,0,3,0
+183,C,2015,Canindé,Sao Paulo,SP,Sábado,17, Outubro ,2015,19:00,Portuguesa - SP,Vila Nova - GO,1,2,0,1,0,0,3
+184,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,3, Outubro ,2015,19:00,Tupi - MG,Asa - AL,2,0,1,0,0,3,0
+185,C,2015,Coaracy Fonseca,Arapiraca,AL,Segunda,19, Outubro ,2015,20:30,Asa - AL,Tupi - MG,1,2,0,1,0,0,3
+186,C,2015,Batistão,Aracaju,SE,Domingo,4, Outubro ,2015,19:00,Confiança - SE,Londrina - PR,0,0,0,0,1,1,1
+187,C,2015,Do Café,Londrina,PR,Domingo,18, Outubro ,2015,19:00,Londrina - PR,Confiança - SE,1,0,1,0,0,3,0
+188,C,2015,Bento Freitas,Pelotas,RS,Segunda,26, Outubro ,2015,19:00,Brasil - RS,Vila Nova - GO,0,0,0,0,1,1,1
+189,C,2015,Serra Dourada,Goiania,GO,Segunda,2, Novembro ,2015,19:00,Vila Nova - GO,Brasil - RS,0,0,0,0,1,1,1
+190,C,2015,Mário Helênio,Juiz de Fora,MG,Sábado,24, Outubro ,2015,19:30,Tupi - MG,Londrina - PR,0,0,0,0,1,1,1
+191,C,2015,Do Café,Londrina,PR,Sábado,31, Outubro ,2015,19:30,Londrina - PR,Tupi - MG,0,0,0,0,1,1,1
+192,C,2015,Do Café,Londrina,PR,Domingo,8, Novembro ,2015,19:00,Londrina - PR,Vila Nova - GO,1,0,1,0,0,3,0
+193,C,2015,Serra Dourada,Goiania,GO,Sábado,21, Novembro ,2015,19:30,Vila Nova - GO,Londrina - PR,4,1,1,0,0,3,0

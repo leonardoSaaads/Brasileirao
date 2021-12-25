@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2013,Dos Amaros,Itapolis,SP,Sexta,24, Maio ,2013,19:30,Oeste - SP,Avaí - SC,1,1,0,0,1,1,1
+1,B,2013,Dilzon Melo,Varginha,MG,Sexta,24, Maio ,2013,21:50,Boa - MG,Chapecoense - SC,1,4,0,1,0,0,3
+2,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,25, Maio ,2013,16:20,Figueirense - SC,América - RN,3,2,1,0,0,3,0
+3,B,2013,Arena Joinville,Joinville,SC,Sábado,25, Maio ,2013,16:20,Joinville - SC,Bragantino - SP,3,0,1,0,0,3,0
+4,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,25, Maio ,2013,16:20,Icasa - CE,Sport - PE,2,1,1,0,0,3,0
+5,B,2013,Almeidão,Joao Pessoa,PB,Sábado,25, Maio ,2013,21:00,Abc - RN,Paraná - PR,0,2,0,1,0,0,3
+6,B,2013,Novelli Junior,Itu,SP,Sábado,25, Maio ,2013,16:20,Palmeiras - SP,Atlético - GO,1,0,1,0,0,3,0
+7,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,24, Maio ,2013,19:30,São Caetano - SP,Ceará - CE,0,0,0,0,1,1,1
+8,B,2013,Dario Leite,Guaratingueta,SP,Sábado,25, Maio ,2013,21:00,Guaratinguetá - SP,América - MG,1,0,1,0,0,3,0
+9,B,2013,Arena Verde,Paragominas,PA,Sexta,24, Maio ,2013,21:50,Paysandu - PA,A.s.a. - AL,1,1,0,0,1,1,1
+10,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,28, Maio ,2013,21:50,A.s.a. - AL,Palmeiras - SP,0,3,0,1,0,0,3
+11,B,2013,Independência,Belo Horizonte,MG,Terça,28, Maio ,2013,21:50,América - MG,Figueirense - SC,2,4,0,1,0,0,3
+12,B,2013,Ressacada,Florianopolis,SC,Terça,28, Maio ,2013,19:30,Avaí - SC,Guaratinguetá - SP,2,1,1,0,0,3,0
+13,B,2013,Colosso da Lagoa,Erechim,RS,Terça,28, Maio ,2013,21:50,Chapecoense - SC,Oeste - SP,1,1,0,0,1,1,1
+14,B,2013,Presidente Vargas/CE,Fortaleza,CE,Terça,28, Maio ,2013,19:30,Ceará - CE,Paysandu - PA,1,0,1,0,0,3,0
+15,B,2013,Manoel Barretto,Ceara,Mirim,Terça,28, Maio ,2013,19:30,América - RN,Icasa - CE,1,1,0,0,1,1,1
+16,B,2013,Érton Queiroz,Curitiba,PR,Terça,28, Maio ,2013,15:00,Paraná - PR,São Caetano - SP,0,0,0,0,1,1,1
+17,B,2013,Serra Dourada,Goiania,GO,Terça,28, Maio ,2013,21:50,Atlético - GO,Joinville - SC,2,1,1,0,0,3,0
+18,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,28, Maio ,2013,21:50,Bragantino - SP,Boa - MG,0,1,0,1,0,0,3
+19,B,2013,Ilha do Retiro,Recife,PE,Terça,28, Maio ,2013,19:30,Sport - PE,Abc - RN,1,0,1,0,0,3,0
+20,B,2013,Dos Amaros,Itapolis,SP,Sexta,31, Maio ,2013,21:50,Oeste - SP,Paraná - PR,1,0,1,0,0,3,0
+21,B,2013,Dilzon Melo,Varginha,MG,Sábado,1, Junho ,2013,21:00,Boa - MG,Atlético - GO,0,0,0,0,1,1,1
+22,B,2013,Orlando Scarpelli,Florianopolis,SC,Sexta,31, Maio ,2013,21:50,Figueirense - SC,Sport - PE,3,2,1,0,0,3,0
+23,B,2013,Arena Joinville,Joinville,SC,Sexta,31, Maio ,2013,19:30,Joinville - SC,A.s.a. - AL,2,0,1,0,0,3,0
+24,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,31, Maio ,2013,19:30,Icasa - CE,Avaí - SC,3,4,0,1,0,0,3
+25,B,2013,Frasqueirão,Natal,RN,Sexta,31, Maio ,2013,21:50,Abc - RN,Ceará - CE,1,1,0,0,1,1,1
+26,B,2013,Novelli Junior,Itu,SP,Sábado,1, Junho ,2013,16:20,Palmeiras - SP,América - MG,0,1,0,1,0,0,3
+27,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,1, Junho ,2013,21:00,São Caetano - SP,Chapecoense - SC,0,1,0,1,0,0,3
+28,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,1, Junho ,2013,16:20,Bragantino - SP,Guaratinguetá - SP,2,0,1,0,0,3,0
+29,B,2013,Arena Verde,Paragominas,PA,Sexta,31, Maio ,2013,19:30,Paysandu - PA,América - RN,1,1,0,0,1,1,1
+30,B,2013,Dos Amaros,Itapolis,SP,Terça,4, Junho ,2013,19:30,Oeste - SP,Ceará - CE,2,1,1,0,0,3,0
+31,B,2013,Dilzon Melo,Varginha,MG,Terça,4, Junho ,2013,19:30,Boa - MG,A.s.a. - AL,1,2,0,1,0,0,3
+32,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,4, Junho ,2013,19:30,Figueirense - SC,Chapecoense - SC,0,2,0,1,0,0,3
+33,B,2013,Arena Joinville,Joinville,SC,Terça,4, Junho ,2013,21:50,Joinville - SC,América - RN,3,1,1,0,0,3,0
+34,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,4, Junho ,2013,21:50,Icasa - CE,América - MG,1,2,0,1,0,0,3
+35,B,2013,Frasqueirão,Natal,RN,Terça,4, Junho ,2013,21:50,Abc - RN,Bragantino - SP,1,1,0,0,1,1,1
+36,B,2013,Novelli Junior,Itu,SP,Terça,4, Junho ,2013,19:30,Palmeiras - SP,Avaí - SC,2,1,1,0,0,3,0
+37,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,4, Junho ,2013,21:50,São Caetano - SP,Atlético - GO,4,2,1,0,0,3,0
+38,B,2013,Dario Leite,Guaratingueta,SP,Terça,4, Junho ,2013,21:50,Guaratinguetá - SP,Sport - PE,1,4,0,1,0,0,3
+39,B,2013,Olímpico do Pará,Belem,PA,Terça,4, Junho ,2013,19:30,Paysandu - PA,Paraná - PR,2,0,1,0,0,3,0
+40,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,7, Junho ,2013,19:30,A.s.a. - AL,Icasa - CE,3,1,1,0,0,3,0
+41,B,2013,Arena dos Calçados,Nova Serrana,MG,Sexta,7, Junho ,2013,19:30,América - MG,Oeste - SP,4,3,1,0,0,3,0
+42,B,2013,Ressacada,Florianopolis,SC,Sexta,7, Junho ,2013,21:50,Avaí - SC,Joinville - SC,0,2,0,1,0,0,3
+43,B,2013,Arena Condá,Chapeco,SC,Sexta,7, Junho ,2013,21:50,Chapecoense - SC,Abc - RN,5,1,1,0,0,3,0
+44,B,2013,Horácio Domingos,Horizonte,CE,Sábado,8, Junho ,2013,21:00,Ceará - CE,Boa - MG,2,2,0,0,1,1,1
+45,B,2013,Manoel Barretto,Ceara,Mirim,Sexta,7, Junho ,2013,21:50,América - RN,Guaratinguetá - SP,2,2,0,0,1,1,1
+46,B,2013,Durival Britto,Curitiba,PR,Sábado,8, Junho ,2013,16:20,Paraná - PR,Figueirense - SC,1,0,1,0,0,3,0
+47,B,2013,Serra Dourada,Goiania,GO,Sexta,7, Junho ,2013,19:30,Atlético - GO,Paysandu - PA,1,0,1,0,0,3,0
+48,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,8, Junho ,2013,21:00,Bragantino - SP,São Caetano - SP,1,0,1,0,0,3,0
+49,B,2013,Ilha do Retiro,Recife,PE,Sábado,8, Junho ,2013,16:20,Sport - PE,Palmeiras - SP,1,0,1,0,0,3,0
+50,B,2013,Dos Amaros,Itapolis,SP,Terça,11, Junho ,2013,19:30,Oeste - SP,São Caetano - SP,0,3,0,1,0,0,3
+51,B,2013,Dilzon Melo,Varginha,MG,Terça,11, Junho ,2013,21:50,Boa - MG,Abc - RN,1,0,1,0,0,3,0
+52,B,2013,Ressacada,Florianopolis,SC,Terça,11, Junho ,2013,21:50,Avaí - SC,América - MG,1,2,0,1,0,0,3
+53,B,2013,Arena Condá,Chapeco,SC,Terça,11, Junho ,2013,19:30,Chapecoense - SC,Paysandu - PA,3,2,1,0,0,3,0
+54,B,2013,Horácio Domingos,Horizonte,CE,Terça,11, Junho ,2013,19:30,Ceará - CE,Figueirense - SC,1,1,0,0,1,1,1
+55,B,2013,Manoel Barretto,Ceara,Mirim,Terça,11, Junho ,2013,21:50,América - RN,Palmeiras - SP,0,2,0,1,0,0,3
+56,B,2013,Durival Britto,Curitiba,PR,Terça,11, Junho ,2013,21:50,Paraná - PR,A.s.a. - AL,1,0,1,0,0,3,0
+57,B,2013,Serra Dourada,Goiania,GO,Terça,11, Junho ,2013,21:50,Atlético - GO,Icasa - CE,0,3,0,1,0,0,3
+58,B,2013,Dario Leite,Guaratingueta,SP,Terça,11, Junho ,2013,19:30,Guaratinguetá - SP,Joinville - SC,1,3,0,1,0,0,3
+59,B,2013,Ilha do Retiro,Recife,PE,Terça,11, Junho ,2013,19:30,Sport - PE,Bragantino - SP,0,2,0,1,0,0,3
+60,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,5, Julho ,2013,21:00,A.s.a. - AL,Chapecoense - SC,0,2,0,1,0,0,3
+61,B,2013,Independência,Belo Horizonte,MG,Sexta,5, Julho ,2013,21:00,América - MG,Paraná - PR,2,2,0,0,1,1,1
+62,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,6, Julho ,2013,21:00,Figueirense - SC,Boa - MG,3,0,1,0,0,3,0
+63,B,2013,Arena Joinville,Joinville,SC,Sábado,6, Julho ,2013,16:20,Joinville - SC,Sport - PE,2,3,0,1,0,0,3
+64,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,6, Julho ,2013,21:00,Icasa - CE,Ceará - CE,1,0,1,0,0,3,0
+65,B,2013,Frasqueirão,Natal,RN,Sábado,6, Julho ,2013,16:20,Abc - RN,Atlético - GO,0,1,0,1,0,0,3
+66,B,2013,Paulo Constantino,Presidente Prudente,SP,Sábado,6, Julho ,2013,16:20,Palmeiras - SP,Oeste - SP,4,0,1,0,0,3,0
+67,B,2013,1º de Maio,Sao Bernardo do Campo,SP,Sábado,6, Julho ,2013,16:20,São Caetano - SP,Avaí - SC,0,0,0,0,1,1,1
+68,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,2, Julho ,2013,21:00,Bragantino - SP,América - RN,0,1,0,1,0,0,3
+69,B,2013,Curuzu,Belem,PA,Terça,2, Julho ,2013,21:00,Paysandu - PA,Guaratinguetá - SP,4,3,1,0,0,3,0
+70,B,2013,Dos Amaros,Itapolis,SP,Terça,9, Julho ,2013,21:00,Oeste - SP,Boa - MG,0,0,0,0,1,1,1
+71,B,2013,Independência,Belo Horizonte,MG,Sábado,13, Julho ,2013,16:20,América - MG,Bragantino - SP,2,2,0,0,1,1,1
+72,B,2013,Ressacada,Florianopolis,SC,Sábado,13, Julho ,2013,16:20,Avaí - SC,Paraná - PR,2,2,0,0,1,1,1
+73,B,2013,Arena Joinville,Joinville,SC,Sábado,13, Julho ,2013,16:20,Joinville - SC,Chapecoense - SC,2,2,0,0,1,1,1
+74,B,2013,Castelão,Fortaleza,CE,Sábado,13, Julho ,2013,21:00,Ceará - CE,A.s.a. - AL,4,1,1,0,0,3,0
+75,B,2013,Manoel Barretto,Ceara,Mirim,Sábado,13, Julho ,2013,16:20,América - RN,Sport - PE,2,4,0,1,0,0,3
+76,B,2013,Pacaembu,Sao Paulo,SP,Sexta,12, Julho ,2013,21:00,Palmeiras - SP,Abc - RN,4,1,1,0,0,3,0
+77,B,2013,Serra Dourada,Goiania,GO,Sexta,12, Julho ,2013,21:00,Atlético - GO,Figueirense - SC,2,3,0,1,0,0,3
+78,B,2013,Dario Leite,Guaratingueta,SP,Sábado,13, Julho ,2013,21:00,Guaratinguetá - SP,Icasa - CE,3,0,1,0,0,3,0
+79,B,2013,Curuzu,Belem,PA,Terça,9, Julho ,2013,19:30,Paysandu - PA,São Caetano - SP,2,2,0,0,1,1,1
+80,B,2013,Coaracy Fonseca,Arapiraca,AL,Sábado,20, Julho ,2013,21:00,A.s.a. - AL,Atlético - GO,0,1,0,1,0,0,3
+81,B,2013,Dilzon Melo,Varginha,MG,Sábado,20, Julho ,2013,16:20,Boa - MG,Paysandu - PA,1,0,1,0,0,3,0
+82,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,20, Julho ,2013,16:20,Figueirense - SC,Palmeiras - SP,2,3,0,1,0,0,3
+83,B,2013,Arena Condá,Chapeco,SC,Terça,20, Agosto ,2013,21:00,Chapecoense - SC,América - MG,2,0,1,0,0,3,0
+84,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,16, Julho ,2013,21:00,Icasa - CE,Oeste - SP,0,3,0,1,0,0,3
+85,B,2013,Frasqueirão,Natal,RN,Sábado,20, Julho ,2013,21:00,Abc - RN,Joinville - SC,0,0,0,0,1,1,1
+86,B,2013,Durival Britto,Curitiba,PR,Sexta,19, Julho ,2013,21:00,Paraná - PR,América - RN,4,0,1,0,0,3,0
+87,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,19, Julho ,2013,21:00,São Caetano - SP,Guaratinguetá - SP,0,1,0,1,0,0,3
+88,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,20, Julho ,2013,16:20,Bragantino - SP,Ceará - CE,2,0,1,0,0,3,0
+89,B,2013,Ilha do Retiro,Recife,PE,Terça,16, Julho ,2013,21:00,Sport - PE,Avaí - SC,2,0,1,0,0,3,0
+90,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,23, Julho ,2013,21:00,A.s.a. - AL,Bragantino - SP,2,1,1,0,0,3,0
+91,B,2013,Dilzon Melo,Varginha,MG,Sábado,27, Julho ,2013,16:20,Boa - MG,América - MG,1,1,0,0,1,1,1
+92,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,27, Julho ,2013,21:00,Figueirense - SC,São Caetano - SP,3,1,1,0,0,3,0
+93,B,2013,Arena Condá,Chapeco,SC,Sábado,27, Julho ,2013,16:20,Chapecoense - SC,Avaí - SC,3,1,1,0,0,3,0
+94,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,23, Julho ,2013,21:00,Icasa - CE,Joinville - SC,2,1,1,0,0,3,0
+95,B,2013,Frasqueirão,Natal,RN,Sábado,27, Julho ,2013,21:00,Abc - RN,Paysandu - PA,3,0,1,0,0,3,0
+96,B,2013,Durival Britto,Curitiba,PR,Sábado,27, Julho ,2013,16:20,Paraná - PR,Ceará - CE,3,0,1,0,0,3,0
+97,B,2013,Serra Dourada,Goiania,GO,Sexta,26, Julho ,2013,21:00,Atlético - GO,América - RN,0,1,0,1,0,0,3
+98,B,2013,Dario Leite,Guaratingueta,SP,Sábado,27, Julho ,2013,16:20,Guaratinguetá - SP,Palmeiras - SP,1,1,0,0,1,1,1
+99,B,2013,Ilha do Retiro,Recife,PE,Sexta,26, Julho ,2013,21:00,Sport - PE,Oeste - SP,2,0,1,0,0,3,0
+100,B,2013,Dos Amaros,Itapolis,SP,Terça,30, Julho ,2013,19:30,Oeste - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+101,B,2013,Independência,Belo Horizonte,MG,Terça,30, Julho ,2013,21:50,América - MG,Sport - PE,5,0,1,0,0,3,0
+102,B,2013,Ressacada,Florianopolis,SC,Terça,30, Julho ,2013,19:30,Avaí - SC,Atlético - GO,1,0,1,0,0,3,0
+103,B,2013,Arena Joinville,Joinville,SC,Terça,30, Julho ,2013,19:30,Joinville - SC,Boa - MG,2,3,0,1,0,0,3
+104,B,2013,Castelão,Fortaleza,CE,Terça,30, Julho ,2013,19:30,Ceará - CE,Chapecoense - SC,3,1,1,0,0,3,0
+105,B,2013,Manoel Barretto,Ceara,Mirim,Terça,30, Julho ,2013,19:30,América - RN,A.s.a. - AL,2,0,1,0,0,3,0
+106,B,2013,Pacaembu,Sao Paulo,SP,Terça,30, Julho ,2013,21:50,Palmeiras - SP,Icasa - CE,4,0,1,0,0,3,0
+107,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,30, Julho ,2013,21:50,São Caetano - SP,Abc - RN,2,1,1,0,0,3,0
+108,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,30, Julho ,2013,21:50,Bragantino - SP,Paraná - PR,0,0,0,0,1,1,1
+109,B,2013,Curuzu,Belem,PA,Terça,30, Julho ,2013,21:50,Paysandu - PA,Figueirense - SC,2,1,1,0,0,3,0
+110,B,2013,Dos Amaros,Itapolis,SP,Sexta,2, Agosto ,2013,21:50,Oeste - SP,A.s.a. - AL,1,2,0,1,0,0,3
+111,B,2013,Independência,Belo Horizonte,MG,Sexta,2, Agosto ,2013,21:50,América - MG,Ceará - CE,2,2,0,0,1,1,1
+112,B,2013,Ressacada,Florianopolis,SC,Sábado,3, Agosto ,2013,16:20,Avaí - SC,Paysandu - PA,2,0,1,0,0,3,0
+113,B,2013,Arena Joinville,Joinville,SC,Sábado,3, Agosto ,2013,16:20,Joinville - SC,Figueirense - SC,3,1,1,0,0,3,0
+114,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,3, Agosto ,2013,16:20,Icasa - CE,São Caetano - SP,3,2,1,0,0,3,0
+115,B,2013,Manoel Barretto,Ceara,Mirim,Sexta,2, Agosto ,2013,19:30,América - RN,Boa - MG,0,0,0,0,1,1,1
+116,B,2013,Pacaembu,Sao Paulo,SP,Sexta,2, Agosto ,2013,19:30,Palmeiras - SP,Bragantino - SP,2,1,1,0,0,3,0
+117,B,2013,Serra Dourada,Goiania,GO,Sábado,3, Agosto ,2013,21:00,Atlético - GO,Paraná - PR,0,2,0,1,0,0,3
+118,B,2013,Dario Leite,Guaratingueta,SP,Sábado,3, Agosto ,2013,21:00,Guaratinguetá - SP,Abc - RN,3,1,1,0,0,3,0
+119,B,2013,Ilha do Retiro,Recife,PE,Sábado,3, Agosto ,2013,16:20,Sport - PE,Chapecoense - SC,1,2,0,1,0,0,3
+120,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,6, Agosto ,2013,19:30,A.s.a. - AL,Sport - PE,2,4,0,1,0,0,3
+121,B,2013,Dilzon Melo,Varginha,MG,Terça,6, Agosto ,2013,21:50,Boa - MG,Guaratinguetá - SP,2,0,1,0,0,3,0
+122,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,6, Agosto ,2013,19:30,Figueirense - SC,Icasa - CE,3,0,1,0,0,3,0
+123,B,2013,Arena Condá,Chapeco,SC,Terça,6, Agosto ,2013,19:30,Chapecoense - SC,Atlético - GO,3,0,1,0,0,3,0
+124,B,2013,Castelão,Fortaleza,CE,Terça,6, Agosto ,2013,19:30,Ceará - CE,América - RN,2,1,1,0,0,3,0
+125,B,2013,Frasqueirão,Natal,RN,Terça,6, Agosto ,2013,21:50,Abc - RN,Oeste - SP,0,0,0,0,1,1,1
+126,B,2013,Durival Britto,Curitiba,PR,Terça,6, Agosto ,2013,21:50,Paraná - PR,Joinville - SC,1,1,0,0,1,1,1
+127,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,6, Agosto ,2013,19:30,São Caetano - SP,Palmeiras - SP,1,2,0,1,0,0,3
+128,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,6, Agosto ,2013,21:50,Bragantino - SP,Avaí - SC,1,1,0,0,1,1,1
+129,B,2013,Curuzu,Belem,PA,Terça,6, Agosto ,2013,21:50,Paysandu - PA,América - MG,0,2,0,1,0,0,3
+130,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,9, Agosto ,2013,19:30,A.s.a. - AL,América - MG,2,0,1,0,0,3,0
+131,B,2013,Dilzon Melo,Varginha,MG,Sexta,9, Agosto ,2013,21:50,Boa - MG,Icasa - CE,1,0,1,0,0,3,0
+132,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,10, Agosto ,2013,16:20,Figueirense - SC,Avaí - SC,1,3,0,1,0,0,3
+133,B,2013,Arena Condá,Chapeco,SC,Domingo,11, Agosto ,2013,16:00,Chapecoense - SC,Guaratinguetá - SP,1,0,1,0,0,3,0
+134,B,2013,Castelão,Fortaleza,CE,Sexta,9, Agosto ,2013,19:30,Ceará - CE,Atlético - GO,0,1,0,1,0,0,3
+135,B,2013,Manoel Barretto,Ceara,Mirim,Sábado,10, Agosto ,2013,16:20,América - RN,Abc - RN,0,0,0,0,1,1,1
+136,B,2013,Pacaembu,Sao Paulo,SP,Sábado,10, Agosto ,2013,16:20,Palmeiras - SP,Paraná - PR,2,1,1,0,0,3,0
+137,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,10, Agosto ,2013,16:20,São Caetano - SP,Sport - PE,2,1,1,0,0,3,0
+138,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,10, Agosto ,2013,21:00,Bragantino - SP,Oeste - SP,2,0,1,0,0,3,0
+139,B,2013,Curuzu,Belem,PA,Sexta,9, Agosto ,2013,21:50,Paysandu - PA,Joinville - SC,2,1,1,0,0,3,0
+140,B,2013,Dos Amaros,Itapolis,SP,Terça,13, Agosto ,2013,19:30,Oeste - SP,Paysandu - PA,1,0,1,0,0,3,0
+141,B,2013,Independência,Belo Horizonte,MG,Terça,13, Agosto ,2013,19:30,América - MG,São Caetano - SP,2,1,1,0,0,3,0
+142,B,2013,Ressacada,Florianopolis,SC,Terça,13, Agosto ,2013,19:30,Avaí - SC,A.s.a. - AL,2,0,1,0,0,3,0
+143,B,2013,Arena Joinville,Joinville,SC,Terça,13, Agosto ,2013,21:50,Joinville - SC,Palmeiras - SP,0,1,0,1,0,0,3
+144,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,13, Agosto ,2013,21:50,Icasa - CE,Abc - RN,2,1,1,0,0,3,0
+145,B,2013,Manoel Barretto,Ceara,Mirim,Terça,27, Agosto ,2013,21:00,América - RN,Chapecoense - SC,0,1,0,1,0,0,3
+146,B,2013,Durival Britto,Curitiba,PR,Terça,13, Agosto ,2013,19:30,Paraná - PR,Boa - MG,3,1,1,0,0,3,0
+147,B,2013,Serra Dourada,Goiania,GO,Terça,13, Agosto ,2013,21:50,Atlético - GO,Bragantino - SP,0,1,0,1,0,0,3
+148,B,2013,Dario Leite,Guaratingueta,SP,Quarta,14, Agosto ,2013,19:30,Guaratinguetá - SP,Figueirense - SC,1,1,0,0,1,1,1
+149,B,2013,Ilha do Retiro,Recife,PE,Terça,13, Agosto ,2013,19:30,Sport - PE,Ceará - CE,2,1,1,0,0,3,0
+150,B,2013,Dos Amaros,Itapolis,SP,Sexta,16, Agosto ,2013,21:50,Oeste - SP,Joinville - SC,0,2,0,1,0,0,3
+151,B,2013,Independência,Belo Horizonte,MG,Sábado,17, Agosto ,2013,16:20,América - MG,América - RN,1,1,0,0,1,1,1
+152,B,2013,Ressacada,Florianopolis,SC,Sexta,16, Agosto ,2013,19:30,Avaí - SC,Ceará - CE,1,1,0,0,1,1,1
+153,B,2013,Arena Condá,Chapeco,SC,Sábado,17, Agosto ,2013,16:20,Chapecoense - SC,Paraná - PR,2,2,0,0,1,1,1
+154,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,17, Agosto ,2013,21:00,Icasa - CE,Bragantino - SP,4,1,1,0,0,3,0
+155,B,2013,Frasqueirão,Natal,RN,Sábado,17, Agosto ,2013,16:20,Abc - RN,Figueirense - SC,3,2,1,0,0,3,0
+156,B,2013,Pacaembu,Sao Paulo,SP,Sábado,17, Agosto ,2013,16:20,Palmeiras - SP,Paysandu - PA,3,2,1,0,0,3,0
+157,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,16, Agosto ,2013,19:30,São Caetano - SP,Boa - MG,0,1,0,1,0,0,3
+158,B,2013,Dario Leite,Guaratingueta,SP,Sábado,17, Agosto ,2013,21:00,Guaratinguetá - SP,A.s.a. - AL,2,1,1,0,0,3,0
+159,B,2013,Ilha do Retiro,Recife,PE,Sexta,16, Agosto ,2013,21:50,Sport - PE,Atlético - GO,3,2,1,0,0,3,0
+160,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,20, Agosto ,2013,21:00,A.s.a. - AL,Abc - RN,4,0,1,0,0,3,0
+161,B,2013,Dilzon Melo,Varginha,MG,Sábado,24, Agosto ,2013,16:20,Boa - MG,Palmeiras - SP,1,0,1,0,0,3,0
+162,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,24, Agosto ,2013,21:00,Figueirense - SC,Oeste - SP,3,0,1,0,0,3,0
+163,B,2013,Arena Joinville,Joinville,SC,Sexta,23, Agosto ,2013,21:00,Joinville - SC,São Caetano - SP,1,0,1,0,0,3,0
+164,B,2013,Castelão,Fortaleza,CE,Terça,20, Agosto ,2013,19:30,Ceará - CE,Guaratinguetá - SP,2,0,1,0,0,3,0
+165,B,2013,Manoel Barretto,Ceara,Mirim,Sexta,23, Agosto ,2013,21:00,América - RN,Avaí - SC,2,3,0,1,0,0,3
+166,B,2013,Durival Britto,Curitiba,PR,Sábado,24, Agosto ,2013,16:20,Paraná - PR,Sport - PE,1,0,1,0,0,3,0
+167,B,2013,Serra Dourada,Goiania,GO,Sábado,24, Agosto ,2013,16:20,Atlético - GO,América - MG,1,1,0,0,1,1,1
+168,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,24, Agosto ,2013,16:20,Bragantino - SP,Chapecoense - SC,1,0,1,0,0,3,0
+169,B,2013,Curuzu,Belem,PA,Sábado,24, Agosto ,2013,21:00,Paysandu - PA,Icasa - CE,1,2,0,1,0,0,3
+170,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,27, Agosto ,2013,21:00,A.s.a. - AL,Figueirense - SC,3,1,1,0,0,3,0
+171,B,2013,Independência,Belo Horizonte,MG,Terça,27, Agosto ,2013,21:50,América - MG,Joinville - SC,0,2,0,1,0,0,3
+172,B,2013,Ressacada,Florianopolis,SC,Sexta,30, Agosto ,2013,21:00,Avaí - SC,Abc - RN,2,0,1,0,0,3,0
+173,B,2013,Arena Condá,Chapeco,SC,Sábado,31, Agosto ,2013,16:20,Chapecoense - SC,Icasa - CE,1,2,0,1,0,0,3
+174,B,2013,Castelão,Fortaleza,CE,Sábado,31, Agosto ,2013,21:00,Ceará - CE,Palmeiras - SP,2,2,0,0,1,1,1
+175,B,2013,Nazarenão,Goianinha,RN,Sábado,31, Agosto ,2013,16:20,América - RN,São Caetano - SP,2,1,1,0,0,3,0
+176,B,2013,Durival Britto,Curitiba,PR,Sábado,31, Agosto ,2013,16:20,Paraná - PR,Guaratinguetá - SP,4,0,1,0,0,3,0
+177,B,2013,Serra Dourada,Goiania,GO,Sexta,30, Agosto ,2013,21:00,Atlético - GO,Oeste - SP,4,0,1,0,0,3,0
+178,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,31, Agosto ,2013,16:20,Bragantino - SP,Paysandu - PA,0,0,0,0,1,1,1
+179,B,2013,Ilha do Retiro,Recife,PE,Sábado,31, Agosto ,2013,21:00,Sport - PE,Boa - MG,2,2,0,0,1,1,1
+180,B,2013,Dos Amaros,Itapolis,SP,Terça,3, Setembro ,2013,19:30,Oeste - SP,América - RN,4,1,1,0,0,3,0
+181,B,2013,Dilzon Melo,Varginha,MG,Terça,3, Setembro ,2013,19:30,Boa - MG,Avaí - SC,0,0,0,0,1,1,1
+182,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,3, Setembro ,2013,19:30,Figueirense - SC,Bragantino - SP,2,1,1,0,0,3,0
+183,B,2013,Arena Joinville,Joinville,SC,Terça,3, Setembro ,2013,19:30,Joinville - SC,Ceará - CE,1,1,0,0,1,1,1
+184,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,3, Setembro ,2013,19:30,Icasa - CE,Paraná - PR,0,3,0,1,0,0,3
+185,B,2013,Frasqueirão,Natal,RN,Terça,3, Setembro ,2013,21:50,Abc - RN,América - MG,2,1,1,0,0,3,0
+186,B,2013,Pacaembu,Sao Paulo,SP,Terça,3, Setembro ,2013,21:50,Palmeiras - SP,Chapecoense - SC,0,0,0,0,1,1,1
+187,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,3, Setembro ,2013,21:50,São Caetano - SP,A.s.a. - AL,3,0,1,0,0,3,0
+188,B,2013,Dario Leite,Guaratingueta,SP,Terça,3, Setembro ,2013,21:50,Guaratinguetá - SP,Atlético - GO,2,0,1,0,0,3,0
+189,B,2013,Curuzu,Belem,PA,Terça,3, Setembro ,2013,21:50,Paysandu - PA,Sport - PE,2,0,1,0,0,3,0
+190,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,6, Setembro ,2013,21:50,A.s.a. - AL,Paysandu - PA,1,1,0,0,1,1,1
+191,B,2013,Independência,Belo Horizonte,MG,Sexta,6, Setembro ,2013,21:50,América - MG,Guaratinguetá - SP,1,0,1,0,0,3,0
+192,B,2013,Ressacada,Florianopolis,SC,Sexta,6, Setembro ,2013,19:30,Avaí - SC,Oeste - SP,2,2,0,0,1,1,1
+193,B,2013,Arena Condá,Chapeco,SC,Sexta,6, Setembro ,2013,21:50,Chapecoense - SC,Boa - MG,1,0,1,0,0,3,0
+194,B,2013,Presidente Vargas/CE,Fortaleza,CE,Sexta,6, Setembro ,2013,19:30,Ceará - CE,São Caetano - SP,4,2,1,0,0,3,0
+195,B,2013,Nazarenão,Goianinha,RN,Sexta,6, Setembro ,2013,19:30,América - RN,Figueirense - SC,2,0,1,0,0,3,0
+196,B,2013,Durival Britto,Curitiba,PR,Sábado,7, Setembro ,2013,21:00,Paraná - PR,Abc - RN,1,0,1,0,0,3,0
+197,B,2013,Juscelino Kubitschek,Itumbiara,GO,Sábado,7, Setembro ,2013,18:15,Atlético - GO,Palmeiras - SP,1,3,0,1,0,0,3
+198,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,6, Setembro ,2013,21:50,Bragantino - SP,Joinville - SC,1,2,0,1,0,0,3
+199,B,2013,Ilha do Retiro,Recife,PE,Sábado,7, Setembro ,2013,21:00,Sport - PE,Icasa - CE,0,2,0,1,0,0,3
+200,B,2013,Dos Amaros,Itapolis,SP,Terça,10, Setembro ,2013,16:20,Oeste - SP,Chapecoense - SC,1,0,1,0,0,3,0
+201,B,2013,Dilzon Melo,Varginha,MG,Segunda,9, Setembro ,2013,21:50,Boa - MG,Bragantino - SP,0,0,0,0,1,1,1
+202,B,2013,Orlando Scarpelli,Florianopolis,SC,Segunda,9, Setembro ,2013,19:00,Figueirense - SC,América - MG,1,2,0,1,0,0,3
+203,B,2013,Arena Joinville,Joinville,SC,Terça,10, Setembro ,2013,19:30,Joinville - SC,Atlético - GO,2,1,1,0,0,3,0
+204,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,10, Setembro ,2013,19:30,Icasa - CE,América - RN,1,1,0,0,1,1,1
+205,B,2013,Frasqueirão,Natal,RN,Terça,10, Setembro ,2013,19:30,Abc - RN,Sport - PE,4,2,1,0,0,3,0
+206,B,2013,Pacaembu,Sao Paulo,SP,Terça,10, Setembro ,2013,19:30,Palmeiras - SP,A.s.a. - AL,3,0,1,0,0,3,0
+207,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,10, Setembro ,2013,16:20,São Caetano - SP,Paraná - PR,2,1,1,0,0,3,0
+208,B,2013,Dario Leite,Guaratingueta,SP,Terça,10, Setembro ,2013,16:20,Guaratinguetá - SP,Avaí - SC,1,0,1,0,0,3,0
+209,B,2013,Curuzu,Belem,PA,Terça,10, Setembro ,2013,19:00,Paysandu - PA,Ceará - CE,2,1,1,0,0,3,0
+210,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,13, Setembro ,2013,19:30,A.s.a. - AL,Joinville - SC,0,1,0,1,0,0,3
+211,B,2013,Independência,Belo Horizonte,MG,Sábado,14, Setembro ,2013,16:20,América - MG,Palmeiras - SP,1,1,0,0,1,1,1
+212,B,2013,Ressacada,Florianopolis,SC,Sábado,14, Setembro ,2013,16:20,Avaí - SC,Icasa - CE,3,1,1,0,0,3,0
+213,B,2013,Arena Condá,Chapeco,SC,Sexta,13, Setembro ,2013,21:50,Chapecoense - SC,São Caetano - SP,6,2,1,0,0,3,0
+214,B,2013,Castelão,Fortaleza,CE,Sábado,14, Setembro ,2013,16:20,Ceará - CE,Abc - RN,4,0,1,0,0,3,0
+215,B,2013,Nazarenão,Goianinha,RN,Sábado,14, Setembro ,2013,21:00,América - RN,Paysandu - PA,3,0,1,0,0,3,0
+216,B,2013,Durival Britto,Curitiba,PR,Sexta,13, Setembro ,2013,19:30,Paraná - PR,Oeste - SP,1,2,0,1,0,0,3
+217,B,2013,Serra Dourada,Goiania,GO,Sexta,13, Setembro ,2013,19:30,Atlético - GO,Boa - MG,3,1,1,0,0,3,0
+218,B,2013,Dario Leite,Guaratingueta,SP,Sábado,14, Setembro ,2013,21:00,Guaratinguetá - SP,Bragantino - SP,1,0,1,0,0,3,0
+219,B,2013,Ilha do Retiro,Recife,PE,Sábado,14, Setembro ,2013,16:20,Sport - PE,Figueirense - SC,1,0,1,0,0,3,0
+220,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,17, Setembro ,2013,21:50,A.s.a. - AL,Boa - MG,0,1,0,1,0,0,3
+221,B,2013,Independência,Belo Horizonte,MG,Terça,17, Setembro ,2013,19:30,América - MG,Icasa - CE,1,2,0,1,0,0,3
+222,B,2013,Ressacada,Florianopolis,SC,Terça,17, Setembro ,2013,21:50,Avaí - SC,Palmeiras - SP,2,4,0,1,0,0,3
+223,B,2013,Arena Condá,Chapeco,SC,Terça,22, Outubro ,2013,19:30,Chapecoense - SC,Figueirense - SC,1,1,0,0,1,1,1
+224,B,2013,Castelão,Fortaleza,CE,Terça,17, Setembro ,2013,19:30,Ceará - CE,Oeste - SP,1,0,1,0,0,3,0
+225,B,2013,Nazarenão,Goianinha,RN,Terça,17, Setembro ,2013,21:50,América - RN,Joinville - SC,1,1,0,0,1,1,1
+226,B,2013,Durival Britto,Curitiba,PR,Terça,17, Setembro ,2013,21:50,Paraná - PR,Paysandu - PA,3,1,1,0,0,3,0
+227,B,2013,Serra Dourada,Goiania,GO,Terça,17, Setembro ,2013,19:30,Atlético - GO,São Caetano - SP,1,1,0,0,1,1,1
+228,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,17, Setembro ,2013,21:50,Bragantino - SP,Abc - RN,2,1,1,0,0,3,0
+229,B,2013,Ilha do Retiro,Recife,PE,Terça,17, Setembro ,2013,19:30,Sport - PE,Guaratinguetá - SP,1,0,1,0,0,3,0
+230,B,2013,Dos Amaros,Itapolis,SP,Sexta,20, Setembro ,2013,19:30,Oeste - SP,América - MG,1,1,0,0,1,1,1
+231,B,2013,Dilzon Melo,Varginha,MG,Sábado,21, Setembro ,2013,16:20,Boa - MG,Ceará - CE,1,2,0,1,0,0,3
+232,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,21, Setembro ,2013,16:20,Figueirense - SC,Paraná - PR,1,0,1,0,0,3,0
+233,B,2013,Arena Joinville,Joinville,SC,Sexta,20, Setembro ,2013,21:50,Joinville - SC,Avaí - SC,1,2,0,1,0,0,3
+234,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,20, Setembro ,2013,19:30,Icasa - CE,A.s.a. - AL,5,2,1,0,0,3,0
+235,B,2013,Frasqueirão,Natal,RN,Sábado,21, Setembro ,2013,16:20,Abc - RN,Chapecoense - SC,2,0,1,0,0,3,0
+236,B,2013,Pacaembu,Sao Paulo,SP,Sábado,21, Setembro ,2013,16:20,Palmeiras - SP,Sport - PE,2,1,1,0,0,3,0
+237,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,20, Setembro ,2013,19:30,São Caetano - SP,Bragantino - SP,0,1,0,1,0,0,3
+238,B,2013,Dario Leite,Guaratingueta,SP,Sábado,21, Setembro ,2013,21:00,Guaratinguetá - SP,América - RN,2,0,1,0,0,3,0
+239,B,2013,Curuzu,Belem,PA,Sábado,21, Setembro ,2013,21:00,Paysandu - PA,Atlético - GO,0,0,0,0,1,1,1
+240,B,2013,Coaracy Fonseca,Arapiraca,AL,Sábado,28, Setembro ,2013,21:00,A.s.a. - AL,Paraná - PR,1,4,0,1,0,0,3
+241,B,2013,Independência,Belo Horizonte,MG,Sábado,28, Setembro ,2013,16:20,América - MG,Avaí - SC,0,0,0,0,1,1,1
+242,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,24, Setembro ,2013,19:30,Figueirense - SC,Ceará - CE,2,1,1,0,0,3,0
+243,B,2013,Arena Joinville,Joinville,SC,Sexta,27, Setembro ,2013,19:30,Joinville - SC,Guaratinguetá - SP,1,1,0,0,1,1,1
+244,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,28, Setembro ,2013,16:20,Icasa - CE,Atlético - GO,0,0,0,0,1,1,1
+245,B,2013,Frasqueirão,Natal,RN,Sábado,28, Setembro ,2013,21:00,Abc - RN,Boa - MG,3,1,1,0,0,3,0
+246,B,2013,Pacaembu,Sao Paulo,SP,Sábado,28, Setembro ,2013,16:20,Palmeiras - SP,América - RN,0,0,0,0,1,1,1
+247,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,27, Setembro ,2013,19:30,São Caetano - SP,Oeste - SP,2,2,0,0,1,1,1
+248,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,28, Setembro ,2013,16:20,Bragantino - SP,Sport - PE,1,2,0,1,0,0,3
+249,B,2013,Curuzu,Belem,PA,Terça,24, Setembro ,2013,19:30,Paysandu - PA,Chapecoense - SC,2,1,1,0,0,3,0
+250,B,2013,Benedito Teixeira,Sao Jose do Rio Preto,SP,Terça,1, Outubro ,2013,21:50,Oeste - SP,Palmeiras - SP,0,2,0,1,0,0,3
+251,B,2013,Dilzon Melo,Varginha,MG,Terça,1, Outubro ,2013,21:50,Boa - MG,Figueirense - SC,0,2,0,1,0,0,3
+252,B,2013,Ressacada,Florianopolis,SC,Terça,1, Outubro ,2013,21:50,Avaí - SC,São Caetano - SP,2,1,1,0,0,3,0
+253,B,2013,Arena Condá,Chapeco,SC,Terça,1, Outubro ,2013,19:30,Chapecoense - SC,A.s.a. - AL,4,0,1,0,0,3,0
+254,B,2013,Castelão,Fortaleza,CE,Terça,1, Outubro ,2013,19:30,Ceará - CE,Icasa - CE,1,0,1,0,0,3,0
+255,B,2013,Nazarenão,Goianinha,RN,Terça,1, Outubro ,2013,21:50,América - RN,Bragantino - SP,0,2,0,1,0,0,3
+256,B,2013,Durival Britto,Curitiba,PR,Terça,1, Outubro ,2013,21:50,Paraná - PR,América - MG,0,1,0,1,0,0,3
+257,B,2013,Serra Dourada,Goiania,GO,Terça,1, Outubro ,2013,19:30,Atlético - GO,Abc - RN,0,1,0,1,0,0,3
+258,B,2013,Dario Leite,Guaratingueta,SP,Terça,1, Outubro ,2013,19:30,Guaratinguetá - SP,Paysandu - PA,1,1,0,0,1,1,1
+259,B,2013,Ilha do Retiro,Recife,PE,Terça,1, Outubro ,2013,19:30,Sport - PE,Joinville - SC,3,2,1,0,0,3,0
+260,B,2013,Coaracy Fonseca,Arapiraca,AL,Sábado,5, Outubro ,2013,16:20,A.s.a. - AL,Ceará - CE,2,3,0,1,0,0,3
+261,B,2013,Dilzon Melo,Varginha,MG,Sexta,4, Outubro ,2013,19:30,Boa - MG,Oeste - SP,0,4,0,1,0,0,3
+262,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,5, Outubro ,2013,16:20,Figueirense - SC,Atlético - GO,1,1,0,0,1,1,1
+263,B,2013,Arena Condá,Chapeco,SC,Sábado,5, Outubro ,2013,16:20,Chapecoense - SC,Joinville - SC,2,1,1,0,0,3,0
+264,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,4, Outubro ,2013,19:30,Icasa - CE,Guaratinguetá - SP,3,2,1,0,0,3,0
+265,B,2013,Frasqueirão,Natal,RN,Sábado,5, Outubro ,2013,16:20,Abc - RN,Palmeiras - SP,3,2,1,0,0,3,0
+266,B,2013,Durival Britto,Curitiba,PR,Sexta,4, Outubro ,2013,21:50,Paraná - PR,Avaí - SC,0,1,0,1,0,0,3
+267,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,5, Outubro ,2013,21:00,São Caetano - SP,Paysandu - PA,3,1,1,0,0,3,0
+268,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,5, Outubro ,2013,21:00,Bragantino - SP,América - MG,0,1,0,1,0,0,3
+269,B,2013,Ilha do Retiro,Recife,PE,Sexta,4, Outubro ,2013,19:30,Sport - PE,América - RN,3,0,1,0,0,3,0
+270,B,2013,Dos Amaros,Itapolis,SP,Terça,8, Outubro ,2013,19:30,Oeste - SP,Icasa - CE,0,0,0,0,1,1,1
+271,B,2013,Independência,Belo Horizonte,MG,Terça,8, Outubro ,2013,19:30,América - MG,Chapecoense - SC,1,1,0,0,1,1,1
+272,B,2013,Ressacada,Florianopolis,SC,Terça,8, Outubro ,2013,21:50,Avaí - SC,Sport - PE,1,0,1,0,0,3,0
+273,B,2013,Arena Joinville,Joinville,SC,Terça,8, Outubro ,2013,21:50,Joinville - SC,Abc - RN,1,2,0,1,0,0,3
+274,B,2013,Castelão,Fortaleza,CE,Terça,8, Outubro ,2013,21:50,Ceará - CE,Bragantino - SP,5,3,1,0,0,3,0
+275,B,2013,Nazarenão,Goianinha,RN,Terça,8, Outubro ,2013,21:50,América - RN,Paraná - PR,4,1,1,0,0,3,0
+276,B,2013,Do Café,Londrina,PR,Terça,8, Outubro ,2013,19:30,Palmeiras - SP,Figueirense - SC,4,0,1,0,0,3,0
+277,B,2013,Serra Dourada,Goiania,GO,Terça,8, Outubro ,2013,19:30,Atlético - GO,A.s.a. - AL,5,1,1,0,0,3,0
+278,B,2013,Dario Leite,Guaratingueta,SP,Terça,8, Outubro ,2013,19:30,Guaratinguetá - SP,São Caetano - SP,3,2,1,0,0,3,0
+279,B,2013,Curuzu,Belem,PA,Terça,8, Outubro ,2013,21:50,Paysandu - PA,Boa - MG,0,0,0,0,1,1,1
+280,B,2013,Dos Amaros,Itapolis,SP,Sábado,12, Outubro ,2013,16:20,Oeste - SP,Sport - PE,0,3,0,1,0,0,3
+281,B,2013,Independência,Belo Horizonte,MG,Sexta,11, Outubro ,2013,19:30,América - MG,Boa - MG,0,0,0,0,1,1,1
+282,B,2013,Ressacada,Florianopolis,SC,Sábado,12, Outubro ,2013,16:20,Avaí - SC,Chapecoense - SC,1,2,0,1,0,0,3
+283,B,2013,Arena Joinville,Joinville,SC,Sexta,11, Outubro ,2013,19:30,Joinville - SC,Icasa - CE,0,0,0,0,1,1,1
+284,B,2013,Castelão,Fortaleza,CE,Sábado,12, Outubro ,2013,16:20,Ceará - CE,Paraná - PR,1,1,0,0,1,1,1
+285,B,2013,Nazarenão,Goianinha,RN,Sábado,12, Outubro ,2013,16:20,América - RN,Atlético - GO,2,1,1,0,0,3,0
+286,B,2013,Do Café,Londrina,PR,Sexta,11, Outubro ,2013,21:50,Palmeiras - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+287,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,12, Outubro ,2013,21:00,São Caetano - SP,Figueirense - SC,0,2,0,1,0,0,3
+288,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,12, Outubro ,2013,21:00,Bragantino - SP,A.s.a. - AL,2,0,1,0,0,3,0
+289,B,2013,Olímpico do Pará,Belem,PA,Terça,22, Outubro ,2013,19:30,Paysandu - PA,Abc - RN,1,0,1,0,0,3,0
+290,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,15, Outubro ,2013,19:30,A.s.a. - AL,América - RN,1,2,0,1,0,0,3
+291,B,2013,Dilzon Melo,Varginha,MG,Terça,15, Outubro ,2013,19:30,Boa - MG,Joinville - SC,1,0,1,0,0,3,0
+292,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,15, Outubro ,2013,21:50,Figueirense - SC,Paysandu - PA,3,2,1,0,0,3,0
+293,B,2013,Arena Condá,Chapeco,SC,Terça,15, Outubro ,2013,19:30,Chapecoense - SC,Ceará - CE,1,1,0,0,1,1,1
+294,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Terça,15, Outubro ,2013,21:50,Icasa - CE,Palmeiras - SP,1,0,1,0,0,3,0
+295,B,2013,Frasqueirão,Natal,RN,Terça,15, Outubro ,2013,21:50,Abc - RN,São Caetano - SP,2,0,1,0,0,3,0
+296,B,2013,Durival Britto,Curitiba,PR,Terça,15, Outubro ,2013,21:50,Paraná - PR,Bragantino - SP,1,0,1,0,0,3,0
+297,B,2013,Serra Dourada,Goiania,GO,Terça,29, Outubro ,2013,21:50,Atlético - GO,Avaí - SC,2,1,1,0,0,3,0
+298,B,2013,Dario Leite,Guaratingueta,SP,Terça,15, Outubro ,2013,19:30,Guaratinguetá - SP,Oeste - SP,0,0,0,0,1,1,1
+299,B,2013,Ilha do Retiro,Recife,PE,Terça,15, Outubro ,2013,19:30,Sport - PE,América - MG,1,3,0,1,0,0,3
+300,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,18, Outubro ,2013,19:30,A.s.a. - AL,Oeste - SP,3,0,1,0,0,3,0
+301,B,2013,Dilzon Melo,Varginha,MG,Sexta,18, Outubro ,2013,19:30,Boa - MG,América - RN,3,2,1,0,0,3,0
+302,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,19, Outubro ,2013,16:20,Figueirense - SC,Joinville - SC,0,1,0,1,0,0,3
+303,B,2013,Arena Condá,Chapeco,SC,Sábado,19, Outubro ,2013,16:20,Chapecoense - SC,Sport - PE,0,0,0,0,1,1,1
+304,B,2013,Castelão,Fortaleza,CE,Sexta,18, Outubro ,2013,21:50,Ceará - CE,América - MG,1,1,0,0,1,1,1
+305,B,2013,Frasqueirão,Natal,RN,Sábado,19, Outubro ,2013,16:20,Abc - RN,Guaratinguetá - SP,2,4,0,1,0,0,3
+306,B,2013,Durival Britto,Curitiba,PR,Terça,22, Outubro ,2013,21:00,Paraná - PR,Atlético - GO,1,1,0,0,1,1,1
+307,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,19, Outubro ,2013,21:00,São Caetano - SP,Icasa - CE,2,1,1,0,0,3,0
+308,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,19, Outubro ,2013,16:20,Bragantino - SP,Palmeiras - SP,0,2,0,1,0,0,3
+309,B,2013,Curuzu,Belem,PA,Sexta,18, Outubro ,2013,19:30,Paysandu - PA,Avaí - SC,0,2,0,1,0,0,3
+310,B,2013,Dos Amaros,Itapolis,SP,Sábado,26, Outubro ,2013,16:20,Oeste - SP,Abc - RN,2,1,1,0,0,3,0
+311,B,2013,Independência,Belo Horizonte,MG,Terça,29, Outubro ,2013,21:00,América - MG,Paysandu - PA,0,1,0,1,0,0,3
+312,B,2013,Ressacada,Florianopolis,SC,Sexta,25, Outubro ,2013,21:50,Avaí - SC,Bragantino - SP,3,0,1,0,0,3,0
+313,B,2013,Arena Joinville,Joinville,SC,Sábado,26, Outubro ,2013,16:20,Joinville - SC,Paraná - PR,1,0,1,0,0,3,0
+314,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,25, Outubro ,2013,19:30,Icasa - CE,Figueirense - SC,1,0,1,0,0,3,0
+315,B,2013,Nazarenão,Goianinha,RN,Sábado,26, Outubro ,2013,16:20,América - RN,Ceará - CE,1,0,1,0,0,3,0
+316,B,2013,Pacaembu,Sao Paulo,SP,Sábado,26, Outubro ,2013,16:20,Palmeiras - SP,São Caetano - SP,0,0,0,0,1,1,1
+317,B,2013,Serra Dourada,Goiania,GO,Sexta,25, Outubro ,2013,19:30,Atlético - GO,Chapecoense - SC,0,0,0,0,1,1,1
+318,B,2013,Dario Leite,Guaratingueta,SP,Sábado,26, Outubro ,2013,21:00,Guaratinguetá - SP,Boa - MG,0,0,0,0,1,1,1
+319,B,2013,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,26, Outubro ,2013,16:20,Sport - PE,A.s.a. - AL,4,2,1,0,0,3,0
+320,B,2013,Dos Amaros,Itapolis,SP,Sábado,2, Novembro ,2013,21:00,Oeste - SP,Bragantino - SP,2,0,1,0,0,3,0
+321,B,2013,Independência,Belo Horizonte,MG,Sexta,1, Novembro ,2013,21:00,América - MG,A.s.a. - AL,1,0,1,0,0,3,0
+322,B,2013,Ressacada,Florianopolis,SC,Domingo,3, Novembro ,2013,17:00,Avaí - SC,Figueirense - SC,0,4,0,1,0,0,3
+323,B,2013,Arena Joinville,Joinville,SC,Sexta,1, Novembro ,2013,19:30,Joinville - SC,Paysandu - PA,4,2,1,0,0,3,0
+324,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,1, Novembro ,2013,21:00,Icasa - CE,Boa - MG,1,0,1,0,0,3,0
+325,B,2013,Frasqueirão,Natal,RN,Sábado,2, Novembro ,2013,17:20,Abc - RN,América - RN,3,3,0,0,1,1,1
+326,B,2013,Durival Britto,Curitiba,PR,Sábado,2, Novembro ,2013,16:20,Paraná - PR,Palmeiras - SP,1,1,0,0,1,1,1
+327,B,2013,Serra Dourada,Goiania,GO,Sexta,1, Novembro ,2013,21:50,Atlético - GO,Ceará - CE,1,3,0,1,0,0,3
+328,B,2013,Dario Leite,Guaratingueta,SP,Sábado,2, Novembro ,2013,16:20,Guaratinguetá - SP,Chapecoense - SC,0,0,0,0,1,1,1
+329,B,2013,Ilha do Retiro,Recife,PE,Sábado,2, Novembro ,2013,17:20,Sport - PE,São Caetano - SP,3,0,1,0,0,3,0
+330,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,8, Novembro ,2013,21:00,A.s.a. - AL,Avaí - SC,1,0,1,0,0,3,0
+331,B,2013,Dilzon Melo,Varginha,MG,Sexta,8, Novembro ,2013,21:50,Boa - MG,Paraná - PR,3,2,1,0,0,3,0
+332,B,2013,Orlando Scarpelli,Florianopolis,SC,Sábado,9, Novembro ,2013,21:00,Figueirense - SC,Guaratinguetá - SP,2,1,1,0,0,3,0
+333,B,2013,Arena Condá,Chapeco,SC,Terça,5, Novembro ,2013,21:00,Chapecoense - SC,América - RN,0,0,0,0,1,1,1
+334,B,2013,Castelão,Fortaleza,CE,Sábado,9, Novembro ,2013,17:20,Ceará - CE,Sport - PE,4,1,1,0,0,3,0
+335,B,2013,Frasqueirão,Natal,RN,Sábado,9, Novembro ,2013,17:20,Abc - RN,Icasa - CE,1,0,1,0,0,3,0
+336,B,2013,Pacaembu,Sao Paulo,SP,Sábado,9, Novembro ,2013,16:20,Palmeiras - SP,Joinville - SC,3,0,1,0,0,3,0
+337,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,5, Novembro ,2013,21:00,São Caetano - SP,América - MG,1,1,0,0,1,1,1
+338,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,8, Novembro ,2013,19:30,Bragantino - SP,Atlético - GO,2,0,1,0,0,3,0
+339,B,2013,Curuzu,Belem,PA,Sábado,9, Novembro ,2013,17:20,Paysandu - PA,Oeste - SP,3,3,0,0,1,1,1
+340,B,2013,Coaracy Fonseca,Arapiraca,AL,Terça,12, Novembro ,2013,21:50,A.s.a. - AL,Guaratinguetá - SP,2,1,1,0,0,3,0
+341,B,2013,Dilzon Melo,Varginha,MG,Terça,12, Novembro ,2013,19:30,Boa - MG,São Caetano - SP,1,0,1,0,0,3,0
+342,B,2013,Orlando Scarpelli,Florianopolis,SC,Terça,12, Novembro ,2013,19:30,Figueirense - SC,Abc - RN,2,0,1,0,0,3,0
+343,B,2013,Arena Joinville,Joinville,SC,Terça,12, Novembro ,2013,19:30,Joinville - SC,Oeste - SP,1,1,0,0,1,1,1
+344,B,2013,Castelão,Fortaleza,CE,Terça,12, Novembro ,2013,21:50,Ceará - CE,Avaí - SC,2,1,1,0,0,3,0
+345,B,2013,Nazarenão,Goianinha,RN,Terça,12, Novembro ,2013,21:50,América - RN,América - MG,2,2,0,0,1,1,1
+346,B,2013,Durival Britto,Curitiba,PR,Terça,12, Novembro ,2013,19:30,Paraná - PR,Chapecoense - SC,0,1,0,1,0,0,3
+347,B,2013,Serra Dourada,Goiania,GO,Terça,12, Novembro ,2013,21:50,Atlético - GO,Sport - PE,2,1,1,0,0,3,0
+348,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Terça,12, Novembro ,2013,19:30,Bragantino - SP,Icasa - CE,1,2,0,1,0,0,3
+349,B,2013,Olímpico do Pará,Belem,PA,Terça,12, Novembro ,2013,21:50,Paysandu - PA,Palmeiras - SP,1,0,1,0,0,3,0
+350,B,2013,Dos Amaros,Itapolis,SP,Sábado,16, Novembro ,2013,21:00,Oeste - SP,Figueirense - SC,2,2,0,0,1,1,1
+351,B,2013,Independência,Belo Horizonte,MG,Sábado,16, Novembro ,2013,17:20,América - MG,Atlético - GO,3,0,1,0,0,3,0
+352,B,2013,Ressacada,Florianopolis,SC,Sábado,16, Novembro ,2013,17:20,Avaí - SC,América - RN,0,1,0,1,0,0,3
+353,B,2013,Arena Condá,Chapeco,SC,Sábado,16, Novembro ,2013,16:20,Chapecoense - SC,Bragantino - SP,1,1,0,0,1,1,1
+354,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sexta,15, Novembro ,2013,21:50,Icasa - CE,Paysandu - PA,2,1,1,0,0,3,0
+355,B,2013,Frasqueirão,Natal,RN,Sexta,15, Novembro ,2013,19:30,Abc - RN,A.s.a. - AL,4,1,1,0,0,3,0
+356,B,2013,Pacaembu,Sao Paulo,SP,Sábado,16, Novembro ,2013,16:20,Palmeiras - SP,Boa - MG,3,0,1,0,0,3,0
+357,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,16, Novembro ,2013,21:00,São Caetano - SP,Joinville - SC,3,2,1,0,0,3,0
+358,B,2013,Dario Leite,Guaratingueta,SP,Sexta,15, Novembro ,2013,17:00,Guaratinguetá - SP,Ceará - CE,0,1,0,1,0,0,3
+359,B,2013,Ilha do Retiro,Recife,PE,Sábado,16, Novembro ,2013,17:20,Sport - PE,Paraná - PR,2,0,1,0,0,3,0
+360,B,2013,Dos Amaros,Itapolis,SP,Sábado,23, Novembro ,2013,17:20,Oeste - SP,Atlético - GO,2,4,0,1,0,0,3
+361,B,2013,Dilzon Melo,Varginha,MG,Sábado,23, Novembro ,2013,17:20,Boa - MG,Sport - PE,2,3,0,1,0,0,3
+362,B,2013,Orlando Scarpelli,Florianopolis,SC,Sexta,22, Novembro ,2013,19:30,Figueirense - SC,A.s.a. - AL,2,0,1,0,0,3,0
+363,B,2013,Arena Joinville,Joinville,SC,Sexta,22, Novembro ,2013,21:50,Joinville - SC,América - MG,2,1,1,0,0,3,0
+364,B,2013,Mauro Sampaio,Juazeiro do Norte,CE,Sábado,23, Novembro ,2013,16:20,Icasa - CE,Chapecoense - SC,1,2,0,1,0,0,3
+365,B,2013,Frasqueirão,Natal,RN,Sábado,23, Novembro ,2013,17:20,Abc - RN,Avaí - SC,1,0,1,0,0,3,0
+366,B,2013,Morenão,Campo Grande,MS,Sábado,23, Novembro ,2013,17:20,Palmeiras - SP,Ceará - CE,4,1,1,0,0,3,0
+367,B,2013,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,23, Novembro ,2013,21:00,São Caetano - SP,América - RN,2,2,0,0,1,1,1
+368,B,2013,Dario Leite,Guaratingueta,SP,Sábado,23, Novembro ,2013,17:20,Guaratinguetá - SP,Paraná - PR,3,4,0,1,0,0,3
+369,B,2013,Olímpico do Pará,Belem,PA,Sábado,23, Novembro ,2013,17:20,Paysandu - PA,Bragantino - SP,0,1,0,1,0,0,3
+370,B,2013,Coaracy Fonseca,Arapiraca,AL,Sexta,29, Novembro ,2013,19:30,A.s.a. - AL,São Caetano - SP,1,0,1,0,0,3,0
+371,B,2013,Independência,Belo Horizonte,MG,Sexta,29, Novembro ,2013,19:30,América - MG,Abc - RN,0,0,0,0,1,1,1
+372,B,2013,Ressacada,Florianopolis,SC,Sexta,29, Novembro ,2013,21:00,Avaí - SC,Boa - MG,1,0,1,0,0,3,0
+373,B,2013,Arena Condá,Chapeco,SC,Sábado,30, Novembro ,2013,16:20,Chapecoense - SC,Palmeiras - SP,1,0,1,0,0,3,0
+374,B,2013,Castelão,Fortaleza,CE,Sábado,30, Novembro ,2013,16:20,Ceará - CE,Joinville - SC,0,3,0,1,0,0,3
+375,B,2013,Aflitos,Recife,PE,Sábado,30, Novembro ,2013,16:20,América - RN,Oeste - SP,2,2,0,0,1,1,1
+376,B,2013,Durival Britto,Curitiba,PR,Sábado,30, Novembro ,2013,16:20,Paraná - PR,Icasa - CE,2,0,1,0,0,3,0
+377,B,2013,Serra Dourada,Goiania,GO,Sábado,30, Novembro ,2013,16:20,Atlético - GO,Guaratinguetá - SP,2,0,1,0,0,3,0
+378,B,2013,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,30, Novembro ,2013,16:20,Bragantino - SP,Figueirense - SC,1,1,0,0,1,1,1
+379,B,2013,Ilha do Retiro,Recife,PE,Sábado,30, Novembro ,2013,16:20,Sport - PE,Paysandu - PA,0,0,0,0,1,1,1

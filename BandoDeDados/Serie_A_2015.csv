@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2015,Allianz Parque,Sao Paulo,SP,Sábado,9, Maio ,2015,18:30,Palmeiras - SP,Atlético - MG,2,2,0,0,1,1,1
+1,A,2015,Arena Condá,Chapeco,SC,Sábado,9, Maio ,2015,18:30,Chapecoense - SC,Coritiba - PR,2,1,1,0,0,3,0
+2,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,9, Maio ,2015,21:00,Fluminense - RJ,Joinville - SC,1,0,1,0,0,3,0
+3,A,2015,Morumbi,Sao Paulo,SP,Domingo,10, Maio ,2015,16:00,São Paulo - SP,Flamengo - RJ,2,1,1,0,0,3,0
+4,A,2015,Arena Pantanal,Cuiaba,MT,Domingo,10, Maio ,2015,16:00,Cruzeiro - MG,Corinthians - SP,0,1,0,1,0,0,3
+5,A,2015,Arena da Baixada,Curitiba,PR,Domingo,10, Maio ,2015,16:00,Atlético - PR,Internacional - RS,3,0,1,0,0,3,0
+6,A,2015,Ilha do Retiro,Recife,PE,Domingo,10, Maio ,2015,16:00,Sport - PE,Figueirense - SC,4,1,1,0,0,3,0
+7,A,2015,São Januário,Rio de Janeiro,RJ,Domingo,10, Maio ,2015,18:30,Vasco da Gama - RJ,Goiás - GO,0,0,0,0,1,1,1
+8,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,10, Maio ,2015,11:00,Grêmio - RS,Ponte Preta - SP,3,3,0,0,1,1,1
+9,A,2015,Ressacada,Florianopolis,SC,Domingo,10, Maio ,2015,18:30,Avaí - SC,Santos - SP,1,1,0,0,1,1,1
+10,A,2015,Couto Pereira,Curitiba,PR,Sábado,16, Maio ,2015,18:30,Coritiba - PR,Grêmio - RS,2,0,1,0,0,3,0
+11,A,2015,Serra Dourada,Goiania,GO,Sábado,16, Maio ,2015,18:30,Goiás - GO,Atlético - PR,2,0,1,0,0,3,0
+12,A,2015,Fonte Luminosa,Araraquara,SP,Sábado,16, Maio ,2015,21:00,Corinthians - SP,Chapecoense - SC,1,0,1,0,0,3,0
+13,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,17, Maio ,2015,16:00,Flamengo - RJ,Sport - PE,2,2,0,0,1,1,1
+14,A,2015,Vila Belmiro,Santos,SP,Domingo,17, Maio ,2015,16:00,Santos - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+15,A,2015,Mané Garrincha,Brasilia,DF,Domingo,17, Maio ,2015,16:00,Atlético - MG,Fluminense - RJ,4,1,1,0,0,3,0
+16,A,2015,Arena Joinville,Joinville,SC,Domingo,17, Maio ,2015,18:30,Joinville - SC,Palmeiras - SP,0,0,0,0,1,1,1
+17,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,17, Maio ,2015,18:30,Ponte Preta - SP,São Paulo - SP,1,0,1,0,0,3,0
+18,A,2015,Beira,Rio,Porto Alegre,Domingo,17, Maio ,2015,18:30,Internacional - RS,Avaí - SC,1,0,1,0,0,3,0
+19,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,17, Maio ,2015,11:00,Figueirense - SC,Vasco da Gama - RJ,0,0,0,0,1,1,1
+20,A,2015,Morumbi,Sao Paulo,SP,Sábado,23, Maio ,2015,18:30,São Paulo - SP,Joinville - SC,3,0,1,0,0,3,0
+21,A,2015,São Januário,Rio de Janeiro,RJ,Sábado,23, Maio ,2015,18:30,Vasco da Gama - RJ,Internacional - RS,1,1,0,0,1,1,1
+22,A,2015,Arena do Grêmio,Porto Alegre,RS,Sábado,23, Maio ,2015,21:00,Grêmio - RS,Figueirense - SC,1,0,1,0,0,3,0
+23,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,24, Maio ,2015,16:00,Fluminense - RJ,Corinthians - SP,0,0,0,0,1,1,1
+24,A,2015,Ressacada,Florianopolis,SC,Domingo,24, Maio ,2015,16:00,Avaí - SC,Flamengo - RJ,2,1,1,0,0,3,0
+25,A,2015,Arena da Baixada,Curitiba,PR,Domingo,24, Maio ,2015,16:00,Atlético - PR,Atlético - MG,1,0,1,0,0,3,0
+26,A,2015,Arena Condá,Chapeco,SC,Domingo,24, Maio ,2015,16:00,Chapecoense - SC,Santos - SP,1,0,1,0,0,3,0
+27,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,24, Maio ,2015,11:00,Palmeiras - SP,Goiás - GO,0,1,0,1,0,0,3
+28,A,2015,Mineirão,Belo Horizonte,MG,Domingo,24, Maio ,2015,18:30,Cruzeiro - MG,Ponte Preta - SP,1,1,0,0,1,1,1
+29,A,2015,Ilha do Retiro,Recife,PE,Domingo,24, Maio ,2015,18:30,Sport - PE,Coritiba - PR,1,0,1,0,0,3,0
+30,A,2015,Moisés Lucarelli,Campinas,SP,Sábado,30, Maio ,2015,18:30,Ponte Preta - SP,Chapecoense - SC,3,1,1,0,0,3,0
+31,A,2015,Couto Pereira,Curitiba,PR,Sábado,30, Maio ,2015,18:30,Coritiba - PR,Avaí - SC,1,2,0,1,0,0,3
+32,A,2015,Arena Joinville,Joinville,SC,Sábado,30, Maio ,2015,21:00,Joinville - SC,Atlético - PR,1,2,0,1,0,0,3
+33,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,31, Maio ,2015,16:00,Corinthians - SP,Palmeiras - SP,0,2,0,1,0,0,3
+34,A,2015,Beira,Rio,Porto Alegre,Domingo,31, Maio ,2015,16:00,Internacional - RS,São Paulo - SP,0,0,0,0,1,1,1
+35,A,2015,Independência,Belo Horizonte,MG,Domingo,31, Maio ,2015,16:00,Atlético - MG,Vasco da Gama - RJ,3,0,1,0,0,3,0
+36,A,2015,Serra Dourada,Goiania,GO,Domingo,31, Maio ,2015,16:00,Goiás - GO,Grêmio - RS,1,1,0,0,1,1,1
+37,A,2015,Vila Belmiro,Santos,SP,Domingo,31, Maio ,2015,11:00,Santos - SP,Sport - PE,2,2,0,0,1,1,1
+38,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,31, Maio ,2015,18:30,Flamengo - RJ,Fluminense - RJ,2,3,0,1,0,0,3
+39,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,31, Maio ,2015,18:30,Figueirense - SC,Cruzeiro - MG,2,1,1,0,0,3,0
+40,A,2015,São Januário,Rio de Janeiro,RJ,Quarta,3, Junho ,2015,19:30,Vasco da Gama - RJ,Ponte Preta - SP,0,3,0,1,0,0,3
+41,A,2015,Arena da Baixada,Curitiba,PR,Quarta,3, Junho ,2015,19:30,Atlético - PR,Figueirense - SC,1,0,1,0,0,3,0
+42,A,2015,Arena Condá,Chapeco,SC,Quarta,3, Junho ,2015,19:30,Chapecoense - SC,Joinville - SC,2,0,1,0,0,3,0
+43,A,2015,Morumbi,Sao Paulo,SP,Quarta,3, Junho ,2015,21:00,São Paulo - SP,Santos - SP,3,2,1,0,0,3,0
+44,A,2015,Arena do Grêmio,Porto Alegre,RS,Quarta,3, Junho ,2015,22:00,Grêmio - RS,Corinthians - SP,3,1,1,0,0,3,0
+45,A,2015,Mineirão,Belo Horizonte,MG,Quarta,3, Junho ,2015,22:00,Cruzeiro - MG,Flamengo - RJ,1,0,1,0,0,3,0
+46,A,2015,Ressacada,Florianopolis,SC,Quarta,3, Junho ,2015,22:00,Avaí - SC,Atlético - MG,1,4,0,1,0,0,3
+47,A,2015,Maracanã,Rio de Janeiro,RJ,Quinta,4, Junho ,2015,16:00,Fluminense - RJ,Coritiba - PR,2,0,1,0,0,3,0
+48,A,2015,Ilha do Retiro,Recife,PE,Quinta,4, Junho ,2015,21:00,Sport - PE,Goiás - GO,1,0,1,0,0,3,0
+49,A,2015,Allianz Parque,Sao Paulo,SP,Quinta,4, Junho ,2015,21:00,Palmeiras - SP,Internacional - RS,1,1,0,0,1,1,1
+50,A,2015,Vila Belmiro,Santos,SP,Sábado,6, Junho ,2015,18:30,Santos - SP,Ponte Preta - SP,2,2,0,0,1,1,1
+51,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,6, Junho ,2015,18:30,Flamengo - RJ,Chapecoense - SC,1,0,1,0,0,3,0
+52,A,2015,Independência,Belo Horizonte,MG,Sábado,6, Junho ,2015,18:30,Atlético - MG,Cruzeiro - MG,1,3,0,1,0,0,3
+53,A,2015,Morumbi,Sao Paulo,SP,Sábado,6, Junho ,2015,22:00,São Paulo - SP,Grêmio - RS,2,0,1,0,0,3,0
+54,A,2015,Arena da Baixada,Curitiba,PR,Sábado,6, Junho ,2015,22:00,Atlético - PR,Vasco da Gama - RJ,2,0,1,0,0,3,0
+55,A,2015,Arena Joinville,Joinville,SC,Sábado,6, Junho ,2015,22:00,Joinville - SC,Corinthians - SP,0,1,0,1,0,0,3
+56,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,7, Junho ,2015,19:30,Fluminense - RJ,Sport - PE,0,0,0,0,1,1,1
+57,A,2015,Beira,Rio,Porto Alegre,Domingo,7, Junho ,2015,11:00,Internacional - RS,Coritiba - PR,2,0,1,0,0,3,0
+58,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,7, Junho ,2015,19:30,Figueirense - SC,Palmeiras - SP,2,1,1,0,0,3,0
+59,A,2015,Serra Dourada,Goiania,GO,Domingo,7, Junho ,2015,19:30,Goiás - GO,Avaí - SC,0,1,0,1,0,0,3
+60,A,2015,Independência,Belo Horizonte,MG,Quarta,10, Junho ,2015,19:30,Atlético - MG,Santos - SP,2,2,0,0,1,1,1
+61,A,2015,Arena Corinthians,Sao Paulo,SP,Sábado,13, Junho ,2015,16:30,Corinthians - SP,Internacional - RS,2,1,1,0,0,3,0
+62,A,2015,Couto Pereira,Curitiba,PR,Sábado,13, Junho ,2015,16:30,Coritiba - PR,Flamengo - RJ,0,1,0,1,0,0,3
+63,A,2015,Arena Condá,Chapeco,SC,Sábado,13, Junho ,2015,16:30,Chapecoense - SC,São Paulo - SP,0,1,0,1,0,0,3
+64,A,2015,São Januário,Rio de Janeiro,RJ,Sábado,13, Junho ,2015,21:00,Vasco da Gama - RJ,Cruzeiro - MG,1,3,0,1,0,0,3
+65,A,2015,Ilha do Retiro,Recife,PE,Sábado,13, Junho ,2015,21:00,Sport - PE,Joinville - SC,2,1,1,0,0,3,0
+66,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,14, Junho ,2015,16:00,Palmeiras - SP,Fluminense - RJ,2,1,1,0,0,3,0
+67,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,14, Junho ,2015,11:00,Ponte Preta - SP,Goiás - GO,0,0,0,0,1,1,1
+68,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,14, Junho ,2015,16:00,Grêmio - RS,Atlético - PR,2,1,1,0,0,3,0
+69,A,2015,Ressacada,Florianopolis,SC,Domingo,14, Junho ,2015,16:00,Avaí - SC,Figueirense - SC,1,1,0,0,1,1,1
+70,A,2015,Orlando Scarpelli,Florianopolis,SC,Quinta,18, Junho ,2015,21:00,Figueirense - SC,Internacional - RS,0,0,0,0,1,1,1
+71,A,2015,Vila Belmiro,Santos,SP,Sábado,20, Junho ,2015,16:30,Santos - SP,Corinthians - SP,1,0,1,0,0,3,0
+72,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,20, Junho ,2015,16:30,Flamengo - RJ,Atlético - MG,0,2,0,1,0,0,3
+73,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Sábado,20, Junho ,2015,16:30,Sport - PE,Vasco da Gama - RJ,2,1,1,0,0,3,0
+74,A,2015,Arena do Grêmio,Porto Alegre,RS,Sábado,20, Junho ,2015,21:00,Grêmio - RS,Palmeiras - SP,1,0,1,0,0,3,0
+75,A,2015,Mineirão,Belo Horizonte,MG,Domingo,21, Junho ,2015,11:00,Cruzeiro - MG,Chapecoense - SC,0,1,0,1,0,0,3
+76,A,2015,Morumbi,Sao Paulo,SP,Domingo,21, Junho ,2015,16:00,São Paulo - SP,Avaí - SC,1,1,0,0,1,1,1
+77,A,2015,Arena da Baixada,Curitiba,PR,Domingo,21, Junho ,2015,16:00,Atlético - PR,Coritiba - PR,2,2,0,0,1,1,1
+78,A,2015,Arena Joinville,Joinville,SC,Domingo,21, Junho ,2015,16:00,Joinville - SC,Goiás - GO,2,1,1,0,0,3,0
+79,A,2015,Maracanã,Rio de Janeiro,RJ,Quarta,24, Junho ,2015,19:30,Fluminense - RJ,Ponte Preta - SP,2,0,1,0,0,3,0
+80,A,2015,Ressacada,Florianopolis,SC,Sábado,27, Junho ,2015,16:00,Avaí - SC,Grêmio - RS,1,2,0,1,0,0,3
+81,A,2015,Arena Condá,Chapeco,SC,Sábado,27, Junho ,2015,16:00,Chapecoense - SC,Sport - PE,1,1,0,0,1,1,1
+82,A,2015,Arena Corinthians,Sao Paulo,SP,Sábado,27, Junho ,2015,21:00,Corinthians - SP,Figueirense - SC,2,1,1,0,0,3,0
+83,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,28, Junho ,2015,16:00,Palmeiras - SP,São Paulo - SP,4,0,1,0,0,3,0
+84,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,28, Junho ,2015,16:00,Ponte Preta - SP,Atlético - PR,2,1,1,0,0,3,0
+85,A,2015,Couto Pereira,Curitiba,PR,Domingo,28, Junho ,2015,16:00,Coritiba - PR,Cruzeiro - MG,1,0,1,0,0,3,0
+86,A,2015,Serra Dourada,Goiania,GO,Domingo,28, Junho ,2015,16:00,Goiás - GO,Fluminense - RJ,1,2,0,1,0,0,3
+87,A,2015,Arena Pantanal,Cuiaba,MT,Domingo,28, Junho ,2015,18:30,Vasco da Gama - RJ,Flamengo - RJ,1,0,1,0,0,3,0
+88,A,2015,Beira,Rio,Porto Alegre,Domingo,28, Junho ,2015,18:30,Internacional - RS,Santos - SP,1,0,1,0,0,3,0
+89,A,2015,Mineirão,Belo Horizonte,MG,Domingo,28, Junho ,2015,11:00,Atlético - MG,Joinville - SC,1,0,1,0,0,3,0
+90,A,2015,São Januário,Rio de Janeiro,RJ,Quarta,1, Julho ,2015,19:30,Vasco da Gama - RJ,Avaí - SC,1,0,1,0,0,3,0
+91,A,2015,Ilha do Retiro,Recife,PE,Quarta,1, Julho ,2015,19:30,Sport - PE,Internacional - RS,3,0,1,0,0,3,0
+92,A,2015,Allianz Parque,Sao Paulo,SP,Quarta,1, Julho ,2015,21:00,Palmeiras - SP,Chapecoense - SC,2,0,1,0,0,3,0
+93,A,2015,Independência,Belo Horizonte,MG,Quarta,1, Julho ,2015,21:00,Atlético - MG,Coritiba - PR,2,0,1,0,0,3,0
+94,A,2015,Arena do Grêmio,Porto Alegre,RS,Quarta,1, Julho ,2015,22:00,Grêmio - RS,Cruzeiro - MG,1,0,1,0,0,3,0
+95,A,2015,Arena da Baixada,Curitiba,PR,Quarta,1, Julho ,2015,22:00,Atlético - PR,São Paulo - SP,2,1,1,0,0,3,0
+96,A,2015,Arena Joinville,Joinville,SC,Quarta,1, Julho ,2015,22:00,Joinville - SC,Flamengo - RJ,0,1,0,1,0,0,3
+97,A,2015,Arena Corinthians,Sao Paulo,SP,Quinta,2, Julho ,2015,19:30,Corinthians - SP,Ponte Preta - SP,2,0,1,0,0,3,0
+98,A,2015,Orlando Scarpelli,Florianopolis,SC,Quinta,2, Julho ,2015,19:30,Figueirense - SC,Goiás - GO,3,1,1,0,0,3,0
+99,A,2015,Maracanã,Rio de Janeiro,RJ,Quinta,2, Julho ,2015,21:00,Fluminense - RJ,Santos - SP,2,1,1,0,0,3,0
+100,A,2015,Couto Pereira,Curitiba,PR,Sábado,4, Julho ,2015,15:00,Coritiba - PR,Joinville - SC,0,0,0,0,1,1,1
+101,A,2015,Arena Condá,Chapeco,SC,Sábado,4, Julho ,2015,21:00,Chapecoense - SC,Vasco da Gama - RJ,1,0,1,0,0,3,0
+102,A,2015,Mineirão,Belo Horizonte,MG,Sábado,4, Julho ,2015,21:00,Cruzeiro - MG,Atlético - PR,2,0,1,0,0,3,0
+103,A,2015,Ressacada,Florianopolis,SC,Domingo,5, Julho ,2015,11:00,Avaí - SC,Sport - PE,2,2,0,0,1,1,1
+104,A,2015,Morumbi,Sao Paulo,SP,Domingo,5, Julho ,2015,16:00,São Paulo - SP,Fluminense - RJ,0,0,0,0,1,1,1
+105,A,2015,Vila Belmiro,Santos,SP,Domingo,5, Julho ,2015,16:00,Santos - SP,Grêmio - RS,1,3,0,1,0,0,3
+106,A,2015,Serra Dourada,Goiania,GO,Domingo,5, Julho ,2015,16:00,Goiás - GO,Corinthians - SP,0,0,0,0,1,1,1
+107,A,2015,Arena Pantanal,Cuiaba,MT,Domingo,5, Julho ,2015,18:30,Ponte Preta - SP,Palmeiras - SP,0,2,0,1,0,0,3
+108,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,5, Julho ,2015,18:30,Flamengo - RJ,Figueirense - SC,1,2,0,1,0,0,3
+109,A,2015,Beira,Rio,Porto Alegre,Domingo,5, Julho ,2015,18:30,Internacional - RS,Atlético - MG,1,3,0,1,0,0,3
+110,A,2015,Couto Pereira,Curitiba,PR,Quarta,8, Julho ,2015,19:30,Coritiba - PR,Ponte Preta - SP,0,0,0,0,1,1,1
+111,A,2015,Serra Dourada,Goiania,GO,Quarta,8, Julho ,2015,19:30,Goiás - GO,Santos - SP,4,1,1,0,0,3,0
+112,A,2015,Arena Condá,Chapeco,SC,Quarta,8, Julho ,2015,19:30,Chapecoense - SC,Grêmio - RS,1,0,1,0,0,3,0
+113,A,2015,Allianz Parque,Sao Paulo,SP,Quarta,8, Julho ,2015,21:00,Palmeiras - SP,Avaí - SC,3,0,1,0,0,3,0
+114,A,2015,Orlando Scarpelli,Florianopolis,SC,Quarta,8, Julho ,2015,21:00,Figueirense - SC,Joinville - SC,0,2,0,1,0,0,3
+115,A,2015,Mané Garrincha,Brasilia,DF,Quarta,8, Julho ,2015,22:00,Vasco da Gama - RJ,São Paulo - SP,0,4,0,1,0,0,3
+116,A,2015,Beira,Rio,Porto Alegre,Quarta,8, Julho ,2015,22:00,Internacional - RS,Flamengo - RJ,1,2,0,1,0,0,3
+117,A,2015,Mineirão,Belo Horizonte,MG,Quarta,8, Julho ,2015,22:00,Atlético - MG,Sport - PE,2,1,1,0,0,3,0
+118,A,2015,Arena Corinthians,Sao Paulo,SP,Quinta,9, Julho ,2015,19:30,Corinthians - SP,Atlético - PR,2,0,1,0,0,3,0
+119,A,2015,Maracanã,Rio de Janeiro,RJ,Quinta,9, Julho ,2015,21:00,Fluminense - RJ,Cruzeiro - MG,1,0,1,0,0,3,0
+120,A,2015,Vila Belmiro,Santos,SP,Sábado,11, Julho ,2015,18:30,Santos - SP,Figueirense - SC,3,0,1,0,0,3,0
+121,A,2015,Arena do Grêmio,Porto Alegre,RS,Sábado,11, Julho ,2015,18:30,Grêmio - RS,Vasco da Gama - RJ,2,0,1,0,0,3,0
+122,A,2015,Moisés Lucarelli,Campinas,SP,Sábado,11, Julho ,2015,21:00,Ponte Preta - SP,Atlético - MG,0,2,0,1,0,0,3
+123,A,2015,Morumbi,Sao Paulo,SP,Domingo,12, Julho ,2015,11:00,São Paulo - SP,Coritiba - PR,3,1,1,0,0,3,0
+124,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,12, Julho ,2015,16:00,Flamengo - RJ,Corinthians - SP,0,3,0,1,0,0,3
+125,A,2015,Mineirão,Belo Horizonte,MG,Domingo,12, Julho ,2015,16:00,Cruzeiro - MG,Goiás - GO,1,0,1,0,0,3,0
+126,A,2015,Arena da Baixada,Curitiba,PR,Domingo,12, Julho ,2015,16:00,Atlético - PR,Fluminense - RJ,1,2,0,1,0,0,3
+127,A,2015,Arena Joinville,Joinville,SC,Domingo,12, Julho ,2015,16:00,Joinville - SC,Internacional - RS,0,2,0,1,0,0,3
+128,A,2015,Ressacada,Florianopolis,SC,Domingo,12, Julho ,2015,18:30,Avaí - SC,Chapecoense - SC,2,1,1,0,0,3,0
+129,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,12, Julho ,2015,18:30,Sport - PE,Palmeiras - SP,2,2,0,0,1,1,1
+130,A,2015,Arena Corinthians,Sao Paulo,SP,Sábado,18, Julho ,2015,21:00,Corinthians - SP,Atlético - MG,1,0,1,0,0,3,0
+131,A,2015,Beira,Rio,Porto Alegre,Sábado,18, Julho ,2015,18:30,Internacional - RS,Goiás - GO,2,1,1,0,0,3,0
+132,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,18, Julho ,2015,18:30,Flamengo - RJ,Grêmio - RS,1,0,1,0,0,3,0
+133,A,2015,Arena da Baixada,Curitiba,PR,Domingo,19, Julho ,2015,11:00,Atlético - PR,Chapecoense - SC,1,0,1,0,0,3,0
+134,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,19, Julho ,2015,16:00,Palmeiras - SP,Santos - SP,1,0,1,0,0,3,0
+135,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,19, Julho ,2015,16:00,Fluminense - RJ,Vasco da Gama - RJ,1,2,0,1,0,0,3
+136,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,19, Julho ,2015,16:00,Figueirense - SC,Coritiba - PR,0,0,0,0,1,1,1
+137,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,19, Julho ,2015,16:00,Sport - PE,São Paulo - SP,2,0,1,0,0,3,0
+138,A,2015,Mineirão,Belo Horizonte,MG,Domingo,19, Julho ,2015,18:30,Cruzeiro - MG,Avaí - SC,1,1,0,0,1,1,1
+139,A,2015,Arena Joinville,Joinville,SC,Domingo,19, Julho ,2015,18:30,Joinville - SC,Ponte Preta - SP,1,1,0,0,1,1,1
+140,A,2015,Ressacada,Florianopolis,SC,Sábado,25, Julho ,2015,18:30,Avaí - SC,Atlético - PR,1,2,0,1,0,0,3
+141,A,2015,Arena do Grêmio,Porto Alegre,RS,Sábado,25, Julho ,2015,19:30,Grêmio - RS,Sport - PE,1,1,0,0,1,1,1
+142,A,2015,Independência,Belo Horizonte,MG,Sábado,25, Julho ,2015,21:00,Atlético - MG,Figueirense - SC,1,0,1,0,0,3,0
+143,A,2015,Arena Condá,Chapeco,SC,Domingo,26, Julho ,2015,11:00,Chapecoense - SC,Fluminense - RJ,2,1,1,0,0,3,0
+144,A,2015,Couto Pereira,Curitiba,PR,Domingo,26, Julho ,2015,16:00,Coritiba - PR,Corinthians - SP,1,1,0,0,1,1,1
+145,A,2015,Serra Dourada,Goiania,GO,Domingo,26, Julho ,2015,16:00,Goiás - GO,Flamengo - RJ,0,1,0,1,0,0,3
+146,A,2015,Morumbi,Sao Paulo,SP,Domingo,26, Julho ,2015,16:00,São Paulo - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+147,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,26, Julho ,2015,16:00,Ponte Preta - SP,Internacional - RS,0,0,0,0,1,1,1
+148,A,2015,Vila Belmiro,Santos,SP,Domingo,26, Julho ,2015,11:00,Santos - SP,Joinville - SC,2,0,1,0,0,3,0
+149,A,2015,São Januário,Rio de Janeiro,RJ,Domingo,26, Julho ,2015,18:30,Vasco da Gama - RJ,Palmeiras - SP,1,4,0,1,0,0,3
+150,A,2015,Arena Corinthians,Sao Paulo,SP,Quarta,29, Julho ,2015,22:00,Corinthians - SP,Vasco da Gama - RJ,3,0,1,0,0,3,0
+151,A,2015,Mineirão,Belo Horizonte,MG,Quarta,29, Julho ,2015,22:00,Atlético - MG,São Paulo - SP,3,1,1,0,0,3,0
+152,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,1, Agosto ,2015,18:30,Fluminense - RJ,Grêmio - RS,1,0,1,0,0,3,0
+153,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,2, Agosto ,2015,11:00,Palmeiras - SP,Atlético - PR,0,1,0,1,0,0,3
+154,A,2015,Couto Pereira,Curitiba,PR,Domingo,2, Agosto ,2015,11:00,Coritiba - PR,Goiás - GO,1,1,0,0,1,1,1
+155,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,2, Agosto ,2015,16:00,Flamengo - RJ,Santos - SP,2,2,0,0,1,1,1
+156,A,2015,Beira,Rio,Porto Alegre,Domingo,2, Agosto ,2015,16:00,Internacional - RS,Chapecoense - SC,0,0,0,0,1,1,1
+157,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,2, Agosto ,2015,16:00,Figueirense - SC,Ponte Preta - SP,3,1,1,0,0,3,0
+158,A,2015,Arena Joinville,Joinville,SC,Domingo,2, Agosto ,2015,16:00,Joinville - SC,Avaí - SC,2,0,1,0,0,3,0
+159,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,2, Agosto ,2015,18:30,Sport - PE,Cruzeiro - MG,0,0,0,0,1,1,1
+160,A,2015,Ressacada,Florianopolis,SC,Sábado,8, Agosto ,2015,18:30,Avaí - SC,Fluminense - RJ,1,0,1,0,0,3,0
+161,A,2015,Vila Belmiro,Santos,SP,Sábado,8, Agosto ,2015,21:00,Santos - SP,Coritiba - PR,3,0,1,0,0,3,0
+162,A,2015,Arena Condá,Chapeco,SC,Domingo,9, Agosto ,2015,18:30,Chapecoense - SC,Figueirense - SC,2,2,0,0,1,1,1
+163,A,2015,Arena da Baixada,Curitiba,PR,Domingo,9, Agosto ,2015,11:00,Atlético - PR,Sport - PE,1,1,0,0,1,1,1
+164,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,9, Agosto ,2015,11:00,Vasco da Gama - RJ,Joinville - SC,0,0,0,0,1,1,1
+165,A,2015,Morumbi,Sao Paulo,SP,Domingo,9, Agosto ,2015,16:00,São Paulo - SP,Corinthians - SP,1,1,0,0,1,1,1
+166,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,9, Agosto ,2015,16:00,Ponte Preta - SP,Flamengo - RJ,1,0,1,0,0,3,0
+167,A,2015,Mineirão,Belo Horizonte,MG,Domingo,9, Agosto ,2015,16:00,Cruzeiro - MG,Palmeiras - SP,2,1,1,0,0,3,0
+168,A,2015,Serra Dourada,Goiania,GO,Domingo,9, Agosto ,2015,16:00,Goiás - GO,Atlético - MG,0,0,0,0,1,1,1
+169,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,9, Agosto ,2015,18:30,Grêmio - RS,Internacional - RS,5,0,1,0,0,3,0
+170,A,2015,Maracanã,Rio de Janeiro,RJ,Quarta,12, Agosto ,2015,19:30,Flamengo - RJ,Atlético - PR,3,2,1,0,0,3,0
+171,A,2015,Couto Pereira,Curitiba,PR,Quarta,12, Agosto ,2015,19:30,Coritiba - PR,Palmeiras - SP,2,1,1,0,0,3,0
+172,A,2015,Serra Dourada,Goiania,GO,Quarta,12, Agosto ,2015,21:00,Goiás - GO,Chapecoense - SC,0,0,0,0,1,1,1
+173,A,2015,Vila Belmiro,Santos,SP,Quarta,12, Agosto ,2015,21:00,Santos - SP,Vasco da Gama - RJ,1,0,1,0,0,3,0
+174,A,2015,Arena Corinthians,Sao Paulo,SP,Quarta,12, Agosto ,2015,22:00,Corinthians - SP,Sport - PE,4,3,1,0,0,3,0
+175,A,2015,Beira,Rio,Porto Alegre,Quarta,12, Agosto ,2015,22:00,Internacional - RS,Fluminense - RJ,1,0,1,0,0,3,0
+176,A,2015,Orlando Scarpelli,Florianopolis,SC,Quarta,12, Agosto ,2015,22:00,Figueirense - SC,São Paulo - SP,0,2,0,1,0,0,3
+177,A,2015,Moisés Lucarelli,Campinas,SP,Quinta,13, Agosto ,2015,19:30,Ponte Preta - SP,Avaí - SC,2,0,1,0,0,3,0
+178,A,2015,Arena Joinville,Joinville,SC,Quinta,13, Agosto ,2015,21:00,Joinville - SC,Cruzeiro - MG,3,0,1,0,0,3,0
+179,A,2015,Mineirão,Belo Horizonte,MG,Quinta,13, Agosto ,2015,21:00,Atlético - MG,Grêmio - RS,0,2,0,1,0,0,3
+180,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,15, Agosto ,2015,18:30,Vasco da Gama - RJ,Coritiba - PR,0,1,0,1,0,0,3
+181,A,2015,Arena da Baixada,Curitiba,PR,Sábado,15, Agosto ,2015,18:30,Atlético - PR,Santos - SP,0,0,0,0,1,1,1
+182,A,2015,Morumbi,Sao Paulo,SP,Sábado,15, Agosto ,2015,21:00,São Paulo - SP,Goiás - GO,0,3,0,1,0,0,3
+183,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,16, Agosto ,2015,16:00,Fluminense - RJ,Figueirense - SC,2,1,1,0,0,3,0
+184,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,16, Agosto ,2015,18:30,Grêmio - RS,Joinville - SC,2,1,1,0,0,3,0
+185,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,16, Agosto ,2015,11:00,Palmeiras - SP,Flamengo - RJ,4,2,1,0,0,3,0
+186,A,2015,Mineirão,Belo Horizonte,MG,Domingo,16, Agosto ,2015,16:00,Cruzeiro - MG,Internacional - RS,0,0,0,0,1,1,1
+187,A,2015,Ressacada,Florianopolis,SC,Domingo,16, Agosto ,2015,16:00,Avaí - SC,Corinthians - SP,1,2,0,1,0,0,3
+188,A,2015,Ilha do Retiro,Recife,PE,Domingo,16, Agosto ,2015,16:00,Sport - PE,Ponte Preta - SP,1,1,0,0,1,1,1
+189,A,2015,Arena Condá,Chapeco,SC,Domingo,16, Agosto ,2015,18:30,Chapecoense - SC,Atlético - MG,2,1,1,0,0,3,0
+190,A,2015,Serra Dourada,Goiania,GO,Sábado,22, Agosto ,2015,18:30,Goiás - GO,Vasco da Gama - RJ,3,0,1,0,0,3,0
+191,A,2015,Vila Belmiro,Santos,SP,Sábado,22, Agosto ,2015,18:30,Santos - SP,Avaí - SC,5,2,1,0,0,3,0
+192,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,23, Agosto ,2015,11:00,Ponte Preta - SP,Grêmio - RS,0,0,0,0,1,1,1
+193,A,2015,Couto Pereira,Curitiba,PR,Domingo,23, Agosto ,2015,11:00,Coritiba - PR,Chapecoense - SC,1,0,1,0,0,3,0
+194,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,23, Agosto ,2015,16:00,Corinthians - SP,Cruzeiro - MG,3,0,1,0,0,3,0
+195,A,2015,Arena Joinville,Joinville,SC,Domingo,23, Agosto ,2015,16:00,Joinville - SC,Fluminense - RJ,2,1,1,0,0,3,0
+196,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,23, Agosto ,2015,16:00,Flamengo - RJ,São Paulo - SP,2,1,1,0,0,3,0
+197,A,2015,Beira,Rio,Porto Alegre,Domingo,23, Agosto ,2015,16:00,Internacional - RS,Atlético - PR,2,0,1,0,0,3,0
+198,A,2015,Independência,Belo Horizonte,MG,Domingo,23, Agosto ,2015,18:30,Atlético - MG,Palmeiras - SP,2,1,1,0,0,3,0
+199,A,2015,Orlando Scarpelli,Florianopolis,SC,Sábado,22, Agosto ,2015,21:00,Figueirense - SC,Sport - PE,2,1,1,0,0,3,0
+200,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,29, Agosto ,2015,18:30,Vasco da Gama - RJ,Figueirense - SC,0,1,0,1,0,0,3
+201,A,2015,Morumbi,Sao Paulo,SP,Sábado,29, Agosto ,2015,21:00,São Paulo - SP,Ponte Preta - SP,3,0,1,0,0,3,0
+202,A,2015,Ressacada,Florianopolis,SC,Domingo,30, Agosto ,2015,11:00,Avaí - SC,Internacional - RS,3,0,1,0,0,3,0
+203,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,30, Agosto ,2015,11:00,Grêmio - RS,Coritiba - PR,0,0,0,0,1,1,1
+204,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,30, Agosto ,2015,16:00,Fluminense - RJ,Atlético - MG,1,2,0,1,0,0,3
+205,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,30, Agosto ,2015,16:00,Sport - PE,Flamengo - RJ,0,1,0,1,0,0,3
+206,A,2015,Arena Condá,Chapeco,SC,Domingo,30, Agosto ,2015,16:00,Chapecoense - SC,Corinthians - SP,1,3,0,1,0,0,3
+207,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,30, Agosto ,2015,16:00,Palmeiras - SP,Joinville - SC,3,2,1,0,0,3,0
+208,A,2015,Mineirão,Belo Horizonte,MG,Domingo,30, Agosto ,2015,18:30,Cruzeiro - MG,Santos - SP,0,1,0,1,0,0,3
+209,A,2015,Arena da Baixada,Curitiba,PR,Domingo,30, Agosto ,2015,18:30,Atlético - PR,Goiás - GO,3,0,1,0,0,3,0
+210,A,2015,Beira,Rio,Porto Alegre,Quarta,2, Setembro ,2015,19:30,Internacional - RS,Vasco da Gama - RJ,6,0,1,0,0,3,0
+211,A,2015,Arena Joinville,Joinville,SC,Quarta,2, Setembro ,2015,19:30,Joinville - SC,São Paulo - SP,0,0,0,0,1,1,1
+212,A,2015,Arena das Dunas,Natal,RN,Quarta,2, Setembro ,2015,21:00,Flamengo - RJ,Avaí - SC,3,0,1,0,0,3,0
+213,A,2015,Independência,Belo Horizonte,MG,Quarta,2, Setembro ,2015,21:00,Atlético - MG,Atlético - PR,0,1,0,1,0,0,3
+214,A,2015,Arena Corinthians,Sao Paulo,SP,Quarta,2, Setembro ,2015,22:00,Corinthians - SP,Fluminense - RJ,2,0,1,0,0,3,0
+215,A,2015,Couto Pereira,Curitiba,PR,Quarta,2, Setembro ,2015,22:00,Coritiba - PR,Sport - PE,0,0,0,0,1,1,1
+216,A,2015,Serra Dourada,Goiania,GO,Quarta,2, Setembro ,2015,22:00,Goiás - GO,Palmeiras - SP,1,0,1,0,0,3,0
+217,A,2015,Vila Belmiro,Santos,SP,Quinta,3, Setembro ,2015,19:30,Santos - SP,Chapecoense - SC,3,1,1,0,0,3,0
+218,A,2015,Moisés Lucarelli,Campinas,SP,Quarta,2, Setembro ,2015,19:30,Ponte Preta - SP,Cruzeiro - MG,1,2,0,1,0,0,3
+219,A,2015,Orlando Scarpelli,Florianopolis,SC,Quinta,3, Setembro ,2015,21:00,Figueirense - SC,Grêmio - RS,0,2,0,1,0,0,3
+220,A,2015,Morumbi,Sao Paulo,SP,Sábado,5, Setembro ,2015,19:30,São Paulo - SP,Internacional - RS,2,0,1,0,0,3,0
+221,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,5, Setembro ,2015,19:30,Vasco da Gama - RJ,Atlético - MG,1,2,0,1,0,0,3
+222,A,2015,Arena da Baixada,Curitiba,PR,Sábado,5, Setembro ,2015,21:00,Atlético - PR,Joinville - SC,0,0,0,0,1,1,1
+223,A,2015,Mineirão,Belo Horizonte,MG,Domingo,6, Setembro ,2015,11:00,Cruzeiro - MG,Figueirense - SC,5,1,1,0,0,3,0
+224,A,2015,Arena Condá,Chapeco,SC,Domingo,6, Setembro ,2015,11:00,Chapecoense - SC,Ponte Preta - SP,0,0,0,0,1,1,1
+225,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,6, Setembro ,2015,16:00,Palmeiras - SP,Corinthians - SP,3,3,0,0,1,1,1
+226,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,6, Setembro ,2015,16:00,Fluminense - RJ,Flamengo - RJ,1,3,0,1,0,0,3
+227,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,6, Setembro ,2015,16:00,Grêmio - RS,Goiás - GO,2,1,1,0,0,3,0
+228,A,2015,Ressacada,Florianopolis,SC,Domingo,6, Setembro ,2015,16:00,Avaí - SC,Coritiba - PR,0,2,0,1,0,0,3
+229,A,2015,Ilha do Retiro,Recife,PE,Domingo,6, Setembro ,2015,18:30,Sport - PE,Santos - SP,1,1,0,0,1,1,1
+230,A,2015,Beira,Rio,Porto Alegre,Quarta,9, Setembro ,2015,19:30,Internacional - RS,Palmeiras - SP,1,0,1,0,0,3,0
+231,A,2015,Independência,Belo Horizonte,MG,Quarta,9, Setembro ,2015,19:30,Atlético - MG,Avaí - SC,2,0,1,0,0,3,0
+232,A,2015,Orlando Scarpelli,Florianopolis,SC,Quarta,9, Setembro ,2015,21:00,Figueirense - SC,Atlético - PR,1,1,0,0,1,1,1
+233,A,2015,Arena Joinville,Joinville,SC,Quinta,10, Setembro ,2015,21:00,Joinville - SC,Chapecoense - SC,0,0,0,0,1,1,1
+234,A,2015,Arena Corinthians,Sao Paulo,SP,Quarta,9, Setembro ,2015,22:00,Corinthians - SP,Grêmio - RS,1,1,0,0,1,1,1
+235,A,2015,Vila Belmiro,Santos,SP,Quarta,9, Setembro ,2015,22:00,Santos - SP,São Paulo - SP,3,0,1,0,0,3,0
+236,A,2015,Couto Pereira,Curitiba,PR,Quarta,9, Setembro ,2015,22:00,Coritiba - PR,Fluminense - RJ,1,1,0,0,1,1,1
+237,A,2015,Moisés Lucarelli,Campinas,SP,Quarta,9, Setembro ,2015,19:30,Ponte Preta - SP,Vasco da Gama - RJ,0,1,0,1,0,0,3
+238,A,2015,Serra Dourada,Goiania,GO,Quinta,10, Setembro ,2015,19:30,Goiás - GO,Sport - PE,1,0,1,0,0,3,0
+239,A,2015,Maracanã,Rio de Janeiro,RJ,Quinta,10, Setembro ,2015,21:00,Flamengo - RJ,Cruzeiro - MG,2,0,1,0,0,3,0
+240,A,2015,Couto Pereira,Curitiba,PR,Sábado,12, Setembro ,2015,18:30,Coritiba - PR,Internacional - RS,0,1,0,1,0,0,3
+241,A,2015,Allianz Parque,Sao Paulo,SP,Sábado,12, Setembro ,2015,21:00,Palmeiras - SP,Figueirense - SC,2,0,1,0,0,3,0
+242,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,13, Setembro ,2015,11:00,Corinthians - SP,Joinville - SC,3,0,1,0,0,3,0
+243,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,13, Setembro ,2015,11:00,Ponte Preta - SP,Santos - SP,3,1,1,0,0,3,0
+244,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,13, Setembro ,2015,16:00,Vasco da Gama - RJ,Atlético - PR,2,0,1,0,0,3,0
+245,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,13, Setembro ,2015,16:00,Grêmio - RS,São Paulo - SP,1,2,0,1,0,0,3
+246,A,2015,Mineirão,Belo Horizonte,MG,Domingo,13, Setembro ,2015,16:00,Cruzeiro - MG,Atlético - MG,1,1,0,0,1,1,1
+247,A,2015,Arena Condá,Chapeco,SC,Domingo,13, Setembro ,2015,16:00,Chapecoense - SC,Flamengo - RJ,1,3,0,1,0,0,3
+248,A,2015,Ressacada,Florianopolis,SC,Domingo,13, Setembro ,2015,18:30,Avaí - SC,Goiás - GO,2,1,1,0,0,3,0
+249,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,13, Setembro ,2015,18:30,Sport - PE,Fluminense - RJ,1,0,1,0,0,3,0
+250,A,2015,Maracanã,Rio de Janeiro,RJ,Quarta,16, Setembro ,2015,19:30,Fluminense - RJ,Palmeiras - SP,1,4,0,1,0,0,3
+251,A,2015,Arena Joinville,Joinville,SC,Quarta,16, Setembro ,2015,19:30,Joinville - SC,Sport - PE,1,1,0,0,1,1,1
+252,A,2015,Orlando Scarpelli,Florianopolis,SC,Quarta,16, Setembro ,2015,21:00,Figueirense - SC,Avaí - SC,0,1,0,1,0,0,3
+253,A,2015,Couto Pereira,Curitiba,PR,Quarta,16, Setembro ,2015,21:00,Atlético - PR,Grêmio - RS,1,2,0,1,0,0,3
+254,A,2015,Vila Belmiro,Santos,SP,Quarta,16, Setembro ,2015,22:00,Santos - SP,Atlético - MG,4,0,1,0,0,3,0
+255,A,2015,Beira,Rio,Porto Alegre,Quarta,16, Setembro ,2015,22:00,Internacional - RS,Corinthians - SP,2,1,1,0,0,3,0
+256,A,2015,Mineirão,Belo Horizonte,MG,Quarta,16, Setembro ,2015,22:00,Cruzeiro - MG,Vasco da Gama - RJ,2,2,0,0,1,1,1
+257,A,2015,Morumbi,Sao Paulo,SP,Quinta,17, Setembro ,2015,19:30,São Paulo - SP,Chapecoense - SC,0,0,0,0,1,1,1
+258,A,2015,Serra Dourada,Goiania,GO,Quarta,16, Setembro ,2015,19:30,Goiás - GO,Ponte Preta - SP,1,2,0,1,0,0,3
+259,A,2015,Mané Garrincha,Brasilia,DF,Quinta,17, Setembro ,2015,21:00,Flamengo - RJ,Coritiba - PR,0,2,0,1,0,0,3
+260,A,2015,Pacaembu,Sao Paulo,SP,Sábado,19, Setembro ,2015,18:30,Palmeiras - SP,Grêmio - RS,3,2,1,0,0,3,0
+261,A,2015,Moisés Lucarelli,Campinas,SP,Sábado,19, Setembro ,2015,21:00,Ponte Preta - SP,Fluminense - RJ,3,1,1,0,0,3,0
+262,A,2015,Beira,Rio,Porto Alegre,Sábado,19, Setembro ,2015,18:30,Internacional - RS,Figueirense - SC,1,1,0,0,1,1,1
+263,A,2015,Couto Pereira,Curitiba,PR,Domingo,20, Setembro ,2015,18:30,Coritiba - PR,Atlético - PR,2,0,1,0,0,3,0
+264,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,20, Setembro ,2015,11:00,Corinthians - SP,Santos - SP,2,0,1,0,0,3,0
+265,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,20, Setembro ,2015,16:00,Vasco da Gama - RJ,Sport - PE,2,1,1,0,0,3,0
+266,A,2015,Independência,Belo Horizonte,MG,Domingo,20, Setembro ,2015,16:00,Atlético - MG,Flamengo - RJ,4,1,1,0,0,3,0
+267,A,2015,Ressacada,Florianopolis,SC,Domingo,20, Setembro ,2015,16:00,Avaí - SC,São Paulo - SP,2,1,1,0,0,3,0
+268,A,2015,Serra Dourada,Goiania,GO,Domingo,20, Setembro ,2015,11:00,Goiás - GO,Joinville - SC,3,0,1,0,0,3,0
+269,A,2015,Arena Condá,Chapeco,SC,Domingo,20, Setembro ,2015,18:30,Chapecoense - SC,Cruzeiro - MG,0,2,0,1,0,0,3
+270,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,26, Setembro ,2015,18:30,Fluminense - RJ,Goiás - GO,2,0,1,0,0,3,0
+271,A,2015,Arena do Grêmio,Porto Alegre,RS,Sábado,26, Setembro ,2015,21:00,Grêmio - RS,Avaí - SC,3,1,1,0,0,3,0
+272,A,2015,Vila Belmiro,Santos,SP,Domingo,27, Setembro ,2015,11:00,Santos - SP,Internacional - RS,3,1,1,0,0,3,0
+273,A,2015,Arena da Baixada,Curitiba,PR,Domingo,27, Setembro ,2015,11:00,Atlético - PR,Ponte Preta - SP,1,2,0,1,0,0,3
+274,A,2015,Morumbi,Sao Paulo,SP,Domingo,27, Setembro ,2015,16:00,São Paulo - SP,Palmeiras - SP,1,1,0,0,1,1,1
+275,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,27, Setembro ,2015,16:00,Flamengo - RJ,Vasco da Gama - RJ,1,2,0,1,0,0,3
+276,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,27, Setembro ,2015,16:00,Figueirense - SC,Corinthians - SP,1,3,0,1,0,0,3
+277,A,2015,Arena Joinville,Joinville,SC,Domingo,27, Setembro ,2015,16:00,Joinville - SC,Atlético - MG,2,2,0,0,1,1,1
+278,A,2015,Ilha do Retiro,Recife,PE,Domingo,27, Setembro ,2015,18:30,Sport - PE,Chapecoense - SC,3,0,1,0,0,3,0
+279,A,2015,Mineirão,Belo Horizonte,MG,Domingo,27, Setembro ,2015,18:30,Cruzeiro - MG,Coritiba - PR,2,0,1,0,0,3,0
+280,A,2015,Couto Pereira,Curitiba,PR,Sábado,3, Outubro ,2015,18:30,Coritiba - PR,Atlético - MG,0,3,0,1,0,0,3
+281,A,2015,Beira,Rio,Porto Alegre,Sábado,3, Outubro ,2015,18:30,Internacional - RS,Sport - PE,2,1,1,0,0,3,0
+282,A,2015,Morumbi,Sao Paulo,SP,Sábado,3, Outubro ,2015,21:00,São Paulo - SP,Atlético - PR,1,0,1,0,0,3,0
+283,A,2015,Ressacada,Florianopolis,SC,Domingo,4, Outubro ,2015,11:00,Avaí - SC,Vasco da Gama - RJ,1,1,0,0,1,1,1
+284,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,4, Outubro ,2015,11:00,Flamengo - RJ,Joinville - SC,2,0,1,0,0,3,0
+285,A,2015,Vila Belmiro,Santos,SP,Domingo,4, Outubro ,2015,16:00,Santos - SP,Fluminense - RJ,3,1,1,0,0,3,0
+286,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,4, Outubro ,2015,16:00,Ponte Preta - SP,Corinthians - SP,2,2,0,0,1,1,1
+287,A,2015,Mineirão,Belo Horizonte,MG,Domingo,4, Outubro ,2015,16:00,Cruzeiro - MG,Grêmio - RS,0,0,0,0,1,1,1
+288,A,2015,Serra Dourada,Goiania,GO,Domingo,4, Outubro ,2015,16:00,Goiás - GO,Figueirense - SC,2,3,0,1,0,0,3
+289,A,2015,Arena Condá,Chapeco,SC,Domingo,4, Outubro ,2015,18:30,Chapecoense - SC,Palmeiras - SP,5,1,1,0,0,3,0
+290,A,2015,Arena da Baixada,Curitiba,PR,Quarta,14, Outubro ,2015,22:00,Atlético - PR,Cruzeiro - MG,2,2,0,0,1,1,1
+291,A,2015,Ilha do Retiro,Recife,PE,Quarta,14, Outubro ,2015,19:30,Sport - PE,Avaí - SC,3,0,1,0,0,3,0
+292,A,2015,Allianz Parque,Sao Paulo,SP,Quarta,14, Outubro ,2015,21:00,Palmeiras - SP,Ponte Preta - SP,0,1,0,1,0,0,3
+293,A,2015,Arena Joinville,Joinville,SC,Quarta,14, Outubro ,2015,21:00,Joinville - SC,Coritiba - PR,3,1,1,0,0,3,0
+294,A,2015,Maracanã,Rio de Janeiro,RJ,Quarta,14, Outubro ,2015,22:00,Fluminense - RJ,São Paulo - SP,2,0,1,0,0,3,0
+295,A,2015,Independência,Belo Horizonte,MG,Quarta,14, Outubro ,2015,19:30,Atlético - MG,Internacional - RS,2,1,1,0,0,3,0
+296,A,2015,Orlando Scarpelli,Florianopolis,SC,Quarta,14, Outubro ,2015,21:00,Figueirense - SC,Flamengo - RJ,3,0,1,0,0,3,0
+297,A,2015,Arena Corinthians,Sao Paulo,SP,Quinta,15, Outubro ,2015,19:30,Corinthians - SP,Goiás - GO,3,0,1,0,0,3,0
+298,A,2015,Maracanã,Rio de Janeiro,RJ,Quinta,15, Outubro ,2015,19:30,Vasco da Gama - RJ,Chapecoense - SC,1,1,0,0,1,1,1
+299,A,2015,Arena do Grêmio,Porto Alegre,RS,Quinta,15, Outubro ,2015,21:00,Grêmio - RS,Santos - SP,1,0,1,0,0,3,0
+300,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,18, Outubro ,2015,16:00,Flamengo - RJ,Internacional - RS,0,1,0,1,0,0,3
+301,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,18, Outubro ,2015,11:00,Ponte Preta - SP,Coritiba - PR,3,0,1,0,0,3,0
+302,A,2015,Arena Joinville,Joinville,SC,Sábado,17, Outubro ,2015,21:00,Joinville - SC,Figueirense - SC,1,0,1,0,0,3,0
+303,A,2015,Vila Belmiro,Santos,SP,Domingo,18, Outubro ,2015,17:00,Santos - SP,Goiás - GO,3,1,1,0,0,3,0
+304,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,18, Outubro ,2015,17:00,Grêmio - RS,Chapecoense - SC,2,3,0,1,0,0,3
+305,A,2015,Mineirão,Belo Horizonte,MG,Domingo,18, Outubro ,2015,11:00,Cruzeiro - MG,Fluminense - RJ,2,0,1,0,0,3,0
+306,A,2015,Arena da Baixada,Curitiba,PR,Domingo,18, Outubro ,2015,16:00,Atlético - PR,Corinthians - SP,1,4,0,1,0,0,3
+307,A,2015,Ilha do Retiro,Recife,PE,Domingo,18, Outubro ,2015,18:30,Sport - PE,Atlético - MG,4,1,1,0,0,3,0
+308,A,2015,Morumbi,Sao Paulo,SP,Domingo,18, Outubro ,2015,16:00,São Paulo - SP,Vasco da Gama - RJ,2,2,0,0,1,1,1
+309,A,2015,Ressacada,Florianopolis,SC,Sábado,17, Outubro ,2015,18:30,Avaí - SC,Palmeiras - SP,1,3,0,1,0,0,3
+310,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,24, Outubro ,2015,17:00,Fluminense - RJ,Atlético - PR,0,1,0,1,0,0,3
+311,A,2015,Orlando Scarpelli,Florianopolis,SC,Sábado,24, Outubro ,2015,18:30,Figueirense - SC,Santos - SP,0,0,0,0,1,1,1
+312,A,2015,Beira,Rio,Porto Alegre,Sábado,24, Outubro ,2015,18:30,Internacional - RS,Joinville - SC,1,0,1,0,0,3,0
+313,A,2015,Pacaembu,Sao Paulo,SP,Sábado,24, Outubro ,2015,21:00,Palmeiras - SP,Sport - PE,0,2,0,1,0,0,3
+314,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,25, Outubro ,2015,17:00,Corinthians - SP,Flamengo - RJ,1,0,1,0,0,3,0
+315,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,25, Outubro ,2015,17:00,Vasco da Gama - RJ,Grêmio - RS,0,0,0,0,1,1,1
+316,A,2015,Couto Pereira,Curitiba,PR,Domingo,25, Outubro ,2015,17:00,Coritiba - PR,São Paulo - SP,1,2,0,1,0,0,3
+317,A,2015,Arena Condá,Chapeco,SC,Domingo,25, Outubro ,2015,17:00,Chapecoense - SC,Avaí - SC,0,0,0,0,1,1,1
+318,A,2015,Serra Dourada,Goiania,GO,Domingo,25, Outubro ,2015,18:00,Goiás - GO,Cruzeiro - MG,0,1,0,1,0,0,3
+319,A,2015,Independência,Belo Horizonte,MG,Domingo,25, Outubro ,2015,19:30,Atlético - MG,Ponte Preta - SP,2,1,1,0,0,3,0
+320,A,2015,Morumbi,Sao Paulo,SP,Sábado,31, Outubro ,2015,17:00,São Paulo - SP,Sport - PE,3,0,1,0,0,3,0
+321,A,2015,Ressacada,Florianopolis,SC,Sábado,31, Outubro ,2015,19:30,Avaí - SC,Cruzeiro - MG,1,1,0,0,1,1,1
+322,A,2015,Moisés Lucarelli,Campinas,SP,Sábado,31, Outubro ,2015,19:30,Ponte Preta - SP,Joinville - SC,1,0,1,0,0,3,0
+323,A,2015,Couto Pereira,Curitiba,PR,Sábado,31, Outubro ,2015,21:00,Coritiba - PR,Figueirense - SC,1,1,0,0,1,1,1
+324,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,1, Novembro ,2015,17:00,Grêmio - RS,Flamengo - RJ,2,0,1,0,0,3,0
+325,A,2015,Independência,Belo Horizonte,MG,Domingo,1, Novembro ,2015,17:00,Atlético - MG,Corinthians - SP,0,3,0,1,0,0,3
+326,A,2015,Vila Belmiro,Santos,SP,Domingo,1, Novembro ,2015,17:00,Santos - SP,Palmeiras - SP,2,1,1,0,0,3,0
+327,A,2015,Arena Condá,Chapeco,SC,Domingo,1, Novembro ,2015,17:00,Chapecoense - SC,Atlético - PR,0,0,0,0,1,1,1
+328,A,2015,Nilton Santos,Rio de Janeiro,RJ,Domingo,1, Novembro ,2015,18:00,Vasco da Gama - RJ,Fluminense - RJ,0,1,0,1,0,0,3
+329,A,2015,Serra Dourada,Goiania,GO,Domingo,1, Novembro ,2015,19:30,Goiás - GO,Internacional - RS,2,1,1,0,0,3,0
+330,A,2015,Beira,Rio,Porto Alegre,Sábado,7, Novembro ,2015,17:00,Internacional - RS,Ponte Preta - SP,1,0,1,0,0,3,0
+331,A,2015,Arena Corinthians,Sao Paulo,SP,Sábado,7, Novembro ,2015,19:30,Corinthians - SP,Coritiba - PR,2,1,1,0,0,3,0
+332,A,2015,Arena da Baixada,Curitiba,PR,Sábado,7, Novembro ,2015,19:30,Atlético - PR,Avaí - SC,2,1,1,0,0,3,0
+333,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,7, Novembro ,2015,21:00,Fluminense - RJ,Chapecoense - SC,2,3,0,1,0,0,3
+334,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,8, Novembro ,2015,17:00,Palmeiras - SP,Vasco da Gama - RJ,0,2,0,1,0,0,3
+335,A,2015,Mineirão,Belo Horizonte,MG,Domingo,8, Novembro ,2015,17:00,Cruzeiro - MG,São Paulo - SP,2,1,1,0,0,3,0
+336,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,8, Novembro ,2015,17:00,Figueirense - SC,Atlético - MG,0,1,0,1,0,0,3
+337,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,8, Novembro ,2015,17:00,Flamengo - RJ,Goiás - GO,4,1,1,0,0,3,0
+338,A,2015,Ilha do Retiro,Recife,PE,Domingo,8, Novembro ,2015,19:30,Sport - PE,Grêmio - RS,1,0,1,0,0,3,0
+339,A,2015,Arena Joinville,Joinville,SC,Domingo,8, Novembro ,2015,18:00,Joinville - SC,Santos - SP,0,0,0,0,1,1,1
+340,A,2015,Mineirão,Belo Horizonte,MG,Domingo,15, Novembro ,2015,17:00,Cruzeiro - MG,Sport - PE,3,0,1,0,0,3,0
+341,A,2015,Arena da Baixada,Curitiba,PR,Quarta,18, Novembro ,2015,21:00,Atlético - PR,Palmeiras - SP,3,3,0,0,1,1,1
+342,A,2015,Serra Dourada,Goiania,GO,Quarta,18, Novembro ,2015,19:30,Goiás - GO,Coritiba - PR,1,3,0,1,0,0,3
+343,A,2015,Moisés Lucarelli,Campinas,SP,Quarta,18, Novembro ,2015,21:00,Ponte Preta - SP,Figueirense - SC,0,1,0,1,0,0,3
+344,A,2015,Ressacada,Florianopolis,SC,Quarta,18, Novembro ,2015,21:00,Avaí - SC,Joinville - SC,2,1,1,0,0,3,0
+345,A,2015,Morumbi,Sao Paulo,SP,Quinta,19, Novembro ,2015,22:00,São Paulo - SP,Atlético - MG,4,2,1,0,0,3,0
+346,A,2015,Vila Belmiro,Santos,SP,Quinta,19, Novembro ,2015,22:00,Santos - SP,Flamengo - RJ,0,0,0,0,1,1,1
+347,A,2015,São Januário,Rio de Janeiro,RJ,Quinta,19, Novembro ,2015,22:00,Vasco da Gama - RJ,Corinthians - SP,1,1,0,0,1,1,1
+348,A,2015,Arena Condá,Chapeco,SC,Quinta,19, Novembro ,2015,19:30,Chapecoense - SC,Internacional - RS,1,0,1,0,0,3,0
+349,A,2015,Arena do Grêmio,Porto Alegre,RS,Quinta,19, Novembro ,2015,19:30,Grêmio - RS,Fluminense - RJ,1,0,1,0,0,3,0
+350,A,2015,Allianz Parque,Sao Paulo,SP,Sábado,21, Novembro ,2015,19:30,Palmeiras - SP,Cruzeiro - MG,1,1,0,0,1,1,1
+351,A,2015,Arena Joinville,Joinville,SC,Domingo,22, Novembro ,2015,17:00,Joinville - SC,Vasco da Gama - RJ,1,2,0,1,0,0,3
+352,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,22, Novembro ,2015,17:00,Corinthians - SP,São Paulo - SP,6,1,1,0,0,3,0
+353,A,2015,Beira,Rio,Porto Alegre,Domingo,22, Novembro ,2015,17:00,Internacional - RS,Grêmio - RS,1,0,1,0,0,3,0
+354,A,2015,Independência,Belo Horizonte,MG,Domingo,22, Novembro ,2015,17:00,Atlético - MG,Goiás - GO,2,2,0,0,1,1,1
+355,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,22, Novembro ,2015,17:00,Figueirense - SC,Chapecoense - SC,0,0,0,0,1,1,1
+356,A,2015,Mané Garrincha,Brasilia,DF,Domingo,22, Novembro ,2015,18:00,Flamengo - RJ,Ponte Preta - SP,1,1,0,0,1,1,1
+357,A,2015,Ilha do Retiro,Recife,PE,Domingo,22, Novembro ,2015,19:30,Sport - PE,Atlético - PR,0,0,0,0,1,1,1
+358,A,2015,Kleber Andrade,Cariacica,ES,Domingo,22, Novembro ,2015,19:30,Fluminense - RJ,Avaí - SC,3,1,1,0,0,3,0
+359,A,2015,Couto Pereira,Curitiba,PR,Domingo,22, Novembro ,2015,19:30,Coritiba - PR,Santos - SP,1,0,1,0,0,3,0
+360,A,2015,Morumbi,Sao Paulo,SP,Sábado,28, Novembro ,2015,17:00,São Paulo - SP,Figueirense - SC,3,2,1,0,0,3,0
+361,A,2015,Maracanã,Rio de Janeiro,RJ,Sábado,28, Novembro ,2015,19:30,Fluminense - RJ,Internacional - RS,1,1,0,0,1,1,1
+362,A,2015,Ressacada,Florianopolis,SC,Sábado,28, Novembro ,2015,21:00,Avaí - SC,Ponte Preta - SP,1,0,1,0,0,3,0
+363,A,2015,Arena Pernambuco,Sao Lourenco da Mata,PE,Domingo,29, Novembro ,2015,17:00,Sport - PE,Corinthians - SP,2,0,1,0,0,3,0
+364,A,2015,Arena do Grêmio,Porto Alegre,RS,Domingo,29, Novembro ,2015,17:00,Grêmio - RS,Atlético - MG,2,1,1,0,0,3,0
+365,A,2015,Mineirão,Belo Horizonte,MG,Domingo,29, Novembro ,2015,17:00,Cruzeiro - MG,Joinville - SC,3,0,1,0,0,3,0
+366,A,2015,São Januário,Rio de Janeiro,RJ,Domingo,29, Novembro ,2015,17:00,Vasco da Gama - RJ,Santos - SP,1,0,1,0,0,3,0
+367,A,2015,Allianz Parque,Sao Paulo,SP,Domingo,29, Novembro ,2015,18:00,Palmeiras - SP,Coritiba - PR,0,2,0,1,0,0,3
+368,A,2015,Arena Condá,Chapeco,SC,Domingo,29, Novembro ,2015,18:00,Chapecoense - SC,Goiás - GO,1,3,0,1,0,0,3
+369,A,2015,Arena da Baixada,Curitiba,PR,Domingo,29, Novembro ,2015,19:30,Atlético - PR,Flamengo - RJ,3,0,1,0,0,3,0
+370,A,2015,Arena Corinthians,Sao Paulo,SP,Domingo,6, Dezembro ,2015,17:00,Corinthians - SP,Avaí - SC,1,1,0,0,1,1,1
+371,A,2015,Vila Belmiro,Santos,SP,Domingo,6, Dezembro ,2015,17:00,Santos - SP,Atlético - PR,5,1,1,0,0,3,0
+372,A,2015,Moisés Lucarelli,Campinas,SP,Domingo,6, Dezembro ,2015,17:00,Ponte Preta - SP,Sport - PE,0,1,0,1,0,0,3
+373,A,2015,Maracanã,Rio de Janeiro,RJ,Domingo,6, Dezembro ,2015,17:00,Flamengo - RJ,Palmeiras - SP,1,2,0,1,0,0,3
+374,A,2015,Beira,Rio,Porto Alegre,Domingo,6, Dezembro ,2015,17:00,Internacional - RS,Cruzeiro - MG,2,0,1,0,0,3,0
+375,A,2015,Mineirão,Belo Horizonte,MG,Domingo,6, Dezembro ,2015,17:00,Atlético - MG,Chapecoense - SC,3,0,1,0,0,3,0
+376,A,2015,Orlando Scarpelli,Florianopolis,SC,Domingo,6, Dezembro ,2015,17:00,Figueirense - SC,Fluminense - RJ,1,0,1,0,0,3,0
+377,A,2015,Couto Pereira,Curitiba,PR,Domingo,6, Dezembro ,2015,17:00,Coritiba - PR,Vasco da Gama - RJ,0,0,0,0,1,1,1
+378,A,2015,Serra Dourada,Goiania,GO,Domingo,6, Dezembro ,2015,17:00,Goiás - GO,São Paulo - SP,0,1,0,1,0,0,3
+379,A,2015,Arena Joinville,Joinville,SC,Domingo,6, Dezembro ,2015,17:00,Joinville - SC,Grêmio - RS,0,2,0,1,0,0,3

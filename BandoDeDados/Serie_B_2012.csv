@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,18, Maio ,2012,21:00,Ceará - CE,América - MG,1,2,0,1,0,0,3
+1,B,2012,Nazarenão,Goianinha,RN,Sábado,19, Maio ,2012,16:20,América - RN,Goiás - GO,5,2,1,0,0,3,0
+2,B,2012,Rei Pelé,Maceio,AL,Sexta,18, Maio ,2012,21:00,C.r.b. - AL,Bragantino - SP,0,2,0,1,0,0,3
+3,B,2012,Durival Britto,Curitiba,PR,Sábado,19, Maio ,2012,16:20,Paraná - PR,Guarani - SP,1,1,0,0,1,1,1
+4,B,2012,Dilzon Melo,Varginha,MG,Sábado,19, Maio ,2012,16:20,Boa - MG,Avaí - SC,2,2,0,0,1,1,1
+5,B,2012,Arena Barueri,Barueri,SP,Sábado,19, Maio ,2012,16:20,Grêmio Barueri - SP,Vitória - BA,0,1,0,1,0,0,3
+6,B,2012,Arena Joinville,Joinville,SC,Sábado,19, Maio ,2012,16:20,Joinville - SC,Atlético - PR,1,4,0,1,0,0,3
+7,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,19, Maio ,2012,16:20,Criciuma - SC,Guaratinguetá - SP,4,1,1,0,0,3,0
+8,B,2012,João Lamego,Ipatinga,MG,Sexta,18, Maio ,2012,21:00,Betim - MG,A.b.c. - RN,1,1,0,0,1,1,1
+9,B,2012,Serra Dourada,Goiania,GO,Terça,5, Junho ,2012,21:00,Goiás - GO,Paraná - PR,2,0,1,0,0,3,0
+10,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,19, Maio ,2012,21:00,São Caetano - SP,A.s.a. - AL,0,1,0,1,0,0,3
+11,B,2012,Ressacada,Florianopolis,SC,Terça,22, Maio ,2012,21:00,Avaí - SC,São Caetano - SP,1,0,1,0,0,3,0
+12,B,2012,Manoel Barradas,Salvador,BA,Terça,5, Junho ,2012,21:00,Vitória - BA,América - RN,2,2,0,0,1,1,1
+13,B,2012,Fernando Charub Farah,Paranagua,PR,Terça,10, Julho ,2012,21:00,Atlético - PR,Betim - MG,1,0,1,0,0,3,0
+14,B,2012,Brinco de Ouro,Campinas,SP,Sexta,25, Maio ,2012,21:00,Guarani - SP,Boa - MG,0,0,0,0,1,1,1
+15,B,2012,Frasqueirão,Natal,RN,Sexta,25, Maio ,2012,21:00,A.b.c. - RN,Joinville - SC,0,0,0,0,1,1,1
+16,B,2012,Dario Leite,Guaratingueta,SP,Sábado,26, Maio ,2012,16:20,Guaratinguetá - SP,Ceará - CE,2,1,1,0,0,3,0
+17,B,2012,Independência,Belo Horizonte,MG,Sábado,26, Maio ,2012,16:20,América - MG,C.r.b. - AL,4,0,1,0,0,3,0
+18,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,26, Maio ,2012,16:20,Bragantino - SP,Criciuma - SC,3,4,0,1,0,0,3
+19,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,26, Maio ,2012,21:00,A.s.a. - AL,Grêmio Barueri - SP,1,1,0,0,1,1,1
+20,B,2012,Arena Joinville,Joinville,SC,Terça,29, Maio ,2012,19:30,Joinville - SC,Guarani - SP,1,0,1,0,0,3,0
+21,B,2012,Nazarenão,Goianinha,RN,Terça,29, Maio ,2012,19:30,América - RN,Avaí - SC,1,0,1,0,0,3,0
+22,B,2012,Heriberto Hulse,Criciuma,SC,Terça,29, Maio ,2012,21:50,Criciuma - SC,Vitória - BA,3,2,1,0,0,3,0
+23,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,29, Maio ,2012,19:30,São Caetano - SP,Bragantino - SP,2,0,1,0,0,3,0
+24,B,2012,Rei Pelé,Maceio,AL,Terça,29, Maio ,2012,19:30,C.r.b. - AL,Guaratinguetá - SP,3,4,0,1,0,0,3
+25,B,2012,Dilzon Melo,Varginha,MG,Terça,29, Maio ,2012,21:50,Boa - MG,Atlético - PR,1,1,0,0,1,1,1
+26,B,2012,Presidente Vargas/CE,Fortaleza,CE,Terça,29, Maio ,2012,19:30,Ceará - CE,Goiás - GO,2,2,0,0,1,1,1
+27,B,2012,Arena Barueri,Barueri,SP,Terça,29, Maio ,2012,21:50,Grêmio Barueri - SP,A.b.c. - RN,0,3,0,1,0,0,3
+28,B,2012,João Lamego,Ipatinga,MG,Terça,29, Maio ,2012,21:50,Betim - MG,A.s.a. - AL,1,0,1,0,0,3,0
+29,B,2012,Durival Britto,Curitiba,PR,Terça,29, Maio ,2012,21:50,Paraná - PR,América - MG,1,1,0,0,1,1,1
+30,B,2012,Manoel Barradas,Salvador,BA,Sábado,2, Junho ,2012,16:20,Vitória - BA,Betim - MG,4,0,1,0,0,3,0
+31,B,2012,Dario Leite,Guaratingueta,SP,Sexta,1, Junho ,2012,21:00,Guaratinguetá - SP,América - RN,0,2,0,1,0,0,3
+32,B,2012,Durival Britto,Curitiba,PR,Sexta,1, Junho ,2012,21:00,Atlético - PR,Grêmio Barueri - SP,3,0,1,0,0,3,0
+33,B,2012,Serra Dourada,Goiania,GO,Sexta,1, Junho ,2012,21:00,Goiás - GO,C.r.b. - AL,1,0,1,0,0,3,0
+34,B,2012,Ressacada,Florianopolis,SC,Sábado,2, Junho ,2012,16:20,Avaí - SC,Joinville - SC,1,2,0,1,0,0,3
+35,B,2012,Brinco de Ouro,Campinas,SP,Sábado,2, Junho ,2012,16:20,Guarani - SP,Ceará - CE,4,1,1,0,0,3,0
+36,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,2, Junho ,2012,21:00,Bragantino - SP,Paraná - PR,3,3,0,0,1,1,1
+37,B,2012,Independência,Belo Horizonte,MG,Sábado,2, Junho ,2012,16:20,América - MG,Criciuma - SC,3,0,1,0,0,3,0
+38,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,2, Junho ,2012,16:20,A.s.a. - AL,Boa - MG,3,2,1,0,0,3,0
+39,B,2012,Frasqueirão,Natal,RN,Sábado,2, Junho ,2012,16:20,A.b.c. - RN,São Caetano - SP,0,1,0,1,0,0,3
+40,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,5, Junho ,2012,21:00,São Caetano - SP,América - MG,1,1,0,0,1,1,1
+41,B,2012,Arena Joinville,Joinville,SC,Terça,5, Junho ,2012,21:00,Joinville - SC,A.s.a. - AL,1,0,1,0,0,3,0
+42,B,2012,Durival Britto,Curitiba,PR,Sábado,9, Junho ,2012,16:20,Paraná - PR,Guaratinguetá - SP,3,2,1,0,0,3,0
+43,B,2012,Dilzon Melo,Varginha,MG,Sexta,8, Junho ,2012,21:00,Boa - MG,Vitória - BA,1,2,0,1,0,0,3
+44,B,2012,João Lamego,Ipatinga,MG,Sexta,8, Junho ,2012,21:00,Betim - MG,Avaí - SC,1,2,0,1,0,0,3
+45,B,2012,Nazarenão,Goianinha,RN,Sexta,8, Junho ,2012,21:00,América - RN,Bragantino - SP,2,1,1,0,0,3,0
+46,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,9, Junho ,2012,16:20,Criciuma - SC,Goiás - GO,3,0,1,0,0,3,0
+47,B,2012,Arena Barueri,Barueri,SP,Sábado,9, Junho ,2012,16:20,Grêmio Barueri - SP,Guarani - SP,2,2,0,0,1,1,1
+48,B,2012,Rei Pelé,Maceio,AL,Sábado,9, Junho ,2012,16:20,C.r.b. - AL,Atlético - PR,2,0,1,0,0,3,0
+49,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,9, Junho ,2012,21:00,Ceará - CE,A.b.c. - RN,4,2,1,0,0,3,0
+50,B,2012,Manoel Barradas,Salvador,BA,Terça,12, Junho ,2012,21:00,Vitória - BA,Guarani - SP,1,0,1,0,0,3,0
+51,B,2012,Arena Barueri,Barueri,SP,Terça,12, Junho ,2012,21:00,Grêmio Barueri - SP,Paraná - PR,1,2,0,1,0,0,3
+52,B,2012,João Lamego,Ipatinga,MG,Terça,12, Junho ,2012,21:00,Betim - MG,Boa - MG,1,2,0,1,0,0,3
+53,B,2012,Ressacada,Florianopolis,SC,Sexta,15, Junho ,2012,21:00,Avaí - SC,América - MG,2,0,1,0,0,3,0
+54,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,15, Junho ,2012,21:00,São Caetano - SP,América - RN,3,2,1,0,0,3,0
+55,B,2012,Arena Joinville,Joinville,SC,Sábado,16, Junho ,2012,16:20,Joinville - SC,Ceará - CE,1,1,0,0,1,1,1
+56,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,16, Junho ,2012,16:20,Atlético - PR,Goiás - GO,0,0,0,0,1,1,1
+57,B,2012,Frasqueirão,Natal,RN,Sábado,16, Junho ,2012,16:20,A.b.c. - RN,C.r.b. - AL,4,2,1,0,0,3,0
+58,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,16, Junho ,2012,16:20,Bragantino - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+59,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,16, Junho ,2012,21:00,A.s.a. - AL,Criciuma - SC,1,2,0,1,0,0,3
+60,B,2012,Independência,Belo Horizonte,MG,Terça,19, Junho ,2012,21:00,América - MG,Bragantino - SP,3,2,1,0,0,3,0
+61,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,23, Junho ,2012,16:20,Criciuma - SC,Betim - MG,3,2,1,0,0,3,0
+62,B,2012,Brinco de Ouro,Campinas,SP,Sábado,23, Junho ,2012,16:20,Guarani - SP,A.b.c. - RN,1,1,0,0,1,1,1
+63,B,2012,Dario Leite,Guaratingueta,SP,Sexta,22, Junho ,2012,21:00,Guaratinguetá - SP,Avaí - SC,1,1,0,0,1,1,1
+64,B,2012,Durival Britto,Curitiba,PR,Sexta,22, Junho ,2012,21:00,Paraná - PR,Joinville - SC,2,0,1,0,0,3,0
+65,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,23, Junho ,2012,16:20,Ceará - CE,Atlético - PR,1,0,1,0,0,3,0
+66,B,2012,Serra Dourada,Goiania,GO,Sábado,23, Junho ,2012,16:20,Goiás - GO,Vitória - BA,4,3,1,0,0,3,0
+67,B,2012,Nazarenão,Goianinha,RN,Terça,19, Junho ,2012,21:00,América - RN,A.s.a. - AL,2,0,1,0,0,3,0
+68,B,2012,Dilzon Melo,Varginha,MG,Sábado,23, Junho ,2012,21:00,Boa - MG,Grêmio Barueri - SP,4,1,1,0,0,3,0
+69,B,2012,Rei Pelé,Maceio,AL,Terça,19, Junho ,2012,21:00,C.r.b. - AL,São Caetano - SP,2,2,0,0,1,1,1
+70,B,2012,Arena Barueri,Barueri,SP,Terça,26, Junho ,2012,21:00,Grêmio Barueri - SP,América - MG,0,1,0,1,0,0,3
+71,B,2012,Serra Dourada,Goiania,GO,Terça,26, Junho ,2012,21:00,Goiás - GO,Guaratinguetá - SP,1,1,0,0,1,1,1
+72,B,2012,João Lamego,Ipatinga,MG,Terça,26, Junho ,2012,21:00,Betim - MG,Ceará - CE,1,2,0,1,0,0,3
+73,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,30, Junho ,2012,16:20,Atlético - PR,Bragantino - SP,0,0,0,0,1,1,1
+74,B,2012,Nazarenão,Goianinha,RN,Sexta,29, Junho ,2012,21:00,América - RN,Guarani - SP,1,0,1,0,0,3,0
+75,B,2012,Coaracy Fonseca,Arapiraca,AL,Sexta,29, Junho ,2012,21:00,A.s.a. - AL,A.b.c. - RN,3,1,1,0,0,3,0
+76,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,30, Junho ,2012,16:20,Criciuma - SC,C.r.b. - AL,2,0,1,0,0,3,0
+77,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,30, Junho ,2012,16:20,São Caetano - SP,Paraná - PR,1,1,0,0,1,1,1
+78,B,2012,Manoel Barradas,Salvador,BA,Sábado,30, Junho ,2012,16:20,Vitória - BA,Avaí - SC,2,0,1,0,0,3,0
+79,B,2012,Dilzon Melo,Varginha,MG,Sábado,30, Junho ,2012,21:00,Boa - MG,Joinville - SC,0,0,0,0,1,1,1
+80,B,2012,Brinco de Ouro,Campinas,SP,Terça,3, Julho ,2012,21:00,Guarani - SP,Betim - MG,1,0,1,0,0,3,0
+81,B,2012,Dario Leite,Guaratingueta,SP,Terça,3, Julho ,2012,21:00,Guaratinguetá - SP,São Caetano - SP,0,1,0,1,0,0,3
+82,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,6, Julho ,2012,21:00,Ceará - CE,Criciuma - SC,2,2,0,0,1,1,1
+83,B,2012,Arena Joinville,Joinville,SC,Sexta,6, Julho ,2012,21:00,Joinville - SC,Grêmio Barueri - SP,4,0,1,0,0,3,0
+84,B,2012,Ressacada,Florianopolis,SC,Sexta,6, Julho ,2012,21:00,Avaí - SC,A.s.a. - AL,2,0,1,0,0,3,0
+85,B,2012,Independência,Belo Horizonte,MG,Sábado,7, Julho ,2012,16:20,América - MG,Atlético - PR,3,2,1,0,0,3,0
+86,B,2012,Frasqueirão,Natal,RN,Sábado,7, Julho ,2012,16:20,A.b.c. - RN,Vitória - BA,0,1,0,1,0,0,3
+87,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,7, Julho ,2012,16:20,Bragantino - SP,Goiás - GO,3,3,0,0,1,1,1
+88,B,2012,Rei Pelé,Maceio,AL,Sábado,7, Julho ,2012,16:20,C.r.b. - AL,América - RN,4,2,1,0,0,3,0
+89,B,2012,Durival Britto,Curitiba,PR,Sábado,7, Julho ,2012,21:00,Paraná - PR,Boa - MG,2,0,1,0,0,3,0
+90,B,2012,Manoel Barradas,Salvador,BA,Terça,10, Julho ,2012,21:00,Vitória - BA,Paraná - PR,4,3,1,0,0,3,0
+91,B,2012,Heriberto Hulse,Criciuma,SC,Terça,10, Julho ,2012,21:00,Criciuma - SC,Boa - MG,4,3,1,0,0,3,0
+92,B,2012,Dario Leite,Guaratingueta,SP,Terça,10, Julho ,2012,21:00,Guaratinguetá - SP,A.s.a. - AL,2,1,1,0,0,3,0
+93,B,2012,Serra Dourada,Goiania,GO,Sexta,13, Julho ,2012,21:00,Goiás - GO,América - MG,2,0,1,0,0,3,0
+94,B,2012,João Lamego,Ipatinga,MG,Sexta,13, Julho ,2012,21:00,Betim - MG,Grêmio Barueri - SP,0,3,0,1,0,0,3
+95,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,14, Julho ,2012,16:20,Atlético - PR,A.b.c. - RN,2,1,1,0,0,3,0
+96,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,14, Julho ,2012,16:20,São Caetano - SP,Joinville - SC,1,0,1,0,0,3,0
+97,B,2012,Nazarenão,Goianinha,RN,Sábado,14, Julho ,2012,16:20,América - RN,Ceará - CE,1,1,0,0,1,1,1
+98,B,2012,Rei Pelé,Maceio,AL,Sábado,14, Julho ,2012,16:20,C.r.b. - AL,Avaí - SC,2,0,1,0,0,3,0
+99,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,14, Julho ,2012,16:20,Bragantino - SP,Guarani - SP,0,0,0,0,1,1,1
+100,B,2012,Dilzon Melo,Varginha,MG,Terça,17, Julho ,2012,19:30,Boa - MG,C.r.b. - AL,0,0,0,0,1,1,1
+101,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,17, Julho ,2012,19:30,A.s.a. - AL,Vitória - BA,2,3,0,1,0,0,3
+102,B,2012,Arena Joinville,Joinville,SC,Terça,17, Julho ,2012,19:30,Joinville - SC,Betim - MG,6,0,1,0,0,3,0
+103,B,2012,Brinco de Ouro,Campinas,SP,Terça,17, Julho ,2012,19:30,Guarani - SP,Goiás - GO,1,2,0,1,0,0,3
+104,B,2012,Independência,Belo Horizonte,MG,Terça,17, Julho ,2012,21:50,América - MG,Guaratinguetá - SP,2,1,1,0,0,3,0
+105,B,2012,Presidente Vargas/CE,Fortaleza,CE,Terça,17, Julho ,2012,19:30,Ceará - CE,São Caetano - SP,2,2,0,0,1,1,1
+106,B,2012,Ressacada,Florianopolis,SC,Terça,17, Julho ,2012,21:50,Avaí - SC,Atlético - PR,1,2,0,1,0,0,3
+107,B,2012,Arena Barueri,Barueri,SP,Terça,17, Julho ,2012,21:50,Grêmio Barueri - SP,Bragantino - SP,0,0,0,0,1,1,1
+108,B,2012,Durival Britto,Curitiba,PR,Terça,17, Julho ,2012,21:50,Paraná - PR,América - RN,1,0,1,0,0,3,0
+109,B,2012,Frasqueirão,Natal,RN,Terça,17, Julho ,2012,21:50,A.b.c. - RN,Criciuma - SC,2,2,0,0,1,1,1
+110,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,21, Julho ,2012,16:20,Criciuma - SC,Paraná - PR,2,1,1,0,0,3,0
+111,B,2012,Nazarenão,Goianinha,RN,Sexta,20, Julho ,2012,21:00,América - RN,Betim - MG,2,1,1,0,0,3,0
+112,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,20, Julho ,2012,21:00,São Caetano - SP,Grêmio Barueri - SP,3,0,1,0,0,3,0
+113,B,2012,Independência,Belo Horizonte,MG,Sexta,20, Julho ,2012,21:00,América - MG,Guarani - SP,1,1,0,0,1,1,1
+114,B,2012,Dario Leite,Guaratingueta,SP,Sexta,20, Julho ,2012,21:00,Guaratinguetá - SP,Boa - MG,0,0,0,0,1,1,1
+115,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,21, Julho ,2012,16:20,Ceará - CE,A.s.a. - AL,3,2,1,0,0,3,0
+116,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,21, Julho ,2012,16:20,Atlético - PR,Vitória - BA,0,1,0,1,0,0,3
+117,B,2012,Serra Dourada,Goiania,GO,Sábado,21, Julho ,2012,16:20,Goiás - GO,Avaí - SC,2,0,1,0,0,3,0
+118,B,2012,Rei Pelé,Maceio,AL,Sábado,21, Julho ,2012,16:20,C.r.b. - AL,Joinville - SC,4,3,1,0,0,3,0
+119,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,21, Julho ,2012,21:00,Bragantino - SP,A.b.c. - RN,1,2,0,1,0,0,3
+120,B,2012,Dilzon Melo,Varginha,MG,Terça,24, Julho ,2012,21:00,Boa - MG,América - MG,2,1,1,0,0,3,0
+121,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,24, Julho ,2012,21:00,A.s.a. - AL,Goiás - GO,0,1,0,1,0,0,3
+122,B,2012,Arena Joinville,Joinville,SC,Terça,24, Julho ,2012,21:00,Joinville - SC,América - RN,1,0,1,0,0,3,0
+123,B,2012,Arena Barueri,Barueri,SP,Sexta,27, Julho ,2012,21:00,Grêmio Barueri - SP,Criciuma - SC,1,4,0,1,0,0,3
+124,B,2012,Ressacada,Florianopolis,SC,Sexta,27, Julho ,2012,21:00,Avaí - SC,Bragantino - SP,1,0,1,0,0,3,0
+125,B,2012,Brinco de Ouro,Campinas,SP,Sábado,28, Julho ,2012,16:20,Guarani - SP,Atlético - PR,2,1,1,0,0,3,0
+126,B,2012,Manoel Barradas,Salvador,BA,Sábado,28, Julho ,2012,16:20,Vitória - BA,C.r.b. - AL,1,0,1,0,0,3,0
+127,B,2012,Durival Britto,Curitiba,PR,Sábado,28, Julho ,2012,16:20,Paraná - PR,Ceará - CE,1,0,1,0,0,3,0
+128,B,2012,Frasqueirão,Natal,RN,Sábado,28, Julho ,2012,16:20,A.b.c. - RN,Guaratinguetá - SP,3,0,1,0,0,3,0
+129,B,2012,João Lamego,Ipatinga,MG,Sábado,28, Julho ,2012,21:00,Betim - MG,São Caetano - SP,1,2,0,1,0,0,3
+130,B,2012,Independência,Belo Horizonte,MG,Terça,31, Julho ,2012,19:30,América - MG,Joinville - SC,0,2,0,1,0,0,3
+131,B,2012,Serra Dourada,Goiania,GO,Terça,31, Julho ,2012,19:30,Goiás - GO,A.b.c. - RN,1,1,0,0,1,1,1
+132,B,2012,Heriberto Hulse,Criciuma,SC,Terça,31, Julho ,2012,19:30,Criciuma - SC,Guarani - SP,2,1,1,0,0,3,0
+133,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,31, Julho ,2012,21:50,São Caetano - SP,Vitória - BA,0,0,0,0,1,1,1
+134,B,2012,Durival Britto,Curitiba,PR,Terça,31, Julho ,2012,19:30,Paraná - PR,Avaí - SC,1,1,0,0,1,1,1
+135,B,2012,Presidente Vargas/CE,Fortaleza,CE,Terça,31, Julho ,2012,19:30,Ceará - CE,Boa - MG,1,1,0,0,1,1,1
+136,B,2012,Dario Leite,Guaratingueta,SP,Terça,31, Julho ,2012,21:50,Guaratinguetá - SP,Atlético - PR,0,1,0,1,0,0,3
+137,B,2012,Nazarenão,Goianinha,RN,Terça,31, Julho ,2012,21:50,América - RN,Grêmio Barueri - SP,2,1,1,0,0,3,0
+138,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,31, Julho ,2012,21:50,Bragantino - SP,A.s.a. - AL,2,2,0,0,1,1,1
+139,B,2012,Rei Pelé,Maceio,AL,Terça,31, Julho ,2012,21:50,C.r.b. - AL,Betim - MG,2,0,1,0,0,3,0
+140,B,2012,Manoel Barradas,Salvador,BA,Sexta,3, Agosto ,2012,21:00,Vitória - BA,Bragantino - SP,0,1,0,1,0,0,3
+141,B,2012,Arena Barueri,Barueri,SP,Sexta,3, Agosto ,2012,21:00,Grêmio Barueri - SP,C.r.b. - AL,0,0,0,0,1,1,1
+142,B,2012,João Lamego,Ipatinga,MG,Sexta,3, Agosto ,2012,21:00,Betim - MG,Goiás - GO,0,6,0,1,0,0,3
+143,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,4, Agosto ,2012,16:20,Atlético - PR,São Caetano - SP,0,1,0,1,0,0,3
+144,B,2012,Dilzon Melo,Varginha,MG,Sexta,3, Agosto ,2012,21:00,Boa - MG,América - RN,1,1,0,0,1,1,1
+145,B,2012,Arena Joinville,Joinville,SC,Sábado,4, Agosto ,2012,16:20,Joinville - SC,Criciuma - SC,3,1,1,0,0,3,0
+146,B,2012,Ressacada,Florianopolis,SC,Sábado,4, Agosto ,2012,16:20,Avaí - SC,Ceará - CE,2,1,1,0,0,3,0
+147,B,2012,Brinco de Ouro,Campinas,SP,Sábado,4, Agosto ,2012,16:20,Guarani - SP,Guaratinguetá - SP,2,1,1,0,0,3,0
+148,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,4, Agosto ,2012,16:20,A.s.a. - AL,América - MG,3,2,1,0,0,3,0
+149,B,2012,Frasqueirão,Natal,RN,Sábado,4, Agosto ,2012,21:00,A.b.c. - RN,Paraná - PR,2,0,1,0,0,3,0
+150,B,2012,Nazarenão,Goianinha,RN,Terça,7, Agosto ,2012,21:00,América - RN,Atlético - PR,0,2,0,1,0,0,3
+151,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,7, Agosto ,2012,21:00,Bragantino - SP,Betim - MG,0,2,0,1,0,0,3
+152,B,2012,Ressacada,Florianopolis,SC,Terça,7, Agosto ,2012,21:00,Avaí - SC,A.b.c. - RN,3,1,1,0,0,3,0
+153,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,10, Agosto ,2012,21:00,Ceará - CE,Grêmio Barueri - SP,2,0,1,0,0,3,0
+154,B,2012,Coaracy Fonseca,Arapiraca,AL,Sexta,10, Agosto ,2012,21:00,A.s.a. - AL,Guarani - SP,1,0,1,0,0,3,0
+155,B,2012,Serra Dourada,Goiania,GO,Sábado,11, Agosto ,2012,16:20,Goiás - GO,Boa - MG,2,0,1,0,0,3,0
+156,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,11, Agosto ,2012,16:20,São Caetano - SP,Criciuma - SC,1,1,0,0,1,1,1
+157,B,2012,Dario Leite,Guaratingueta,SP,Sábado,11, Agosto ,2012,16:20,Guaratinguetá - SP,Joinville - SC,0,3,0,1,0,0,3
+158,B,2012,Independência,Belo Horizonte,MG,Sábado,11, Agosto ,2012,16:20,América - MG,Vitória - BA,1,2,0,1,0,0,3
+159,B,2012,Durival Britto,Curitiba,PR,Sábado,11, Agosto ,2012,16:20,Paraná - PR,C.r.b. - AL,4,0,1,0,0,3,0
+160,B,2012,Fernando Charub Farah,Paranagua,PR,Terça,14, Agosto ,2012,21:50,Atlético - PR,A.s.a. - AL,1,0,1,0,0,3,0
+161,B,2012,Arena Joinville,Joinville,SC,Terça,14, Agosto ,2012,19:30,Joinville - SC,Bragantino - SP,1,0,1,0,0,3,0
+162,B,2012,Manoel Barradas,Salvador,BA,Terça,14, Agosto ,2012,19:30,Vitória - BA,Guaratinguetá - SP,2,0,1,0,0,3,0
+163,B,2012,Heriberto Hulse,Criciuma,SC,Terça,14, Agosto ,2012,19:30,Criciuma - SC,América - RN,4,3,1,0,0,3,0
+164,B,2012,Arena Barueri,Barueri,SP,Terça,14, Agosto ,2012,21:50,Grêmio Barueri - SP,Goiás - GO,2,0,1,0,0,3,0
+165,B,2012,João Lamego,Ipatinga,MG,Terça,14, Agosto ,2012,19:30,Betim - MG,Paraná - PR,2,0,1,0,0,3,0
+166,B,2012,Dilzon Melo,Varginha,MG,Terça,14, Agosto ,2012,21:50,Boa - MG,São Caetano - SP,1,3,0,1,0,0,3
+167,B,2012,Brinco de Ouro,Campinas,SP,Terça,14, Agosto ,2012,21:50,Guarani - SP,Avaí - SC,0,2,0,1,0,0,3
+168,B,2012,Frasqueirão,Natal,RN,Terça,14, Agosto ,2012,21:50,A.b.c. - RN,América - MG,0,2,0,1,0,0,3
+169,B,2012,Rei Pelé,Maceio,AL,Terça,14, Agosto ,2012,19:30,C.r.b. - AL,Ceará - CE,0,2,0,1,0,0,3
+170,B,2012,Brinco de Ouro,Campinas,SP,Sexta,17, Agosto ,2012,21:00,Guarani - SP,C.r.b. - AL,4,0,1,0,0,3,0
+171,B,2012,Manoel Barradas,Salvador,BA,Sexta,17, Agosto ,2012,19:30,Vitória - BA,Joinville - SC,2,1,1,0,0,3,0
+172,B,2012,Dario Leite,Guaratingueta,SP,Sexta,17, Agosto ,2012,21:00,Guaratinguetá - SP,Betim - MG,3,1,1,0,0,3,0
+173,B,2012,Independência,Belo Horizonte,MG,Sexta,17, Agosto ,2012,21:50,América - MG,América - RN,1,1,0,0,1,1,1
+174,B,2012,Ressacada,Florianopolis,SC,Sexta,17, Agosto ,2012,21:00,Avaí - SC,Grêmio Barueri - SP,2,1,1,0,0,3,0
+175,B,2012,Fernando Charub Farah,Paranagua,PR,Sábado,18, Agosto ,2012,16:20,Atlético - PR,Criciuma - SC,1,0,1,0,0,3,0
+176,B,2012,Serra Dourada,Goiania,GO,Sábado,18, Agosto ,2012,16:20,Goiás - GO,São Caetano - SP,0,0,0,0,1,1,1
+177,B,2012,Frasqueirão,Natal,RN,Sábado,18, Agosto ,2012,16:20,A.b.c. - RN,Boa - MG,1,2,0,1,0,0,3
+178,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,18, Agosto ,2012,16:20,Bragantino - SP,Ceará - CE,1,3,0,1,0,0,3
+179,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,18, Agosto ,2012,21:00,A.s.a. - AL,Paraná - PR,1,1,0,0,1,1,1
+180,B,2012,Heriberto Hulse,Criciuma,SC,Terça,21, Agosto ,2012,21:00,Criciuma - SC,Avaí - SC,2,0,1,0,0,3,0
+181,B,2012,Arena Barueri,Barueri,SP,Terça,21, Agosto ,2012,21:00,Grêmio Barueri - SP,Guaratinguetá - SP,2,3,0,1,0,0,3
+182,B,2012,João Lamego,Ipatinga,MG,Terça,21, Agosto ,2012,21:00,Betim - MG,América - MG,1,0,1,0,0,3,0
+183,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,24, Agosto ,2012,21:00,Ceará - CE,Vitória - BA,1,3,0,1,0,0,3
+184,B,2012,Nazarenão,Goianinha,RN,Sábado,25, Agosto ,2012,16:20,América - RN,A.b.c. - RN,1,0,1,0,0,3,0
+185,B,2012,Durival Britto,Curitiba,PR,Sábado,25, Agosto ,2012,16:00,Paraná - PR,Atlético - PR,1,2,0,1,0,0,3
+186,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,25, Agosto ,2012,16:00,São Caetano - SP,Guarani - SP,1,2,0,1,0,0,3
+187,B,2012,Arena Joinville,Joinville,SC,Sábado,25, Agosto ,2012,16:00,Joinville - SC,Goiás - GO,1,0,1,0,0,3,0
+188,B,2012,Dilzon Melo,Varginha,MG,Sábado,25, Agosto ,2012,21:00,Boa - MG,Bragantino - SP,3,0,1,0,0,3,0
+189,B,2012,Rei Pelé,Maceio,AL,Sábado,25, Agosto ,2012,16:20,C.r.b. - AL,A.s.a. - AL,0,1,0,1,0,0,3
+190,B,2012,Serra Dourada,Goiania,GO,Terça,28, Agosto ,2012,21:50,Goiás - GO,América - RN,1,0,1,0,0,3,0
+191,B,2012,Ressacada,Florianopolis,SC,Terça,28, Agosto ,2012,19:30,Avaí - SC,Boa - MG,2,1,1,0,0,3,0
+192,B,2012,Brinco de Ouro,Campinas,SP,Terça,28, Agosto ,2012,19:30,Guarani - SP,Paraná - PR,0,0,0,0,1,1,1
+193,B,2012,Martins Pereira,Sao Jose dos Campos,SP,Terça,28, Agosto ,2012,21:50,Guaratinguetá - SP,Criciuma - SC,2,1,1,0,0,3,0
+194,B,2012,Independência,Belo Horizonte,MG,Terça,28, Agosto ,2012,21:50,América - MG,Ceará - CE,1,3,0,1,0,0,3
+195,B,2012,Manoel Barradas,Salvador,BA,Terça,28, Agosto ,2012,19:30,Vitória - BA,Grêmio Barueri - SP,1,0,1,0,0,3,0
+196,B,2012,Fernando Charub Farah,Paranagua,PR,Terça,28, Agosto ,2012,19:30,Atlético - PR,Joinville - SC,1,1,0,0,1,1,1
+197,B,2012,Frasqueirão,Natal,RN,Terça,28, Agosto ,2012,21:50,A.b.c. - RN,Betim - MG,2,2,0,0,1,1,1
+198,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,28, Agosto ,2012,19:30,Bragantino - SP,C.r.b. - AL,0,2,0,1,0,0,3
+199,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,28, Agosto ,2012,21:50,A.s.a. - AL,São Caetano - SP,4,1,1,0,0,3,0
+200,B,2012,Arena Joinville,Joinville,SC,Sábado,1, Setembro ,2012,16:00,Joinville - SC,A.b.c. - RN,0,0,0,0,1,1,1
+201,B,2012,Heriberto Hulse,Criciuma,SC,Sexta,31, Agosto ,2012,19:30,Criciuma - SC,Bragantino - SP,3,2,1,0,0,3,0
+202,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,1, Setembro ,2012,16:00,São Caetano - SP,Avaí - SC,1,0,1,0,0,3,0
+203,B,2012,Arena Barueri,Barueri,SP,Sexta,31, Agosto ,2012,21:00,Grêmio Barueri - SP,A.s.a. - AL,1,0,1,0,0,3,0
+204,B,2012,João Lamego,Ipatinga,MG,Sexta,31, Agosto ,2012,21:50,Betim - MG,Atlético - PR,1,1,0,0,1,1,1
+205,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,31, Agosto ,2012,21:00,Ceará - CE,Guaratinguetá - SP,1,1,0,0,1,1,1
+206,B,2012,Durival Britto,Curitiba,PR,Sábado,1, Setembro ,2012,16:00,Paraná - PR,Goiás - GO,1,3,0,1,0,0,3
+207,B,2012,Nazarenão,Goianinha,RN,Sábado,1, Setembro ,2012,16:00,América - RN,Vitória - BA,2,2,0,0,1,1,1
+208,B,2012,Dilzon Melo,Varginha,MG,Sexta,31, Agosto ,2012,19:30,Boa - MG,Guarani - SP,1,2,0,1,0,0,3
+209,B,2012,Rei Pelé,Maceio,AL,Sábado,1, Setembro ,2012,21:00,C.r.b. - AL,América - MG,0,1,0,1,0,0,3
+210,B,2012,Serra Dourada,Goiania,GO,Terça,4, Setembro ,2012,21:50,Goiás - GO,Ceará - CE,0,0,0,0,1,1,1
+211,B,2012,Ressacada,Florianopolis,SC,Terça,4, Setembro ,2012,19:30,Avaí - SC,América - RN,2,2,0,0,1,1,1
+212,B,2012,Brinco de Ouro,Campinas,SP,Terça,4, Setembro ,2012,19:30,Guarani - SP,Joinville - SC,2,1,1,0,0,3,0
+213,B,2012,Martins Pereira,Sao Jose dos Campos,SP,Terça,4, Setembro ,2012,21:50,Guaratinguetá - SP,C.r.b. - AL,1,2,0,1,0,0,3
+214,B,2012,Independência,Belo Horizonte,MG,Terça,4, Setembro ,2012,19:30,América - MG,Paraná - PR,0,0,0,0,1,1,1
+215,B,2012,Manoel Barradas,Salvador,BA,Terça,4, Setembro ,2012,19:30,Vitória - BA,Criciuma - SC,2,2,0,0,1,1,1
+216,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Terça,4, Setembro ,2012,15:00,Atlético - PR,Boa - MG,2,1,1,0,0,3,0
+217,B,2012,Frasqueirão,Natal,RN,Terça,4, Setembro ,2012,21:50,A.b.c. - RN,Grêmio Barueri - SP,2,1,1,0,0,3,0
+218,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,4, Setembro ,2012,21:50,Bragantino - SP,São Caetano - SP,2,3,0,1,0,0,3
+219,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,4, Setembro ,2012,21:50,A.s.a. - AL,Betim - MG,3,0,1,0,0,3,0
+220,B,2012,Arena Joinville,Joinville,SC,Sábado,8, Setembro ,2012,16:00,Joinville - SC,Avaí - SC,1,0,1,0,0,3,0
+221,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,8, Setembro ,2012,16:00,Criciuma - SC,América - MG,0,4,0,1,0,0,3
+222,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,8, Setembro ,2012,21:00,São Caetano - SP,A.b.c. - RN,0,1,0,1,0,0,3
+223,B,2012,Arena Barueri,Barueri,SP,Sexta,7, Setembro ,2012,21:50,Grêmio Barueri - SP,Atlético - PR,0,6,0,1,0,0,3
+224,B,2012,João Lamego,Ipatinga,MG,Sábado,8, Setembro ,2012,16:00,Betim - MG,Vitória - BA,1,1,0,0,1,1,1
+225,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,7, Setembro ,2012,19:30,Ceará - CE,Guarani - SP,1,0,1,0,0,3,0
+226,B,2012,Durival Britto,Curitiba,PR,Sexta,7, Setembro ,2012,19:30,Paraná - PR,Bragantino - SP,2,0,1,0,0,3,0
+227,B,2012,Nazarenão,Goianinha,RN,Sexta,7, Setembro ,2012,19:30,América - RN,Guaratinguetá - SP,4,1,1,0,0,3,0
+228,B,2012,Dilzon Melo,Varginha,MG,Sexta,7, Setembro ,2012,19:30,Boa - MG,A.s.a. - AL,3,2,1,0,0,3,0
+229,B,2012,Rei Pelé,Maceio,AL,Sábado,8, Setembro ,2012,16:00,C.r.b. - AL,Goiás - GO,0,2,0,1,0,0,3
+230,B,2012,Serra Dourada,Goiania,GO,Terça,11, Setembro ,2012,21:50,Goiás - GO,Criciuma - SC,1,0,1,0,0,3,0
+231,B,2012,Ressacada,Florianopolis,SC,Terça,11, Setembro ,2012,19:30,Avaí - SC,Betim - MG,2,1,1,0,0,3,0
+232,B,2012,Brinco de Ouro,Campinas,SP,Terça,11, Setembro ,2012,21:50,Guarani - SP,Grêmio Barueri - SP,1,0,1,0,0,3,0
+233,B,2012,Martins Pereira,Sao Jose dos Campos,SP,Terça,11, Setembro ,2012,19:30,Guaratinguetá - SP,Paraná - PR,2,0,1,0,0,3,0
+234,B,2012,Manoel Barradas,Salvador,BA,Terça,11, Setembro ,2012,19:30,Vitória - BA,Boa - MG,3,2,1,0,0,3,0
+235,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Terça,11, Setembro ,2012,15:00,Atlético - PR,C.r.b. - AL,4,1,1,0,0,3,0
+236,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,11, Setembro ,2012,21:50,Bragantino - SP,América - RN,1,0,1,0,0,3,0
+237,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,11, Setembro ,2012,19:30,A.s.a. - AL,Joinville - SC,1,0,1,0,0,3,0
+238,B,2012,Serra Dourada,Goiania,GO,Sábado,15, Setembro ,2012,16:00,Goiás - GO,Atlético - PR,3,2,1,0,0,3,0
+239,B,2012,Heriberto Hulse,Criciuma,SC,Sexta,14, Setembro ,2012,19:30,Criciuma - SC,A.s.a. - AL,2,1,1,0,0,3,0
+240,B,2012,Brinco de Ouro,Campinas,SP,Sábado,15, Setembro ,2012,16:00,Guarani - SP,Vitória - BA,0,0,0,0,1,1,1
+241,B,2012,Martins Pereira,Sao Jose dos Campos,SP,Sexta,14, Setembro ,2012,21:00,Guaratinguetá - SP,Bragantino - SP,2,0,1,0,0,3,0
+242,B,2012,Independência,Belo Horizonte,MG,Sexta,14, Setembro ,2012,21:50,América - MG,Avaí - SC,1,0,1,0,0,3,0
+243,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,15, Setembro ,2012,16:00,Ceará - CE,Joinville - SC,4,3,1,0,0,3,0
+244,B,2012,Durival Britto,Curitiba,PR,Sexta,14, Setembro ,2012,19:30,Paraná - PR,Grêmio Barueri - SP,1,1,0,0,1,1,1
+245,B,2012,Nazarenão,Goianinha,RN,Sexta,14, Setembro ,2012,21:00,América - RN,São Caetano - SP,0,2,0,1,0,0,3
+246,B,2012,Dilzon Melo,Varginha,MG,Sábado,15, Setembro ,2012,21:00,Boa - MG,Betim - MG,2,1,1,0,0,3,0
+247,B,2012,Rei Pelé,Maceio,AL,Sábado,15, Setembro ,2012,16:00,C.r.b. - AL,A.b.c. - RN,3,3,0,0,1,1,1
+248,B,2012,Arena Joinville,Joinville,SC,Sexta,21, Setembro ,2012,21:00,Joinville - SC,Paraná - PR,3,1,1,0,0,3,0
+249,B,2012,Ressacada,Florianopolis,SC,Sexta,21, Setembro ,2012,19:30,Avaí - SC,Guaratinguetá - SP,2,0,1,0,0,3,0
+250,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,22, Setembro ,2012,16:00,São Caetano - SP,C.r.b. - AL,3,2,1,0,0,3,0
+251,B,2012,Arena Barueri,Barueri,SP,Sábado,22, Setembro ,2012,16:00,Grêmio Barueri - SP,Boa - MG,1,2,0,1,0,0,3
+252,B,2012,João Lamego,Ipatinga,MG,Sábado,22, Setembro ,2012,16:00,Betim - MG,Criciuma - SC,2,3,0,1,0,0,3
+253,B,2012,Manoel Barradas,Salvador,BA,Sábado,22, Setembro ,2012,16:00,Vitória - BA,Goiás - GO,3,1,1,0,0,3,0
+254,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Sábado,22, Setembro ,2012,15:00,Atlético - PR,Ceará - CE,2,1,1,0,0,3,0
+255,B,2012,Frasqueirão,Natal,RN,Sexta,21, Setembro ,2012,21:00,A.b.c. - RN,Guarani - SP,3,1,1,0,0,3,0
+256,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,18, Setembro ,2012,21:00,Bragantino - SP,América - MG,2,0,1,0,0,3,0
+257,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,22, Setembro ,2012,21:00,A.s.a. - AL,América - RN,0,2,0,1,0,0,3
+258,B,2012,Arena Joinville,Joinville,SC,Terça,25, Setembro ,2012,21:00,Joinville - SC,Boa - MG,3,0,1,0,0,3,0
+259,B,2012,Ressacada,Florianopolis,SC,Sábado,29, Setembro ,2012,16:00,Avaí - SC,Vitória - BA,2,0,1,0,0,3,0
+260,B,2012,Brinco de Ouro,Campinas,SP,Sábado,29, Setembro ,2012,16:00,Guarani - SP,América - RN,0,0,0,0,1,1,1
+261,B,2012,Martins Pereira,Sao Jose dos Campos,SP,Sexta,28, Setembro ,2012,21:00,Guaratinguetá - SP,Goiás - GO,0,3,0,1,0,0,3
+262,B,2012,Independência,Belo Horizonte,MG,Terça,25, Setembro ,2012,21:00,América - MG,Grêmio Barueri - SP,1,2,0,1,0,0,3
+263,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,29, Setembro ,2012,21:00,Ceará - CE,Betim - MG,1,1,0,0,1,1,1
+264,B,2012,Durival Britto,Curitiba,PR,Sexta,28, Setembro ,2012,19:30,Paraná - PR,São Caetano - SP,2,1,1,0,0,3,0
+265,B,2012,Frasqueirão,Natal,RN,Terça,25, Setembro ,2012,19:30,A.b.c. - RN,A.s.a. - AL,1,1,0,0,1,1,1
+266,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,29, Setembro ,2012,16:00,Bragantino - SP,Atlético - PR,2,1,1,0,0,3,0
+267,B,2012,Rei Pelé,Maceio,AL,Sexta,28, Setembro ,2012,21:00,C.r.b. - AL,Criciuma - SC,0,2,0,1,0,0,3
+268,B,2012,Serra Dourada,Goiania,GO,Terça,2, Outubro ,2012,21:00,Goiás - GO,Bragantino - SP,1,0,1,0,0,3,0
+269,B,2012,Heriberto Hulse,Criciuma,SC,Sexta,5, Outubro ,2012,21:00,Criciuma - SC,Ceará - CE,2,1,1,0,0,3,0
+270,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,2, Outubro ,2012,21:00,São Caetano - SP,Guaratinguetá - SP,1,0,1,0,0,3,0
+271,B,2012,Arena Barueri,Barueri,SP,Sexta,5, Outubro ,2012,19:30,Grêmio Barueri - SP,Joinville - SC,1,1,0,0,1,1,1
+272,B,2012,João Lamego,Ipatinga,MG,Sexta,5, Outubro ,2012,19:30,Betim - MG,Guarani - SP,0,0,0,0,1,1,1
+273,B,2012,Manoel Barradas,Salvador,BA,Sábado,6, Outubro ,2012,16:00,Vitória - BA,A.b.c. - RN,1,0,1,0,0,3,0
+274,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Sábado,6, Outubro ,2012,14:00,Atlético - PR,América - MG,5,4,1,0,0,3,0
+275,B,2012,Nazarenão,Goianinha,RN,Sexta,5, Outubro ,2012,19:30,América - RN,C.r.b. - AL,3,3,0,0,1,1,1
+276,B,2012,Dilzon Melo,Varginha,MG,Sexta,5, Outubro ,2012,21:00,Boa - MG,Paraná - PR,2,1,1,0,0,3,0
+277,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,2, Outubro ,2012,19:30,A.s.a. - AL,Avaí - SC,1,0,1,0,0,3,0
+278,B,2012,Arena Joinville,Joinville,SC,Terça,9, Outubro ,2012,21:00,Joinville - SC,São Caetano - SP,0,0,0,0,1,1,1
+279,B,2012,Ressacada,Florianopolis,SC,Sábado,13, Outubro ,2012,21:00,Avaí - SC,C.r.b. - AL,1,0,1,0,0,3,0
+280,B,2012,Brinco de Ouro,Campinas,SP,Sexta,12, Outubro ,2012,21:00,Guarani - SP,Bragantino - SP,1,2,0,1,0,0,3
+281,B,2012,Arena Barueri,Barueri,SP,Terça,9, Outubro ,2012,21:00,Grêmio Barueri - SP,Betim - MG,2,0,1,0,0,3,0
+282,B,2012,Independência,Belo Horizonte,MG,Sábado,13, Outubro ,2012,16:00,América - MG,Goiás - GO,1,2,0,1,0,0,3
+283,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,13, Outubro ,2012,16:00,Ceará - CE,América - RN,4,0,1,0,0,3,0
+284,B,2012,Durival Britto,Curitiba,PR,Sábado,13, Outubro ,2012,16:00,Paraná - PR,Vitória - BA,3,1,1,0,0,3,0
+285,B,2012,Frasqueirão,Natal,RN,Sexta,12, Outubro ,2012,21:00,A.b.c. - RN,Atlético - PR,0,1,0,1,0,0,3
+286,B,2012,Dilzon Melo,Varginha,MG,Sábado,13, Outubro ,2012,16:00,Boa - MG,Criciuma - SC,0,4,0,1,0,0,3
+287,B,2012,Coaracy Fonseca,Arapiraca,AL,Terça,9, Outubro ,2012,21:00,A.s.a. - AL,Guaratinguetá - SP,3,1,1,0,0,3,0
+288,B,2012,Serra Dourada,Goiania,GO,Terça,16, Outubro ,2012,19:30,Goiás - GO,Guarani - SP,5,0,1,0,0,3,0
+289,B,2012,Heriberto Hulse,Criciuma,SC,Terça,16, Outubro ,2012,21:50,Criciuma - SC,A.b.c. - RN,2,0,1,0,0,3,0
+290,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,16, Outubro ,2012,19:30,São Caetano - SP,Ceará - CE,2,0,1,0,0,3,0
+291,B,2012,Dario Leite,Guaratingueta,SP,Terça,16, Outubro ,2012,21:50,Guaratinguetá - SP,América - MG,1,2,0,1,0,0,3
+292,B,2012,João Lamego,Ipatinga,MG,Terça,16, Outubro ,2012,21:50,Betim - MG,Joinville - SC,1,0,1,0,0,3,0
+293,B,2012,Manoel Barradas,Salvador,BA,Terça,16, Outubro ,2012,19:30,Vitória - BA,A.s.a. - AL,2,0,1,0,0,3,0
+294,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Terça,16, Outubro ,2012,15:00,Atlético - PR,Avaí - SC,3,1,1,0,0,3,0
+295,B,2012,Nazarenão,Goianinha,RN,Terça,16, Outubro ,2012,19:30,América - RN,Paraná - PR,2,1,1,0,0,3,0
+296,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,16, Outubro ,2012,19:30,Bragantino - SP,Grêmio Barueri - SP,2,2,0,0,1,1,1
+297,B,2012,Rei Pelé,Maceio,AL,Terça,16, Outubro ,2012,21:50,C.r.b. - AL,Boa - MG,0,0,0,0,1,1,1
+298,B,2012,Arena Joinville,Joinville,SC,Sábado,20, Outubro ,2012,16:00,Joinville - SC,C.r.b. - AL,3,1,1,0,0,3,0
+299,B,2012,Ressacada,Florianopolis,SC,Sexta,19, Outubro ,2012,21:50,Avaí - SC,Goiás - GO,1,4,0,1,0,0,3
+300,B,2012,Brinco de Ouro,Campinas,SP,Sábado,20, Outubro ,2012,16:00,Guarani - SP,América - MG,0,3,0,1,0,0,3
+301,B,2012,Arena Barueri,Barueri,SP,Sexta,19, Outubro ,2012,19:30,Grêmio Barueri - SP,São Caetano - SP,2,2,0,0,1,1,1
+302,B,2012,João Lamego,Ipatinga,MG,Sexta,19, Outubro ,2012,19:30,Betim - MG,América - RN,4,0,1,0,0,3,0
+303,B,2012,Manoel Barradas,Salvador,BA,Sábado,20, Outubro ,2012,16:00,Vitória - BA,Atlético - PR,0,2,0,1,0,0,3
+304,B,2012,Couto Pereira,Curitiba,PR,Sábado,20, Outubro ,2012,16:00,Paraná - PR,Criciuma - SC,1,1,0,0,1,1,1
+305,B,2012,Frasqueirão,Natal,RN,Sábado,20, Outubro ,2012,16:00,A.b.c. - RN,Bragantino - SP,1,0,1,0,0,3,0
+306,B,2012,Dilzon Melo,Varginha,MG,Sábado,20, Outubro ,2012,21:00,Boa - MG,Guaratinguetá - SP,0,1,0,1,0,0,3
+307,B,2012,Coaracy Fonseca,Arapiraca,AL,Sexta,19, Outubro ,2012,19:30,A.s.a. - AL,Ceará - CE,3,0,1,0,0,3,0
+308,B,2012,Serra Dourada,Goiania,GO,Terça,23, Outubro ,2012,19:30,Goiás - GO,A.s.a. - AL,4,0,1,0,0,3,0
+309,B,2012,Heriberto Hulse,Criciuma,SC,Terça,23, Outubro ,2012,19:30,Criciuma - SC,Grêmio Barueri - SP,3,4,0,1,0,0,3
+310,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Terça,23, Outubro ,2012,19:30,São Caetano - SP,Betim - MG,1,1,0,0,1,1,1
+311,B,2012,Dario Leite,Guaratingueta,SP,Terça,23, Outubro ,2012,21:50,Guaratinguetá - SP,A.b.c. - RN,2,1,1,0,0,3,0
+312,B,2012,Independência,Belo Horizonte,MG,Terça,23, Outubro ,2012,21:50,América - MG,Boa - MG,3,2,1,0,0,3,0
+313,B,2012,Presidente Vargas/CE,Fortaleza,CE,Terça,23, Outubro ,2012,21:50,Ceará - CE,Paraná - PR,0,1,0,1,0,0,3
+314,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Terça,23, Outubro ,2012,15:00,Atlético - PR,Guarani - SP,1,1,0,0,1,1,1
+315,B,2012,Nazarenão,Goianinha,RN,Terça,23, Outubro ,2012,19:30,América - RN,Joinville - SC,3,1,1,0,0,3,0
+316,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Terça,23, Outubro ,2012,21:50,Bragantino - SP,Avaí - SC,1,0,1,0,0,3,0
+317,B,2012,Rei Pelé,Maceio,AL,Terça,23, Outubro ,2012,19:30,C.r.b. - AL,Vitória - BA,0,1,0,1,0,0,3
+318,B,2012,Arena Joinville,Joinville,SC,Sábado,27, Outubro ,2012,16:00,Joinville - SC,América - MG,2,2,0,0,1,1,1
+319,B,2012,Ressacada,Florianopolis,SC,Sexta,26, Outubro ,2012,21:50,Avaí - SC,Paraná - PR,3,1,1,0,0,3,0
+320,B,2012,Brinco de Ouro,Campinas,SP,Sábado,27, Outubro ,2012,16:00,Guarani - SP,Criciuma - SC,1,2,0,1,0,0,3
+321,B,2012,Arena Barueri,Barueri,SP,Sexta,26, Outubro ,2012,21:00,Grêmio Barueri - SP,América - RN,2,3,0,1,0,0,3
+322,B,2012,João Lamego,Ipatinga,MG,Sábado,27, Outubro ,2012,16:00,Betim - MG,C.r.b. - AL,3,2,1,0,0,3,0
+323,B,2012,Manoel Barradas,Salvador,BA,Sexta,26, Outubro ,2012,19:30,Vitória - BA,São Caetano - SP,0,1,0,1,0,0,3
+324,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Sábado,27, Outubro ,2012,14:00,Atlético - PR,Guaratinguetá - SP,3,0,1,0,0,3,0
+325,B,2012,Frasqueirão,Natal,RN,Sexta,26, Outubro ,2012,19:30,A.b.c. - RN,Goiás - GO,3,2,1,0,0,3,0
+326,B,2012,Dilzon Melo,Varginha,MG,Sexta,26, Outubro ,2012,21:00,Boa - MG,Ceará - CE,1,0,1,0,0,3,0
+327,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,27, Outubro ,2012,16:00,A.s.a. - AL,Bragantino - SP,1,1,0,0,1,1,1
+328,B,2012,Serra Dourada,Goiania,GO,Terça,30, Outubro ,2012,21:00,Goiás - GO,Betim - MG,4,0,1,0,0,3,0
+329,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,3, Novembro ,2012,16:20,Criciuma - SC,Joinville - SC,2,3,0,1,0,0,3
+330,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,3, Novembro ,2012,16:20,São Caetano - SP,Atlético - PR,1,3,0,1,0,0,3
+331,B,2012,Dario Leite,Guaratingueta,SP,Sexta,2, Novembro ,2012,21:00,Guaratinguetá - SP,Guarani - SP,2,1,1,0,0,3,0
+332,B,2012,Independência,Belo Horizonte,MG,Terça,30, Outubro ,2012,21:00,América - MG,A.s.a. - AL,0,1,0,1,0,0,3
+333,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sexta,2, Novembro ,2012,21:00,Ceará - CE,Avaí - SC,0,1,0,1,0,0,3
+334,B,2012,Durival Britto,Curitiba,PR,Terça,30, Outubro ,2012,21:00,Paraná - PR,A.b.c. - RN,1,2,0,1,0,0,3
+335,B,2012,Nazarenão,Goianinha,RN,Sábado,3, Novembro ,2012,21:00,América - RN,Boa - MG,4,4,0,0,1,1,1
+336,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,3, Novembro ,2012,16:20,Bragantino - SP,Vitória - BA,3,0,1,0,0,3,0
+337,B,2012,Rei Pelé,Maceio,AL,Sexta,2, Novembro ,2012,21:00,C.r.b. - AL,Grêmio Barueri - SP,2,1,1,0,0,3,0
+338,B,2012,Arena Joinville,Joinville,SC,Terça,6, Novembro ,2012,19:30,Joinville - SC,Guaratinguetá - SP,2,1,1,0,0,3,0
+339,B,2012,Heriberto Hulse,Criciuma,SC,Terça,6, Novembro ,2012,19:30,Criciuma - SC,São Caetano - SP,0,2,0,1,0,0,3
+340,B,2012,Brinco de Ouro,Campinas,SP,Terça,6, Novembro ,2012,19:30,Guarani - SP,A.s.a. - AL,2,1,1,0,0,3,0
+341,B,2012,Arena Barueri,Barueri,SP,Terça,6, Novembro ,2012,19:30,Grêmio Barueri - SP,Ceará - CE,0,0,0,0,1,1,1
+342,B,2012,João Lamego,Ipatinga,MG,Terça,6, Novembro ,2012,21:50,Betim - MG,Bragantino - SP,2,1,1,0,0,3,0
+343,B,2012,Manoel Barradas,Salvador,BA,Terça,6, Novembro ,2012,21:50,Vitória - BA,América - MG,5,3,1,0,0,3,0
+344,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Terça,6, Novembro ,2012,16:00,Atlético - PR,América - RN,1,1,0,0,1,1,1
+345,B,2012,Frasqueirão,Natal,RN,Terça,6, Novembro ,2012,21:50,A.b.c. - RN,Avaí - SC,1,2,0,1,0,0,3
+346,B,2012,Dilzon Melo,Varginha,MG,Terça,6, Novembro ,2012,21:50,Boa - MG,Goiás - GO,2,2,0,0,1,1,1
+347,B,2012,Rei Pelé,Maceio,AL,Terça,6, Novembro ,2012,21:50,C.r.b. - AL,Paraná - PR,0,2,0,1,0,0,3
+348,B,2012,Serra Dourada,Goiania,GO,Sábado,10, Novembro ,2012,16:20,Goiás - GO,Grêmio Barueri - SP,3,0,1,0,0,3,0
+349,B,2012,Ressacada,Florianopolis,SC,Sexta,9, Novembro ,2012,21:50,Avaí - SC,Guarani - SP,1,0,1,0,0,3,0
+350,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sexta,9, Novembro ,2012,19:30,São Caetano - SP,Boa - MG,4,2,1,0,0,3,0
+351,B,2012,Dario Leite,Guaratingueta,SP,Sábado,10, Novembro ,2012,16:20,Guaratinguetá - SP,Vitória - BA,1,0,1,0,0,3,0
+352,B,2012,Independência,Belo Horizonte,MG,Sábado,10, Novembro ,2012,17:00,América - MG,A.b.c. - RN,3,3,0,0,1,1,1
+353,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,10, Novembro ,2012,21:00,Ceará - CE,C.r.b. - AL,1,2,0,1,0,0,3
+354,B,2012,Durival Britto,Curitiba,PR,Sábado,10, Novembro ,2012,17:00,Paraná - PR,Betim - MG,2,0,1,0,0,3,0
+355,B,2012,Nazarenão,Goianinha,RN,Sábado,10, Novembro ,2012,16:20,América - RN,Criciuma - SC,1,4,0,1,0,0,3
+356,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,9, Novembro ,2012,19:30,Bragantino - SP,Joinville - SC,1,0,1,0,0,3,0
+357,B,2012,Coaracy Fonseca,Arapiraca,AL,Sexta,9, Novembro ,2012,21:50,A.s.a. - AL,Atlético - PR,2,3,0,1,0,0,3
+358,B,2012,Arena Joinville,Joinville,SC,Sábado,17, Novembro ,2012,16:20,Joinville - SC,Vitória - BA,1,1,0,0,1,1,1
+359,B,2012,Heriberto Hulse,Criciuma,SC,Sábado,17, Novembro ,2012,16:20,Criciuma - SC,Atlético - PR,0,0,0,0,1,1,1
+360,B,2012,Anacleto Campanella,Sao Caetano do Sul,SP,Sábado,17, Novembro ,2012,16:20,São Caetano - SP,Goiás - GO,1,1,0,0,1,1,1
+361,B,2012,Arena Barueri,Barueri,SP,Sábado,17, Novembro ,2012,16:20,Grêmio Barueri - SP,Avaí - SC,2,0,1,0,0,3,0
+362,B,2012,João Lamego,Ipatinga,MG,Sábado,17, Novembro ,2012,16:20,Betim - MG,Guaratinguetá - SP,2,3,0,1,0,0,3
+363,B,2012,Presidente Vargas/CE,Fortaleza,CE,Sábado,17, Novembro ,2012,16:20,Ceará - CE,Bragantino - SP,1,2,0,1,0,0,3
+364,B,2012,Durival Britto,Curitiba,PR,Sexta,16, Novembro ,2012,21:00,Paraná - PR,A.s.a. - AL,2,0,1,0,0,3,0
+365,B,2012,Nazarenão,Goianinha,RN,Sábado,17, Novembro ,2012,16:20,América - RN,América - MG,1,1,0,0,1,1,1
+366,B,2012,Dilzon Melo,Varginha,MG,Sábado,17, Novembro ,2012,16:20,Boa - MG,A.b.c. - RN,0,0,0,0,1,1,1
+367,B,2012,Rei Pelé,Maceio,AL,Sábado,17, Novembro ,2012,16:20,C.r.b. - AL,Guarani - SP,2,1,1,0,0,3,0
+368,B,2012,Serra Dourada,Goiania,GO,Sábado,24, Novembro ,2012,16:20,Goiás - GO,Joinville - SC,2,1,1,0,0,3,0
+369,B,2012,Ressacada,Florianopolis,SC,Sábado,24, Novembro ,2012,16:20,Avaí - SC,Criciuma - SC,1,1,0,0,1,1,1
+370,B,2012,Brinco de Ouro,Campinas,SP,Sábado,24, Novembro ,2012,16:20,Guarani - SP,São Caetano - SP,1,2,0,1,0,0,3
+371,B,2012,Dario Leite,Guaratingueta,SP,Sábado,24, Novembro ,2012,16:20,Guaratinguetá - SP,Grêmio Barueri - SP,2,1,1,0,0,3,0
+372,B,2012,Independência,Belo Horizonte,MG,Sexta,23, Novembro ,2012,21:00,América - MG,Betim - MG,3,1,1,0,0,3,0
+373,B,2012,Manoel Barradas,Salvador,BA,Sábado,24, Novembro ,2012,16:20,Vitória - BA,Ceará - CE,1,1,0,0,1,1,1
+374,B,2012,ECO Estádio/Janguitão,Curitiba,PR,Sábado,24, Novembro ,2012,16:20,Atlético - PR,Paraná - PR,1,1,0,0,1,1,1
+375,B,2012,Frasqueirão,Natal,RN,Sábado,24, Novembro ,2012,16:20,A.b.c. - RN,América - RN,2,2,0,0,1,1,1
+376,B,2012,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,24, Novembro ,2012,16:20,Bragantino - SP,Boa - MG,3,0,1,0,0,3,0
+377,B,2012,Coaracy Fonseca,Arapiraca,AL,Sábado,24, Novembro ,2012,16:20,A.s.a. - AL,C.r.b. - AL,2,4,0,1,0,0,3
+378,B,2012,Independência,Belo Horizonte,MG,Terça,11, Setembro ,2012,19:30,América - MG,São Caetano - SP,2,5,0,1,0,0,3
+379,B,2012,Frasqueirão,Natal,RN,Terça,11, Setembro ,2012,21:50,A.b.c. - RN,Ceará - CE,0,1,0,1,0,0,3
