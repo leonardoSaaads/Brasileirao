@@ -1,0 +1,207 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2020,Curuzu,Belem,PA,Sábado,8, Agosto ,2020,17:00,Paysandu - PA,Santa Cruz - PE,0,0,0,0,1,1,1
+1,C,2020,Amigão,Campina Grande,PB,Quinta,8, Outubro ,2020,20:00,Treze - PB,Imperatriz - MA,4,1,1,0,0,3,0
+2,C,2020,Arena da Amazônia,Manaus,AM,Sábado,8, Agosto ,2020,19:00,Manaus - AM,Vila Nova - GO,1,1,0,0,1,1,1
+3,C,2020,Arena Castelão,Fortaleza,CE,Domingo,9, Agosto ,2020,20:00,Ferroviário - CE,Botafogo - PB,2,0,1,0,0,3,0
+4,C,2020,Eliel Martins,Riachao do Jacuipe,BA,Domingo,9, Agosto ,2020,18:00,Jacuipense - BA,Remo - PA,1,2,0,1,0,0,3
+5,C,2020,CT Hélio Dourado,Eldorado do Sul,RS,Sábado,8, Agosto ,2020,15:00,São José - RS,São Bento - SP,1,0,1,0,0,3,0
+6,C,2020,Augusto Bauer,Brusque,SC,Sábado,8, Agosto ,2020,17:00,Brusque - SC,Ypiranga - RS,2,1,1,0,0,3,0
+7,C,2020,José Liberatti,Osasco,SP,Sábado,8, Agosto ,2020,16:00,Ituano - SP,Tombense - MG,3,0,1,0,0,3,0
+8,C,2020,Dilzon Melo,Varginha,MG,Segunda,10, Agosto ,2020,18:00,Boa - MG,Volta Redonda - RJ,2,2,0,0,1,1,1
+9,C,2020,Do Café,Londrina,PR,Segunda,10, Agosto ,2020,20:00,Londrina - PR,Criciúma - SC,0,0,0,0,1,1,1
+10,C,2020,Mangueirão,Belem,PA,Domingo,16, Agosto ,2020,18:00,Remo - PA,Ferroviário - CE,2,1,1,0,0,3,0
+11,C,2020,Almeidão,Joao Pessoa,PB,Segunda,17, Agosto ,2020,20:00,Botafogo - PB,Manaus - AM,0,0,0,0,1,1,1
+12,C,2020,Frei Epifânio,Imperatriz,MA,Quarta,14, Outubro ,2020,20:00,Imperatriz - MA,Jacuipense - BA,1,2,0,1,0,0,3
+13,C,2020,Arruda,Recife,PE,Terça,18, Agosto ,2020,20:00,Santa Cruz - PE,Treze - PB,3,2,1,0,0,3,0
+14,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,15, Agosto ,2020,17:00,Vila Nova - GO,Paysandu - PA,2,0,1,0,0,3,0
+15,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,16, Agosto ,2020,16:00,Ypiranga - RS,Londrina - PR,2,1,1,0,0,3,0
+16,C,2020,Heriberto Hulse,Criciuma,SC,Sábado,15, Agosto ,2020,19:00,Criciúma - SC,Boa - MG,3,1,1,0,0,3,0
+17,C,2020,Walter Ribeiro,Sorocaba,SP,Quinta,13, Agosto ,2020,20:00,São Bento - SP,Brusque - SC,0,1,0,1,0,0,3
+18,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,15, Agosto ,2020,16:00,Tombense - MG,São José - RS,4,0,1,0,0,3,0
+19,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Segunda,17, Agosto ,2020,15:30,Volta Redonda - RJ,Ituano - SP,3,1,1,0,0,3,0
+20,C,2020,Curuzu,Belem,PA,Sábado,22, Agosto ,2020,19:00,Paysandu - PA,Treze - PB,1,0,1,0,0,3,0
+21,C,2020,Almeidão,Joao Pessoa,PB,Domingo,23, Agosto ,2020,18:00,Botafogo - PB,Santa Cruz - PE,1,2,0,1,0,0,3
+22,C,2020,Frei Epifânio,Imperatriz,MA,Segunda,24, Agosto ,2020,20:00,Imperatriz - MA,Remo - PA,0,0,0,0,1,1,1
+23,C,2020,Arena Castelão,Fortaleza,CE,Sábado,22, Agosto ,2020,17:00,Ferroviário - CE,Vila Nova - GO,4,0,1,0,0,3,0
+24,C,2020,Pituaçu,Salvador,BA,Sábado,22, Agosto ,2020,15:00,Jacuipense - BA,Manaus - AM,1,0,1,0,0,3,0
+25,C,2020,Francisco Novelletto,Porto Alegre,RS,Quinta,20, Agosto ,2020,20:00,São José - RS,Brusque - SC,1,0,1,0,0,3,0
+26,C,2020,Heriberto Hulse,Criciuma,SC,Segunda,24, Agosto ,2020,20:00,Criciúma - SC,São Bento - SP,3,1,1,0,0,3,0
+27,C,2020,Novelli Junior,Itu,SP,Domingo,23, Agosto ,2020,16:00,Ituano - SP,Londrina - PR,1,1,0,0,1,1,1
+28,C,2020,Dilzon Melo,Varginha,MG,Domingo,23, Agosto ,2020,16:00,Boa - MG,Ypiranga - RS,1,1,0,0,1,1,1
+29,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Sábado,22, Agosto ,2020,15:30,Volta Redonda - RJ,Tombense - MG,2,0,1,0,0,3,0
+30,C,2020,Mangueirão,Belem,PA,Domingo,30, Agosto ,2020,18:00,Remo - PA,Vila Nova - GO,0,0,0,0,1,1,1
+31,C,2020,Amigão,Campina Grande,PB,Domingo,30, Agosto ,2020,20:00,Treze - PB,Ferroviário - CE,0,3,0,1,0,0,3
+32,C,2020,Arena da Amazônia,Manaus,AM,Sábado,29, Agosto ,2020,19:00,Manaus - AM,Paysandu - PA,2,1,1,0,0,3,0
+33,C,2020,Arruda,Recife,PE,Sábado,29, Agosto ,2020,17:00,Santa Cruz - PE,Imperatriz - MA,2,0,1,0,0,3,0
+34,C,2020,Pituaçu,Salvador,BA,Sexta,28, Agosto ,2020,20:00,Jacuipense - BA,Botafogo - PB,1,1,0,0,1,1,1
+35,C,2020,Francisco Novelletto,Porto Alegre,RS,Domingo,30, Agosto ,2020,16:00,São José - RS,Volta Redonda - RJ,0,2,0,1,0,0,3
+36,C,2020,Augusto Bauer,Brusque,SC,Domingo,30, Agosto ,2020,16:00,Brusque - SC,Ituano - SP,2,0,1,0,0,3,0
+37,C,2020,Walter Ribeiro,Sorocaba,SP,Quarta,2, Setembro ,2020,16:00,São Bento - SP,Ypiranga - RS,1,1,0,0,1,1,1
+38,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Quarta,30, Setembro ,2020,20:00,Tombense - MG,Criciúma - SC,1,0,1,0,0,3,0
+39,C,2020,Do Café,Londrina,PR,Domingo,30, Agosto ,2020,16:00,Londrina - PR,Boa - MG,2,0,1,0,0,3,0
+40,C,2020,Curuzu,Belem,PA,Quarta,9, Setembro ,2020,20:00,Paysandu - PA,Jacuipense - BA,1,2,0,1,0,0,3
+41,C,2020,Amigão,Campina Grande,PB,Quinta,10, Setembro ,2020,20:00,Treze - PB,Remo - PA,2,2,0,0,1,1,1
+42,C,2020,Frei Epifânio,Imperatriz,MA,Sábado,5, Setembro ,2020,17:00,Imperatriz - MA,Botafogo - PB,1,2,0,1,0,0,3
+43,C,2020,Arena Castelão,Fortaleza,CE,Domingo,6, Setembro ,2020,18:00,Ferroviário - CE,Manaus - AM,1,1,0,0,1,1,1
+44,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,5, Setembro ,2020,19:00,Vila Nova - GO,Santa Cruz - PE,1,0,1,0,0,3,0
+45,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,6, Setembro ,2020,15:30,Ypiranga - RS,Tombense - MG,2,0,1,0,0,3,0
+46,C,2020,Heriberto Hulse,Criciuma,SC,Domingo,6, Setembro ,2020,16:00,Criciúma - SC,Volta Redonda - RJ,1,1,0,0,1,1,1
+47,C,2020,Novelli Junior,Itu,SP,Sábado,5, Setembro ,2020,16:00,Ituano - SP,São José - RS,2,2,0,0,1,1,1
+48,C,2020,Dilzon Melo,Varginha,MG,Domingo,6, Setembro ,2020,16:00,Boa - MG,Brusque - SC,0,1,0,1,0,0,3
+49,C,2020,Do Café,Londrina,PR,Sábado,5, Setembro ,2020,16:00,Londrina - PR,São Bento - SP,1,0,1,0,0,3,0
+50,C,2020,Curuzu,Belem,PA,Sábado,12, Setembro ,2020,19:00,Paysandu - PA,Imperatriz - MA,6,1,1,0,0,3,0
+51,C,2020,Almeidão,Joao Pessoa,PB,Sábado,12, Setembro ,2020,17:00,Botafogo - PB,Vila Nova - GO,0,0,0,0,1,1,1
+52,C,2020,Arena da Amazônia,Manaus,AM,Segunda,14, Setembro ,2020,18:00,Manaus - AM,Treze - PB,1,1,0,0,1,1,1
+53,C,2020,Arruda,Recife,PE,Domingo,13, Setembro ,2020,18:00,Santa Cruz - PE,Remo - PA,1,0,1,0,0,3,0
+54,C,2020,Pituaçu,Salvador,BA,Segunda,14, Setembro ,2020,20:00,Jacuipense - BA,Ferroviário - CE,0,0,0,0,1,1,1
+55,C,2020,Francisco Novelletto,Porto Alegre,RS,Sábado,12, Setembro ,2020,15:00,São José - RS,Boa - MG,0,0,0,0,1,1,1
+56,C,2020,Augusto Bauer,Brusque,SC,Quinta,1, Outubro ,2020,20:00,Brusque - SC,Londrina - PR,2,1,1,0,0,3,0
+57,C,2020,Novelli Junior,Itu,SP,Sexta,11, Setembro ,2020,20:00,Ituano - SP,Criciúma - SC,2,2,0,0,1,1,1
+58,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,12, Setembro ,2020,16:00,Tombense - MG,São Bento - SP,1,1,0,0,1,1,1
+59,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Quinta,10, Setembro ,2020,15:00,Volta Redonda - RJ,Ypiranga - RS,1,2,0,1,0,0,3
+60,C,2020,Mangueirão,Belem,PA,Domingo,20, Setembro ,2020,18:00,Remo - PA,Botafogo - PB,0,0,0,0,1,1,1
+61,C,2020,Amigão,Campina Grande,PB,Sábado,19, Setembro ,2020,17:00,Treze - PB,Jacuipense - BA,0,0,0,0,1,1,1
+62,C,2020,Arena da Amazônia,Manaus,AM,Sábado,19, Setembro ,2020,19:00,Manaus - AM,Santa Cruz - PE,0,0,0,0,1,1,1
+63,C,2020,Arena Castelão,Fortaleza,CE,Domingo,20, Setembro ,2020,20:00,Ferroviário - CE,Paysandu - PA,0,2,0,1,0,0,3
+64,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,21, Setembro ,2020,20:00,Vila Nova - GO,Imperatriz - MA,3,0,1,0,0,3,0
+65,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,20, Setembro ,2020,16:00,Ypiranga - RS,Criciúma - SC,2,0,1,0,0,3,0
+66,C,2020,Augusto Bauer,Brusque,SC,Domingo,20, Setembro ,2020,16:00,Brusque - SC,Tombense - MG,1,0,1,0,0,3,0
+67,C,2020,Walter Ribeiro,Sorocaba,SP,Sábado,19, Setembro ,2020,16:00,São Bento - SP,Volta Redonda - RJ,1,1,0,0,1,1,1
+68,C,2020,Dilzon Melo,Varginha,MG,Domingo,20, Setembro ,2020,16:00,Boa - MG,Ituano - SP,1,2,0,1,0,0,3
+69,C,2020,Do Café,Londrina,PR,Quinta,17, Setembro ,2020,20:00,Londrina - PR,São José - RS,1,0,1,0,0,3,0
+70,C,2020,Mangueirão,Belem,PA,Domingo,27, Setembro ,2020,18:00,Remo - PA,Manaus - AM,1,0,1,0,0,3,0
+71,C,2020,Almeidão,Joao Pessoa,PB,Sábado,26, Setembro ,2020,19:00,Botafogo - PB,Paysandu - PA,1,1,0,0,1,1,1
+72,C,2020,Frei Epifânio,Imperatriz,MA,Sábado,26, Setembro ,2020,17:00,Imperatriz - MA,Ferroviário - CE,1,2,0,1,0,0,3
+73,C,2020,Arruda,Recife,PE,Segunda,28, Setembro ,2020,20:00,Santa Cruz - PE,Jacuipense - BA,3,3,0,0,1,1,1
+74,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,26, Setembro ,2020,19:00,Vila Nova - GO,Treze - PB,0,0,0,0,1,1,1
+75,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,27, Setembro ,2020,15:30,Ypiranga - RS,Ituano - SP,2,1,1,0,0,3,0
+76,C,2020,Heriberto Hulse,Criciuma,SC,Sexta,25, Setembro ,2020,20:00,Criciúma - SC,São José - RS,2,0,1,0,0,3,0
+77,C,2020,Walter Ribeiro,Sorocaba,SP,Sábado,26, Setembro ,2020,16:00,São Bento - SP,Boa - MG,1,1,0,0,1,1,1
+78,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Domingo,27, Setembro ,2020,16:00,Tombense - MG,Londrina - PR,2,1,1,0,0,3,0
+79,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Domingo,27, Setembro ,2020,15:00,Volta Redonda - RJ,Brusque - SC,2,2,0,0,1,1,1
+80,C,2020,Amigão,Campina Grande,PB,Sábado,3, Outubro ,2020,17:00,Treze - PB,Botafogo - PB,2,0,1,0,0,3,0
+81,C,2020,Arena da Amazônia,Manaus,AM,Sábado,3, Outubro ,2020,17:00,Manaus - AM,Imperatriz - MA,1,0,1,0,0,3,0
+82,C,2020,Domingão,Horizonte,CE,Domingo,4, Outubro ,2020,15:30,Ferroviário - CE,Santa Cruz - PE,1,3,0,1,0,0,3
+83,C,2020,Pituaçu,Salvador,BA,Segunda,5, Outubro ,2020,20:00,Jacuipense - BA,Vila Nova - GO,0,3,0,1,0,0,3
+84,C,2020,Mangueirão,Belem,PA,Sábado,3, Outubro ,2020,19:00,Paysandu - PA,Remo - PA,2,3,0,1,0,0,3
+85,C,2020,Francisco Novelletto,Porto Alegre,RS,Sábado,3, Outubro ,2020,15:00,São José - RS,Ypiranga - RS,2,0,1,0,0,3,0
+86,C,2020,Augusto Bauer,Brusque,SC,Segunda,5, Outubro ,2020,20:00,Brusque - SC,Criciúma - SC,3,1,1,0,0,3,0
+87,C,2020,Novelli Junior,Itu,SP,Sexta,2, Outubro ,2020,20:00,Ituano - SP,São Bento - SP,0,0,0,0,1,1,1
+88,C,2020,Dilzon Melo,Varginha,MG,Domingo,4, Outubro ,2020,16:00,Boa - MG,Tombense - MG,1,1,0,0,1,1,1
+89,C,2020,Do Café,Londrina,PR,Domingo,4, Outubro ,2020,16:00,Londrina - PR,Volta Redonda - RJ,1,0,1,0,0,3,0
+90,C,2020,Mangueirão,Belem,PA,Sábado,10, Outubro ,2020,19:00,Remo - PA,Jacuipense - BA,2,0,1,0,0,3,0
+91,C,2020,Almeidão,Joao Pessoa,PB,Sábado,10, Outubro ,2020,17:00,Botafogo - PB,Ferroviário - CE,2,1,1,0,0,3,0
+92,C,2020,Frei Epifânio,Imperatriz,MA,Domingo,11, Outubro ,2020,18:00,Imperatriz - MA,Treze - PB,1,2,0,1,0,0,3
+93,C,2020,Arruda,Recife,PE,Domingo,11, Outubro ,2020,18:00,Santa Cruz - PE,Paysandu - PA,2,1,1,0,0,3,0
+94,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,12, Outubro ,2020,20:00,Vila Nova - GO,Manaus - AM,2,1,1,0,0,3,0
+95,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,11, Outubro ,2020,15:30,Ypiranga - RS,Brusque - SC,1,1,0,0,1,1,1
+96,C,2020,Heriberto Hulse,Criciuma,SC,Domingo,11, Outubro ,2020,20:00,Criciúma - SC,Londrina - PR,2,1,1,0,0,3,0
+97,C,2020,Walter Ribeiro,Sorocaba,SP,Quinta,15, Outubro ,2020,20:00,São Bento - SP,São José - RS,2,0,1,0,0,3,0
+98,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,10, Outubro ,2020,17:00,Tombense - MG,Ituano - SP,0,0,0,0,1,1,1
+99,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Sábado,10, Outubro ,2020,15:00,Volta Redonda - RJ,Boa - MG,0,0,0,0,1,1,1
+100,C,2020,Mangueirão,Belem,PA,Domingo,18, Outubro ,2020,18:00,Paysandu - PA,Vila Nova - GO,0,0,0,0,1,1,1
+101,C,2020,Amigão,Campina Grande,PB,Sábado,17, Outubro ,2020,19:00,Treze - PB,Santa Cruz - PE,0,1,0,1,0,0,3
+102,C,2020,Arena da Amazônia,Manaus,AM,Segunda,19, Outubro ,2020,20:00,Manaus - AM,Botafogo - PB,3,2,1,0,0,3,0
+103,C,2020,Arena Castelão,Fortaleza,CE,Sábado,17, Outubro ,2020,17:00,Ferroviário - CE,Remo - PA,1,0,1,0,0,3,0
+104,C,2020,Pituaçu,Salvador,BA,Domingo,18, Outubro ,2020,16:00,Jacuipense - BA,Imperatriz - MA,3,1,1,0,0,3,0
+105,C,2020,Francisco Novelletto,Porto Alegre,RS,Segunda,19, Outubro ,2020,16:00,São José - RS,Tombense - MG,2,2,0,0,1,1,1
+106,C,2020,Augusto Bauer,Brusque,SC,Domingo,18, Outubro ,2020,16:00,Brusque - SC,São Bento - SP,1,0,1,0,0,3,0
+107,C,2020,Novelli Junior,Itu,SP,Quinta,15, Outubro ,2020,20:00,Ituano - SP,Volta Redonda - RJ,2,0,1,0,0,3,0
+108,C,2020,Dilzon Melo,Varginha,MG,Domingo,18, Outubro ,2020,16:00,Boa - MG,Criciúma - SC,2,0,1,0,0,3,0
+109,C,2020,Do Café,Londrina,PR,Domingo,18, Outubro ,2020,16:00,Londrina - PR,Ypiranga - RS,3,2,1,0,0,3,0
+110,C,2020,Mangueirão,Belem,PA,Sábado,24, Outubro ,2020,19:00,Remo - PA,Imperatriz - MA,5,0,1,0,0,3,0
+111,C,2020,Amigão,Campina Grande,PB,Sábado,24, Outubro ,2020,17:00,Treze - PB,Paysandu - PA,0,1,0,1,0,0,3
+112,C,2020,Arena da Amazônia,Manaus,AM,Sábado,24, Outubro ,2020,17:00,Manaus - AM,Jacuipense - BA,2,1,1,0,0,3,0
+113,C,2020,Arruda,Recife,PE,Domingo,25, Outubro ,2020,18:00,Santa Cruz - PE,Botafogo - PB,1,0,1,0,0,3,0
+114,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,26, Outubro ,2020,20:00,Vila Nova - GO,Ferroviário - CE,3,0,1,0,0,3,0
+115,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,25, Outubro ,2020,15:30,Ypiranga - RS,Boa - MG,2,1,1,0,0,3,0
+116,C,2020,Augusto Bauer,Brusque,SC,Domingo,25, Outubro ,2020,16:00,Brusque - SC,São José - RS,0,0,0,0,1,1,1
+117,C,2020,Walter Ribeiro,Sorocaba,SP,Segunda,26, Outubro ,2020,18:00,São Bento - SP,Criciúma - SC,0,0,0,0,1,1,1
+118,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Domingo,25, Outubro ,2020,17:00,Tombense - MG,Volta Redonda - RJ,1,0,1,0,0,3,0
+119,C,2020,Do Café,Londrina,PR,Domingo,25, Outubro ,2020,16:00,Londrina - PR,Ituano - SP,1,0,1,0,0,3,0
+120,C,2020,Mangueirão,Belem,PA,Sábado,31, Outubro ,2020,19:00,Paysandu - PA,Manaus - AM,1,1,0,0,1,1,1
+121,C,2020,Almeidão,Joao Pessoa,PB,Domingo,1, Novembro ,2020,18:00,Botafogo - PB,Jacuipense - BA,1,1,0,0,1,1,1
+122,C,2020,Frei Epifânio,Imperatriz,MA,Sábado,31, Outubro ,2020,17:00,Imperatriz - MA,Santa Cruz - PE,1,6,0,1,0,0,3
+123,C,2020,Domingão,Horizonte,CE,Domingo,1, Novembro ,2020,15:30,Ferroviário - CE,Treze - PB,0,1,0,1,0,0,3
+124,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Domingo,1, Novembro ,2020,18:00,Vila Nova - GO,Remo - PA,0,0,0,0,1,1,1
+125,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,1, Novembro ,2020,16:30,Ypiranga - RS,São Bento - SP,2,1,1,0,0,3,0
+126,C,2020,Heriberto Hulse,Criciuma,SC,Domingo,1, Novembro ,2020,16:00,Criciúma - SC,Tombense - MG,0,1,0,1,0,0,3
+127,C,2020,Novelli Junior,Itu,SP,Quinta,29, Outubro ,2020,20:00,Ituano - SP,Brusque - SC,3,1,1,0,0,3,0
+128,C,2020,Dilzon Melo,Varginha,MG,Domingo,1, Novembro ,2020,16:00,Boa - MG,Londrina - PR,0,0,0,0,1,1,1
+129,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Domingo,1, Novembro ,2020,15:00,Volta Redonda - RJ,São José - RS,3,4,0,1,0,0,3
+130,C,2020,Mangueirão,Belem,PA,Domingo,8, Novembro ,2020,18:00,Remo - PA,Treze - PB,1,0,1,0,0,3,0
+131,C,2020,Almeidão,Joao Pessoa,PB,Sábado,7, Novembro ,2020,17:00,Botafogo - PB,Imperatriz - MA,7,0,1,0,0,3,0
+132,C,2020,Arena da Amazônia,Manaus,AM,Sábado,7, Novembro ,2020,17:00,Manaus - AM,Ferroviário - CE,1,1,0,0,1,1,1
+133,C,2020,Arruda,Recife,PE,Sábado,7, Novembro ,2020,19:00,Santa Cruz - PE,Vila Nova - GO,2,0,1,0,0,3,0
+134,C,2020,Pituaçu,Salvador,BA,Domingo,8, Novembro ,2020,20:00,Jacuipense - BA,Paysandu - PA,0,1,0,1,0,0,3
+135,C,2020,Francisco Novelletto,Porto Alegre,RS,Sábado,7, Novembro ,2020,15:00,São José - RS,Ituano - SP,0,1,0,1,0,0,3
+136,C,2020,Augusto Bauer,Brusque,SC,Segunda,9, Novembro ,2020,20:00,Brusque - SC,Boa - MG,2,2,0,0,1,1,1
+137,C,2020,Walter Ribeiro,Sorocaba,SP,Sábado,7, Novembro ,2020,16:00,São Bento - SP,Londrina - PR,1,0,1,0,0,3,0
+138,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,7, Novembro ,2020,17:00,Tombense - MG,Ypiranga - RS,2,0,1,0,0,3,0
+139,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Sábado,7, Novembro ,2020,15:00,Volta Redonda - RJ,Criciúma - SC,0,0,0,0,1,1,1
+140,C,2020,Mangueirão,Belem,PA,Sexta,13, Novembro ,2020,20:00,Remo - PA,Santa Cruz - PE,0,2,0,1,0,0,3
+141,C,2020,Amigão,Campina Grande,PB,Sábado,14, Novembro ,2020,17:00,Treze - PB,Manaus - AM,1,1,0,0,1,1,1
+142,C,2020,Frei Epifânio,Imperatriz,MA,Segunda,16, Novembro ,2020,20:00,Imperatriz - MA,Paysandu - PA,0,3,0,1,0,0,3
+143,C,2020,Domingão,Horizonte,CE,Sábado,14, Novembro ,2020,15:00,Ferroviário - CE,Jacuipense - BA,0,0,0,0,1,1,1
+144,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,16, Novembro ,2020,18:00,Vila Nova - GO,Botafogo - PB,0,1,0,1,0,0,3
+145,C,2020,Colosso da Lagoa,Erechim,RS,Sábado,14, Novembro ,2020,16:00,Ypiranga - RS,Volta Redonda - RJ,2,3,0,1,0,0,3
+146,C,2020,Heriberto Hulse,Criciuma,SC,Sábado,14, Novembro ,2020,18:00,Criciúma - SC,Ituano - SP,0,2,0,1,0,0,3
+147,C,2020,Walter Ribeiro,Sorocaba,SP,Sábado,14, Novembro ,2020,16:00,São Bento - SP,Tombense - MG,2,2,0,0,1,1,1
+148,C,2020,Dilzon Melo,Varginha,MG,Segunda,16, Novembro ,2020,16:00,Boa - MG,São José - RS,1,0,1,0,0,3,0
+149,C,2020,Do Café,Londrina,PR,Sábado,14, Novembro ,2020,19:00,Londrina - PR,Brusque - SC,2,1,1,0,0,3,0
+150,C,2020,Mangueirão,Belem,PA,Domingo,22, Novembro ,2020,18:00,Paysandu - PA,Ferroviário - CE,3,0,1,0,0,3,0
+151,C,2020,Almeidão,Joao Pessoa,PB,Segunda,23, Novembro ,2020,20:00,Botafogo - PB,Remo - PA,0,0,0,0,1,1,1
+152,C,2020,Frei Epifânio,Imperatriz,MA,Sábado,21, Novembro ,2020,17:00,Imperatriz - MA,Vila Nova - GO,1,3,0,1,0,0,3
+153,C,2020,Arruda,Recife,PE,Sábado,21, Novembro ,2020,19:00,Santa Cruz - PE,Manaus - AM,1,2,0,1,0,0,3
+154,C,2020,Pituaçu,Salvador,BA,Domingo,22, Novembro ,2020,20:00,Jacuipense - BA,Treze - PB,3,2,1,0,0,3,0
+155,C,2020,Francisco Novelletto,Porto Alegre,RS,Domingo,22, Novembro ,2020,15:00,São José - RS,Londrina - PR,0,0,0,0,1,1,1
+156,C,2020,Heriberto Hulse,Criciuma,SC,Quinta,19, Novembro ,2020,20:00,Criciúma - SC,Ypiranga - RS,4,4,0,0,1,1,1
+157,C,2020,Novelli Junior,Itu,SP,Sábado,21, Novembro ,2020,16:00,Ituano - SP,Boa - MG,4,3,1,0,0,3,0
+158,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,21, Novembro ,2020,17:00,Tombense - MG,Brusque - SC,2,0,1,0,0,3,0
+159,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Domingo,22, Novembro ,2020,15:00,Volta Redonda - RJ,São Bento - SP,1,1,0,0,1,1,1
+160,C,2020,Mangueirão,Belem,PA,Sexta,27, Novembro ,2020,20:00,Paysandu - PA,Botafogo - PB,1,0,1,0,0,3,0
+161,C,2020,Amigão,Campina Grande,PB,Sábado,28, Novembro ,2020,17:00,Treze - PB,Vila Nova - GO,1,1,0,0,1,1,1
+162,C,2020,Arena da Amazônia,Manaus,AM,Sábado,28, Novembro ,2020,19:00,Manaus - AM,Remo - PA,0,2,0,1,0,0,3
+163,C,2020,Arena Castelão,Fortaleza,CE,Sábado,28, Novembro ,2020,18:00,Ferroviário - CE,Imperatriz - MA,7,0,1,0,0,3,0
+164,C,2020,Pituaçu,Salvador,BA,Segunda,30, Novembro ,2020,20:00,Jacuipense - BA,Santa Cruz - PE,1,0,1,0,0,3,0
+165,C,2020,Francisco Novelletto,Porto Alegre,RS,Sábado,28, Novembro ,2020,15:00,São José - RS,Criciúma - SC,2,0,1,0,0,3,0
+166,C,2020,Augusto Bauer,Brusque,SC,Sábado,28, Novembro ,2020,15:00,Brusque - SC,Volta Redonda - RJ,1,8,0,1,0,0,3
+167,C,2020,Novelli Junior,Itu,SP,Sábado,28, Novembro ,2020,16:00,Ituano - SP,Ypiranga - RS,1,2,0,1,0,0,3
+168,C,2020,Dilzon Melo,Varginha,MG,Sábado,28, Novembro ,2020,16:00,Boa - MG,São Bento - SP,0,1,0,1,0,0,3
+169,C,2020,Do Café,Londrina,PR,Sábado,28, Novembro ,2020,16:00,Londrina - PR,Tombense - MG,2,1,1,0,0,3,0
+170,C,2020,Mangueirão,Belem,PA,Sábado,5, Dezembro ,2020,17:00,Remo - PA,Paysandu - PA,0,0,0,0,1,1,1
+171,C,2020,Almeidão,Joao Pessoa,PB,Sábado,5, Dezembro ,2020,17:00,Botafogo - PB,Treze - PB,1,1,0,0,1,1,1
+172,C,2020,Frei Epifânio,Imperatriz,MA,Sábado,5, Dezembro ,2020,17:00,Imperatriz - MA,Manaus - AM,1,2,0,1,0,0,3
+173,C,2020,Arruda,Recife,PE,Sábado,5, Dezembro ,2020,17:00,Santa Cruz - PE,Ferroviário - CE,3,3,0,0,1,1,1
+174,C,2020,Olímpico Pedro Ludovico,Goiania,GO,Sábado,5, Dezembro ,2020,17:00,Vila Nova - GO,Jacuipense - BA,1,0,1,0,0,3,0
+175,C,2020,Colosso da Lagoa,Erechim,RS,Sábado,5, Dezembro ,2020,19:00,Ypiranga - RS,São José - RS,3,1,1,0,0,3,0
+176,C,2020,Heriberto Hulse,Criciuma,SC,Sábado,5, Dezembro ,2020,19:00,Criciúma - SC,Brusque - SC,2,2,0,0,1,1,1
+177,C,2020,Walter Ribeiro,Sorocaba,SP,Sábado,5, Dezembro ,2020,19:00,São Bento - SP,Ituano - SP,0,3,0,1,0,0,3
+178,C,2020,Antônio Guimarães de Almeida,Tombos,MG,Sábado,5, Dezembro ,2020,19:00,Tombense - MG,Boa - MG,1,1,0,0,1,1,1
+179,C,2020,Luso Brasileiro,Rio de Janeiro,RJ,Sábado,5, Dezembro ,2020,19:00,Volta Redonda - RJ,Londrina - PR,2,2,0,0,1,1,1
+180,C,2020,Augusto Bauer,Brusque,SC,Domingo,13, Dezembro ,2020,20:00,Brusque - SC,Santa Cruz - PE,0,0,0,0,1,1,1
+181,C,2020,Olímpico Pedro Ludovico,Goiania,GO,Segunda,14, Dezembro ,2020,20:00,Vila Nova - GO,Ituano - SP,1,2,0,1,0,0,3
+182,C,2020,Mangueirão,Belem,PA,Domingo,13, Dezembro ,2020,18:00,Paysandu - PA,Ypiranga - RS,2,1,1,0,0,3,0
+183,C,2020,Do Café,Londrina,PR,Sábado,12, Dezembro ,2020,17:00,Londrina - PR,Remo - PA,0,0,0,0,1,1,1
+184,C,2020,Arruda,Recife,PE,Sábado,19, Dezembro ,2020,17:00,Santa Cruz - PE,Vila Nova - GO,1,2,0,1,0,0,3
+185,C,2020,Novelli Junior,Itu,SP,Segunda,21, Dezembro ,2020,20:00,Ituano - SP,Brusque - SC,1,1,0,0,1,1,1
+186,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,20, Dezembro ,2020,20:00,Ypiranga - RS,Londrina - PR,2,3,0,1,0,0,3
+187,C,2020,Mangueirão,Belem,PA,Domingo,20, Dezembro ,2020,18:00,Remo - PA,Paysandu - PA,3,1,1,0,0,3,0
+188,C,2020,Novelli Junior,Itu,SP,Sábado,26, Dezembro ,2020,19:00,Ituano - SP,Santa Cruz - PE,1,2,0,1,0,0,3
+189,C,2020,Augusto Bauer,Brusque,SC,Sábado,26, Dezembro ,2020,21:00,Brusque - SC,Vila Nova - GO,0,0,0,0,1,1,1
+190,C,2020,Mangueirão,Belem,PA,Domingo,27, Dezembro ,2020,18:00,Remo - PA,Ypiranga - RS,2,1,1,0,0,3,0
+191,C,2020,Mangueirão,Belem,PA,Sábado,26, Dezembro ,2020,17:00,Paysandu - PA,Londrina - PR,3,2,1,0,0,3,0
+192,C,2020,Arruda,Recife,PE,Domingo,3, Janeiro ,2021,18:00,Santa Cruz - PE,Ituano - SP,1,1,0,0,1,1,1
+193,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,2, Janeiro ,2021,17:00,Vila Nova - GO,Brusque - SC,0,3,0,1,0,0,3
+194,C,2020,Colosso da Lagoa,Erechim,RS,Domingo,3, Janeiro ,2021,20:00,Ypiranga - RS,Remo - PA,2,1,1,0,0,3,0
+195,C,2020,Do Café,Londrina,PR,Segunda,4, Janeiro ,2021,20:00,Londrina - PR,Paysandu - PA,0,0,0,0,1,1,1
+196,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,9, Janeiro ,2021,17:00,Vila Nova - GO,Santa Cruz - PE,2,1,1,0,0,3,0
+197,C,2020,Augusto Bauer,Brusque,SC,Segunda,11, Janeiro ,2021,20:00,Brusque - SC,Ituano - SP,4,2,1,0,0,3,0
+198,C,2020,Do Café,Londrina,PR,Domingo,10, Janeiro ,2021,20:00,Londrina - PR,Ypiranga - RS,1,1,0,0,1,1,1
+199,C,2020,Mangueirão,Belem,PA,Domingo,10, Janeiro ,2021,18:00,Paysandu - PA,Remo - PA,0,1,0,1,0,0,3
+200,C,2020,Arruda,Recife,PE,Domingo,17, Janeiro ,2021,18:00,Santa Cruz - PE,Brusque - SC,3,1,1,0,0,3,0
+201,C,2020,Novelli Junior,Itu,SP,Domingo,17, Janeiro ,2021,18:00,Ituano - SP,Vila Nova - GO,0,1,0,1,0,0,3
+202,C,2020,Colosso da Lagoa,Erechim,RS,Sábado,16, Janeiro ,2021,17:00,Ypiranga - RS,Paysandu - PA,1,0,1,0,0,3,0
+203,C,2020,Mangueirão,Belem,PA,Sábado,16, Janeiro ,2021,17:00,Remo - PA,Londrina - PR,0,1,0,1,0,0,3
+204,C,2020,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,23, Janeiro ,2021,17:00,Vila Nova - GO,Remo - PA,5,1,1,0,0,3,0
+205,C,2020,Mangueirão,Belem,PA,Sábado,30, Janeiro ,2021,17:00,Remo - PA,Vila Nova - GO,2,3,0,1,0,0,3

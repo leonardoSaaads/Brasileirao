@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,14, Abril ,2018,21:00,Ponte Preta - SP,Paysandu - PA,0,1,0,1,0,0,3
+1,B,2018,Arena Barueri,Barueri,SP,Sexta,13, Abril ,2018,20:30,Oeste - SP,Crb - AL,2,0,1,0,0,3,0
+2,B,2018,Bento Freitas,Pelotas,RS,Sábado,14, Abril ,2018,16:30,Brasil - RS,São Bento - SP,1,1,0,0,1,1,1
+3,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,13, Abril ,2018,21:30,Figueirense - SC,Juventude - RS,2,1,1,0,0,3,0
+4,B,2018,Arena Castelão,Fortaleza,CE,Sexta,13, Abril ,2018,19:15,Fortaleza - CE,Guarani - SP,2,1,1,0,0,3,0
+5,B,2018,Serra Dourada,Goiania,GO,Sábado,14, Abril ,2018,16:30,Vila Nova - GO,Avaí - SC,1,0,1,0,0,3,0
+6,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,13, Abril ,2018,20:30,Atlético - GO,Criciúma - SC,3,2,1,0,0,3,0
+7,B,2018,Rei Pelé,Maceio,AL,Sábado,14, Abril ,2018,16:30,Csa - AL,Goiás - GO,2,1,1,0,0,3,0
+8,B,2018,Do Café,Londrina,PR,Sábado,14, Abril ,2018,16:30,Londrina - PR,Boa - MG,1,0,1,0,0,3,0
+9,B,2018,Castelão,Sao Luis,MA,Sábado,14, Abril ,2018,19:00,Sampaio Correa - MA,Coritiba - PR,2,0,1,0,0,3,0
+10,B,2018,Brinco de Ouro,Campinas,SP,Sábado,21, Abril ,2018,16:30,Guarani - SP,Sampaio Correa - MA,2,0,1,0,0,3,0
+11,B,2018,Walter Ribeiro,Sorocaba,SP,Sexta,20, Abril ,2018,20:30,São Bento - SP,Csa - AL,2,1,1,0,0,3,0
+12,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,20, Abril ,2018,19:15,Juventude - RS,Oeste - SP,1,1,0,0,1,1,1
+13,B,2018,Ressacada,Florianopolis,SC,Sábado,21, Abril ,2018,16:30,Avaí - SC,Brasil - RS,2,2,0,0,1,1,1
+14,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,21, Abril ,2018,19:00,Criciúma - SC,Ponte Preta - SP,0,1,0,1,0,0,3
+15,B,2018,Serra Dourada,Goiania,GO,Sábado,21, Abril ,2018,16:30,Goiás - GO,Figueirense - SC,0,2,0,1,0,0,3
+16,B,2018,Dilzon Melo,Varginha,MG,Terça,17, Abril ,2018,19:15,Boa - MG,Fortaleza - CE,0,2,0,1,0,0,3
+17,B,2018,Rei Pelé,Maceio,AL,Sábado,21, Abril ,2018,16:30,Crb - AL,Vila Nova - GO,0,1,0,1,0,0,3
+18,B,2018,Couto Pereira,Curitiba,PR,Terça,17, Abril ,2018,21:30,Coritiba - PR,Atlético - GO,1,0,1,0,0,3,0
+19,B,2018,Curuzu,Belem,PA,Sexta,20, Abril ,2018,21:30,Paysandu - PA,Londrina - PR,1,0,1,0,0,3,0
+20,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,28, Abril ,2018,19:00,Ponte Preta - SP,Londrina - PR,0,1,0,1,0,0,3
+21,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,28, Abril ,2018,21:00,São Bento - SP,Goiás - GO,1,1,0,0,1,1,1
+22,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,28, Abril ,2018,16:30,Juventude - RS,Avaí - SC,1,3,0,1,0,0,3
+23,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,27, Abril ,2018,19:15,Figueirense - SC,Boa - MG,2,0,1,0,0,3,0
+24,B,2018,Arena Castelão,Fortaleza,CE,Terça,24, Abril ,2018,21:30,Fortaleza - CE,Crb - AL,3,1,1,0,0,3,0
+25,B,2018,Serra Dourada,Goiania,GO,Sábado,28, Abril ,2018,16:30,Vila Nova - GO,Sampaio Correa - MA,3,1,1,0,0,3,0
+26,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,24, Abril ,2018,19:15,Atlético - GO,Guarani - SP,3,2,1,0,0,3,0
+27,B,2018,Rei Pelé,Maceio,AL,Sexta,27, Abril ,2018,20:30,Csa - AL,Oeste - SP,5,1,1,0,0,3,0
+28,B,2018,Couto Pereira,Curitiba,PR,Sexta,27, Abril ,2018,21:30,Coritiba - PR,Criciúma - SC,2,1,1,0,0,3,0
+29,B,2018,Curuzu,Belem,PA,Sábado,28, Abril ,2018,16:30,Paysandu - PA,Brasil - RS,2,1,1,0,0,3,0
+30,B,2018,Brinco de Ouro,Campinas,SP,Sábado,5, Maio ,2018,19:00,Guarani - SP,Ponte Preta - SP,2,3,0,1,0,0,3
+31,B,2018,Arena Barueri,Barueri,SP,Sexta,4, Maio ,2018,21:30,Oeste - SP,Coritiba - PR,1,1,0,0,1,1,1
+32,B,2018,Bento Freitas,Pelotas,RS,Terça,1, Maio ,2018,16:30,Brasil - RS,Figueirense - SC,1,0,1,0,0,3,0
+33,B,2018,Ressacada,Florianopolis,SC,Sábado,5, Maio ,2018,16:30,Avaí - SC,São Bento - SP,1,1,0,0,1,1,1
+34,B,2018,Heriberto Hulse,Criciuma,SC,Terça,1, Maio ,2018,16:00,Criciúma - SC,Csa - AL,1,3,0,1,0,0,3
+35,B,2018,Serra Dourada,Goiania,GO,Sábado,5, Maio ,2018,16:30,Goiás - GO,Vila Nova - GO,1,3,0,1,0,0,3
+36,B,2018,Dilzon Melo,Varginha,MG,Terça,1, Maio ,2018,16:00,Boa - MG,Juventude - RS,1,2,0,1,0,0,3
+37,B,2018,Rei Pelé,Maceio,AL,Sexta,4, Maio ,2018,20:30,Crb - AL,Atlético - GO,3,1,1,0,0,3,0
+38,B,2018,Do Café,Londrina,PR,Terça,1, Maio ,2018,16:30,Londrina - PR,Fortaleza - CE,1,1,0,0,1,1,1
+39,B,2018,Castelão,Sao Luis,MA,Sexta,4, Maio ,2018,19:15,Sampaio Correa - MA,Paysandu - PA,1,1,0,0,1,1,1
+40,B,2018,Brinco de Ouro,Campinas,SP,Terça,8, Maio ,2018,19:15,Guarani - SP,Criciúma - SC,1,0,1,0,0,3,0
+41,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,12, Maio ,2018,16:30,São Bento - SP,Oeste - SP,1,0,1,0,0,3,0
+42,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,11, Maio ,2018,19:15,Juventude - RS,Paysandu - PA,1,1,0,0,1,1,1
+43,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,12, Maio ,2018,16:30,Figueirense - SC,Avaí - SC,0,1,0,1,0,0,3
+44,B,2018,Arena Castelão,Fortaleza,CE,Sábado,12, Maio ,2018,19:00,Fortaleza - CE,Goiás - GO,3,0,1,0,0,3,0
+45,B,2018,Serra Dourada,Goiania,GO,Domingo,13, Maio ,2018,16:00,Vila Nova - GO,Ponte Preta - SP,0,0,0,0,1,1,1
+46,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,11, Maio ,2018,21:30,Atlético - GO,Londrina - PR,0,0,0,0,1,1,1
+47,B,2018,Rei Pelé,Maceio,AL,Sábado,12, Maio ,2018,16:30,Csa - AL,Boa - MG,1,0,1,0,0,3,0
+48,B,2018,Couto Pereira,Curitiba,PR,Terça,8, Maio ,2018,21:30,Coritiba - PR,Brasil - RS,1,0,1,0,0,3,0
+49,B,2018,Castelão,Sao Luis,MA,Segunda,7, Maio ,2018,20:30,Sampaio Correa - MA,Crb - AL,2,3,0,1,0,0,3
+50,B,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,19, Maio ,2018,16:30,Ponte Preta - SP,Atlético - GO,1,3,0,1,0,0,3
+51,B,2018,Arena Barueri,Barueri,SP,Sábado,19, Maio ,2018,16:30,Oeste - SP,Vila Nova - GO,2,0,1,0,0,3,0
+52,B,2018,Bento Freitas,Pelotas,RS,Sábado,19, Maio ,2018,21:00,Brasil - RS,Sampaio Correa - MA,1,2,0,1,0,0,3
+53,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,18, Maio ,2018,21:30,Figueirense - SC,Fortaleza - CE,1,3,0,1,0,0,3
+54,B,2018,Heriberto Hulse,Criciuma,SC,Terça,15, Maio ,2018,21:30,Criciúma - SC,Juventude - RS,0,0,0,0,1,1,1
+55,B,2018,Serra Dourada,Goiania,GO,Sexta,18, Maio ,2018,19:15,Goiás - GO,Guarani - SP,1,1,0,0,1,1,1
+56,B,2018,Dilzon Melo,Varginha,MG,Sábado,19, Maio ,2018,19:00,Boa - MG,Coritiba - PR,1,1,0,0,1,1,1
+57,B,2018,Rei Pelé,Maceio,AL,Terça,15, Maio ,2018,19:15,Crb - AL,Avaí - SC,0,4,0,1,0,0,3
+58,B,2018,Do Café,Londrina,PR,Sábado,19, Maio ,2018,16:30,Londrina - PR,Csa - AL,1,2,0,1,0,0,3
+59,B,2018,Curuzu,Belem,PA,Sábado,19, Maio ,2018,16:30,Paysandu - PA,São Bento - SP,1,1,0,0,1,1,1
+60,B,2018,Brinco de Ouro,Campinas,SP,Sábado,26, Maio ,2018,21:00,Guarani - SP,Crb - AL,2,0,1,0,0,3,0
+61,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,26, Maio ,2018,16:30,São Bento - SP,Juventude - RS,2,2,0,0,1,1,1
+62,B,2018,Bento Freitas,Pelotas,RS,Sábado,26, Maio ,2018,16:30,Brasil - RS,Londrina - PR,3,0,1,0,0,3,0
+63,B,2018,Ressacada,Florianopolis,SC,Sexta,25, Maio ,2018,19:15,Avaí - SC,Paysandu - PA,3,1,1,0,0,3,0
+64,B,2018,Arena Castelão,Fortaleza,CE,Terça,22, Maio ,2018,21:30,Fortaleza - CE,Criciúma - SC,2,0,1,0,0,3,0
+65,B,2018,Serra Dourada,Goiania,GO,Sábado,26, Maio ,2018,16:30,Goiás - GO,Boa - MG,1,2,0,1,0,0,3
+66,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,25, Maio ,2018,19:15,Atlético - GO,Oeste - SP,2,2,0,0,1,1,1
+67,B,2018,Rei Pelé,Maceio,AL,Terça,22, Maio ,2018,19:15,Csa - AL,Figueirense - SC,1,4,0,1,0,0,3
+68,B,2018,Couto Pereira,Curitiba,PR,Sexta,25, Maio ,2018,21:30,Coritiba - PR,Vila Nova - GO,2,0,1,0,0,3,0
+69,B,2018,Castelão,Sao Luis,MA,Segunda,28, Maio ,2018,20:00,Sampaio Correa - MA,Ponte Preta - SP,1,0,1,0,0,3,0
+70,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,2, Junho ,2018,19:00,Ponte Preta - SP,Oeste - SP,1,1,0,0,1,1,1
+71,B,2018,Walter Ribeiro,Sorocaba,SP,Terça,29, Maio ,2018,19:15,São Bento - SP,Figueirense - SC,1,1,0,0,1,1,1
+72,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,1, Junho ,2018,19:15,Juventude - RS,Guarani - SP,1,0,1,0,0,3,0
+73,B,2018,Ressacada,Florianopolis,SC,Sexta,1, Junho ,2018,21:30,Avaí - SC,Criciúma - SC,0,1,0,1,0,0,3
+74,B,2018,Arena Castelão,Fortaleza,CE,Sábado,2, Junho ,2018,16:30,Fortaleza - CE,Sampaio Correa - MA,1,0,1,0,0,3,0
+75,B,2018,Serra Dourada,Goiania,GO,Sexta,1, Junho ,2018,20:30,Vila Nova - GO,Csa - AL,0,1,0,1,0,0,3
+76,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sábado,2, Junho ,2018,16:30,Atlético - GO,Goiás - GO,1,3,0,1,0,0,3
+77,B,2018,Rei Pelé,Maceio,AL,Sábado,2, Junho ,2018,16:30,Crb - AL,Brasil - RS,1,1,0,0,1,1,1
+78,B,2018,Do Café,Londrina,PR,Terça,29, Maio ,2018,21:30,Londrina - PR,Coritiba - PR,3,2,1,0,0,3,0
+79,B,2018,Curuzu,Belem,PA,Sexta,1, Junho ,2018,21:30,Paysandu - PA,Boa - MG,2,0,1,0,0,3,0
+80,B,2018,Moisés Lucarelli,Campinas,SP,Terça,5, Junho ,2018,21:30,Ponte Preta - SP,Goiás - GO,2,1,1,0,0,3,0
+81,B,2018,Arena Barueri,Barueri,SP,Terça,5, Junho ,2018,21:30,Oeste - SP,Brasil - RS,0,0,0,0,1,1,1
+82,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Terça,5, Junho ,2018,19:15,Juventude - RS,Atlético - GO,2,2,0,0,1,1,1
+83,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,5, Junho ,2018,19:15,Figueirense - SC,Londrina - PR,1,1,0,0,1,1,1
+84,B,2018,Heriberto Hulse,Criciuma,SC,Terça,5, Junho ,2018,19:15,Criciúma - SC,Paysandu - PA,4,1,1,0,0,3,0
+85,B,2018,Serra Dourada,Goiania,GO,Terça,5, Junho ,2018,21:30,Vila Nova - GO,Fortaleza - CE,0,0,0,0,1,1,1
+86,B,2018,Dilzon Melo,Varginha,MG,Terça,5, Junho ,2018,20:30,Boa - MG,São Bento - SP,2,2,0,0,1,1,1
+87,B,2018,Rei Pelé,Maceio,AL,Terça,5, Junho ,2018,20:30,Csa - AL,Guarani - SP,1,2,0,1,0,0,3
+88,B,2018,Couto Pereira,Curitiba,PR,Terça,5, Junho ,2018,19:15,Coritiba - PR,Crb - AL,1,0,1,0,0,3,0
+89,B,2018,Castelão,Sao Luis,MA,Terça,5, Junho ,2018,20:30,Sampaio Correa - MA,Avaí - SC,1,1,0,0,1,1,1
+90,B,2018,Brinco de Ouro,Campinas,SP,Sábado,9, Junho ,2018,16:30,Guarani - SP,Vila Nova - GO,1,1,0,0,1,1,1
+91,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,9, Junho ,2018,16:30,São Bento - SP,Fortaleza - CE,2,1,1,0,0,3,0
+92,B,2018,Bento Freitas,Pelotas,RS,Sábado,9, Junho ,2018,21:00,Brasil - RS,Ponte Preta - SP,0,2,0,1,0,0,3
+93,B,2018,Ressacada,Florianopolis,SC,Sexta,8, Junho ,2018,21:30,Avaí - SC,Coritiba - PR,2,0,1,0,0,3,0
+94,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,9, Junho ,2018,16:30,Criciúma - SC,Boa - MG,1,1,0,0,1,1,1
+95,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,8, Junho ,2018,20:30,Goiás - GO,Paysandu - PA,2,1,1,0,0,3,0
+96,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sábado,9, Junho ,2018,19:00,Atlético - GO,Figueirense - SC,3,4,0,1,0,0,3
+97,B,2018,Rei Pelé,Maceio,AL,Sábado,9, Junho ,2018,16:30,Csa - AL,Crb - AL,0,0,0,0,1,1,1
+98,B,2018,Do Café,Londrina,PR,Sexta,8, Junho ,2018,19:15,Londrina - PR,Juventude - RS,0,1,0,1,0,0,3
+99,B,2018,Castelão,Sao Luis,MA,Sábado,9, Junho ,2018,16:30,Sampaio Correa - MA,Oeste - SP,2,0,1,0,0,3,0
+100,B,2018,Brinco de Ouro,Campinas,SP,Quinta,14, Junho ,2018,21:00,Guarani - SP,São Bento - SP,0,0,0,0,1,1,1
+101,B,2018,Arena Barueri,Barueri,SP,Sábado,16, Junho ,2018,19:00,Oeste - SP,Criciúma - SC,2,2,0,0,1,1,1
+102,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Segunda,11, Junho ,2018,18:00,Juventude - RS,Coritiba - PR,1,1,0,0,1,1,1
+103,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,12, Junho ,2018,20:30,Figueirense - SC,Sampaio Correa - MA,1,0,1,0,0,3,0
+104,B,2018,Arena Castelão,Fortaleza,CE,Sexta,15, Junho ,2018,19:15,Fortaleza - CE,Brasil - RS,2,0,1,0,0,3,0
+105,B,2018,Serra Dourada,Goiania,GO,Sábado,16, Junho ,2018,18:30,Vila Nova - GO,Atlético - GO,0,0,0,0,1,1,1
+106,B,2018,Dilzon Melo,Varginha,MG,Sexta,15, Junho ,2018,20:30,Boa - MG,Avaí - SC,0,2,0,1,0,0,3
+107,B,2018,Rei Pelé,Maceio,AL,Sexta,15, Junho ,2018,21:30,Crb - AL,Ponte Preta - SP,2,0,1,0,0,3,0
+108,B,2018,Do Café,Londrina,PR,Terça,12, Junho ,2018,18:00,Londrina - PR,Goiás - GO,1,3,0,1,0,0,3
+109,B,2018,Curuzu,Belem,PA,Sábado,16, Junho ,2018,21:00,Paysandu - PA,Csa - AL,0,0,0,0,1,1,1
+110,B,2018,Moisés Lucarelli,Campinas,SP,Terça,19, Junho ,2018,19:15,Ponte Preta - SP,Csa - AL,1,1,0,0,1,1,1
+111,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,23, Junho ,2018,19:00,São Bento - SP,Londrina - PR,0,1,0,1,0,0,3
+112,B,2018,Bento Freitas,Pelotas,RS,Quinta,21, Junho ,2018,19:15,Brasil - RS,Criciúma - SC,1,0,1,0,0,3,0
+113,B,2018,Ressacada,Florianopolis,SC,Terça,19, Junho ,2018,21:30,Avaí - SC,Guarani - SP,3,3,0,0,1,1,1
+114,B,2018,Arena Castelão,Fortaleza,CE,Sábado,23, Junho ,2018,19:00,Fortaleza - CE,Oeste - SP,1,2,0,1,0,0,3
+115,B,2018,Serra Dourada,Goiania,GO,Quinta,21, Junho ,2018,21:30,Goiás - GO,Juventude - RS,1,1,0,0,1,1,1
+116,B,2018,Dilzon Melo,Varginha,MG,Sábado,23, Junho ,2018,19:00,Boa - MG,Vila Nova - GO,0,2,0,1,0,0,3
+117,B,2018,Rei Pelé,Maceio,AL,Sábado,23, Junho ,2018,21:00,Crb - AL,Paysandu - PA,1,1,0,0,1,1,1
+118,B,2018,Couto Pereira,Curitiba,PR,Sábado,23, Junho ,2018,18:30,Coritiba - PR,Figueirense - SC,1,1,0,0,1,1,1
+119,B,2018,Castelão,Sao Luis,MA,Sábado,23, Junho ,2018,19:00,Sampaio Correa - MA,Atlético - GO,2,3,0,1,0,0,3
+120,B,2018,Brinco de Ouro,Campinas,SP,Sexta,29, Junho ,2018,21:30,Guarani - SP,Boa - MG,1,1,0,0,1,1,1
+121,B,2018,Arena Barueri,Barueri,SP,Terça,26, Junho ,2018,20:30,Oeste - SP,Avaí - SC,1,0,1,0,0,3,0
+122,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Terça,26, Junho ,2018,19:15,Juventude - RS,Vila Nova - GO,0,1,0,1,0,0,3
+123,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,30, Junho ,2018,18:00,Figueirense - SC,Ponte Preta - SP,0,2,0,1,0,0,3
+124,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,30, Junho ,2018,18:00,Criciúma - SC,São Bento - SP,1,0,1,0,0,3,0
+125,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,26, Junho ,2018,21:30,Goiás - GO,Crb - AL,2,1,1,0,0,3,0
+126,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,29, Junho ,2018,19:15,Atlético - GO,Brasil - RS,2,1,1,0,0,3,0
+127,B,2018,Rei Pelé,Maceio,AL,Sexta,29, Junho ,2018,18:00,Csa - AL,Coritiba - PR,2,2,0,0,1,1,1
+128,B,2018,Do Café,Londrina,PR,Domingo,1, Julho ,2018,18:00,Londrina - PR,Sampaio Correa - MA,1,1,0,0,1,1,1
+129,B,2018,Mangueirão,Belem,PA,Sábado,30, Junho ,2018,20:30,Paysandu - PA,Fortaleza - CE,0,1,0,1,0,0,3
+130,B,2018,Moisés Lucarelli,Campinas,SP,Domingo,8, Julho ,2018,18:00,Ponte Preta - SP,Fortaleza - CE,2,0,1,0,0,3,0
+131,B,2018,Arena Barueri,Barueri,SP,Quinta,5, Julho ,2018,18:00,Oeste - SP,Guarani - SP,0,1,0,1,0,0,3
+132,B,2018,Bento Freitas,Pelotas,RS,Quinta,5, Julho ,2018,20:30,Brasil - RS,Csa - AL,0,2,0,1,0,0,3
+133,B,2018,Ressacada,Florianopolis,SC,Quarta,4, Julho ,2018,20:30,Avaí - SC,Goiás - GO,0,1,0,1,0,0,3
+134,B,2018,Heriberto Hulse,Criciuma,SC,Quinta,5, Julho ,2018,21:00,Criciúma - SC,Figueirense - SC,1,1,0,0,1,1,1
+135,B,2018,Serra Dourada,Goiania,GO,Quinta,5, Julho ,2018,20:30,Vila Nova - GO,Londrina - PR,1,1,0,0,1,1,1
+136,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Quarta,4, Julho ,2018,20:30,Atlético - GO,Boa - MG,2,0,1,0,0,3,0
+137,B,2018,Rei Pelé,Maceio,AL,Quarta,4, Julho ,2018,20:30,Crb - AL,São Bento - SP,1,0,1,0,0,3,0
+138,B,2018,Couto Pereira,Curitiba,PR,Quarta,4, Julho ,2018,18:00,Coritiba - PR,Paysandu - PA,2,0,1,0,0,3,0
+139,B,2018,Castelão,Sao Luis,MA,Terça,17, Julho ,2018,20:30,Sampaio Correa - MA,Juventude - RS,0,0,0,0,1,1,1
+140,B,2018,Brinco de Ouro,Campinas,SP,Segunda,9, Julho ,2018,18:00,Guarani - SP,Coritiba - PR,2,1,1,0,0,3,0
+141,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,14, Julho ,2018,18:00,São Bento - SP,Ponte Preta - SP,0,2,0,1,0,0,3
+142,B,2018,Bento Freitas,Pelotas,RS,Sexta,13, Julho ,2018,18:00,Brasil - RS,Juventude - RS,1,1,0,0,1,1,1
+143,B,2018,Orlando Scarpelli,Florianopolis,SC,Segunda,9, Julho ,2018,20:30,Figueirense - SC,Oeste - SP,1,2,0,1,0,0,3
+144,B,2018,Arena Castelão,Fortaleza,CE,Sábado,14, Julho ,2018,16:00,Fortaleza - CE,Atlético - GO,0,1,0,1,0,0,3
+145,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,13, Julho ,2018,20:30,Goiás - GO,Criciúma - SC,2,1,1,0,0,3,0
+146,B,2018,Dilzon Melo,Varginha,MG,Sexta,13, Julho ,2018,20:30,Boa - MG,Crb - AL,0,1,0,1,0,0,3
+147,B,2018,Rei Pelé,Maceio,AL,Sexta,13, Julho ,2018,21:30,Csa - AL,Sampaio Correa - MA,1,0,1,0,0,3,0
+148,B,2018,Do Café,Londrina,PR,Quinta,12, Julho ,2018,18:00,Londrina - PR,Avaí - SC,1,2,0,1,0,0,3
+149,B,2018,Curuzu,Belem,PA,Quinta,12, Julho ,2018,20:30,Paysandu - PA,Vila Nova - GO,1,2,0,1,0,0,3
+150,B,2018,Brinco de Ouro,Campinas,SP,Terça,17, Julho ,2018,21:30,Guarani - SP,Figueirense - SC,2,3,0,1,0,0,3
+151,B,2018,Arena Barueri,Barueri,SP,Sábado,21, Julho ,2018,19:00,Oeste - SP,Paysandu - PA,2,2,0,0,1,1,1
+152,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,21, Julho ,2018,16:30,Juventude - RS,Crb - AL,1,0,1,0,0,3,0
+153,B,2018,Ressacada,Florianopolis,SC,Terça,17, Julho ,2018,19:15,Avaí - SC,Atlético - GO,0,0,0,0,1,1,1
+154,B,2018,Heriberto Hulse,Criciuma,SC,Sexta,20, Julho ,2018,19:15,Criciúma - SC,Londrina - PR,2,1,1,0,0,3,0
+155,B,2018,Serra Dourada,Goiania,GO,Terça,17, Julho ,2018,20:30,Vila Nova - GO,Brasil - RS,0,0,0,0,1,1,1
+156,B,2018,Dilzon Melo,Varginha,MG,Sábado,21, Julho ,2018,19:00,Boa - MG,Ponte Preta - SP,2,1,1,0,0,3,0
+157,B,2018,Rei Pelé,Maceio,AL,Sexta,20, Julho ,2018,21:30,Csa - AL,Fortaleza - CE,0,0,0,0,1,1,1
+158,B,2018,Couto Pereira,Curitiba,PR,Sábado,21, Julho ,2018,16:30,Coritiba - PR,São Bento - SP,2,2,0,0,1,1,1
+159,B,2018,Castelão,Sao Luis,MA,Sexta,20, Julho ,2018,20:30,Sampaio Correa - MA,Goiás - GO,1,3,0,1,0,0,3
+160,B,2018,Fonte Luminosa,Araraquara,SP,Terça,24, Julho ,2018,20:30,Ponte Preta - SP,Juventude - RS,0,1,0,1,0,0,3
+161,B,2018,Walter Ribeiro,Sorocaba,SP,Terça,24, Julho ,2018,21:30,São Bento - SP,Sampaio Correa - MA,2,1,1,0,0,3,0
+162,B,2018,Bento Freitas,Pelotas,RS,Terça,24, Julho ,2018,19:15,Brasil - RS,Boa - MG,2,0,1,0,0,3,0
+163,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,24, Julho ,2018,19:15,Figueirense - SC,Vila Nova - GO,2,1,1,0,0,3,0
+164,B,2018,Arena Castelão,Fortaleza,CE,Terça,24, Julho ,2018,21:30,Fortaleza - CE,Avaí - SC,1,1,0,0,1,1,1
+165,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,24, Julho ,2018,19:15,Goiás - GO,Coritiba - PR,0,1,0,1,0,0,3
+166,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Segunda,23, Julho ,2018,20:00,Atlético - GO,Csa - AL,2,2,0,0,1,1,1
+167,B,2018,Rei Pelé,Maceio,AL,Terça,24, Julho ,2018,20:30,Crb - AL,Criciúma - SC,0,0,0,0,1,1,1
+168,B,2018,Do Café,Londrina,PR,Terça,24, Julho ,2018,19:15,Londrina - PR,Oeste - SP,3,0,1,0,0,3,0
+169,B,2018,Curuzu,Belem,PA,Terça,24, Julho ,2018,20:30,Paysandu - PA,Guarani - SP,1,0,1,0,0,3,0
+170,B,2018,Brinco de Ouro,Campinas,SP,Sábado,28, Julho ,2018,16:30,Guarani - SP,Brasil - RS,2,1,1,0,0,3,0
+171,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,28, Julho ,2018,16:30,São Bento - SP,Atlético - GO,2,1,1,0,0,3,0
+172,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,28, Julho ,2018,16:30,Juventude - RS,Fortaleza - CE,0,3,0,1,0,0,3
+173,B,2018,Ressacada,Florianopolis,SC,Sexta,27, Julho ,2018,19:15,Avaí - SC,Csa - AL,0,0,0,0,1,1,1
+174,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,28, Julho ,2018,19:00,Criciúma - SC,Vila Nova - GO,1,0,1,0,0,3,0
+175,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sábado,28, Julho ,2018,16:30,Goiás - GO,Oeste - SP,1,0,1,0,0,3,0
+176,B,2018,Dilzon Melo,Varginha,MG,Sábado,28, Julho ,2018,21:00,Boa - MG,Sampaio Correa - MA,3,1,1,0,0,3,0
+177,B,2018,Rei Pelé,Maceio,AL,Sábado,28, Julho ,2018,16:30,Crb - AL,Londrina - PR,1,1,0,0,1,1,1
+178,B,2018,Couto Pereira,Curitiba,PR,Sábado,28, Julho ,2018,19:00,Coritiba - PR,Ponte Preta - SP,0,0,0,0,1,1,1
+179,B,2018,Curuzu,Belem,PA,Sexta,27, Julho ,2018,21:30,Paysandu - PA,Figueirense - SC,2,0,1,0,0,3,0
+180,B,2018,Fonte Luminosa,Araraquara,SP,Sábado,4, Agosto ,2018,19:00,Ponte Preta - SP,Avaí - SC,2,2,0,0,1,1,1
+181,B,2018,Arena Barueri,Barueri,SP,Sexta,3, Agosto ,2018,20:30,Oeste - SP,Boa - MG,1,1,0,0,1,1,1
+182,B,2018,Bento Freitas,Pelotas,RS,Sábado,4, Agosto ,2018,16:30,Brasil - RS,Goiás - GO,1,0,1,0,0,3,0
+183,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,31, Julho ,2018,19:15,Figueirense - SC,Crb - AL,0,0,0,0,1,1,1
+184,B,2018,Arena Castelão,Fortaleza,CE,Sábado,4, Agosto ,2018,16:30,Fortaleza - CE,Coritiba - PR,2,1,1,0,0,3,0
+185,B,2018,Serra Dourada,Goiania,GO,Sábado,4, Agosto ,2018,16:30,Vila Nova - GO,São Bento - SP,1,0,1,0,0,3,0
+186,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,31, Julho ,2018,21:30,Atlético - GO,Paysandu - PA,1,0,1,0,0,3,0
+187,B,2018,Rei Pelé,Maceio,AL,Sexta,3, Agosto ,2018,21:30,Csa - AL,Juventude - RS,1,0,1,0,0,3,0
+188,B,2018,Do Café,Londrina,PR,Sexta,3, Agosto ,2018,19:15,Londrina - PR,Guarani - SP,1,2,0,1,0,0,3
+189,B,2018,Castelão,Sao Luis,MA,Sábado,4, Agosto ,2018,21:00,Sampaio Correa - MA,Criciúma - SC,0,1,0,1,0,0,3
+190,B,2018,Ressacada,Florianopolis,SC,Terça,7, Agosto ,2018,19:15,Avaí - SC,Vila Nova - GO,1,0,1,0,0,3,0
+191,B,2018,Curuzu,Belem,PA,Terça,7, Agosto ,2018,21:30,Paysandu - PA,Ponte Preta - SP,0,4,0,1,0,0,3
+192,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,10, Agosto ,2018,19:15,Goiás - GO,Csa - AL,3,0,1,0,0,3,0
+193,B,2018,Dilzon Melo,Varginha,MG,Sexta,10, Agosto ,2018,20:30,Boa - MG,Londrina - PR,1,0,1,0,0,3,0
+194,B,2018,Couto Pereira,Curitiba,PR,Sexta,10, Agosto ,2018,21:30,Coritiba - PR,Sampaio Correa - MA,0,0,0,0,1,1,1
+195,B,2018,Brinco de Ouro,Campinas,SP,Sábado,11, Agosto ,2018,16:30,Guarani - SP,Fortaleza - CE,2,3,0,1,0,0,3
+196,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,11, Agosto ,2018,16:30,Criciúma - SC,Atlético - GO,1,1,0,0,1,1,1
+197,B,2018,Rei Pelé,Maceio,AL,Sábado,11, Agosto ,2018,16:30,Crb - AL,Oeste - SP,0,1,0,1,0,0,3
+198,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,11, Agosto ,2018,19:00,Juventude - RS,Figueirense - SC,0,0,0,0,1,1,1
+199,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,11, Agosto ,2018,16:30,São Bento - SP,Brasil - RS,1,1,0,0,1,1,1
+200,B,2018,Bento Freitas,Pelotas,RS,Terça,14, Agosto ,2018,19:15,Brasil - RS,Avaí - SC,1,1,0,0,1,1,1
+201,B,2018,Moisés Lucarelli,Campinas,SP,Terça,14, Agosto ,2018,21:30,Ponte Preta - SP,Criciúma - SC,3,1,1,0,0,3,0
+202,B,2018,Do Café,Londrina,PR,Sexta,17, Agosto ,2018,19:15,Londrina - PR,Paysandu - PA,2,1,1,0,0,3,0
+203,B,2018,Serra Dourada,Goiania,GO,Sexta,17, Agosto ,2018,20:30,Vila Nova - GO,Crb - AL,0,0,0,0,1,1,1
+204,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,17, Agosto ,2018,21:30,Figueirense - SC,Goiás - GO,1,2,0,1,0,0,3
+205,B,2018,Arena Castelão,Fortaleza,CE,Sábado,18, Agosto ,2018,16:30,Fortaleza - CE,Boa - MG,2,1,1,0,0,3,0
+206,B,2018,Antônio Accioly,Goiania,GO,Sábado,18, Agosto ,2018,16:30,Atlético - GO,Coritiba - PR,1,0,1,0,0,3,0
+207,B,2018,Arena Barueri,Barueri,SP,Sábado,18, Agosto ,2018,16:30,Oeste - SP,Juventude - RS,0,0,0,0,1,1,1
+208,B,2018,Castelão,Sao Luis,MA,Sábado,18, Agosto ,2018,19:00,Sampaio Correa - MA,Guarani - SP,0,2,0,1,0,0,3
+209,B,2018,Rei Pelé,Maceio,AL,Sábado,18, Agosto ,2018,21:00,Csa - AL,São Bento - SP,1,0,1,0,0,3,0
+210,B,2018,Bento Freitas,Pelotas,RS,Terça,21, Agosto ,2018,19:15,Brasil - RS,Paysandu - PA,0,0,0,0,1,1,1
+211,B,2018,Ressacada,Florianopolis,SC,Terça,21, Agosto ,2018,19:15,Avaí - SC,Juventude - RS,1,0,1,0,0,3,0
+212,B,2018,Heriberto Hulse,Criciuma,SC,Terça,21, Agosto ,2018,19:15,Criciúma - SC,Coritiba - PR,2,2,0,0,1,1,1
+213,B,2018,Do Café,Londrina,PR,Terça,21, Agosto ,2018,19:15,Londrina - PR,Ponte Preta - SP,1,0,1,0,0,3,0
+214,B,2018,Rei Pelé,Maceio,AL,Terça,21, Agosto ,2018,20:30,Crb - AL,Fortaleza - CE,2,1,1,0,0,3,0
+215,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,21, Agosto ,2018,20:30,Goiás - GO,São Bento - SP,2,1,1,0,0,3,0
+216,B,2018,Dilzon Melo,Varginha,MG,Terça,21, Agosto ,2018,20:30,Boa - MG,Figueirense - SC,0,2,0,1,0,0,3
+217,B,2018,Brinco de Ouro,Campinas,SP,Terça,21, Agosto ,2018,21:30,Guarani - SP,Atlético - GO,2,0,1,0,0,3,0
+218,B,2018,Castelão,Sao Luis,MA,Terça,21, Agosto ,2018,21:30,Sampaio Correa - MA,Vila Nova - GO,0,0,0,0,1,1,1
+219,B,2018,Arena Barueri,Barueri,SP,Terça,21, Agosto ,2018,21:30,Oeste - SP,Csa - AL,2,1,1,0,0,3,0
+220,B,2018,Couto Pereira,Curitiba,PR,Sexta,24, Agosto ,2018,19:15,Coritiba - PR,Oeste - SP,0,2,0,1,0,0,3
+221,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,24, Agosto ,2018,19:15,Figueirense - SC,Brasil - RS,1,1,0,0,1,1,1
+222,B,2018,Antônio Accioly,Goiania,GO,Sexta,24, Agosto ,2018,21:30,Atlético - GO,Crb - AL,1,0,1,0,0,3,0
+223,B,2018,Arena Castelão,Fortaleza,CE,Sábado,25, Agosto ,2018,19:00,Fortaleza - CE,Londrina - PR,2,1,1,0,0,3,0
+224,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,25, Agosto ,2018,16:30,São Bento - SP,Avaí - SC,0,1,0,1,0,0,3
+225,B,2018,Curuzu,Belem,PA,Sábado,25, Agosto ,2018,16:30,Paysandu - PA,Sampaio Correa - MA,0,1,0,1,0,0,3
+226,B,2018,Serra Dourada,Goiania,GO,Sábado,25, Agosto ,2018,16:30,Vila Nova - GO,Goiás - GO,3,0,1,0,0,3,0
+227,B,2018,Rei Pelé,Maceio,AL,Sábado,25, Agosto ,2018,16:30,Csa - AL,Criciúma - SC,3,0,1,0,0,3,0
+228,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,25, Agosto ,2018,16:30,Ponte Preta - SP,Guarani - SP,0,0,0,0,1,1,1
+229,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,25, Agosto ,2018,21:00,Juventude - RS,Boa - MG,0,0,0,0,1,1,1
+230,B,2018,Bento Freitas,Pelotas,RS,Segunda,27, Agosto ,2018,20:00,Brasil - RS,Coritiba - PR,0,1,0,1,0,0,3
+231,B,2018,Heriberto Hulse,Criciuma,SC,Terça,28, Agosto ,2018,19:15,Criciúma - SC,Guarani - SP,0,0,0,0,1,1,1
+232,B,2018,Arena Barueri,Barueri,SP,Terça,28, Agosto ,2018,20:30,Oeste - SP,São Bento - SP,0,1,0,1,0,0,3
+233,B,2018,Moisés Lucarelli,Campinas,SP,Sexta,31, Agosto ,2018,21:30,Ponte Preta - SP,Vila Nova - GO,1,1,0,0,1,1,1
+234,B,2018,Rei Pelé,Maceio,AL,Sexta,31, Agosto ,2018,21:30,Crb - AL,Sampaio Correa - MA,2,1,1,0,0,3,0
+235,B,2018,Ressacada,Florianopolis,SC,Sábado,1, Setembro ,2018,16:30,Avaí - SC,Figueirense - SC,0,1,0,1,0,0,3
+236,B,2018,Dilzon Melo,Varginha,MG,Sábado,1, Setembro ,2018,21:00,Boa - MG,Csa - AL,3,0,1,0,0,3,0
+237,B,2018,Do Café,Londrina,PR,Sexta,31, Agosto ,2018,19:15,Londrina - PR,Atlético - GO,4,1,1,0,0,3,0
+238,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sábado,1, Setembro ,2018,19:00,Goiás - GO,Fortaleza - CE,3,1,1,0,0,3,0
+239,B,2018,Curuzu,Belem,PA,Sexta,31, Agosto ,2018,19:15,Paysandu - PA,Juventude - RS,3,3,0,0,1,1,1
+240,B,2018,Serra Dourada,Goiania,GO,Segunda,3, Setembro ,2018,20:00,Vila Nova - GO,Oeste - SP,1,1,0,0,1,1,1
+241,B,2018,Brinco de Ouro,Campinas,SP,Terça,4, Setembro ,2018,19:15,Guarani - SP,Goiás - GO,0,2,0,1,0,0,3
+242,B,2018,Ressacada,Florianopolis,SC,Terça,4, Setembro ,2018,19:15,Avaí - SC,Crb - AL,1,0,1,0,0,3,0
+243,B,2018,Antônio Accioly,Goiania,GO,Terça,4, Setembro ,2018,19:15,Atlético - GO,Ponte Preta - SP,2,0,1,0,0,3,0
+244,B,2018,Couto Pereira,Curitiba,PR,Terça,4, Setembro ,2018,19:15,Coritiba - PR,Boa - MG,2,1,1,0,0,3,0
+245,B,2018,Walter Ribeiro,Sorocaba,SP,Terça,4, Setembro ,2018,20:30,São Bento - SP,Paysandu - PA,1,0,1,0,0,3,0
+246,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Terça,4, Setembro ,2018,20:30,Juventude - RS,Criciúma - SC,0,1,0,1,0,0,3
+247,B,2018,Rei Pelé,Maceio,AL,Terça,4, Setembro ,2018,20:30,Csa - AL,Londrina - PR,4,1,1,0,0,3,0
+248,B,2018,Arena Castelão,Fortaleza,CE,Terça,4, Setembro ,2018,21:30,Fortaleza - CE,Figueirense - SC,2,2,0,0,1,1,1
+249,B,2018,Castelão,Sao Luis,MA,Terça,4, Setembro ,2018,21:30,Sampaio Correa - MA,Brasil - RS,1,2,0,1,0,0,3
+250,B,2018,Dilzon Melo,Varginha,MG,Sexta,7, Setembro ,2018,16:00,Boa - MG,Goiás - GO,1,0,1,0,0,3,0
+251,B,2018,Rei Pelé,Maceio,AL,Sexta,7, Setembro ,2018,16:00,Crb - AL,Guarani - SP,1,1,0,0,1,1,1
+252,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,8, Setembro ,2018,16:30,Criciúma - SC,Fortaleza - CE,2,0,1,0,0,3,0
+253,B,2018,Curuzu,Belem,PA,Sexta,7, Setembro ,2018,18:00,Paysandu - PA,Avaí - SC,2,1,1,0,0,3,0
+254,B,2018,Arena Barueri,Barueri,SP,Sexta,7, Setembro ,2018,16:00,Oeste - SP,Atlético - GO,1,2,0,1,0,0,3
+255,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,8, Setembro ,2018,16:30,Juventude - RS,São Bento - SP,0,2,0,1,0,0,3
+256,B,2018,Do Café,Londrina,PR,Sábado,8, Setembro ,2018,16:30,Londrina - PR,Brasil - RS,1,0,1,0,0,3,0
+257,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,8, Setembro ,2018,16:30,Figueirense - SC,Csa - AL,1,2,0,1,0,0,3
+258,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,8, Setembro ,2018,19:00,Ponte Preta - SP,Sampaio Correa - MA,0,0,0,0,1,1,1
+259,B,2018,Serra Dourada,Goiania,GO,Sábado,8, Setembro ,2018,21:00,Vila Nova - GO,Coritiba - PR,2,1,1,0,0,3,0
+260,B,2018,Rei Pelé,Maceio,AL,Terça,11, Setembro ,2018,19:00,Csa - AL,Vila Nova - GO,1,2,0,1,0,0,3
+261,B,2018,Brinco de Ouro,Campinas,SP,Quinta,13, Setembro ,2018,21:00,Guarani - SP,Juventude - RS,1,0,1,0,0,3,0
+262,B,2018,Couto Pereira,Curitiba,PR,Sexta,14, Setembro ,2018,19:15,Coritiba - PR,Londrina - PR,0,1,0,1,0,0,3
+263,B,2018,Orlando Scarpelli,Florianopolis,SC,Sexta,14, Setembro ,2018,20:30,Figueirense - SC,São Bento - SP,2,2,0,0,1,1,1
+264,B,2018,Castelão,Sao Luis,MA,Sexta,14, Setembro ,2018,21:30,Sampaio Correa - MA,Fortaleza - CE,1,0,1,0,0,3,0
+265,B,2018,Bento Freitas,Pelotas,RS,Sábado,15, Setembro ,2018,16:30,Brasil - RS,Crb - AL,1,0,1,0,0,3,0
+266,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,15, Setembro ,2018,16:30,Criciúma - SC,Avaí - SC,3,2,1,0,0,3,0
+267,B,2018,Dilzon Melo,Varginha,MG,Sábado,15, Setembro ,2018,16:30,Boa - MG,Paysandu - PA,1,1,0,0,1,1,1
+268,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sábado,15, Setembro ,2018,19:00,Goiás - GO,Atlético - GO,2,1,1,0,0,3,0
+269,B,2018,Arena Barueri,Barueri,SP,Sábado,15, Setembro ,2018,21:00,Oeste - SP,Ponte Preta - SP,0,0,0,0,1,1,1
+270,B,2018,Antônio Accioly,Goiania,GO,Terça,18, Setembro ,2018,19:15,Atlético - GO,Juventude - RS,0,1,0,1,0,0,3
+271,B,2018,Do Café,Londrina,PR,Terça,18, Setembro ,2018,21:30,Londrina - PR,Figueirense - SC,2,0,1,0,0,3,0
+272,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,21, Setembro ,2018,19:15,Goiás - GO,Ponte Preta - SP,2,2,0,0,1,1,1
+273,B,2018,Rei Pelé,Maceio,AL,Sexta,21, Setembro ,2018,20:30,Crb - AL,Coritiba - PR,1,1,0,0,1,1,1
+274,B,2018,Curuzu,Belem,PA,Sábado,22, Setembro ,2018,16:30,Paysandu - PA,Criciúma - SC,1,1,0,0,1,1,1
+275,B,2018,Bento Freitas,Pelotas,RS,Sábado,22, Setembro ,2018,16:30,Brasil - RS,Oeste - SP,1,3,0,1,0,0,3
+276,B,2018,Arena Castelão,Fortaleza,CE,Sexta,21, Setembro ,2018,21:30,Fortaleza - CE,Vila Nova - GO,2,0,1,0,0,3,0
+277,B,2018,Walter Ribeiro,Sorocaba,SP,Sexta,21, Setembro ,2018,20:30,São Bento - SP,Boa - MG,0,0,0,0,1,1,1
+278,B,2018,Brinco de Ouro,Campinas,SP,Sábado,22, Setembro ,2018,19:00,Guarani - SP,Csa - AL,1,0,1,0,0,3,0
+279,B,2018,Ressacada,Florianopolis,SC,Sábado,22, Setembro ,2018,21:00,Avaí - SC,Sampaio Correa - MA,3,1,1,0,0,3,0
+280,B,2018,Arena Castelão,Fortaleza,CE,Terça,25, Setembro ,2018,19:15,Fortaleza - CE,São Bento - SP,2,1,1,0,0,3,0
+281,B,2018,Moisés Lucarelli,Campinas,SP,Terça,25, Setembro ,2018,21:30,Ponte Preta - SP,Brasil - RS,0,1,0,1,0,0,3
+282,B,2018,Curuzu,Belem,PA,Sexta,28, Setembro ,2018,19:15,Paysandu - PA,Goiás - GO,2,3,0,1,0,0,3
+283,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Quinta,27, Setembro ,2018,19:00,Juventude - RS,Londrina - PR,0,0,0,0,1,1,1
+284,B,2018,Serra Dourada,Goiania,GO,Sexta,28, Setembro ,2018,21:30,Vila Nova - GO,Guarani - SP,1,1,0,0,1,1,1
+285,B,2018,Arena Barueri,Barueri,SP,Sábado,29, Setembro ,2018,16:30,Oeste - SP,Sampaio Correa - MA,0,0,0,0,1,1,1
+286,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,29, Setembro ,2018,16:30,Figueirense - SC,Atlético - GO,2,2,0,0,1,1,1
+287,B,2018,Couto Pereira,Curitiba,PR,Sábado,29, Setembro ,2018,19:00,Coritiba - PR,Avaí - SC,1,0,1,0,0,3,0
+288,B,2018,Rei Pelé,Maceio,AL,Sábado,29, Setembro ,2018,16:30,Crb - AL,Csa - AL,0,0,0,0,1,1,1
+289,B,2018,Dilzon Melo,Varginha,MG,Sábado,29, Setembro ,2018,21:00,Boa - MG,Criciúma - SC,1,2,0,1,0,0,3
+290,B,2018,Castelão,Sao Luis,MA,Terça,2, Outubro ,2018,19:15,Sampaio Correa - MA,Figueirense - SC,1,0,1,0,0,3,0
+291,B,2018,Heriberto Hulse,Criciuma,SC,Terça,2, Outubro ,2018,20:30,Criciúma - SC,Oeste - SP,0,0,0,0,1,1,1
+292,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Terça,2, Outubro ,2018,20:30,Goiás - GO,Londrina - PR,0,0,0,0,1,1,1
+293,B,2018,Rei Pelé,Maceio,AL,Terça,2, Outubro ,2018,21:30,Csa - AL,Paysandu - PA,1,0,1,0,0,3,0
+294,B,2018,Walter Ribeiro,Sorocaba,SP,Sexta,5, Outubro ,2018,19:00,São Bento - SP,Guarani - SP,1,0,1,0,0,3,0
+295,B,2018,Bento Freitas,Pelotas,RS,Sexta,5, Outubro ,2018,20:30,Brasil - RS,Fortaleza - CE,0,1,0,1,0,0,3
+296,B,2018,Ressacada,Florianopolis,SC,Sexta,5, Outubro ,2018,20:30,Avaí - SC,Boa - MG,2,0,1,0,0,3,0
+297,B,2018,Moisés Lucarelli,Campinas,SP,Sábado,6, Outubro ,2018,18:30,Ponte Preta - SP,Crb - AL,1,0,1,0,0,3,0
+298,B,2018,Antônio Accioly,Goiania,GO,Sábado,6, Outubro ,2018,16:30,Atlético - GO,Vila Nova - GO,2,2,0,0,1,1,1
+299,B,2018,Couto Pereira,Curitiba,PR,Sexta,5, Outubro ,2018,21:00,Coritiba - PR,Juventude - RS,2,1,1,0,0,3,0
+300,B,2018,Curuzu,Belem,PA,Terça,9, Outubro ,2018,19:15,Paysandu - PA,Crb - AL,1,1,0,0,1,1,1
+301,B,2018,Heriberto Hulse,Criciuma,SC,Terça,9, Outubro ,2018,21:30,Criciúma - SC,Brasil - RS,0,1,0,1,0,0,3
+302,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,12, Outubro ,2018,19:15,Juventude - RS,Goiás - GO,3,5,0,1,0,0,3
+303,B,2018,Antônio Accioly,Goiania,GO,Sexta,12, Outubro ,2018,20:30,Atlético - GO,Sampaio Correa - MA,1,2,0,1,0,0,3
+304,B,2018,Rei Pelé,Maceio,AL,Sexta,12, Outubro ,2018,21:30,Csa - AL,Ponte Preta - SP,1,2,0,1,0,0,3
+305,B,2018,Brinco de Ouro,Campinas,SP,Sábado,13, Outubro ,2018,16:30,Guarani - SP,Avaí - SC,1,2,0,1,0,0,3
+306,B,2018,Arena Barueri,Barueri,SP,Sábado,13, Outubro ,2018,16:30,Oeste - SP,Fortaleza - CE,0,0,0,0,1,1,1
+307,B,2018,Serra Dourada,Goiania,GO,Sábado,13, Outubro ,2018,16:30,Vila Nova - GO,Boa - MG,2,0,1,0,0,3,0
+308,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,13, Outubro ,2018,19:00,Figueirense - SC,Coritiba - PR,2,2,0,0,1,1,1
+309,B,2018,Do Café,Londrina,PR,Sábado,13, Outubro ,2018,21:00,Londrina - PR,São Bento - SP,2,1,1,0,0,3,0
+310,B,2018,Serra Dourada,Goiania,GO,Sábado,20, Outubro ,2018,16:30,Vila Nova - GO,Juventude - RS,1,0,1,0,0,3,0
+311,B,2018,Bento Freitas,Pelotas,RS,Terça,16, Outubro ,2018,21:30,Brasil - RS,Atlético - GO,1,2,0,1,0,0,3
+312,B,2018,Rei Pelé,Maceio,AL,Sexta,19, Outubro ,2018,19:15,Crb - AL,Goiás - GO,2,0,1,0,0,3,0
+313,B,2018,Walter Ribeiro,Sorocaba,SP,Sexta,19, Outubro ,2018,20:30,São Bento - SP,Criciúma - SC,0,0,0,0,1,1,1
+314,B,2018,Moisés Lucarelli,Campinas,SP,Sexta,19, Outubro ,2018,21:30,Ponte Preta - SP,Figueirense - SC,2,1,1,0,0,3,0
+315,B,2018,Ressacada,Florianopolis,SC,Sábado,20, Outubro ,2018,16:30,Avaí - SC,Oeste - SP,1,1,0,0,1,1,1
+316,B,2018,Dilzon Melo,Varginha,MG,Sábado,20, Outubro ,2018,16:30,Boa - MG,Guarani - SP,2,1,1,0,0,3,0
+317,B,2018,Couto Pereira,Curitiba,PR,Terça,16, Outubro ,2018,19:15,Coritiba - PR,Csa - AL,1,1,0,0,1,1,1
+318,B,2018,Arena Castelão,Fortaleza,CE,Sábado,20, Outubro ,2018,19:00,Fortaleza - CE,Paysandu - PA,1,0,1,0,0,3,0
+319,B,2018,Castelão,Sao Luis,MA,Sábado,20, Outubro ,2018,21:00,Sampaio Correa - MA,Londrina - PR,1,2,0,1,0,0,3
+320,B,2018,Rei Pelé,Maceio,AL,Terça,23, Outubro ,2018,19:15,Csa - AL,Brasil - RS,2,0,1,0,0,3,0
+321,B,2018,Arena Castelão,Fortaleza,CE,Sexta,26, Outubro ,2018,20:30,Fortaleza - CE,Ponte Preta - SP,1,1,0,0,1,1,1
+322,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Sexta,26, Outubro ,2018,21:30,Goiás - GO,Avaí - SC,0,3,0,1,0,0,3
+323,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,27, Outubro ,2018,16:30,São Bento - SP,Crb - AL,1,0,1,0,0,3,0
+324,B,2018,Do Café,Londrina,PR,Sexta,26, Outubro ,2018,19:15,Londrina - PR,Vila Nova - GO,3,2,1,0,0,3,0
+325,B,2018,Brinco de Ouro,Campinas,SP,Sábado,27, Outubro ,2018,16:30,Guarani - SP,Oeste - SP,1,1,0,0,1,1,1
+326,B,2018,Dilzon Melo,Varginha,MG,Sábado,27, Outubro ,2018,16:30,Boa - MG,Atlético - GO,0,2,0,1,0,0,3
+327,B,2018,Orlando Scarpelli,Florianopolis,SC,Sábado,27, Outubro ,2018,16:30,Figueirense - SC,Criciúma - SC,3,2,1,0,0,3,0
+328,B,2018,Curuzu,Belem,PA,Sábado,27, Outubro ,2018,18:30,Paysandu - PA,Coritiba - PR,1,1,0,0,1,1,1
+329,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,26, Outubro ,2018,20:30,Juventude - RS,Sampaio Correa - MA,1,0,1,0,0,3,0
+330,B,2018,Heriberto Hulse,Criciuma,SC,Quinta,1, Novembro ,2018,19:15,Criciúma - SC,Goiás - GO,2,2,0,0,1,1,1
+331,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Quinta,1, Novembro ,2018,21:30,Juventude - RS,Brasil - RS,0,1,0,1,0,0,3
+332,B,2018,Serra Dourada,Goiania,GO,Sexta,2, Novembro ,2018,19:15,Vila Nova - GO,Paysandu - PA,0,0,0,0,1,1,1
+333,B,2018,Arena Barueri,Barueri,SP,Sexta,2, Novembro ,2018,20:30,Oeste - SP,Figueirense - SC,0,0,0,0,1,1,1
+334,B,2018,Castelão,Sao Luis,MA,Sexta,2, Novembro ,2018,21:30,Sampaio Correa - MA,Csa - AL,2,3,0,1,0,0,3
+335,B,2018,Ressacada,Florianopolis,SC,Sábado,3, Novembro ,2018,16:30,Avaí - SC,Londrina - PR,1,1,0,0,1,1,1
+336,B,2018,Rei Pelé,Maceio,AL,Sábado,3, Novembro ,2018,16:30,Crb - AL,Boa - MG,2,1,1,0,0,3,0
+337,B,2018,Antônio Accioly,Goiania,GO,Sábado,3, Novembro ,2018,17:00,Atlético - GO,Fortaleza - CE,1,2,0,1,0,0,3
+338,B,2018,Couto Pereira,Curitiba,PR,Sábado,3, Novembro ,2018,19:30,Coritiba - PR,Guarani - SP,0,2,0,1,0,0,3
+339,B,2018,Moisés Lucarelli,Campinas,SP,Sexta,2, Novembro ,2018,17:00,Ponte Preta - SP,São Bento - SP,2,1,1,0,0,3,0
+340,B,2018,Olímpico Pedro Ludovico,Goiania,GO,Segunda,5, Novembro ,2018,20:00,Goiás - GO,Sampaio Correa - MA,1,0,1,0,0,3,0
+341,B,2018,Bento Freitas,Pelotas,RS,Terça,6, Novembro ,2018,19:15,Brasil - RS,Vila Nova - GO,5,0,1,0,0,3,0
+342,B,2018,Antônio Accioly,Goiania,GO,Terça,6, Novembro ,2018,19:15,Atlético - GO,Avaí - SC,2,2,0,0,1,1,1
+343,B,2018,Do Café,Londrina,PR,Terça,6, Novembro ,2018,19:15,Londrina - PR,Criciúma - SC,4,2,1,0,0,3,0
+344,B,2018,Moisés Lucarelli,Campinas,SP,Terça,6, Novembro ,2018,20:30,Ponte Preta - SP,Boa - MG,1,0,1,0,0,3,0
+345,B,2018,Walter Ribeiro,Sorocaba,SP,Terça,6, Novembro ,2018,20:30,São Bento - SP,Coritiba - PR,5,2,1,0,0,3,0
+346,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,6, Novembro ,2018,21:30,Figueirense - SC,Guarani - SP,0,0,0,0,1,1,1
+347,B,2018,Arena Castelão,Fortaleza,CE,Terça,6, Novembro ,2018,21:30,Fortaleza - CE,Csa - AL,1,1,0,0,1,1,1
+348,B,2018,Rei Pelé,Maceio,AL,Terça,6, Novembro ,2018,21:30,Crb - AL,Juventude - RS,2,0,1,0,0,3,0
+349,B,2018,Curuzu,Belem,PA,Terça,6, Novembro ,2018,21:30,Paysandu - PA,Oeste - SP,4,3,1,0,0,3,0
+350,B,2018,Couto Pereira,Curitiba,PR,Sexta,9, Novembro ,2018,21:30,Coritiba - PR,Goiás - GO,1,0,1,0,0,3,0
+351,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sexta,9, Novembro ,2018,20:30,Juventude - RS,Ponte Preta - SP,0,1,0,1,0,0,3
+352,B,2018,Dilzon Melo,Varginha,MG,Sexta,9, Novembro ,2018,20:30,Boa - MG,Brasil - RS,0,1,0,1,0,0,3
+353,B,2018,Ressacada,Florianopolis,SC,Sábado,10, Novembro ,2018,17:30,Avaí - SC,Fortaleza - CE,0,1,0,1,0,0,3
+354,B,2018,Arena Barueri,Barueri,SP,Sábado,10, Novembro ,2018,17:00,Oeste - SP,Londrina - PR,0,0,0,0,1,1,1
+355,B,2018,Castelão,Sao Luis,MA,Sábado,10, Novembro ,2018,19:30,Sampaio Correa - MA,São Bento - SP,2,1,1,0,0,3,0
+356,B,2018,Serra Dourada,Goiania,GO,Sexta,9, Novembro ,2018,19:15,Vila Nova - GO,Figueirense - SC,3,1,1,0,0,3,0
+357,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,10, Novembro ,2018,17:00,Criciúma - SC,Crb - AL,3,3,0,0,1,1,1
+358,B,2018,Rei Pelé,Maceio,AL,Sábado,10, Novembro ,2018,17:00,Csa - AL,Atlético - GO,0,0,0,0,1,1,1
+359,B,2018,Brinco de Ouro,Campinas,SP,Sábado,10, Novembro ,2018,21:00,Guarani - SP,Paysandu - PA,0,2,0,1,0,0,3
+360,B,2018,Orlando Scarpelli,Florianopolis,SC,Terça,13, Novembro ,2018,19:15,Figueirense - SC,Paysandu - PA,2,3,0,1,0,0,3
+361,B,2018,Moisés Lucarelli,Campinas,SP,Terça,13, Novembro ,2018,21:30,Ponte Preta - SP,Coritiba - PR,2,0,1,0,0,3,0
+362,B,2018,Arena Castelão,Fortaleza,CE,Quinta,15, Novembro ,2018,18:15,Fortaleza - CE,Juventude - RS,4,1,1,0,0,3,0
+363,B,2018,Antônio Accioly,Goiania,GO,Sexta,16, Novembro ,2018,20:30,Atlético - GO,São Bento - SP,1,0,1,0,0,3,0
+364,B,2018,Do Café,Londrina,PR,Sexta,16, Novembro ,2018,21:30,Londrina - PR,Crb - AL,1,2,0,1,0,0,3
+365,B,2018,Bento Freitas,Pelotas,RS,Sábado,17, Novembro ,2018,17:00,Brasil - RS,Guarani - SP,1,1,0,0,1,1,1
+366,B,2018,Rei Pelé,Maceio,AL,Sábado,17, Novembro ,2018,17:00,Csa - AL,Avaí - SC,0,1,0,1,0,0,3
+367,B,2018,Castelão,Sao Luis,MA,Sábado,17, Novembro ,2018,17:00,Sampaio Correa - MA,Boa - MG,1,0,1,0,0,3,0
+368,B,2018,Serra Dourada,Goiania,GO,Sábado,17, Novembro ,2018,19:30,Vila Nova - GO,Criciúma - SC,2,2,0,0,1,1,1
+369,B,2018,Arena Barueri,Barueri,SP,Sábado,17, Novembro ,2018,21:00,Oeste - SP,Goiás - GO,1,3,0,1,0,0,3
+370,B,2018,Brinco de Ouro,Campinas,SP,Sábado,24, Novembro ,2018,17:00,Guarani - SP,Londrina - PR,1,0,1,0,0,3,0
+371,B,2018,Walter Ribeiro,Sorocaba,SP,Sábado,24, Novembro ,2018,17:00,São Bento - SP,Vila Nova - GO,2,2,0,0,1,1,1
+372,B,2018,Alfredo Jaconi,Caxias do Sul,RS,Sábado,24, Novembro ,2018,17:00,Juventude - RS,Csa - AL,0,4,0,1,0,0,3
+373,B,2018,Ressacada,Florianopolis,SC,Sábado,24, Novembro ,2018,17:00,Avaí - SC,Ponte Preta - SP,0,0,0,0,1,1,1
+374,B,2018,Heriberto Hulse,Criciuma,SC,Sábado,24, Novembro ,2018,17:00,Criciúma - SC,Sampaio Correa - MA,2,0,1,0,0,3,0
+375,B,2018,Serra Dourada,Goiania,GO,Sábado,24, Novembro ,2018,17:00,Goiás - GO,Brasil - RS,0,1,0,1,0,0,3
+376,B,2018,Dilzon Melo,Varginha,MG,Sábado,24, Novembro ,2018,17:00,Boa - MG,Oeste - SP,0,0,0,0,1,1,1
+377,B,2018,Rei Pelé,Maceio,AL,Sábado,24, Novembro ,2018,17:00,Crb - AL,Figueirense - SC,2,1,1,0,0,3,0
+378,B,2018,Couto Pereira,Curitiba,PR,Sexta,23, Novembro ,2018,19:15,Coritiba - PR,Fortaleza - CE,1,0,1,0,0,3,0
+379,B,2018,Curuzu,Belem,PA,Sábado,24, Novembro ,2018,17:00,Paysandu - PA,Atlético - GO,2,5,0,1,0,0,3

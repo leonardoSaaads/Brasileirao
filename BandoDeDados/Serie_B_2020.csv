@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2020,Mineirão,Belo Horizonte,MG,Sábado,8, Agosto ,2020,19:00,Cruzeiro - MG,Botafogo - SP,2,1,1,0,0,3,0
+1,B,2020,Ressacada,Florianopolis,SC,Sábado,8, Agosto ,2020,19:00,Avaí - SC,Náutico - PE,3,1,1,0,0,3,0
+2,B,2020,Rei Pelé,Maceio,AL,Sábado,8, Agosto ,2020,21:00,Csa - AL,Guarani - SP,1,0,1,0,0,3,0
+3,B,2020,Canindé,Sao Paulo,SP,Sábado,8, Agosto ,2020,21:00,Ponte Preta - SP,America - MG,0,1,0,1,0,0,3
+4,B,2020,Arena Barueri,Barueri,SP,Domingo,9, Agosto ,2020,11:00,Oeste - SP,Chapecoense - SC,0,0,0,0,1,1,1
+5,B,2020,Germano Kruger,Ponta Grossa,PR,Sábado,8, Agosto ,2020,16:00,Operário - PR,Figueirense - SC,3,1,1,0,0,3,0
+6,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,8, Agosto ,2020,11:00,Juventude - RS,Crb - AL,2,1,1,0,0,3,0
+7,B,2020,Manoel Barradas,Salvador,BA,Sábado,8, Agosto ,2020,19:00,Vitória - BA,Sampaio Correa - MA,1,0,1,0,0,3,0
+8,B,2020,Batistão,Aracaju,SE,Sexta,7, Agosto ,2020,21:30,Confiança - SE,Paraná - PR,2,2,0,0,1,1,1
+9,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,7, Agosto ,2020,19:15,Cuiabá - MT,Brasil - RS,0,0,0,0,1,1,1
+10,B,2020,Independência,Belo Horizonte,MG,Terça,11, Agosto ,2020,21:30,America - MG,Cuiabá - MT,0,1,0,1,0,0,3
+11,B,2020,Orlando Scarpelli,Florianopolis,SC,Terça,11, Agosto ,2020,21:30,Figueirense - SC,Vitória - BA,0,0,0,0,1,1,1
+12,B,2020,Rei Pelé,Maceio,AL,Quarta,12, Agosto ,2020,17:00,Crb - AL,Oeste - SP,1,0,1,0,0,3,0
+13,B,2020,Brinco de Ouro,Campinas,SP,Terça,11, Agosto ,2020,20:30,Guarani - SP,Cruzeiro - MG,2,3,0,1,0,0,3
+14,B,2020,Santa Cruz,Ribeirao Preto,SP,Terça,11, Agosto ,2020,19:15,Botafogo - SP,Confiança - SE,2,0,1,0,0,3,0
+15,B,2020,Durival Britto,Curitiba,PR,Terça,11, Agosto ,2020,20:30,Paraná - PR,Avaí - SC,1,0,1,0,0,3,0
+16,B,2020,Bento Freitas,Pelotas,RS,Terça,11, Agosto ,2020,19:15,Brasil - RS,Ponte Preta - SP,1,1,0,0,1,1,1
+17,B,2020,Aflitos,Recife,PE,Terça,11, Agosto ,2020,21:30,Náutico - PE,Operário - PR,0,0,0,0,1,1,1
+18,B,2020,Castelão,Sao Luis,MA,Terça,11, Agosto ,2020,19:15,Sampaio Correa - MA,Juventude - RS,0,1,0,1,0,0,3
+19,B,2020,Arena Condá,Chapeco,SC,Terça,27, Outubro ,2020,19:00,Chapecoense - SC,Csa - AL,0,0,0,0,1,1,1
+20,B,2020,Independência,Belo Horizonte,MG,Sexta,14, Agosto ,2020,19:15,America - MG,Operário - PR,1,1,0,0,1,1,1
+21,B,2020,Orlando Scarpelli,Florianopolis,SC,Domingo,16, Agosto ,2020,16:00,Figueirense - SC,Cruzeiro - MG,0,1,0,1,0,0,3
+22,B,2020,Rei Pelé,Maceio,AL,Quarta,16, Setembro ,2020,19:15,Csa - AL,Cuiabá - MT,1,2,0,1,0,0,3
+23,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,14, Agosto ,2020,20:30,Ponte Preta - SP,Vitória - BA,3,3,0,0,1,1,1
+24,B,2020,Santa Cruz,Ribeirao Preto,SP,Sábado,15, Agosto ,2020,11:00,Botafogo - SP,Guarani - SP,0,1,0,1,0,0,3
+25,B,2020,Durival Britto,Curitiba,PR,Sexta,14, Agosto ,2020,21:30,Paraná - PR,Juventude - RS,3,1,1,0,0,3,0
+26,B,2020,Bento Freitas,Pelotas,RS,Sábado,15, Agosto ,2020,16:30,Brasil - RS,Oeste - SP,1,1,0,0,1,1,1
+27,B,2020,Aflitos,Recife,PE,Sábado,15, Agosto ,2020,19:00,Náutico - PE,Crb - AL,1,1,0,0,1,1,1
+28,B,2020,Batistão,Aracaju,SE,Terça,15, Setembro ,2020,19:15,Confiança - SE,Avaí - SC,2,2,0,0,1,1,1
+29,B,2020,Arena Condá,Chapeco,SC,Domingo,16, Agosto ,2020,11:00,Chapecoense - SC,Sampaio Correa - MA,1,0,1,0,0,3,0
+30,B,2020,Mineirão,Belo Horizonte,MG,Quinta,20, Agosto ,2020,21:00,Cruzeiro - MG,Chapecoense - SC,0,1,0,1,0,0,3
+31,B,2020,Ressacada,Florianopolis,SC,Terça,18, Agosto ,2020,19:15,Avaí - SC,Botafogo - SP,0,1,0,1,0,0,3
+32,B,2020,Rei Pelé,Maceio,AL,Terça,18, Agosto ,2020,21:30,Crb - AL,Brasil - RS,1,0,1,0,0,3,0
+33,B,2020,Brinco de Ouro,Campinas,SP,Terça,18, Agosto ,2020,21:30,Guarani - SP,Paraná - PR,1,2,0,1,0,0,3
+34,B,2020,Canindé,Sao Paulo,SP,Terça,18, Agosto ,2020,20:30,Oeste - SP,Ponte Preta - SP,1,3,0,1,0,0,3
+35,B,2020,Germano Kruger,Ponta Grossa,PR,Terça,18, Agosto ,2020,19:15,Operário - PR,Csa - AL,3,0,1,0,0,3,0
+36,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Segunda,17, Agosto ,2020,20:00,Juventude - RS,America - MG,0,0,0,0,1,1,1
+37,B,2020,Manoel Barradas,Salvador,BA,Quarta,19, Agosto ,2020,21:30,Vitória - BA,Náutico - PE,0,0,0,0,1,1,1
+38,B,2020,Castelão,Sao Luis,MA,Quarta,14, Outubro ,2020,16:00,Sampaio Correa - MA,Figueirense - SC,3,0,1,0,0,3,0
+39,B,2020,Arena Pantanal,Cuiaba,MT,Terça,18, Agosto ,2020,21:30,Cuiabá - MT,Confiança - SE,1,0,1,0,0,3,0
+40,B,2020,Independência,Belo Horizonte,MG,Sexta,21, Agosto ,2020,19:15,America - MG,Oeste - SP,2,1,1,0,0,3,0
+41,B,2020,Ressacada,Florianopolis,SC,Sábado,22, Agosto ,2020,11:00,Avaí - SC,Cuiabá - MT,0,2,0,1,0,0,3
+42,B,2020,Rei Pelé,Maceio,AL,Sábado,22, Agosto ,2020,19:00,Crb - AL,Vitória - BA,2,2,0,0,1,1,1
+43,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,21, Agosto ,2020,21:30,Ponte Preta - SP,Csa - AL,2,1,1,0,0,3,0
+44,B,2020,Santa Cruz,Ribeirao Preto,SP,Sábado,22, Agosto ,2020,16:30,Botafogo - SP,Figueirense - SC,0,1,0,1,0,0,3
+45,B,2020,Durival Britto,Curitiba,PR,Domingo,23, Agosto ,2020,11:00,Paraná - PR,Operário - PR,0,0,0,0,1,1,1
+46,B,2020,Bento Freitas,Pelotas,RS,Terça,3, Novembro ,2020,19:15,Brasil - RS,Sampaio Correa - MA,0,0,0,0,1,1,1
+47,B,2020,Aflitos,Recife,PE,Sábado,22, Agosto ,2020,16:30,Náutico - PE,Juventude - RS,3,3,0,0,1,1,1
+48,B,2020,Batistão,Aracaju,SE,Domingo,23, Agosto ,2020,18:00,Confiança - SE,Cruzeiro - MG,1,1,0,0,1,1,1
+49,B,2020,Arena Condá,Chapeco,SC,Segunda,24, Agosto ,2020,20:00,Chapecoense - SC,Guarani - SP,2,0,1,0,0,3,0
+50,B,2020,Mineirão,Belo Horizonte,MG,Sábado,29, Agosto ,2020,19:00,Cruzeiro - MG,America - MG,1,2,0,1,0,0,3
+51,B,2020,Orlando Scarpelli,Florianopolis,SC,Sábado,29, Agosto ,2020,19:00,Figueirense - SC,Confiança - SE,0,0,0,0,1,1,1
+52,B,2020,Rei Pelé,Maceio,AL,Domingo,30, Agosto ,2020,19:00,Csa - AL,Crb - AL,0,2,0,1,0,0,3
+53,B,2020,Brinco de Ouro,Campinas,SP,Sexta,28, Agosto ,2020,21:30,Guarani - SP,Náutico - PE,1,2,0,1,0,0,3
+54,B,2020,Arena Barueri,Barueri,SP,Sexta,28, Agosto ,2020,19:15,Oeste - SP,Avaí - SC,0,2,0,1,0,0,3
+55,B,2020,Germano Kruger,Ponta Grossa,PR,Domingo,30, Agosto ,2020,19:00,Operário - PR,Brasil - RS,2,1,1,0,0,3,0
+56,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,29, Agosto ,2020,11:00,Juventude - RS,Botafogo - SP,0,0,0,0,1,1,1
+57,B,2020,Manoel Barradas,Salvador,BA,Sábado,29, Agosto ,2020,16:30,Vitória - BA,Paraná - PR,1,0,1,0,0,3,0
+58,B,2020,Castelão,Sao Luis,MA,Sábado,29, Agosto ,2020,21:00,Sampaio Correa - MA,Ponte Preta - SP,1,2,0,1,0,0,3
+59,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,28, Agosto ,2020,20:30,Cuiabá - MT,Chapecoense - SC,2,1,1,0,0,3,0
+60,B,2020,Independência,Belo Horizonte,MG,Quarta,2, Setembro ,2020,16:30,America - MG,Csa - AL,2,1,1,0,0,3,0
+61,B,2020,Ressacada,Florianopolis,SC,Quarta,2, Setembro ,2020,16:30,Avaí - SC,Operário - PR,2,0,1,0,0,3,0
+62,B,2020,Rei Pelé,Maceio,AL,Quarta,2, Setembro ,2020,19:00,Crb - AL,Sampaio Correa - MA,2,2,0,0,1,1,1
+63,B,2020,Brinco de Ouro,Campinas,SP,Segunda,31, Agosto ,2020,20:00,Guarani - SP,Oeste - SP,1,1,0,0,1,1,1
+64,B,2020,Santa Cruz,Ribeirao Preto,SP,Terça,1, Setembro ,2020,17:00,Botafogo - SP,Cuiabá - MT,1,1,0,0,1,1,1
+65,B,2020,Durival Britto,Curitiba,PR,Terça,1, Setembro ,2020,19:15,Paraná - PR,Ponte Preta - SP,2,1,1,0,0,3,0
+66,B,2020,Bento Freitas,Pelotas,RS,Quarta,2, Setembro ,2020,21:30,Brasil - RS,Cruzeiro - MG,1,0,1,0,0,3,0
+67,B,2020,Aflitos,Recife,PE,Terça,1, Setembro ,2020,21:30,Náutico - PE,Figueirense - SC,1,0,1,0,0,3,0
+68,B,2020,Batistão,Aracaju,SE,Terça,1, Setembro ,2020,21:30,Confiança - SE,Vitória - BA,1,0,1,0,0,3,0
+69,B,2020,Arena Condá,Chapeco,SC,Terça,1, Setembro ,2020,20:30,Chapecoense - SC,Juventude - RS,1,0,1,0,0,3,0
+70,B,2020,Mineirão,Belo Horizonte,MG,Segunda,7, Setembro ,2020,20:00,Cruzeiro - MG,Crb - AL,1,1,0,0,1,1,1
+71,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,4, Setembro ,2020,19:15,Figueirense - SC,Paraná - PR,0,1,0,1,0,0,3
+72,B,2020,Rei Pelé,Maceio,AL,Sábado,5, Setembro ,2020,16:30,Csa - AL,Confiança - SE,1,1,0,0,1,1,1
+73,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,4, Setembro ,2020,21:30,Ponte Preta - SP,Botafogo - SP,1,0,1,0,0,3,0
+74,B,2020,Arena Barueri,Barueri,SP,Sábado,5, Setembro ,2020,11:00,Oeste - SP,Juventude - RS,1,3,0,1,0,0,3
+75,B,2020,Germano Kruger,Ponta Grossa,PR,Sábado,5, Setembro ,2020,19:00,Operário - PR,Guarani - SP,1,2,0,1,0,0,3
+76,B,2020,Bento Freitas,Pelotas,RS,Sábado,5, Setembro ,2020,21:00,Brasil - RS,Náutico - PE,2,1,1,0,0,3,0
+77,B,2020,Manoel Barradas,Salvador,BA,Sábado,5, Setembro ,2020,16:30,Vitória - BA,Cuiabá - MT,4,2,1,0,0,3,0
+78,B,2020,Castelão,Sao Luis,MA,Sábado,5, Setembro ,2020,19:00,Sampaio Correa - MA,America - MG,1,0,1,0,0,3,0
+79,B,2020,Arena Condá,Chapeco,SC,Domingo,6, Setembro ,2020,11:00,Chapecoense - SC,Avaí - SC,1,0,1,0,0,3,0
+80,B,2020,Mineirão,Belo Horizonte,MG,Sexta,11, Setembro ,2020,21:30,Cruzeiro - MG,Vitória - BA,1,0,1,0,0,3,0
+81,B,2020,Ressacada,Florianopolis,SC,Sexta,11, Setembro ,2020,19:15,Avaí - SC,Ponte Preta - SP,0,1,0,1,0,0,3
+82,B,2020,Rei Pelé,Maceio,AL,Quarta,14, Outubro ,2020,19:15,Crb - AL,Chapecoense - SC,0,1,0,1,0,0,3
+83,B,2020,Brinco de Ouro,Campinas,SP,Sábado,12, Setembro ,2020,11:00,Guarani - SP,Brasil - RS,0,0,0,0,1,1,1
+84,B,2020,Arena Barueri,Barueri,SP,Domingo,13, Setembro ,2020,11:00,Oeste - SP,Csa - AL,2,1,1,0,0,3,0
+85,B,2020,Durival Britto,Curitiba,PR,Quarta,9, Setembro ,2020,19:15,Paraná - PR,America - MG,0,1,0,1,0,0,3
+86,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Terça,8, Setembro ,2020,19:15,Juventude - RS,Confiança - SE,3,1,1,0,0,3,0
+87,B,2020,Aflitos,Recife,PE,Sábado,12, Setembro ,2020,19:00,Náutico - PE,Botafogo - SP,3,1,1,0,0,3,0
+88,B,2020,Castelão,Sao Luis,MA,Sábado,12, Setembro ,2020,16:30,Sampaio Correa - MA,Operário - PR,0,1,0,1,0,0,3
+89,B,2020,Arena Pantanal,Cuiaba,MT,Terça,8, Setembro ,2020,21:30,Cuiabá - MT,Figueirense - SC,0,0,0,0,1,1,1
+90,B,2020,Independência,Belo Horizonte,MG,Sábado,19, Setembro ,2020,16:30,America - MG,Figueirense - SC,0,1,0,1,0,0,3
+91,B,2020,Ressacada,Florianopolis,SC,Domingo,20, Setembro ,2020,11:00,Avaí - SC,Sampaio Correa - MA,2,5,0,1,0,0,3
+92,B,2020,Rei Pelé,Maceio,AL,Sábado,19, Setembro ,2020,21:00,Csa - AL,Cruzeiro - MG,3,1,1,0,0,3,0
+93,B,2020,Moisés Lucarelli,Campinas,SP,Sábado,19, Setembro ,2020,19:00,Ponte Preta - SP,Operário - PR,1,1,0,0,1,1,1
+94,B,2020,Santa Cruz,Ribeirao Preto,SP,Segunda,21, Setembro ,2020,20:00,Botafogo - SP,Brasil - RS,0,1,0,1,0,0,3
+95,B,2020,Durival Britto,Curitiba,PR,Segunda,14, Setembro ,2020,20:00,Paraná - PR,Crb - AL,2,0,1,0,0,3,0
+96,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Segunda,14, Setembro ,2020,20:00,Juventude - RS,Vitória - BA,1,1,0,0,1,1,1
+97,B,2020,Aflitos,Recife,PE,Sexta,18, Setembro ,2020,21:30,Náutico - PE,Chapecoense - SC,1,1,0,0,1,1,1
+98,B,2020,Batistão,Aracaju,SE,Sexta,18, Setembro ,2020,19:15,Confiança - SE,Guarani - SP,1,0,1,0,0,3,0
+99,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,19, Setembro ,2020,21:00,Cuiabá - MT,Oeste - SP,3,0,1,0,0,3,0
+100,B,2020,Mineirão,Belo Horizonte,MG,Sexta,25, Setembro ,2020,21:30,Cruzeiro - MG,Avaí - SC,0,1,0,1,0,0,3
+101,B,2020,Orlando Scarpelli,Florianopolis,SC,Sábado,26, Setembro ,2020,11:00,Figueirense - SC,Guarani - SP,2,2,0,0,1,1,1
+102,B,2020,Rei Pelé,Maceio,AL,Sábado,26, Setembro ,2020,16:00,Csa - AL,Juventude - RS,3,2,1,0,0,3,0
+103,B,2020,Moisés Lucarelli,Campinas,SP,Domingo,27, Setembro ,2020,20:30,Ponte Preta - SP,Confiança - SE,2,1,1,0,0,3,0
+104,B,2020,Santa Cruz,Ribeirao Preto,SP,Sexta,25, Setembro ,2020,19:15,Botafogo - SP,Crb - AL,1,2,0,1,0,0,3
+105,B,2020,Germano Kruger,Ponta Grossa,PR,Terça,22, Setembro ,2020,20:00,Operário - PR,Cuiabá - MT,1,1,0,0,1,1,1
+106,B,2020,Bento Freitas,Pelotas,RS,Sábado,26, Setembro ,2020,18:30,Brasil - RS,Paraná - PR,1,1,0,0,1,1,1
+107,B,2020,Manoel Barradas,Salvador,BA,Sábado,26, Setembro ,2020,16:30,Vitória - BA,Oeste - SP,3,1,1,0,0,3,0
+108,B,2020,Castelão,Sao Luis,MA,Terça,17, Novembro ,2020,18:00,Sampaio Correa - MA,Náutico - PE,2,1,1,0,0,3,0
+109,B,2020,Arena Condá,Chapeco,SC,Sexta,25, Setembro ,2020,19:15,Chapecoense - SC,America - MG,0,0,0,0,1,1,1
+110,B,2020,Mineirão,Belo Horizonte,MG,Quarta,30, Setembro ,2020,19:15,Cruzeiro - MG,Ponte Preta - SP,3,0,1,0,0,3,0
+111,B,2020,Ressacada,Florianopolis,SC,Terça,29, Setembro ,2020,19:15,Avaí - SC,Figueirense - SC,1,0,1,0,0,3,0
+112,B,2020,Rei Pelé,Maceio,AL,Segunda,28, Setembro ,2020,20:00,Crb - AL,America - MG,0,0,0,0,1,1,1
+113,B,2020,Brinco de Ouro,Campinas,SP,Terça,29, Setembro ,2020,21:30,Guarani - SP,Sampaio Correa - MA,1,1,0,0,1,1,1
+114,B,2020,Arena Barueri,Barueri,SP,Terça,29, Setembro ,2020,20:30,Oeste - SP,Botafogo - SP,0,1,0,1,0,0,3
+115,B,2020,Durival Britto,Curitiba,PR,Terça,29, Setembro ,2020,21:30,Paraná - PR,Chapecoense - SC,1,1,0,0,1,1,1
+116,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Terça,29, Setembro ,2020,19:15,Juventude - RS,Operário - PR,1,0,1,0,0,3,0
+117,B,2020,Manoel Barradas,Salvador,BA,Terça,29, Setembro ,2020,19:15,Vitória - BA,Csa - AL,0,1,0,1,0,0,3
+118,B,2020,Batistão,Aracaju,SE,Quarta,30, Setembro ,2020,16:30,Confiança - SE,Brasil - RS,1,1,0,0,1,1,1
+119,B,2020,Arena Pantanal,Cuiaba,MT,Terça,29, Setembro ,2020,22:30,Cuiabá - MT,Náutico - PE,1,0,1,0,0,3,0
+120,B,2020,Independência,Belo Horizonte,MG,Sábado,3, Outubro ,2020,11:00,America - MG,Guarani - SP,0,0,0,0,1,1,1
+121,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,2, Outubro ,2020,16:30,Figueirense - SC,Oeste - SP,4,1,1,0,0,3,0
+122,B,2020,Rei Pelé,Maceio,AL,Sexta,2, Outubro ,2020,19:15,Crb - AL,Avaí - SC,3,1,1,0,0,3,0
+123,B,2020,Moisés Lucarelli,Campinas,SP,Sábado,3, Outubro ,2020,19:00,Ponte Preta - SP,Juventude - RS,1,3,0,1,0,0,3
+124,B,2020,Santa Cruz,Ribeirao Preto,SP,Sexta,2, Outubro ,2020,21:30,Botafogo - SP,Paraná - PR,1,0,1,0,0,3,0
+125,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,2, Outubro ,2020,19:15,Operário - PR,Vitória - BA,1,1,0,0,1,1,1
+126,B,2020,Bento Freitas,Pelotas,RS,Sábado,3, Outubro ,2020,16:30,Brasil - RS,Chapecoense - SC,0,1,0,1,0,0,3
+127,B,2020,Aflitos,Recife,PE,Sábado,3, Outubro ,2020,16:00,Náutico - PE,Confiança - SE,0,1,0,1,0,0,3
+128,B,2020,Castelão,Sao Luis,MA,Sábado,3, Outubro ,2020,16:30,Sampaio Correa - MA,Csa - AL,1,0,1,0,0,3,0
+129,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,3, Outubro ,2020,22:00,Cuiabá - MT,Cruzeiro - MG,1,0,1,0,0,3,0
+130,B,2020,Mineirão,Belo Horizonte,MG,Quinta,8, Outubro ,2020,18:30,Cruzeiro - MG,Sampaio Correa - MA,1,2,0,1,0,0,3
+131,B,2020,Ressacada,Florianopolis,SC,Terça,6, Outubro ,2020,19:15,Avaí - SC,Brasil - RS,2,1,1,0,0,3,0
+132,B,2020,Rei Pelé,Maceio,AL,Terça,6, Outubro ,2020,19:15,Csa - AL,Figueirense - SC,3,0,1,0,0,3,0
+133,B,2020,Moisés Lucarelli,Campinas,SP,Terça,6, Outubro ,2020,21:30,Ponte Preta - SP,Guarani - SP,2,0,1,0,0,3,0
+134,B,2020,Arena Barueri,Barueri,SP,Segunda,5, Outubro ,2020,20:00,Oeste - SP,Operário - PR,0,1,0,1,0,0,3
+135,B,2020,Durival Britto,Curitiba,PR,Terça,6, Outubro ,2020,19:15,Paraná - PR,Náutico - PE,0,0,0,0,1,1,1
+136,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Terça,6, Outubro ,2020,19:15,Juventude - RS,Cuiabá - MT,1,1,0,0,1,1,1
+137,B,2020,Manoel Barradas,Salvador,BA,Terça,6, Outubro ,2020,19:15,Vitória - BA,America - MG,1,2,0,1,0,0,3
+138,B,2020,Batistão,Aracaju,SE,Terça,6, Outubro ,2020,17:00,Confiança - SE,Crb - AL,1,0,1,0,0,3,0
+139,B,2020,Arena Condá,Chapeco,SC,Terça,6, Outubro ,2020,17:00,Chapecoense - SC,Botafogo - SP,1,0,1,0,0,3,0
+140,B,2020,Independência,Belo Horizonte,MG,Sexta,9, Outubro ,2020,19:15,America - MG,Náutico - PE,2,0,1,0,0,3,0
+141,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,9, Outubro ,2020,16:00,Figueirense - SC,Chapecoense - SC,0,0,0,0,1,1,1
+142,B,2020,Rei Pelé,Maceio,AL,Sábado,10, Outubro ,2020,18:30,Csa - AL,Paraná - PR,4,0,1,0,0,3,0
+143,B,2020,Brinco de Ouro,Campinas,SP,Sábado,10, Outubro ,2020,16:30,Guarani - SP,Crb - AL,3,1,1,0,0,3,0
+144,B,2020,Arena Barueri,Barueri,SP,Domingo,11, Outubro ,2020,16:00,Oeste - SP,Cruzeiro - MG,0,0,0,0,1,1,1
+145,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,9, Outubro ,2020,16:30,Operário - PR,Confiança - SE,1,1,0,0,1,1,1
+146,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,10, Outubro ,2020,11:00,Juventude - RS,Brasil - RS,1,2,0,1,0,0,3
+147,B,2020,Manoel Barradas,Salvador,BA,Sábado,10, Outubro ,2020,16:00,Vitória - BA,Avaí - SC,1,2,0,1,0,0,3
+148,B,2020,Castelão,Sao Luis,MA,Domingo,11, Outubro ,2020,20:30,Sampaio Correa - MA,Botafogo - SP,2,0,1,0,0,3,0
+149,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,9, Outubro ,2020,18:30,Cuiabá - MT,Ponte Preta - SP,2,1,1,0,0,3,0
+150,B,2020,Mineirão,Belo Horizonte,MG,Sexta,16, Outubro ,2020,21:30,Cruzeiro - MG,Juventude - RS,0,0,0,0,1,1,1
+151,B,2020,Ressacada,Florianopolis,SC,Terça,13, Outubro ,2020,19:15,Avaí - SC,Csa - AL,1,1,0,0,1,1,1
+152,B,2020,Rei Pelé,Maceio,AL,Sábado,17, Outubro ,2020,18:30,Crb - AL,Operário - PR,4,1,1,0,0,3,0
+153,B,2020,Brinco de Ouro,Campinas,SP,Terça,13, Outubro ,2020,21:30,Guarani - SP,Cuiabá - MT,1,0,1,0,0,3,0
+154,B,2020,Santa Cruz,Ribeirao Preto,SP,Sexta,16, Outubro ,2020,19:15,Botafogo - SP,America - MG,1,2,0,1,0,0,3
+155,B,2020,Durival Britto,Curitiba,PR,Domingo,18, Outubro ,2020,20:30,Paraná - PR,Sampaio Correa - MA,0,0,0,0,1,1,1
+156,B,2020,Bento Freitas,Pelotas,RS,Sábado,17, Outubro ,2020,18:30,Brasil - RS,Figueirense - SC,0,0,0,0,1,1,1
+157,B,2020,Aflitos,Recife,PE,Segunda,12, Outubro ,2020,20:00,Náutico - PE,Ponte Preta - SP,0,2,0,1,0,0,3
+158,B,2020,Batistão,Aracaju,SE,Sábado,17, Outubro ,2020,16:30,Confiança - SE,Oeste - SP,3,1,1,0,0,3,0
+159,B,2020,Arena Condá,Chapeco,SC,Sábado,17, Outubro ,2020,16:00,Chapecoense - SC,Vitória - BA,1,1,0,0,1,1,1
+160,B,2020,Independência,Belo Horizonte,MG,Terça,20, Outubro ,2020,16:30,America - MG,Brasil - RS,3,1,1,0,0,3,0
+161,B,2020,Orlando Scarpelli,Florianopolis,SC,Quarta,21, Outubro ,2020,16:30,Figueirense - SC,Crb - AL,2,0,1,0,0,3,0
+162,B,2020,Rei Pelé,Maceio,AL,Terça,20, Outubro ,2020,19:15,Csa - AL,Botafogo - SP,1,0,1,0,0,3,0
+163,B,2020,Moisés Lucarelli,Campinas,SP,Terça,20, Outubro ,2020,21:30,Ponte Preta - SP,Chapecoense - SC,0,5,0,1,0,0,3
+164,B,2020,Arena Barueri,Barueri,SP,Terça,20, Outubro ,2020,19:15,Oeste - SP,Náutico - PE,0,1,0,1,0,0,3
+165,B,2020,Germano Kruger,Ponta Grossa,PR,Terça,20, Outubro ,2020,21:30,Operário - PR,Cruzeiro - MG,0,1,0,1,0,0,3
+166,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Terça,20, Outubro ,2020,19:15,Juventude - RS,Avaí - SC,3,0,1,0,0,3,0
+167,B,2020,Manoel Barradas,Salvador,BA,Quinta,22, Outubro ,2020,21:30,Vitória - BA,Guarani - SP,1,1,0,0,1,1,1
+168,B,2020,Castelão,Sao Luis,MA,Quarta,21, Outubro ,2020,19:00,Sampaio Correa - MA,Confiança - SE,1,3,0,1,0,0,3
+169,B,2020,Arena Pantanal,Cuiaba,MT,Quarta,21, Outubro ,2020,19:00,Cuiabá - MT,Paraná - PR,3,3,0,0,1,1,1
+170,B,2020,Independência,Belo Horizonte,MG,Sábado,24, Outubro ,2020,21:00,America - MG,Confiança - SE,2,1,1,0,0,3,0
+171,B,2020,Orlando Scarpelli,Florianopolis,SC,Domingo,25, Outubro ,2020,18:15,Figueirense - SC,Juventude - RS,1,1,0,0,1,1,1
+172,B,2020,Rei Pelé,Maceio,AL,Sábado,24, Outubro ,2020,16:00,Crb - AL,Ponte Preta - SP,1,0,1,0,0,3,0
+173,B,2020,Brinco de Ouro,Campinas,SP,Domingo,25, Outubro ,2020,18:15,Guarani - SP,Avaí - SC,2,1,1,0,0,3,0
+174,B,2020,Santa Cruz,Ribeirao Preto,SP,Domingo,25, Outubro ,2020,20:30,Botafogo - SP,Vitória - BA,2,1,1,0,0,3,0
+175,B,2020,Durival Britto,Curitiba,PR,Segunda,26, Outubro ,2020,20:00,Paraná - PR,Oeste - SP,4,0,1,0,0,3,0
+176,B,2020,Bento Freitas,Pelotas,RS,Sexta,23, Outubro ,2020,19:15,Brasil - RS,Csa - AL,1,1,0,0,1,1,1
+177,B,2020,Aflitos,Recife,PE,Domingo,25, Outubro ,2020,16:00,Náutico - PE,Cruzeiro - MG,1,1,0,0,1,1,1
+178,B,2020,Castelão,Sao Luis,MA,Sábado,24, Outubro ,2020,18:30,Sampaio Correa - MA,Cuiabá - MT,3,0,1,0,0,3,0
+179,B,2020,Arena Condá,Chapeco,SC,Sexta,23, Outubro ,2020,21:30,Chapecoense - SC,Operário - PR,1,0,1,0,0,3,0
+180,B,2020,Mineirão,Belo Horizonte,MG,Sexta,30, Outubro ,2020,21:30,Cruzeiro - MG,Paraná - PR,2,0,1,0,0,3,0
+181,B,2020,Ressacada,Florianopolis,SC,Sábado,31, Outubro ,2020,19:00,Avaí - SC,America - MG,1,0,1,0,0,3,0
+182,B,2020,Rei Pelé,Maceio,AL,Sábado,31, Outubro ,2020,21:00,Csa - AL,Náutico - PE,3,1,1,0,0,3,0
+183,B,2020,Moisés Lucarelli,Campinas,SP,Segunda,2, Novembro ,2020,17:30,Ponte Preta - SP,Figueirense - SC,2,1,1,0,0,3,0
+184,B,2020,Arena Barueri,Barueri,SP,Sábado,31, Outubro ,2020,16:30,Oeste - SP,Sampaio Correa - MA,0,3,0,1,0,0,3
+185,B,2020,Germano Kruger,Ponta Grossa,PR,Sábado,31, Outubro ,2020,19:00,Operário - PR,Botafogo - SP,0,0,0,0,1,1,1
+186,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Domingo,1, Novembro ,2020,18:15,Juventude - RS,Guarani - SP,1,0,1,0,0,3,0
+187,B,2020,Manoel Barradas,Salvador,BA,Sexta,30, Outubro ,2020,19:15,Vitória - BA,Brasil - RS,0,0,0,0,1,1,1
+188,B,2020,Batistão,Aracaju,SE,Sábado,31, Outubro ,2020,16:30,Confiança - SE,Chapecoense - SC,0,2,0,1,0,0,3
+189,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,31, Outubro ,2020,22:00,Cuiabá - MT,Crb - AL,3,0,1,0,0,3,0
+190,B,2020,Independência,Belo Horizonte,MG,Sábado,7, Novembro ,2020,18:30,America - MG,Ponte Preta - SP,1,1,0,0,1,1,1
+191,B,2020,Orlando Scarpelli,Florianopolis,SC,Sábado,7, Novembro ,2020,16:30,Figueirense - SC,Operário - PR,0,1,0,1,0,0,3
+192,B,2020,Rei Pelé,Maceio,AL,Domingo,8, Novembro ,2020,18:15,Crb - AL,Juventude - RS,0,1,0,1,0,0,3
+193,B,2020,Brinco de Ouro,Campinas,SP,Sexta,6, Novembro ,2020,19:15,Guarani - SP,Csa - AL,2,1,1,0,0,3,0
+194,B,2020,Santa Cruz,Ribeirao Preto,SP,Sexta,6, Novembro ,2020,19:15,Botafogo - SP,Cruzeiro - MG,0,1,0,1,0,0,3
+195,B,2020,Durival Britto,Curitiba,PR,Sexta,6, Novembro ,2020,21:30,Paraná - PR,Confiança - SE,1,1,0,0,1,1,1
+196,B,2020,Bento Freitas,Pelotas,RS,Sábado,7, Novembro ,2020,16:00,Brasil - RS,Cuiabá - MT,3,0,1,0,0,3,0
+197,B,2020,Aflitos,Recife,PE,Sexta,6, Novembro ,2020,19:15,Náutico - PE,Avaí - SC,2,2,0,0,1,1,1
+198,B,2020,Castelão,Sao Luis,MA,Domingo,8, Novembro ,2020,16:00,Sampaio Correa - MA,Vitória - BA,2,1,1,0,0,3,0
+199,B,2020,Arena Condá,Chapeco,SC,Sábado,7, Novembro ,2020,21:00,Chapecoense - SC,Oeste - SP,0,0,0,0,1,1,1
+200,B,2020,Mineirão,Belo Horizonte,MG,Segunda,9, Novembro ,2020,20:00,Cruzeiro - MG,Guarani - SP,3,3,0,0,1,1,1
+201,B,2020,Ressacada,Florianopolis,SC,Sexta,13, Novembro ,2020,18:30,Avaí - SC,Paraná - PR,2,1,1,0,0,3,0
+202,B,2020,Rei Pelé,Maceio,AL,Terça,10, Novembro ,2020,19:00,Csa - AL,Chapecoense - SC,0,1,0,1,0,0,3
+203,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,13, Novembro ,2020,16:00,Ponte Preta - SP,Brasil - RS,1,1,0,0,1,1,1
+204,B,2020,Arena Barueri,Barueri,SP,Sexta,13, Novembro ,2020,19:15,Oeste - SP,Crb - AL,1,2,0,1,0,0,3
+205,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,13, Novembro ,2020,16:30,Operário - PR,Náutico - PE,3,1,1,0,0,3,0
+206,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,14, Novembro ,2020,19:00,Juventude - RS,Sampaio Correa - MA,2,3,0,1,0,0,3
+207,B,2020,Manoel Barradas,Salvador,BA,Quinta,12, Novembro ,2020,21:30,Vitória - BA,Figueirense - SC,3,0,1,0,0,3,0
+208,B,2020,Batistão,Aracaju,SE,Terça,10, Novembro ,2020,21:30,Confiança - SE,Botafogo - SP,1,0,1,0,0,3,0
+209,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,14, Novembro ,2020,21:30,Cuiabá - MT,America - MG,0,0,0,0,1,1,1
+210,B,2020,Mineirão,Belo Horizonte,MG,Sexta,20, Novembro ,2020,21:30,Cruzeiro - MG,Figueirense - SC,1,1,0,0,1,1,1
+211,B,2020,Ressacada,Florianopolis,SC,Sexta,20, Novembro ,2020,16:30,Avaí - SC,Confiança - SE,1,0,1,0,0,3,0
+212,B,2020,Rei Pelé,Maceio,AL,Sábado,21, Novembro ,2020,19:00,Crb - AL,Náutico - PE,2,1,1,0,0,3,0
+213,B,2020,Brinco de Ouro,Campinas,SP,Sexta,20, Novembro ,2020,19:15,Guarani - SP,Botafogo - SP,2,1,1,0,0,3,0
+214,B,2020,Arena Barueri,Barueri,SP,Sábado,21, Novembro ,2020,16:30,Oeste - SP,Brasil - RS,2,1,1,0,0,3,0
+215,B,2020,Germano Kruger,Ponta Grossa,PR,Sábado,21, Novembro ,2020,16:30,Operário - PR,America - MG,0,1,0,1,0,0,3
+216,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sexta,20, Novembro ,2020,19:15,Juventude - RS,Paraná - PR,5,0,1,0,0,3,0
+217,B,2020,Manoel Barradas,Salvador,BA,Sexta,20, Novembro ,2020,16:30,Vitória - BA,Ponte Preta - SP,0,0,0,0,1,1,1
+218,B,2020,Castelão,Sao Luis,MA,Sexta,20, Novembro ,2020,19:15,Sampaio Correa - MA,Chapecoense - SC,1,3,0,1,0,0,3
+219,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,21, Novembro ,2020,19:00,Cuiabá - MT,Csa - AL,0,1,0,1,0,0,3
+220,B,2020,Independência,Belo Horizonte,MG,Terça,24, Novembro ,2020,21:30,America - MG,Juventude - RS,2,1,1,0,0,3,0
+221,B,2020,Orlando Scarpelli,Florianopolis,SC,Segunda,23, Novembro ,2020,17:30,Figueirense - SC,Sampaio Correa - MA,1,2,0,1,0,0,3
+222,B,2020,Rei Pelé,Maceio,AL,Terça,24, Novembro ,2020,19:15,Csa - AL,Operário - PR,1,0,1,0,0,3,0
+223,B,2020,Moisés Lucarelli,Campinas,SP,Terça,24, Novembro ,2020,19:15,Ponte Preta - SP,Oeste - SP,1,0,1,0,0,3,0
+224,B,2020,Santa Cruz,Ribeirao Preto,SP,Segunda,23, Novembro ,2020,20:00,Botafogo - SP,Avaí - SC,0,1,0,1,0,0,3
+225,B,2020,Durival Britto,Curitiba,PR,Terça,24, Novembro ,2020,16:30,Paraná - PR,Guarani - SP,1,2,0,1,0,0,3
+226,B,2020,Bento Freitas,Pelotas,RS,Terça,24, Novembro ,2020,21:30,Brasil - RS,Crb - AL,2,1,1,0,0,3,0
+227,B,2020,Aflitos,Recife,PE,Quarta,25, Novembro ,2020,19:00,Náutico - PE,Vitória - BA,0,0,0,0,1,1,1
+228,B,2020,Batistão,Aracaju,SE,Terça,24, Novembro ,2020,19:15,Confiança - SE,Cuiabá - MT,2,0,1,0,0,3,0
+229,B,2020,Arena Condá,Chapeco,SC,Terça,24, Novembro ,2020,21:30,Chapecoense - SC,Cruzeiro - MG,0,1,0,1,0,0,3
+230,B,2020,Mineirão,Belo Horizonte,MG,Sexta,27, Novembro ,2020,21:30,Cruzeiro - MG,Confiança - SE,1,2,0,1,0,0,3
+231,B,2020,Orlando Scarpelli,Florianopolis,SC,Quinta,26, Novembro ,2020,21:30,Figueirense - SC,Botafogo - SP,0,0,0,0,1,1,1
+232,B,2020,Rei Pelé,Maceio,AL,Sábado,28, Novembro ,2020,16:00,Csa - AL,Ponte Preta - SP,2,1,1,0,0,3,0
+233,B,2020,Brinco de Ouro,Campinas,SP,Sábado,28, Novembro ,2020,21:00,Guarani - SP,Chapecoense - SC,2,0,1,0,0,3,0
+234,B,2020,Arena Barueri,Barueri,SP,Sexta,27, Novembro ,2020,19:15,Oeste - SP,America - MG,1,1,0,0,1,1,1
+235,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,27, Novembro ,2020,19:15,Operário - PR,Paraná - PR,1,0,1,0,0,3,0
+236,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,28, Novembro ,2020,21:00,Juventude - RS,Náutico - PE,1,0,1,0,0,3,0
+237,B,2020,Manoel Barradas,Salvador,BA,Sábado,28, Novembro ,2020,18:30,Vitória - BA,Crb - AL,2,1,1,0,0,3,0
+238,B,2020,Castelão,Sao Luis,MA,Sexta,27, Novembro ,2020,19:15,Sampaio Correa - MA,Brasil - RS,0,1,0,1,0,0,3
+239,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,27, Novembro ,2020,22:30,Cuiabá - MT,Avaí - SC,2,1,1,0,0,3,0
+240,B,2020,Independência,Belo Horizonte,MG,Quarta,2, Dezembro ,2020,21:30,America - MG,Cruzeiro - MG,1,2,0,1,0,0,3
+241,B,2020,Ressacada,Florianopolis,SC,Segunda,30, Novembro ,2020,20:00,Avaí - SC,Oeste - SP,0,3,0,1,0,0,3
+242,B,2020,Rei Pelé,Maceio,AL,Terça,1, Dezembro ,2020,19:15,Crb - AL,Csa - AL,0,0,0,0,1,1,1
+243,B,2020,Moisés Lucarelli,Campinas,SP,Terça,1, Dezembro ,2020,21:30,Ponte Preta - SP,Sampaio Correa - MA,1,1,0,0,1,1,1
+244,B,2020,Santa Cruz,Ribeirao Preto,SP,Quarta,2, Dezembro ,2020,19:00,Botafogo - SP,Juventude - RS,1,1,0,0,1,1,1
+245,B,2020,Durival Britto,Curitiba,PR,Terça,1, Dezembro ,2020,21:30,Paraná - PR,Vitória - BA,1,4,0,1,0,0,3
+246,B,2020,Bento Freitas,Pelotas,RS,Segunda,30, Novembro ,2020,17:00,Brasil - RS,Operário - PR,0,0,0,0,1,1,1
+247,B,2020,Aflitos,Recife,PE,Terça,1, Dezembro ,2020,19:15,Náutico - PE,Guarani - SP,2,0,1,0,0,3,0
+248,B,2020,Batistão,Aracaju,SE,Terça,1, Dezembro ,2020,19:15,Confiança - SE,Figueirense - SC,1,1,0,0,1,1,1
+249,B,2020,Arena Condá,Chapeco,SC,Terça,1, Dezembro ,2020,19:00,Chapecoense - SC,Cuiabá - MT,1,0,1,0,0,3,0
+250,B,2020,Mineirão,Belo Horizonte,MG,Sábado,5, Dezembro ,2020,21:00,Cruzeiro - MG,Brasil - RS,4,1,1,0,0,3,0
+251,B,2020,Orlando Scarpelli,Florianopolis,SC,Domingo,6, Dezembro ,2020,18:15,Figueirense - SC,Náutico - PE,2,0,1,0,0,3,0
+252,B,2020,Rei Pelé,Maceio,AL,Sábado,5, Dezembro ,2020,18:30,Csa - AL,America - MG,0,1,0,1,0,0,3
+253,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,4, Dezembro ,2020,21:30,Ponte Preta - SP,Paraná - PR,2,1,1,0,0,3,0
+254,B,2020,Arena Barueri,Barueri,SP,Sexta,4, Dezembro ,2020,16:00,Oeste - SP,Guarani - SP,0,1,0,1,0,0,3
+255,B,2020,Germano Kruger,Ponta Grossa,PR,Quinta,3, Dezembro ,2020,21:30,Operário - PR,Avaí - SC,1,1,0,0,1,1,1
+256,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,5, Dezembro ,2020,16:00,Juventude - RS,Chapecoense - SC,1,1,0,0,1,1,1
+257,B,2020,Manoel Barradas,Salvador,BA,Sexta,4, Dezembro ,2020,19:15,Vitória - BA,Confiança - SE,2,3,0,1,0,0,3
+258,B,2020,Castelão,Sao Luis,MA,Sábado,5, Dezembro ,2020,19:00,Sampaio Correa - MA,Crb - AL,3,0,1,0,0,3,0
+259,B,2020,Arena Pantanal,Cuiaba,MT,Sábado,5, Dezembro ,2020,22:00,Cuiabá - MT,Botafogo - SP,2,0,1,0,0,3,0
+260,B,2020,Independência,Belo Horizonte,MG,Terça,8, Dezembro ,2020,19:15,America - MG,Sampaio Correa - MA,2,1,1,0,0,3,0
+261,B,2020,Ressacada,Florianopolis,SC,Terça,8, Dezembro ,2020,21:30,Avaí - SC,Chapecoense - SC,0,2,0,1,0,0,3
+262,B,2020,Rei Pelé,Maceio,AL,Terça,8, Dezembro ,2020,21:30,Crb - AL,Cruzeiro - MG,0,0,0,0,1,1,1
+263,B,2020,Brinco de Ouro,Campinas,SP,Terça,8, Dezembro ,2020,16:30,Guarani - SP,Operário - PR,3,0,1,0,0,3,0
+264,B,2020,Santa Cruz,Ribeirao Preto,SP,Terça,8, Dezembro ,2020,19:15,Botafogo - SP,Ponte Preta - SP,2,1,1,0,0,3,0
+265,B,2020,Durival Britto,Curitiba,PR,Quarta,9, Dezembro ,2020,19:15,Paraná - PR,Figueirense - SC,0,2,0,1,0,0,3
+266,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Terça,8, Dezembro ,2020,16:00,Juventude - RS,Oeste - SP,2,2,0,0,1,1,1
+267,B,2020,Aflitos,Recife,PE,Quinta,10, Dezembro ,2020,21:30,Náutico - PE,Brasil - RS,1,0,1,0,0,3,0
+268,B,2020,Batistão,Aracaju,SE,Terça,8, Dezembro ,2020,21:30,Confiança - SE,Csa - AL,1,5,0,1,0,0,3
+269,B,2020,Arena Pantanal,Cuiaba,MT,Terça,8, Dezembro ,2020,21:30,Cuiabá - MT,Vitória - BA,3,3,0,0,1,1,1
+270,B,2020,Independência,Belo Horizonte,MG,Sábado,12, Dezembro ,2020,18:30,America - MG,Paraná - PR,1,0,1,0,0,3,0
+271,B,2020,Orlando Scarpelli,Florianopolis,SC,Sábado,12, Dezembro ,2020,16:00,Figueirense - SC,Cuiabá - MT,1,0,1,0,0,3,0
+272,B,2020,Rei Pelé,Maceio,AL,Sexta,11, Dezembro ,2020,19:15,Csa - AL,Oeste - SP,2,1,1,0,0,3,0
+273,B,2020,Moisés Lucarelli,Campinas,SP,Sexta,11, Dezembro ,2020,19:15,Ponte Preta - SP,Avaí - SC,1,2,0,1,0,0,3
+274,B,2020,Santa Cruz,Ribeirao Preto,SP,Domingo,13, Dezembro ,2020,18:15,Botafogo - SP,Náutico - PE,1,1,0,0,1,1,1
+275,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,11, Dezembro ,2020,16:00,Operário - PR,Sampaio Correa - MA,1,1,0,0,1,1,1
+276,B,2020,Bento Freitas,Pelotas,RS,Domingo,13, Dezembro ,2020,20:30,Brasil - RS,Guarani - SP,3,1,1,0,0,3,0
+277,B,2020,Manoel Barradas,Salvador,BA,Sexta,11, Dezembro ,2020,21:30,Vitória - BA,Cruzeiro - MG,0,1,0,1,0,0,3
+278,B,2020,Batistão,Aracaju,SE,Sábado,12, Dezembro ,2020,19:00,Confiança - SE,Juventude - RS,0,1,0,1,0,0,3
+279,B,2020,Arena Condá,Chapeco,SC,Sábado,12, Dezembro ,2020,21:00,Chapecoense - SC,Crb - AL,3,2,1,0,0,3,0
+280,B,2020,Independência,Belo Horizonte,MG,Terça,15, Dezembro ,2020,21:30,Cruzeiro - MG,Csa - AL,1,1,0,0,1,1,1
+281,B,2020,Orlando Scarpelli,Florianopolis,SC,Quinta,17, Dezembro ,2020,19:15,Figueirense - SC,America - MG,1,2,0,1,0,0,3
+282,B,2020,Rei Pelé,Maceio,AL,Quinta,17, Dezembro ,2020,21:30,Crb - AL,Paraná - PR,0,2,0,1,0,0,3
+283,B,2020,Brinco de Ouro,Campinas,SP,Quarta,16, Dezembro ,2020,19:15,Guarani - SP,Confiança - SE,1,0,1,0,0,3,0
+284,B,2020,Arena Barueri,Barueri,SP,Terça,15, Dezembro ,2020,16:00,Oeste - SP,Cuiabá - MT,0,2,0,1,0,0,3
+285,B,2020,Germano Kruger,Ponta Grossa,PR,Segunda,14, Dezembro ,2020,20:00,Operário - PR,Ponte Preta - SP,1,0,1,0,0,3,0
+286,B,2020,Bento Freitas,Pelotas,RS,Quarta,16, Dezembro ,2020,16:30,Brasil - RS,Botafogo - SP,0,0,0,0,1,1,1
+287,B,2020,Manoel Barradas,Salvador,BA,Terça,15, Dezembro ,2020,21:30,Vitória - BA,Juventude - RS,1,0,1,0,0,3,0
+288,B,2020,Castelão,Sao Luis,MA,Terça,15, Dezembro ,2020,19:15,Sampaio Correa - MA,Avaí - SC,0,1,0,1,0,0,3
+289,B,2020,Arena Condá,Chapeco,SC,Quarta,16, Dezembro ,2020,19:15,Chapecoense - SC,Náutico - PE,0,0,0,0,1,1,1
+290,B,2020,Independência,Belo Horizonte,MG,Domingo,20, Dezembro ,2020,16:00,America - MG,Chapecoense - SC,2,2,0,0,1,1,1
+291,B,2020,Ressacada,Florianopolis,SC,Sexta,18, Dezembro ,2020,20:15,Avaí - SC,Cruzeiro - MG,1,1,0,0,1,1,1
+292,B,2020,Rei Pelé,Maceio,AL,Domingo,20, Dezembro ,2020,18:15,Crb - AL,Botafogo - SP,1,0,1,0,0,3,0
+293,B,2020,Brinco de Ouro,Campinas,SP,Domingo,20, Dezembro ,2020,18:15,Guarani - SP,Figueirense - SC,2,2,0,0,1,1,1
+294,B,2020,Arena Barueri,Barueri,SP,Sexta,18, Dezembro ,2020,16:00,Oeste - SP,Vitória - BA,2,1,1,0,0,3,0
+295,B,2020,Durival Britto,Curitiba,PR,Segunda,21, Dezembro ,2020,17:30,Paraná - PR,Brasil - RS,0,1,0,1,0,0,3
+296,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sexta,18, Dezembro ,2020,18:00,Juventude - RS,Csa - AL,1,0,1,0,0,3,0
+297,B,2020,Aflitos,Recife,PE,Sábado,19, Dezembro ,2020,16:30,Náutico - PE,Sampaio Correa - MA,1,0,1,0,0,3,0
+298,B,2020,Batistão,Aracaju,SE,Sábado,19, Dezembro ,2020,19:00,Confiança - SE,Ponte Preta - SP,1,2,0,1,0,0,3
+299,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,18, Dezembro ,2020,22:30,Cuiabá - MT,Operário - PR,2,0,1,0,0,3,0
+300,B,2020,Independência,Belo Horizonte,MG,Sábado,26, Dezembro ,2020,18:30,America - MG,Crb - AL,1,0,1,0,0,3,0
+301,B,2020,Orlando Scarpelli,Florianopolis,SC,Sábado,26, Dezembro ,2020,16:00,Figueirense - SC,Avaí - SC,2,0,1,0,0,3,0
+302,B,2020,Rei Pelé,Maceio,AL,Terça,22, Dezembro ,2020,19:15,Csa - AL,Vitória - BA,3,0,1,0,0,3,0
+303,B,2020,Moisés Lucarelli,Campinas,SP,Terça,22, Dezembro ,2020,21:30,Ponte Preta - SP,Cruzeiro - MG,2,1,1,0,0,3,0
+304,B,2020,Santa Cruz,Ribeirao Preto,SP,Quarta,23, Dezembro ,2020,19:15,Botafogo - SP,Oeste - SP,1,1,0,0,1,1,1
+305,B,2020,Germano Kruger,Ponta Grossa,PR,Terça,22, Dezembro ,2020,16:00,Operário - PR,Juventude - RS,3,0,1,0,0,3,0
+306,B,2020,Bento Freitas,Pelotas,RS,Segunda,28, Dezembro ,2020,17:00,Brasil - RS,Confiança - SE,1,0,1,0,0,3,0
+307,B,2020,Aflitos,Recife,PE,Terça,22, Dezembro ,2020,21:30,Náutico - PE,Cuiabá - MT,2,0,1,0,0,3,0
+308,B,2020,Castelão,Sao Luis,MA,Quarta,23, Dezembro ,2020,19:00,Sampaio Correa - MA,Guarani - SP,0,1,0,1,0,0,3
+309,B,2020,Arena Condá,Chapeco,SC,Segunda,28, Dezembro ,2020,20:00,Chapecoense - SC,Paraná - PR,2,0,1,0,0,3,0
+310,B,2020,Independência,Belo Horizonte,MG,Terça,29, Dezembro ,2020,21:30,Cruzeiro - MG,Cuiabá - MT,0,0,0,0,1,1,1
+311,B,2020,Ressacada,Florianopolis,SC,Terça,29, Dezembro ,2020,19:15,Avaí - SC,Crb - AL,0,1,0,1,0,0,3
+312,B,2020,Rei Pelé,Maceio,AL,Sábado,2, Janeiro ,2021,16:30,Csa - AL,Sampaio Correa - MA,2,1,1,0,0,3,0
+313,B,2020,Brinco de Ouro,Campinas,SP,Sábado,2, Janeiro ,2021,21:00,Guarani - SP,America - MG,0,1,0,1,0,0,3
+314,B,2020,Arena Barueri,Barueri,SP,Sábado,2, Janeiro ,2021,18:45,Oeste - SP,Figueirense - SC,2,1,1,0,0,3,0
+315,B,2020,Durival Britto,Curitiba,PR,Segunda,4, Janeiro ,2021,17:00,Paraná - PR,Botafogo - SP,1,1,0,0,1,1,1
+316,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Quarta,30, Dezembro ,2020,17:00,Juventude - RS,Ponte Preta - SP,2,1,1,0,0,3,0
+317,B,2020,Manoel Barradas,Salvador,BA,Domingo,3, Janeiro ,2021,18:15,Vitória - BA,Operário - PR,1,1,0,0,1,1,1
+318,B,2020,Batistão,Aracaju,SE,Segunda,4, Janeiro ,2021,20:00,Confiança - SE,Náutico - PE,2,0,1,0,0,3,0
+319,B,2020,Arena Condá,Chapeco,SC,Domingo,3, Janeiro ,2021,16:00,Chapecoense - SC,Brasil - RS,0,0,0,0,1,1,1
+320,B,2020,Independência,Belo Horizonte,MG,Sábado,9, Janeiro ,2021,19:00,America - MG,Vitória - BA,4,0,1,0,0,3,0
+321,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,8, Janeiro ,2021,21:30,Figueirense - SC,Csa - AL,0,0,0,0,1,1,1
+322,B,2020,Rei Pelé,Maceio,AL,Sexta,8, Janeiro ,2021,19:15,Crb - AL,Confiança - SE,2,0,1,0,0,3,0
+323,B,2020,Brinco de Ouro,Campinas,SP,Terça,5, Janeiro ,2021,19:15,Guarani - SP,Ponte Preta - SP,1,1,0,0,1,1,1
+324,B,2020,Santa Cruz,Ribeirao Preto,SP,Sábado,9, Janeiro ,2021,21:00,Botafogo - SP,Chapecoense - SC,3,0,1,0,0,3,0
+325,B,2020,Germano Kruger,Ponta Grossa,PR,Sexta,8, Janeiro ,2021,19:15,Operário - PR,Oeste - SP,2,0,1,0,0,3,0
+326,B,2020,Bento Freitas,Pelotas,RS,Sexta,8, Janeiro ,2021,16:00,Brasil - RS,Avaí - SC,0,1,0,1,0,0,3
+327,B,2020,Aflitos,Recife,PE,Sexta,8, Janeiro ,2021,19:15,Náutico - PE,Paraná - PR,2,1,1,0,0,3,0
+328,B,2020,Castelão,Sao Luis,MA,Sexta,8, Janeiro ,2021,21:30,Sampaio Correa - MA,Cruzeiro - MG,0,1,0,1,0,0,3
+329,B,2020,Arena Pantanal,Cuiaba,MT,Terça,5, Janeiro ,2021,21:30,Cuiabá - MT,Juventude - RS,1,0,1,0,0,3,0
+330,B,2020,Independência,Belo Horizonte,MG,Quarta,13, Janeiro ,2021,21:30,Cruzeiro - MG,Oeste - SP,0,1,0,1,0,0,3
+331,B,2020,Ressacada,Florianopolis,SC,Quarta,13, Janeiro ,2021,19:00,Avaí - SC,Vitória - BA,2,2,0,0,1,1,1
+332,B,2020,Rei Pelé,Maceio,AL,Segunda,11, Janeiro ,2021,20:00,Crb - AL,Guarani - SP,2,0,1,0,0,3,0
+333,B,2020,Moisés Lucarelli,Campinas,SP,Segunda,11, Janeiro ,2021,17:30,Ponte Preta - SP,Cuiabá - MT,2,2,0,0,1,1,1
+334,B,2020,Santa Cruz,Ribeirao Preto,SP,Terça,12, Janeiro ,2021,19:15,Botafogo - SP,Sampaio Correa - MA,2,1,1,0,0,3,0
+335,B,2020,Durival Britto,Curitiba,PR,Terça,12, Janeiro ,2021,19:15,Paraná - PR,Csa - AL,2,0,1,0,0,3,0
+336,B,2020,Bento Freitas,Pelotas,RS,Terça,12, Janeiro ,2021,19:15,Brasil - RS,Juventude - RS,2,1,1,0,0,3,0
+337,B,2020,Aflitos,Recife,PE,Terça,12, Janeiro ,2021,19:15,Náutico - PE,America - MG,0,0,0,0,1,1,1
+338,B,2020,Batistão,Aracaju,SE,Segunda,11, Janeiro ,2021,20:00,Confiança - SE,Operário - PR,1,2,0,1,0,0,3
+339,B,2020,Arena Condá,Chapeco,SC,Terça,12, Janeiro ,2021,21:30,Chapecoense - SC,Figueirense - SC,2,1,1,0,0,3,0
+340,B,2020,Independência,Belo Horizonte,MG,Sexta,15, Janeiro ,2021,21:30,America - MG,Botafogo - SP,1,1,0,0,1,1,1
+341,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,15, Janeiro ,2021,17:30,Figueirense - SC,Brasil - RS,3,0,1,0,0,3,0
+342,B,2020,Rei Pelé,Maceio,AL,Sábado,16, Janeiro ,2021,16:30,Csa - AL,Avaí - SC,1,1,0,0,1,1,1
+343,B,2020,Moisés Lucarelli,Campinas,SP,Domingo,17, Janeiro ,2021,16:00,Ponte Preta - SP,Náutico - PE,2,0,1,0,0,3,0
+344,B,2020,Arena Barueri,Barueri,SP,Sábado,16, Janeiro ,2021,21:00,Oeste - SP,Confiança - SE,0,1,0,1,0,0,3
+345,B,2020,Germano Kruger,Ponta Grossa,PR,Quinta,14, Janeiro ,2021,19:15,Operário - PR,Crb - AL,3,2,1,0,0,3,0
+346,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sábado,16, Janeiro ,2021,19:00,Juventude - RS,Cruzeiro - MG,1,0,1,0,0,3,0
+347,B,2020,Manoel Barradas,Salvador,BA,Domingo,17, Janeiro ,2021,16:00,Vitória - BA,Chapecoense - SC,0,0,0,0,1,1,1
+348,B,2020,Castelão,Sao Luis,MA,Sexta,15, Janeiro ,2021,19:15,Sampaio Correa - MA,Paraná - PR,2,1,1,0,0,3,0
+349,B,2020,Arena Pantanal,Cuiaba,MT,Quinta,14, Janeiro ,2021,21:30,Cuiabá - MT,Guarani - SP,4,0,1,0,0,3,0
+350,B,2020,Independência,Belo Horizonte,MG,Quarta,20, Janeiro ,2021,21:30,Cruzeiro - MG,Operário - PR,2,1,1,0,0,3,0
+351,B,2020,Ressacada,Florianopolis,SC,Terça,19, Janeiro ,2021,19:15,Avaí - SC,Juventude - RS,5,2,1,0,0,3,0
+352,B,2020,Rei Pelé,Maceio,AL,Terça,19, Janeiro ,2021,19:15,Crb - AL,Figueirense - SC,5,1,1,0,0,3,0
+353,B,2020,Brinco de Ouro,Campinas,SP,Quarta,20, Janeiro ,2021,16:00,Guarani - SP,Vitória - BA,1,2,0,1,0,0,3
+354,B,2020,Santa Cruz,Ribeirao Preto,SP,Terça,19, Janeiro ,2021,19:15,Botafogo - SP,Csa - AL,1,3,0,1,0,0,3
+355,B,2020,Durival Britto,Curitiba,PR,Terça,19, Janeiro ,2021,21:30,Paraná - PR,Cuiabá - MT,0,2,0,1,0,0,3
+356,B,2020,Bento Freitas,Pelotas,RS,Terça,19, Janeiro ,2021,16:00,Brasil - RS,America - MG,0,0,0,0,1,1,1
+357,B,2020,Aflitos,Recife,PE,Quarta,20, Janeiro ,2021,19:15,Náutico - PE,Oeste - SP,4,1,1,0,0,3,0
+358,B,2020,Batistão,Aracaju,SE,Terça,19, Janeiro ,2021,19:15,Confiança - SE,Sampaio Correa - MA,0,1,0,1,0,0,3
+359,B,2020,Arena Condá,Chapeco,SC,Quinta,21, Janeiro ,2021,17:45,Chapecoense - SC,Ponte Preta - SP,1,0,1,0,0,3,0
+360,B,2020,Independência,Belo Horizonte,MG,Domingo,24, Janeiro ,2021,16:00,Cruzeiro - MG,Náutico - PE,0,0,0,0,1,1,1
+361,B,2020,Ressacada,Florianopolis,SC,Sábado,23, Janeiro ,2021,18:30,Avaí - SC,Guarani - SP,2,1,1,0,0,3,0
+362,B,2020,Rei Pelé,Maceio,AL,Sexta,22, Janeiro ,2021,19:15,Csa - AL,Brasil - RS,1,1,0,0,1,1,1
+363,B,2020,Moisés Lucarelli,Campinas,SP,Domingo,24, Janeiro ,2021,18:15,Ponte Preta - SP,Crb - AL,3,1,1,0,0,3,0
+364,B,2020,Arena Barueri,Barueri,SP,Terça,26, Janeiro ,2021,19:15,Oeste - SP,Paraná - PR,1,0,1,0,0,3,0
+365,B,2020,Germano Kruger,Ponta Grossa,PR,Segunda,25, Janeiro ,2021,17:00,Operário - PR,Chapecoense - SC,2,0,1,0,0,3,0
+366,B,2020,Alfredo Jaconi,Caxias do Sul,RS,Sexta,22, Janeiro ,2021,16:00,Juventude - RS,Figueirense - SC,2,1,1,0,0,3,0
+367,B,2020,Manoel Barradas,Salvador,BA,Terça,26, Janeiro ,2021,21:30,Vitória - BA,Botafogo - SP,1,0,1,0,0,3,0
+368,B,2020,Batistão,Aracaju,SE,Sábado,23, Janeiro ,2021,16:15,Confiança - SE,America - MG,0,0,0,0,1,1,1
+369,B,2020,Arena Pantanal,Cuiaba,MT,Sexta,22, Janeiro ,2021,21:30,Cuiabá - MT,Sampaio Correa - MA,1,3,0,1,0,0,3
+370,B,2020,Independência,Belo Horizonte,MG,Sexta,29, Janeiro ,2021,21:30,America - MG,Avaí - SC,2,1,1,0,0,3,0
+371,B,2020,Orlando Scarpelli,Florianopolis,SC,Sexta,29, Janeiro ,2021,16:00,Figueirense - SC,Ponte Preta - SP,2,7,0,1,0,0,3
+372,B,2020,Rei Pelé,Maceio,AL,Sexta,29, Janeiro ,2021,19:15,Crb - AL,Cuiabá - MT,4,1,1,0,0,3,0
+373,B,2020,Brinco de Ouro,Campinas,SP,Sexta,29, Janeiro ,2021,21:30,Guarani - SP,Juventude - RS,0,1,0,1,0,0,3
+374,B,2020,Santa Cruz,Ribeirao Preto,SP,Sexta,29, Janeiro ,2021,19:15,Botafogo - SP,Operário - PR,0,1,0,1,0,0,3
+375,B,2020,Durival Britto,Curitiba,PR,Sexta,29, Janeiro ,2021,21:30,Paraná - PR,Cruzeiro - MG,0,0,0,0,1,1,1
+376,B,2020,Bento Freitas,Pelotas,RS,Sexta,29, Janeiro ,2021,21:30,Brasil - RS,Vitória - BA,0,1,0,1,0,0,3
+377,B,2020,Aflitos,Recife,PE,Sexta,29, Janeiro ,2021,21:30,Náutico - PE,Csa - AL,1,1,0,0,1,1,1
+378,B,2020,Castelão,Sao Luis,MA,Sexta,29, Janeiro ,2021,17:00,Sampaio Correa - MA,Oeste - SP,1,0,1,0,0,3,0
+379,B,2020,Arena Condá,Chapeco,SC,Sexta,29, Janeiro ,2021,21:30,Chapecoense - SC,Confiança - SE,3,1,1,0,0,3,0

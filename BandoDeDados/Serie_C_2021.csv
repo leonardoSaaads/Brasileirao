@@ -1,0 +1,207 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2021,Arena da Amazônia,Manaus,AM,Domingo,30, Maio ,2021,18:00,Manaus - AM,Santa Cruz - PE,2,0,1,0,0,3,0
+1,C,2021,Domingão,Horizonte,CE,Sábado,29, Maio ,2021,15:30,Floresta - CE,Jacuipense - BA,2,0,1,0,0,3,0
+2,C,2021,Lindolfo Monteiro,Teresina,PI,Domingo,30, Maio ,2021,16:00,Altos - PI,Volta Redonda - RJ,3,0,1,0,0,3,0
+3,C,2021,Almeidão,Joao Pessoa,PB,Sábado,29, Maio ,2021,17:00,Botafogo - PB,Ferroviário - CE,0,0,0,0,1,1,1
+4,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,29, Maio ,2021,19:00,Tombense - MG,Paysandu - PA,1,1,0,0,1,1,1
+5,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,29, Maio ,2021,16:00,Novorizontino - SP,Figueirense - SC,1,0,1,0,0,3,0
+6,C,2021,Arena Barueri,Barueri,SP,Quarta,16, Junho ,2021,16:00,Oeste - SP,Mirassol - SP,0,1,0,1,0,0,3
+7,C,2021,Heriberto Hulse,Criciuma,SC,Sábado,29, Maio ,2021,17:00,Criciúma - SC,Ituano - SP,1,0,1,0,0,3,0
+8,C,2021,Santa Cruz,Ribeirao Preto,SP,Domingo,30, Maio ,2021,20:00,Botafogo - SP,São José - RS,1,0,1,0,0,3,0
+9,C,2021,Colosso da Lagoa,Erechim,RS,Segunda,31, Maio ,2021,20:00,Ypiranga - RS,Paraná - PR,2,0,1,0,0,3,0
+10,C,2021,Curuzu,Belem,PA,Segunda,7, Junho ,2021,20:00,Paysandu - PA,Botafogo - PB,0,2,0,1,0,0,3
+11,C,2021,Elzir Cabral,Fortaleza,CE,Sábado,5, Junho ,2021,15:30,Ferroviário - CE,Altos - PI,1,0,1,0,0,3,0
+12,C,2021,Pituaçu,Salvador,BA,Domingo,6, Junho ,2021,16:00,Jacuipense - BA,Tombense - MG,1,1,0,0,1,1,1
+13,C,2021,Arruda,Recife,PE,Sábado,5, Junho ,2021,17:00,Santa Cruz - PE,Floresta - CE,0,0,0,0,1,1,1
+14,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Domingo,6, Junho ,2021,16:00,Volta Redonda - RJ,Manaus - AM,5,0,1,0,0,3,0
+15,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,5, Junho ,2021,17:00,Mirassol - SP,Ypiranga - RS,1,2,0,1,0,0,3
+16,C,2021,Durival Britto,Curitiba,PR,Sábado,5, Junho ,2021,19:00,Paraná - PR,Botafogo - SP,0,1,0,1,0,0,3
+17,C,2021,Orlando Scarpelli,Florianopolis,SC,Sábado,5, Junho ,2021,16:00,Figueirense - SC,Oeste - SP,1,0,1,0,0,3,0
+18,C,2021,Novelli Junior,Itu,SP,Sábado,5, Junho ,2021,11:00,Ituano - SP,Novorizontino - SP,1,4,0,1,0,0,3
+19,C,2021,Francisco Novelletto,Porto Alegre,RS,Domingo,6, Junho ,2021,18:00,São José - RS,Criciúma - SC,0,0,0,0,1,1,1
+20,C,2021,Arena da Amazônia,Manaus,AM,Sábado,12, Junho ,2021,17:00,Manaus - AM,Floresta - CE,2,1,1,0,0,3,0
+21,C,2021,Arena Castelão,Fortaleza,CE,Segunda,14, Junho ,2021,20:00,Ferroviário - CE,Santa Cruz - PE,1,0,1,0,0,3,0
+22,C,2021,Pituaçu,Salvador,BA,Sábado,12, Junho ,2021,19:00,Jacuipense - BA,Paysandu - PA,0,2,0,1,0,0,3
+23,C,2021,Almeidão,Joao Pessoa,PB,Domingo,13, Junho ,2021,16:00,Botafogo - PB,Volta Redonda - RJ,1,2,0,1,0,0,3
+24,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Domingo,13, Junho ,2021,11:00,Tombense - MG,Altos - PI,2,2,0,0,1,1,1
+25,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,12, Junho ,2021,15:00,Novorizontino - SP,Oeste - SP,0,0,0,0,1,1,1
+26,C,2021,Durival Britto,Curitiba,PR,Domingo,13, Junho ,2021,16:00,Paraná - PR,Figueirense - SC,1,1,0,0,1,1,1
+27,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,13, Junho ,2021,11:00,Criciúma - SC,Ypiranga - RS,2,1,1,0,0,3,0
+28,C,2021,Santa Cruz,Ribeirao Preto,SP,Sábado,12, Junho ,2021,17:00,Botafogo - SP,Mirassol - SP,1,3,0,1,0,0,3
+29,C,2021,Francisco Novelletto,Porto Alegre,RS,Sábado,12, Junho ,2021,15:00,São José - RS,Ituano - SP,0,0,0,0,1,1,1
+30,C,2021,Curuzu,Belem,PA,Sábado,19, Junho ,2021,17:00,Paysandu - PA,Volta Redonda - RJ,0,0,0,0,1,1,1
+31,C,2021,Domingão,Horizonte,CE,Sábado,19, Junho ,2021,15:30,Floresta - CE,Botafogo - PB,0,0,0,0,1,1,1
+32,C,2021,Lindolfo Monteiro,Teresina,PI,Domingo,20, Junho ,2021,16:00,Altos - PI,Manaus - AM,3,2,1,0,0,3,0
+33,C,2021,Arruda,Recife,PE,Segunda,21, Junho ,2021,20:00,Santa Cruz - PE,Jacuipense - BA,2,2,0,0,1,1,1
+34,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sexta,18, Junho ,2021,20:00,Tombense - MG,Ferroviário - CE,3,0,1,0,0,3,0
+35,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,19, Junho ,2021,11:00,Novorizontino - SP,São José - RS,1,0,1,0,0,3,0
+36,C,2021,Arena Barueri,Barueri,SP,Sábado,19, Junho ,2021,19:00,Oeste - SP,Criciúma - SC,0,0,0,0,1,1,1
+37,C,2021,Orlando Scarpelli,Florianopolis,SC,Domingo,20, Junho ,2021,18:00,Figueirense - SC,Mirassol - SP,1,1,0,0,1,1,1
+38,C,2021,Novelli Junior,Itu,SP,Sábado,19, Junho ,2021,17:00,Ituano - SP,Paraná - PR,2,1,1,0,0,3,0
+39,C,2021,Colosso da Lagoa,Erechim,RS,Domingo,20, Junho ,2021,11:00,Ypiranga - RS,Botafogo - SP,3,0,1,0,0,3,0
+40,C,2021,Arena da Amazônia,Manaus,AM,Sábado,26, Junho ,2021,17:00,Manaus - AM,Tombense - MG,2,1,1,0,0,3,0
+41,C,2021,Domingão,Horizonte,CE,Domingo,27, Junho ,2021,15:30,Floresta - CE,Paysandu - PA,0,2,0,1,0,0,3
+42,C,2021,Pituaçu,Salvador,BA,Sábado,26, Junho ,2021,15:00,Jacuipense - BA,Ferroviário - CE,1,0,1,0,0,3,0
+43,C,2021,Almeidão,Joao Pessoa,PB,Sexta,25, Junho ,2021,20:00,Botafogo - PB,Altos - PI,2,0,1,0,0,3,0
+44,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sábado,26, Junho ,2021,19:00,Volta Redonda - RJ,Santa Cruz - PE,0,0,0,0,1,1,1
+45,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,26, Junho ,2021,17:00,Mirassol - SP,Ituano - SP,1,2,0,1,0,0,3
+46,C,2021,Durival Britto,Curitiba,PR,Sábado,26, Junho ,2021,11:00,Paraná - PR,São José - RS,3,1,1,0,0,3,0
+47,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,27, Junho ,2021,16:00,Criciúma - SC,Novorizontino - SP,1,0,1,0,0,3,0
+48,C,2021,Santa Cruz,Ribeirao Preto,SP,Domingo,27, Junho ,2021,11:00,Botafogo - SP,Oeste - SP,1,0,1,0,0,3,0
+49,C,2021,Colosso da Lagoa,Erechim,RS,Segunda,28, Junho ,2021,20:00,Ypiranga - RS,Figueirense - SC,0,0,0,0,1,1,1
+50,C,2021,Arena da Amazônia,Manaus,AM,Sábado,3, Julho ,2021,16:30,Manaus - AM,Jacuipense - BA,1,1,0,0,1,1,1
+51,C,2021,Elzir Cabral,Fortaleza,CE,Sábado,3, Julho ,2021,15:00,Ferroviário - CE,Volta Redonda - RJ,1,1,0,0,1,1,1
+52,C,2021,Lindolfo Monteiro,Teresina,PI,Domingo,4, Julho ,2021,16:00,Altos - PI,Floresta - CE,0,1,0,1,0,0,3
+53,C,2021,Arruda,Recife,PE,Sábado,3, Julho ,2021,19:00,Santa Cruz - PE,Paysandu - PA,1,2,0,1,0,0,3
+54,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,3, Julho ,2021,17:00,Tombense - MG,Botafogo - PB,2,0,1,0,0,3,0
+55,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,3, Julho ,2021,17:00,Novorizontino - SP,Botafogo - SP,1,0,1,0,0,3,0
+56,C,2021,Arena Barueri,Barueri,SP,Sábado,3, Julho ,2021,11:00,Oeste - SP,Ypiranga - RS,2,4,0,1,0,0,3
+57,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,4, Julho ,2021,16:00,Criciúma - SC,Paraná - PR,2,0,1,0,0,3,0
+58,C,2021,Novelli Junior,Itu,SP,Segunda,5, Julho ,2021,18:00,Ituano - SP,Figueirense - SC,1,0,1,0,0,3,0
+59,C,2021,Francisco Novelletto,Porto Alegre,RS,Domingo,4, Julho ,2021,11:00,São José - RS,Mirassol - SP,2,1,1,0,0,3,0
+60,C,2021,Curuzu,Belem,PA,Domingo,11, Julho ,2021,18:00,Paysandu - PA,Ferroviário - CE,0,2,0,1,0,0,3
+61,C,2021,Domingão,Horizonte,CE,Domingo,11, Julho ,2021,15:30,Floresta - CE,Tombense - MG,1,1,0,0,1,1,1
+62,C,2021,Albertão,Teresina,PI,Sábado,10, Julho ,2021,17:00,Altos - PI,Santa Cruz - PE,1,0,1,0,0,3,0
+63,C,2021,Almeidão,Joao Pessoa,PB,Sábado,10, Julho ,2021,19:00,Botafogo - PB,Manaus - AM,4,1,1,0,0,3,0
+64,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sábado,10, Julho ,2021,11:00,Volta Redonda - RJ,Jacuipense - BA,0,0,0,0,1,1,1
+65,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,10, Julho ,2021,15:00,Mirassol - SP,Paraná - PR,0,3,0,1,0,0,3
+66,C,2021,Arena Barueri,Barueri,SP,Sábado,10, Julho ,2021,17:00,Oeste - SP,Ituano - SP,0,1,0,1,0,0,3
+67,C,2021,Orlando Scarpelli,Florianopolis,SC,Domingo,11, Julho ,2021,11:00,Figueirense - SC,São José - RS,2,0,1,0,0,3,0
+68,C,2021,Santa Cruz,Ribeirao Preto,SP,Segunda,12, Julho ,2021,20:00,Botafogo - SP,Criciúma - SC,3,1,1,0,0,3,0
+69,C,2021,Colosso da Lagoa,Erechim,RS,Sexta,9, Julho ,2021,20:00,Ypiranga - RS,Novorizontino - SP,3,2,1,0,0,3,0
+70,C,2021,Curuzu,Belem,PA,Sábado,17, Julho ,2021,19:00,Paysandu - PA,Altos - PI,1,1,0,0,1,1,1
+71,C,2021,Vovozão,Fortaleza,CE,Domingo,18, Julho ,2021,18:00,Ferroviário - CE,Manaus - AM,1,0,1,0,0,3,0
+72,C,2021,Pituaçu,Salvador,BA,Sábado,17, Julho ,2021,15:00,Jacuipense - BA,Botafogo - PB,0,0,0,0,1,1,1
+73,C,2021,Arruda,Recife,PE,Sábado,17, Julho ,2021,17:00,Santa Cruz - PE,Tombense - MG,0,1,0,1,0,0,3
+74,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Domingo,18, Julho ,2021,11:00,Volta Redonda - RJ,Floresta - CE,1,0,1,0,0,3,0
+75,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,17, Julho ,2021,11:00,Mirassol - SP,Criciúma - SC,2,0,1,0,0,3,0
+76,C,2021,Durival Britto,Curitiba,PR,Segunda,19, Julho ,2021,20:00,Paraná - PR,Novorizontino - SP,0,2,0,1,0,0,3
+77,C,2021,Orlando Scarpelli,Florianopolis,SC,Sábado,17, Julho ,2021,17:00,Figueirense - SC,Botafogo - SP,0,0,0,0,1,1,1
+78,C,2021,Novelli Junior,Itu,SP,Domingo,18, Julho ,2021,16:00,Ituano - SP,Ypiranga - RS,2,1,1,0,0,3,0
+79,C,2021,Francisco Novelletto,Porto Alegre,RS,Sexta,16, Julho ,2021,20:00,São José - RS,Oeste - SP,1,0,1,0,0,3,0
+80,C,2021,Vovozão,Fortaleza,CE,Sábado,24, Julho ,2021,17:00,Floresta - CE,Ferroviário - CE,1,1,0,0,1,1,1
+81,C,2021,Albertão,Teresina,PI,Domingo,25, Julho ,2021,16:00,Altos - PI,Jacuipense - BA,2,2,0,0,1,1,1
+82,C,2021,Almeidão,Joao Pessoa,PB,Sábado,24, Julho ,2021,19:00,Botafogo - PB,Santa Cruz - PE,1,0,1,0,0,3,0
+83,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,24, Julho ,2021,11:00,Tombense - MG,Volta Redonda - RJ,1,1,0,0,1,1,1
+84,C,2021,Arena da Amazônia,Manaus,AM,Domingo,25, Julho ,2021,17:00,Manaus - AM,Paysandu - PA,1,1,0,0,1,1,1
+85,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,24, Julho ,2021,17:00,Novorizontino - SP,Mirassol - SP,1,0,1,0,0,3,0
+86,C,2021,Arena Barueri,Barueri,SP,Sexta,23, Julho ,2021,20:00,Oeste - SP,Paraná - PR,1,1,0,0,1,1,1
+87,C,2021,Heriberto Hulse,Criciuma,SC,Sexta,23, Julho ,2021,16:00,Criciúma - SC,Figueirense - SC,1,0,1,0,0,3,0
+88,C,2021,Santa Cruz,Ribeirao Preto,SP,Domingo,25, Julho ,2021,11:00,Botafogo - SP,Ituano - SP,2,1,1,0,0,3,0
+89,C,2021,Colosso da Lagoa,Erechim,RS,Sábado,24, Julho ,2021,15:00,Ypiranga - RS,São José - RS,2,1,1,0,0,3,0
+90,C,2021,Curuzu,Belem,PA,Sábado,31, Julho ,2021,17:00,Paysandu - PA,Tombense - MG,1,0,1,0,0,3,0
+91,C,2021,Elzir Cabral,Fortaleza,CE,Sábado,31, Julho ,2021,15:00,Ferroviário - CE,Botafogo - PB,0,0,0,0,1,1,1
+92,C,2021,Pituaçu,Salvador,BA,Sábado,31, Julho ,2021,19:00,Jacuipense - BA,Floresta - CE,1,1,0,0,1,1,1
+93,C,2021,Arruda,Recife,PE,Domingo,1, Agosto ,2021,18:00,Santa Cruz - PE,Manaus - AM,1,2,0,1,0,0,3
+94,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sexta,30, Julho ,2021,20:00,Volta Redonda - RJ,Altos - PI,2,1,1,0,0,3,0
+95,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,31, Julho ,2021,17:00,Mirassol - SP,Oeste - SP,2,1,1,0,0,3,0
+96,C,2021,Durival Britto,Curitiba,PR,Segunda,2, Agosto ,2021,20:00,Paraná - PR,Ypiranga - RS,1,1,0,0,1,1,1
+97,C,2021,Orlando Scarpelli,Florianopolis,SC,Domingo,1, Agosto ,2021,11:00,Figueirense - SC,Novorizontino - SP,2,1,1,0,0,3,0
+98,C,2021,Novelli Junior,Itu,SP,Quarta,4, Agosto ,2021,17:00,Ituano - SP,Criciúma - SC,3,0,1,0,0,3,0
+99,C,2021,Francisco Novelletto,Porto Alegre,RS,Domingo,1, Agosto ,2021,16:00,São José - RS,Botafogo - SP,4,2,1,0,0,3,0
+100,C,2021,Arena da Amazônia,Manaus,AM,Domingo,8, Agosto ,2021,16:00,Manaus - AM,Volta Redonda - RJ,1,0,1,0,0,3,0
+101,C,2021,Raimundão,Caucaia,CE,Sábado,7, Agosto ,2021,17:00,Floresta - CE,Santa Cruz - PE,0,2,0,1,0,0,3
+102,C,2021,Albertão,Teresina,PI,Sexta,6, Agosto ,2021,20:00,Altos - PI,Ferroviário - CE,1,1,0,0,1,1,1
+103,C,2021,Almeidão,Joao Pessoa,PB,Domingo,8, Agosto ,2021,18:00,Botafogo - PB,Paysandu - PA,2,1,1,0,0,3,0
+104,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,7, Agosto ,2021,15:00,Tombense - MG,Jacuipense - BA,3,0,1,0,0,3,0
+105,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,7, Agosto ,2021,17:00,Novorizontino - SP,Ituano - SP,0,0,0,0,1,1,1
+106,C,2021,Arena Barueri,Barueri,SP,Domingo,8, Agosto ,2021,11:00,Oeste - SP,Figueirense - SC,2,1,1,0,0,3,0
+107,C,2021,Heriberto Hulse,Criciuma,SC,Segunda,9, Agosto ,2021,20:00,Criciúma - SC,São José - RS,2,1,1,0,0,3,0
+108,C,2021,Santa Cruz,Ribeirao Preto,SP,Sábado,7, Agosto ,2021,19:00,Botafogo - SP,Paraná - PR,1,0,1,0,0,3,0
+109,C,2021,Colosso da Lagoa,Erechim,RS,Sábado,7, Agosto ,2021,11:00,Ypiranga - RS,Mirassol - SP,1,0,1,0,0,3,0
+110,C,2021,Curuzu,Belem,PA,Sábado,14, Agosto ,2021,19:00,Paysandu - PA,Jacuipense - BA,2,0,1,0,0,3,0
+111,C,2021,Cidade Vozão,Itaitinga,CE,Sábado,14, Agosto ,2021,15:00,Floresta - CE,Manaus - AM,2,2,0,0,1,1,1
+112,C,2021,Lindolfo Monteiro,Teresina,PI,Domingo,15, Agosto ,2021,16:00,Altos - PI,Tombense - MG,0,0,0,0,1,1,1
+113,C,2021,Arruda,Recife,PE,Domingo,15, Agosto ,2021,18:00,Santa Cruz - PE,Ferroviário - CE,0,0,0,0,1,1,1
+114,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sábado,14, Agosto ,2021,17:00,Volta Redonda - RJ,Botafogo - PB,1,1,0,0,1,1,1
+115,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,14, Agosto ,2021,11:00,Mirassol - SP,Botafogo - SP,1,0,1,0,0,3,0
+116,C,2021,Arena Barueri,Barueri,SP,Domingo,15, Agosto ,2021,11:00,Oeste - SP,Novorizontino - SP,1,2,0,1,0,0,3
+117,C,2021,Orlando Scarpelli,Florianopolis,SC,Segunda,16, Agosto ,2021,20:00,Figueirense - SC,Paraná - PR,2,0,1,0,0,3,0
+118,C,2021,Novelli Junior,Itu,SP,Sábado,14, Agosto ,2021,17:00,Ituano - SP,São José - RS,2,2,0,0,1,1,1
+119,C,2021,Colosso da Lagoa,Erechim,RS,Sexta,13, Agosto ,2021,20:00,Ypiranga - RS,Criciúma - SC,0,1,0,1,0,0,3
+120,C,2021,Arena da Amazônia,Manaus,AM,Sábado,21, Agosto ,2021,17:00,Manaus - AM,Altos - PI,2,0,1,0,0,3,0
+121,C,2021,Elzir Cabral,Fortaleza,CE,Sábado,21, Agosto ,2021,15:00,Ferroviário - CE,Tombense - MG,0,0,0,0,1,1,1
+122,C,2021,Manoel Barradas,Salvador,BA,Segunda,23, Agosto ,2021,20:00,Jacuipense - BA,Santa Cruz - PE,1,1,0,0,1,1,1
+123,C,2021,Almeidão,Joao Pessoa,PB,Sexta,20, Agosto ,2021,20:00,Botafogo - PB,Floresta - CE,1,2,0,1,0,0,3
+124,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Domingo,22, Agosto ,2021,18:00,Volta Redonda - RJ,Paysandu - PA,2,2,0,0,1,1,1
+125,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,21, Agosto ,2021,17:00,Mirassol - SP,Figueirense - SC,0,1,0,1,0,0,3
+126,C,2021,Durival Britto,Curitiba,PR,Sábado,21, Agosto ,2021,19:00,Paraná - PR,Ituano - SP,1,1,0,0,1,1,1
+127,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,22, Agosto ,2021,11:00,Criciúma - SC,Oeste - SP,3,1,1,0,0,3,0
+128,C,2021,Santa Cruz,Ribeirao Preto,SP,Domingo,22, Agosto ,2021,16:00,Botafogo - SP,Ypiranga - RS,1,2,0,1,0,0,3
+129,C,2021,Francisco Novelletto,Porto Alegre,RS,Sábado,21, Agosto ,2021,11:00,São José - RS,Novorizontino - SP,1,1,0,0,1,1,1
+130,C,2021,Curuzu,Belem,PA,Sábado,28, Agosto ,2021,19:00,Paysandu - PA,Floresta - CE,1,1,0,0,1,1,1
+131,C,2021,Elzir Cabral,Fortaleza,CE,Sábado,28, Agosto ,2021,15:00,Ferroviário - CE,Jacuipense - BA,0,0,0,0,1,1,1
+132,C,2021,Albertão,Teresina,PI,Domingo,29, Agosto ,2021,16:00,Altos - PI,Botafogo - PB,0,0,0,0,1,1,1
+133,C,2021,Arruda,Recife,PE,Segunda,30, Agosto ,2021,20:00,Santa Cruz - PE,Volta Redonda - RJ,2,1,1,0,0,3,0
+134,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,28, Agosto ,2021,17:00,Tombense - MG,Manaus - AM,2,1,1,0,0,3,0
+135,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sexta,27, Agosto ,2021,20:00,Novorizontino - SP,Criciúma - SC,1,0,1,0,0,3,0
+136,C,2021,Arena Barueri,Barueri,SP,Sábado,28, Agosto ,2021,17:00,Oeste - SP,Botafogo - SP,0,0,0,0,1,1,1
+137,C,2021,Orlando Scarpelli,Florianopolis,SC,Domingo,29, Agosto ,2021,11:00,Figueirense - SC,Ypiranga - RS,1,1,0,0,1,1,1
+138,C,2021,Novelli Junior,Itu,SP,Sábado,28, Agosto ,2021,21:00,Ituano - SP,Mirassol - SP,2,1,1,0,0,3,0
+139,C,2021,Francisco Novelletto,Porto Alegre,RS,Domingo,29, Agosto ,2021,18:00,São José - RS,Paraná - PR,1,0,1,0,0,3,0
+140,C,2021,Curuzu,Belem,PA,Domingo,5, Setembro ,2021,18:00,Paysandu - PA,Santa Cruz - PE,1,0,1,0,0,3,0
+141,C,2021,Cidade Vozão,Itaitinga,CE,Sábado,4, Setembro ,2021,15:00,Floresta - CE,Altos - PI,1,2,0,1,0,0,3
+142,C,2021,Manoel Barradas,Salvador,BA,Sábado,4, Setembro ,2021,17:00,Jacuipense - BA,Manaus - AM,0,1,0,1,0,0,3
+143,C,2021,Almeidão,Joao Pessoa,PB,Domingo,5, Setembro ,2021,20:00,Botafogo - PB,Tombense - MG,1,1,0,0,1,1,1
+144,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sábado,4, Setembro ,2021,21:00,Volta Redonda - RJ,Ferroviário - CE,2,0,1,0,0,3,0
+145,C,2021,José Maria de Campos Maia,Mirassol,SP,Sexta,3, Setembro ,2021,20:00,Mirassol - SP,São José - RS,2,5,0,1,0,0,3
+146,C,2021,Durival Britto,Curitiba,PR,Sábado,4, Setembro ,2021,19:00,Paraná - PR,Criciúma - SC,2,1,1,0,0,3,0
+147,C,2021,Orlando Scarpelli,Florianopolis,SC,Segunda,6, Setembro ,2021,20:00,Figueirense - SC,Ituano - SP,1,2,0,1,0,0,3
+148,C,2021,Santa Cruz,Ribeirao Preto,SP,Sábado,4, Setembro ,2021,17:00,Botafogo - SP,Novorizontino - SP,1,4,0,1,0,0,3
+149,C,2021,Colosso da Lagoa,Erechim,RS,Domingo,5, Setembro ,2021,11:00,Ypiranga - RS,Oeste - SP,2,0,1,0,0,3,0
+150,C,2021,Ismael Benigno,Manaus,AM,Domingo,12, Setembro ,2021,16:00,Manaus - AM,Botafogo - PB,0,0,0,0,1,1,1
+151,C,2021,Cidade Vozão,Itaitinga,CE,Segunda,13, Setembro ,2021,15:00,Ferroviário - CE,Paysandu - PA,5,1,1,0,0,3,0
+152,C,2021,Manoel Barradas,Salvador,BA,Sábado,11, Setembro ,2021,21:00,Jacuipense - BA,Volta Redonda - RJ,1,0,1,0,0,3,0
+153,C,2021,Arruda,Recife,PE,Sábado,11, Setembro ,2021,17:00,Santa Cruz - PE,Altos - PI,0,1,0,1,0,0,3
+154,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Domingo,12, Setembro ,2021,11:00,Tombense - MG,Floresta - CE,0,0,0,0,1,1,1
+155,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,11, Setembro ,2021,17:00,Novorizontino - SP,Ypiranga - RS,1,0,1,0,0,3,0
+156,C,2021,Durival Britto,Curitiba,PR,Domingo,12, Setembro ,2021,18:00,Paraná - PR,Mirassol - SP,0,1,0,1,0,0,3
+157,C,2021,Heriberto Hulse,Criciuma,SC,Sábado,11, Setembro ,2021,19:00,Criciúma - SC,Botafogo - SP,0,0,0,0,1,1,1
+158,C,2021,Novelli Junior,Itu,SP,Sábado,11, Setembro ,2021,15:00,Ituano - SP,Oeste - SP,2,1,1,0,0,3,0
+159,C,2021,Francisco Novelletto,Porto Alegre,RS,Sábado,11, Setembro ,2021,11:00,São José - RS,Figueirense - SC,1,2,0,1,0,0,3
+160,C,2021,Ismael Benigno,Manaus,AM,Domingo,19, Setembro ,2021,16:00,Manaus - AM,Ferroviário - CE,1,1,0,0,1,1,1
+161,C,2021,Cidade Vozão,Itaitinga,CE,Sábado,18, Setembro ,2021,15:00,Floresta - CE,Volta Redonda - RJ,1,1,0,0,1,1,1
+162,C,2021,Albertão,Teresina,PI,Sábado,18, Setembro ,2021,17:00,Altos - PI,Paysandu - PA,2,3,0,1,0,0,3
+163,C,2021,Almeidão,Joao Pessoa,PB,Domingo,19, Setembro ,2021,20:00,Botafogo - PB,Jacuipense - BA,1,0,1,0,0,3,0
+164,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Domingo,19, Setembro ,2021,18:00,Tombense - MG,Santa Cruz - PE,2,1,1,0,0,3,0
+165,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,18, Setembro ,2021,19:00,Novorizontino - SP,Paraná - PR,1,0,1,0,0,3,0
+166,C,2021,Arena Barueri,Barueri,SP,Sábado,18, Setembro ,2021,11:00,Oeste - SP,São José - RS,0,1,0,1,0,0,3
+167,C,2021,Heriberto Hulse,Criciuma,SC,Sábado,18, Setembro ,2021,17:00,Criciúma - SC,Mirassol - SP,3,0,1,0,0,3,0
+168,C,2021,Santa Cruz,Ribeirao Preto,SP,Sábado,18, Setembro ,2021,17:00,Botafogo - SP,Figueirense - SC,1,2,0,1,0,0,3
+169,C,2021,Colosso da Lagoa,Erechim,RS,Domingo,19, Setembro ,2021,11:00,Ypiranga - RS,Ituano - SP,0,0,0,0,1,1,1
+170,C,2021,Curuzu,Belem,PA,Sábado,25, Setembro ,2021,17:00,Paysandu - PA,Manaus - AM,2,0,1,0,0,3,0
+171,C,2021,Vovozão,Fortaleza,CE,Sábado,25, Setembro ,2021,17:00,Ferroviário - CE,Floresta - CE,0,1,0,1,0,0,3
+172,C,2021,Manoel Barradas,Salvador,BA,Sábado,25, Setembro ,2021,17:00,Jacuipense - BA,Altos - PI,3,2,1,0,0,3,0
+173,C,2021,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,25, Setembro ,2021,17:00,Santa Cruz - PE,Botafogo - PB,1,1,0,0,1,1,1
+174,C,2021,Raulino de Oliveira,Volta Redonda,RJ,Sábado,25, Setembro ,2021,17:00,Volta Redonda - RJ,Tombense - MG,2,1,1,0,0,3,0
+175,C,2021,José Maria de Campos Maia,Mirassol,SP,Sábado,25, Setembro ,2021,17:00,Mirassol - SP,Novorizontino - SP,0,1,0,1,0,0,3
+176,C,2021,Durival Britto,Curitiba,PR,Sábado,25, Setembro ,2021,15:00,Paraná - PR,Oeste - SP,4,0,1,0,0,3,0
+177,C,2021,Orlando Scarpelli,Florianopolis,SC,Sábado,25, Setembro ,2021,17:00,Figueirense - SC,Criciúma - SC,2,1,1,0,0,3,0
+178,C,2021,Novelli Junior,Itu,SP,Sábado,25, Setembro ,2021,17:00,Ituano - SP,Botafogo - SP,0,0,0,0,1,1,1
+179,C,2021,Francisco Novelletto,Porto Alegre,RS,Sábado,25, Setembro ,2021,17:00,São José - RS,Ypiranga - RS,1,1,0,0,1,1,1
+180,C,2021,Almeidão,Joao Pessoa,PB,Sábado,2, Outubro ,2021,17:00,Botafogo - PB,Ituano - SP,0,1,0,1,0,0,3
+181,C,2021,Colosso da Lagoa,Erechim,RS,Sábado,2, Outubro ,2021,19:00,Ypiranga - RS,Tombense - MG,0,1,0,1,0,0,3
+182,C,2021,Ismael Benigno,Manaus,AM,Domingo,3, Outubro ,2021,16:00,Manaus - AM,Novorizontino - SP,5,0,1,0,0,3,0
+183,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,3, Outubro ,2021,18:00,Criciúma - SC,Paysandu - PA,0,0,0,0,1,1,1
+184,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,9, Outubro ,2021,17:00,Tombense - MG,Manaus - AM,2,2,0,0,1,1,1
+185,C,2021,Jorge de Biasi,Novo Horizonte,SP,Sábado,9, Outubro ,2021,19:00,Novorizontino - SP,Ypiranga - RS,1,0,1,0,0,3,0
+186,C,2021,Curuzu,Belem,PA,Segunda,11, Outubro ,2021,20:00,Paysandu - PA,Botafogo - PB,0,0,0,0,1,1,1
+187,C,2021,Novelli Junior,Itu,SP,Domingo,10, Outubro ,2021,16:00,Ituano - SP,Criciúma - SC,0,2,0,1,0,0,3
+188,C,2021,Novelli Junior,Itu,SP,Sábado,16, Outubro ,2021,17:00,Ituano - SP,Paysandu - PA,3,1,1,0,0,3,0
+189,C,2021,Heriberto Hulse,Criciuma,SC,Sábado,16, Outubro ,2021,19:00,Criciúma - SC,Botafogo - PB,0,0,0,0,1,1,1
+190,C,2021,Arena da Amazônia,Manaus,AM,Domingo,17, Outubro ,2021,16:00,Manaus - AM,Ypiranga - RS,1,1,0,0,1,1,1
+191,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Segunda,18, Outubro ,2021,16:00,Tombense - MG,Novorizontino - SP,1,2,0,1,0,0,3
+192,C,2021,Curuzu,Belem,PA,Sábado,23, Outubro ,2021,17:00,Paysandu - PA,Ituano - SP,1,4,0,1,0,0,3
+193,C,2021,Almeidão,Joao Pessoa,PB,Sábado,23, Outubro ,2021,19:00,Botafogo - PB,Criciúma - SC,1,0,1,0,0,3,0
+194,C,2021,Jorge de Biasi,Novo Horizonte,SP,Domingo,24, Outubro ,2021,16:00,Novorizontino - SP,Tombense - MG,0,1,0,1,0,0,3
+195,C,2021,Colosso da Lagoa,Erechim,RS,Domingo,24, Outubro ,2021,18:00,Ypiranga - RS,Manaus - AM,1,1,0,0,1,1,1
+196,C,2021,Almeidão,Joao Pessoa,PB,Domingo,31, Outubro ,2021,18:00,Botafogo - PB,Paysandu - PA,1,0,1,0,0,3,0
+197,C,2021,Heriberto Hulse,Criciuma,SC,Domingo,31, Outubro ,2021,16:00,Criciúma - SC,Ituano - SP,0,0,0,0,1,1,1
+198,C,2021,Colosso da Lagoa,Erechim,RS,Sábado,30, Outubro ,2021,19:00,Ypiranga - RS,Novorizontino - SP,3,2,1,0,0,3,0
+199,C,2021,Arena da Amazônia,Manaus,AM,Sábado,30, Outubro ,2021,17:00,Manaus - AM,Tombense - MG,1,2,0,1,0,0,3
+200,C,2021,Curuzu,Belem,PA,Sábado,6, Novembro ,2021,17:00,Paysandu - PA,Criciúma - SC,0,1,0,1,0,0,3
+201,C,2021,Novelli Junior,Itu,SP,Sábado,6, Novembro ,2021,17:00,Ituano - SP,Botafogo - PB,3,1,1,0,0,3,0
+202,C,2021,Jorge de Biasi,Novo Horizonte,SP,Domingo,7, Novembro ,2021,16:00,Novorizontino - SP,Manaus - AM,2,0,1,0,0,3,0
+203,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Domingo,7, Novembro ,2021,16:00,Tombense - MG,Ypiranga - RS,1,1,0,0,1,1,1
+204,C,2021,Antônio Guimarães de Almeida,Tombos,MG,Sábado,13, Novembro ,2021,17:15,Tombense - MG,Ituano - SP,1,1,0,0,1,1,1
+205,C,2021,Novelli Junior,Itu,SP,Sábado,20, Novembro ,2021,17:00,Ituano - SP,Tombense - MG,3,0,1,0,0,3,0

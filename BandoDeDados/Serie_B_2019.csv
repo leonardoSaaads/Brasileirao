@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2019,Brinco de Ouro,Campinas,SP,Sábado,27, Abril ,2019,16:30,Guarani - SP,Figueirense - SC,0,0,0,0,1,1,1
+1,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,27, Abril ,2019,11:00,Botafogo - SP,Vitória - BA,3,1,1,0,0,3,0
+2,B,2019,Walter Ribeiro,Sorocaba,SP,Sexta,26, Abril ,2019,21:30,São Bento - SP,Atlético - GO,1,3,0,1,0,0,3
+3,B,2019,Olímpico Pedro Ludovico,Goiania,GO,Sábado,27, Abril ,2019,21:00,Vila Nova - GO,Paraná - PR,1,1,0,0,1,1,1
+4,B,2019,Couto Pereira,Curitiba,PR,Segunda,29, Abril ,2019,20:00,Coritiba - PR,Ponte Preta - SP,2,0,1,0,0,3,0
+5,B,2019,Germano Kruger,Ponta Grossa,PR,Sexta,26, Abril ,2019,19:15,Operario - PR,America Fc - MG,1,0,1,0,0,3,0
+6,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,27, Abril ,2019,16:30,Criciúma - SC,Cuiabá - MT,0,1,0,1,0,0,3
+7,B,2019,Bento Freitas,Pelotas,RS,Sexta,26, Abril ,2019,19:15,Brasil - RS,Bragantino - SP,0,1,0,1,0,0,3
+8,B,2019,Ilha do Retiro,Recife,PE,Sexta,26, Abril ,2019,21:30,Sport - PE,Oeste - SP,1,1,0,0,1,1,1
+9,B,2019,Rei Pelé,Maceio,AL,Domingo,28, Abril ,2019,16:00,Crb - AL,Londrina - PR,1,2,0,1,0,0,3
+10,B,2019,Moisés Lucarelli,Campinas,SP,Quinta,2, Maio ,2019,21:00,Ponte Preta - SP,Criciúma - SC,1,1,0,0,1,1,1
+11,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Segunda,6, Maio ,2019,20:00,Bragantino - SP,Sport - PE,1,1,0,0,1,1,1
+12,B,2019,Arena Barueri,Barueri,SP,Quarta,1, Maio ,2019,16:00,Oeste - SP,Guarani - SP,2,0,1,0,0,3,0
+13,B,2019,Antônio Accioly,Goiania,GO,Sexta,3, Maio ,2019,21:30,Atlético - GO,Coritiba - PR,1,1,0,0,1,1,1
+14,B,2019,Durival Britto,Curitiba,PR,Sábado,4, Maio ,2019,19:00,Paraná - PR,Crb - AL,1,0,1,0,0,3,0
+15,B,2019,Do Café,Londrina,PR,Sexta,3, Maio ,2019,19:15,Londrina - PR,Brasil - RS,1,0,1,0,0,3,0
+16,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,4, Maio ,2019,11:00,Figueirense - SC,São Bento - SP,2,2,0,0,1,1,1
+17,B,2019,Independência,Belo Horizonte,MG,Terça,30, Abril ,2019,21:30,America Fc - MG,Botafogo - SP,0,1,0,1,0,0,3
+18,B,2019,Manoel Barradas,Salvador,BA,Sábado,4, Maio ,2019,16:30,Vitória - BA,Vila Nova - GO,2,1,1,0,0,3,0
+19,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,4, Maio ,2019,19:00,Cuiabá - MT,Operario - PR,2,1,1,0,0,3,0
+20,B,2019,Brinco de Ouro,Campinas,SP,Segunda,13, Maio ,2019,20:00,Guarani - SP,Vitória - BA,3,2,1,0,0,3,0
+21,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,10, Maio ,2019,19:15,Bragantino - SP,Atlético - GO,3,0,1,0,0,3,0
+22,B,2019,Walter Ribeiro,Sorocaba,SP,Quinta,9, Maio ,2019,19:15,São Bento - SP,Botafogo - SP,0,1,0,1,0,0,3
+23,B,2019,Serra Dourada,Goiania,GO,Sexta,10, Maio ,2019,21:30,Vila Nova - GO,Ponte Preta - SP,0,0,0,0,1,1,1
+24,B,2019,Couto Pereira,Curitiba,PR,Quinta,9, Maio ,2019,21:30,Coritiba - PR,Londrina - PR,0,0,0,0,1,1,1
+25,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,11, Maio ,2019,19:00,Operario - PR,Oeste - SP,0,0,0,0,1,1,1
+26,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,11, Maio ,2019,11:00,Criciúma - SC,America Fc - MG,0,0,0,0,1,1,1
+27,B,2019,Bento Freitas,Pelotas,RS,Sábado,11, Maio ,2019,19:00,Brasil - RS,Crb - AL,0,2,0,1,0,0,3
+28,B,2019,Ilha do Retiro,Recife,PE,Sábado,11, Maio ,2019,16:30,Sport - PE,Figueirense - SC,0,0,0,0,1,1,1
+29,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,11, Maio ,2019,19:00,Cuiabá - MT,Paraná - PR,1,1,0,0,1,1,1
+30,B,2019,Moisés Lucarelli,Campinas,SP,Sexta,17, Maio ,2019,21:30,Ponte Preta - SP,Operario - PR,1,0,1,0,0,3,0
+31,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,18, Maio ,2019,19:00,Botafogo - SP,Vila Nova - GO,0,1,0,1,0,0,3
+32,B,2019,Arena Barueri,Barueri,SP,Terça,14, Maio ,2019,19:15,Oeste - SP,Cuiabá - MT,1,1,0,0,1,1,1
+33,B,2019,Antônio Accioly,Goiania,GO,Sexta,17, Maio ,2019,19:15,Atlético - GO,Criciúma - SC,3,1,1,0,0,3,0
+34,B,2019,Durival Britto,Curitiba,PR,Sábado,18, Maio ,2019,16:30,Paraná - PR,Guarani - SP,0,0,0,0,1,1,1
+35,B,2019,Do Café,Londrina,PR,Sábado,18, Maio ,2019,11:00,Londrina - PR,Bragantino - SP,1,0,1,0,0,3,0
+36,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,14, Maio ,2019,21:30,Figueirense - SC,Brasil - RS,1,0,1,0,0,3,0
+37,B,2019,Independência,Belo Horizonte,MG,Domingo,19, Maio ,2019,16:00,America Fc - MG,Sport - PE,1,2,0,1,0,0,3
+38,B,2019,Manoel Barradas,Salvador,BA,Sábado,18, Maio ,2019,16:30,Vitória - BA,São Bento - SP,1,3,0,1,0,0,3
+39,B,2019,Rei Pelé,Maceio,AL,Segunda,20, Maio ,2019,20:00,Crb - AL,Coritiba - PR,1,0,1,0,0,3,0
+40,B,2019,Moisés Lucarelli,Campinas,SP,Sábado,25, Maio ,2019,16:30,Ponte Preta - SP,Paraná - PR,4,2,1,0,0,3,0
+41,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,21, Maio ,2019,21:30,Bragantino - SP,Figueirense - SC,2,0,1,0,0,3,0
+42,B,2019,Walter Ribeiro,Sorocaba,SP,Sábado,25, Maio ,2019,16:30,São Bento - SP,Oeste - SP,1,0,1,0,0,3,0
+43,B,2019,Antônio Accioly,Goiania,GO,Domingo,26, Maio ,2019,16:00,Atlético - GO,Vitória - BA,1,1,0,0,1,1,1
+44,B,2019,Couto Pereira,Curitiba,PR,Sábado,25, Maio ,2019,11:00,Coritiba - PR,Cuiabá - MT,2,1,1,0,0,3,0
+45,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,25, Maio ,2019,19:00,Operario - PR,Botafogo - SP,0,2,0,1,0,0,3
+46,B,2019,Heriberto Hulse,Criciuma,SC,Terça,21, Maio ,2019,19:15,Criciúma - SC,Guarani - SP,1,0,1,0,0,3,0
+47,B,2019,Bento Freitas,Pelotas,RS,Sábado,25, Maio ,2019,19:00,Brasil - RS,America Fc - MG,2,1,1,0,0,3,0
+48,B,2019,Ilha do Retiro,Recife,PE,Sexta,24, Maio ,2019,21:30,Sport - PE,Londrina - PR,3,2,1,0,0,3,0
+49,B,2019,Rei Pelé,Maceio,AL,Sexta,24, Maio ,2019,19:15,Crb - AL,Vila Nova - GO,1,1,0,0,1,1,1
+50,B,2019,Brinco de Ouro,Campinas,SP,Terça,28, Maio ,2019,21:30,Guarani - SP,Brasil - RS,1,2,0,1,0,0,3
+51,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,1, Junho ,2019,16:30,Botafogo - SP,Criciúma - SC,1,0,1,0,0,3,0
+52,B,2019,Walter Ribeiro,Sorocaba,SP,Sexta,31, Maio ,2019,20:30,São Bento - SP,Crb - AL,1,2,0,1,0,0,3
+53,B,2019,Serra Dourada,Goiania,GO,Sábado,1, Junho ,2019,16:30,Vila Nova - GO,Londrina - PR,0,1,0,1,0,0,3
+54,B,2019,Durival Britto,Curitiba,PR,Sábado,1, Junho ,2019,11:00,Paraná - PR,Oeste - SP,0,0,0,0,1,1,1
+55,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,28, Maio ,2019,19:15,Operario - PR,Sport - PE,2,1,1,0,0,3,0
+56,B,2019,Orlando Scarpelli,Florianopolis,SC,Sexta,31, Maio ,2019,19:15,Figueirense - SC,Atlético - GO,1,0,1,0,0,3,0
+57,B,2019,Independência,Belo Horizonte,MG,Segunda,3, Junho ,2019,20:00,America Fc - MG,Coritiba - PR,1,1,0,0,1,1,1
+58,B,2019,Manoel Barradas,Salvador,BA,Sexta,31, Maio ,2019,21:30,Vitória - BA,Bragantino - SP,0,2,0,1,0,0,3
+59,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,1, Junho ,2019,19:00,Cuiabá - MT,Ponte Preta - SP,1,3,0,1,0,0,3
+60,B,2019,Moisés Lucarelli,Campinas,SP,Sexta,7, Junho ,2019,21:30,Ponte Preta - SP,Botafogo - SP,0,0,0,0,1,1,1
+61,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,4, Junho ,2019,19:00,Bragantino - SP,São Bento - SP,2,0,1,0,0,3,0
+62,B,2019,Arena Barueri,Barueri,SP,Sábado,8, Junho ,2019,11:00,Oeste - SP,Figueirense - SC,0,0,0,0,1,1,1
+63,B,2019,Antônio Accioly,Goiania,GO,Quinta,6, Junho ,2019,19:15,Atlético - GO,Guarani - SP,1,0,1,0,0,3,0
+64,B,2019,Couto Pereira,Curitiba,PR,Sábado,8, Junho ,2019,18:00,Coritiba - PR,Paraná - PR,2,3,0,1,0,0,3
+65,B,2019,Do Café,Londrina,PR,Sexta,7, Junho ,2019,19:15,Londrina - PR,Cuiabá - MT,1,0,1,0,0,3,0
+66,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,8, Junho ,2019,16:30,Criciúma - SC,Vila Nova - GO,1,1,0,0,1,1,1
+67,B,2019,Bento Freitas,Pelotas,RS,Sábado,8, Junho ,2019,16:30,Brasil - RS,Operario - PR,1,0,1,0,0,3,0
+68,B,2019,Ilha do Retiro,Recife,PE,Sábado,8, Junho ,2019,20:30,Sport - PE,Vitória - BA,3,1,1,0,0,3,0
+69,B,2019,Rei Pelé,Maceio,AL,Sábado,8, Junho ,2019,20:30,Crb - AL,America Fc - MG,1,3,0,1,0,0,3
+70,B,2019,Brinco de Ouro,Campinas,SP,Terça,11, Junho ,2019,21:30,Guarani - SP,Coritiba - PR,0,1,0,1,0,0,3
+71,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,11, Junho ,2019,20:30,Bragantino - SP,America Fc - MG,2,0,1,0,0,3,0
+72,B,2019,Arena Barueri,Barueri,SP,Terça,11, Junho ,2019,20:30,Oeste - SP,Vitória - BA,3,0,1,0,0,3,0
+73,B,2019,Olímpico Pedro Ludovico,Goiania,GO,Terça,11, Junho ,2019,19:15,Vila Nova - GO,São Bento - SP,1,0,1,0,0,3,0
+74,B,2019,Durival Britto,Curitiba,PR,Terça,11, Junho ,2019,21:30,Paraná - PR,Operario - PR,1,0,1,0,0,3,0
+75,B,2019,Do Café,Londrina,PR,Segunda,10, Junho ,2019,20:00,Londrina - PR,Ponte Preta - SP,1,3,0,1,0,0,3
+76,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,11, Junho ,2019,19:15,Figueirense - SC,Botafogo - SP,2,1,1,0,0,3,0
+77,B,2019,Bento Freitas,Pelotas,RS,Terça,11, Junho ,2019,19:15,Brasil - RS,Criciúma - SC,0,1,0,1,0,0,3
+78,B,2019,Ilha do Retiro,Recife,PE,Terça,11, Junho ,2019,21:30,Sport - PE,Crb - AL,1,0,1,0,0,3,0
+79,B,2019,Arena Pantanal,Cuiaba,MT,Terça,11, Junho ,2019,20:30,Cuiabá - MT,Atlético - GO,0,1,0,1,0,0,3
+80,B,2019,Moisés Lucarelli,Campinas,SP,Sexta,12, Julho ,2019,21:30,Ponte Preta - SP,Oeste - SP,3,2,1,0,0,3,0
+81,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,13, Julho ,2019,18:00,Botafogo - SP,Brasil - RS,2,3,0,1,0,0,3
+82,B,2019,Walter Ribeiro,Sorocaba,SP,Segunda,8, Julho ,2019,20:00,São Bento - SP,Sport - PE,2,2,0,0,1,1,1
+83,B,2019,Antônio Accioly,Goiania,GO,Sábado,13, Julho ,2019,16:30,Atlético - GO,Vila Nova - GO,2,0,1,0,0,3,0
+84,B,2019,Durival Britto,Curitiba,PR,Sábado,13, Julho ,2019,19:00,Paraná - PR,Bragantino - SP,2,1,1,0,0,3,0
+85,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,13, Julho ,2019,19:00,Operario - PR,Londrina - PR,2,0,1,0,0,3,0
+86,B,2019,Heriberto Hulse,Criciuma,SC,Terça,9, Julho ,2019,21:30,Criciúma - SC,Coritiba - PR,2,1,1,0,0,3,0
+87,B,2019,Independência,Belo Horizonte,MG,Sábado,13, Julho ,2019,11:00,America Fc - MG,Figueirense - SC,0,4,0,1,0,0,3
+88,B,2019,Manoel Barradas,Salvador,BA,Terça,9, Julho ,2019,19:15,Vitória - BA,Cuiabá - MT,0,1,0,1,0,0,3
+89,B,2019,Rei Pelé,Maceio,AL,Sexta,12, Julho ,2019,19:15,Crb - AL,Guarani - SP,2,1,1,0,0,3,0
+90,B,2019,Moisés Lucarelli,Campinas,SP,Terça,16, Julho ,2019,21:30,Ponte Preta - SP,Atlético - GO,0,0,0,0,1,1,1
+91,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,20, Julho ,2019,19:00,Botafogo - SP,Guarani - SP,0,0,0,0,1,1,1
+92,B,2019,Novelli Junior,Itu,SP,Sábado,20, Julho ,2019,11:00,Oeste - SP,Bragantino - SP,0,0,0,0,1,1,1
+93,B,2019,Serra Dourada,Goiania,GO,Sábado,20, Julho ,2019,16:30,Vila Nova - GO,America Fc - MG,1,1,0,0,1,1,1
+94,B,2019,Couto Pereira,Curitiba,PR,Terça,16, Julho ,2019,19:15,Coritiba - PR,São Bento - SP,2,1,1,0,0,3,0
+95,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,20, Julho ,2019,19:00,Operario - PR,Crb - AL,2,1,1,0,0,3,0
+96,B,2019,Orlando Scarpelli,Florianopolis,SC,Sexta,19, Julho ,2019,19:15,Figueirense - SC,Londrina - PR,1,1,0,0,1,1,1
+97,B,2019,Bento Freitas,Pelotas,RS,Quinta,18, Julho ,2019,21:30,Brasil - RS,Paraná - PR,0,1,0,1,0,0,3
+98,B,2019,Manoel Barradas,Salvador,BA,Sexta,19, Julho ,2019,21:30,Vitória - BA,Criciúma - SC,2,0,1,0,0,3,0
+99,B,2019,Arena Pantanal,Cuiaba,MT,Segunda,15, Julho ,2019,20:00,Cuiabá - MT,Sport - PE,1,1,0,0,1,1,1
+100,B,2019,Brinco de Ouro,Campinas,SP,Terça,23, Julho ,2019,19:15,Guarani - SP,Cuiabá - MT,0,1,0,1,0,0,3
+101,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,23, Julho ,2019,20:30,Bragantino - SP,Ponte Preta - SP,2,1,1,0,0,3,0
+102,B,2019,Walter Ribeiro,Sorocaba,SP,Terça,23, Julho ,2019,19:15,São Bento - SP,Operario - PR,1,1,0,0,1,1,1
+103,B,2019,Antônio Accioly,Goiania,GO,Terça,23, Julho ,2019,20:30,Atlético - GO,Botafogo - SP,1,2,0,1,0,0,3
+104,B,2019,Couto Pereira,Curitiba,PR,Terça,23, Julho ,2019,19:15,Coritiba - PR,Vila Nova - GO,2,0,1,0,0,3,0
+105,B,2019,Do Café,Londrina,PR,Terça,23, Julho ,2019,21:30,Londrina - PR,Vitória - BA,3,1,1,0,0,3,0
+106,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,23, Julho ,2019,19:15,Figueirense - SC,Paraná - PR,0,1,0,1,0,0,3
+107,B,2019,Independência,Belo Horizonte,MG,Terça,23, Julho ,2019,21:30,America Fc - MG,Oeste - SP,0,0,0,0,1,1,1
+108,B,2019,Ilha do Retiro,Recife,PE,Segunda,22, Julho ,2019,20:00,Sport - PE,Brasil - RS,0,0,0,0,1,1,1
+109,B,2019,Rei Pelé,Maceio,AL,Terça,23, Julho ,2019,21:30,Crb - AL,Criciúma - SC,2,0,1,0,0,3,0
+110,B,2019,Brinco de Ouro,Campinas,SP,Sexta,26, Julho ,2019,20:30,Guarani - SP,São Bento - SP,2,1,1,0,0,3,0
+111,B,2019,Santa Cruz,Ribeirao Preto,SP,Sexta,26, Julho ,2019,20:30,Botafogo - SP,Crb - AL,0,2,0,1,0,0,3
+112,B,2019,Arena Barueri,Barueri,SP,Sábado,27, Julho ,2019,16:30,Oeste - SP,Londrina - PR,1,0,1,0,0,3,0
+113,B,2019,Serra Dourada,Goiania,GO,Sábado,27, Julho ,2019,19:00,Vila Nova - GO,Bragantino - SP,0,1,0,1,0,0,3
+114,B,2019,Durival Britto,Curitiba,PR,Sexta,26, Julho ,2019,21:30,Paraná - PR,Sport - PE,0,1,0,1,0,0,3
+115,B,2019,Germano Kruger,Ponta Grossa,PR,Sexta,26, Julho ,2019,19:15,Operario - PR,Coritiba - PR,1,1,0,0,1,1,1
+116,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,27, Julho ,2019,11:00,Criciúma - SC,Figueirense - SC,1,1,0,0,1,1,1
+117,B,2019,Independência,Belo Horizonte,MG,Sexta,26, Julho ,2019,19:15,America Fc - MG,Atlético - GO,0,1,0,1,0,0,3
+118,B,2019,Manoel Barradas,Salvador,BA,Sábado,27, Julho ,2019,16:30,Vitória - BA,Ponte Preta - SP,2,1,1,0,0,3,0
+119,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,27, Julho ,2019,19:00,Cuiabá - MT,Brasil - RS,1,1,0,0,1,1,1
+120,B,2019,Moisés Lucarelli,Campinas,SP,Terça,30, Julho ,2019,20:30,Ponte Preta - SP,America Fc - MG,0,1,0,1,0,0,3
+121,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,30, Julho ,2019,21:30,Bragantino - SP,Cuiabá - MT,2,2,0,0,1,1,1
+122,B,2019,Walter Ribeiro,Sorocaba,SP,Terça,30, Julho ,2019,20:30,São Bento - SP,Criciúma - SC,1,0,1,0,0,3,0
+123,B,2019,Antônio Accioly,Goiania,GO,Terça,30, Julho ,2019,20:30,Atlético - GO,Operario - PR,4,2,1,0,0,3,0
+124,B,2019,Couto Pereira,Curitiba,PR,Segunda,29, Julho ,2019,20:00,Coritiba - PR,Botafogo - SP,3,2,1,0,0,3,0
+125,B,2019,Do Café,Londrina,PR,Terça,30, Julho ,2019,19:15,Londrina - PR,Paraná - PR,3,0,1,0,0,3,0
+126,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,30, Julho ,2019,19:15,Figueirense - SC,Vitória - BA,1,1,0,0,1,1,1
+127,B,2019,Bento Freitas,Pelotas,RS,Terça,30, Julho ,2019,19:15,Brasil - RS,Vila Nova - GO,0,2,0,1,0,0,3
+128,B,2019,Arena Pernambuco,São Lourenço da Mata,PE,Segunda,29, Julho ,2019,20:00,Sport - PE,Guarani - SP,1,1,0,0,1,1,1
+129,B,2019,Rei Pelé,Maceio,AL,Terça,30, Julho ,2019,20:30,Crb - AL,Oeste - SP,2,2,0,0,1,1,1
+130,B,2019,Brinco de Ouro,Campinas,SP,Sexta,2, Agosto ,2019,21:30,Guarani - SP,Bragantino - SP,1,0,1,0,0,3,0
+131,B,2019,Santa Cruz,Ribeirao Preto,SP,Sexta,2, Agosto ,2019,20:30,Botafogo - SP,Oeste - SP,3,2,1,0,0,3,0
+132,B,2019,Walter Ribeiro,Sorocaba,SP,Sábado,3, Agosto ,2019,16:30,São Bento - SP,Ponte Preta - SP,0,0,0,0,1,1,1
+133,B,2019,Serra Dourada,Goiania,GO,Sábado,3, Agosto ,2019,19:15,Vila Nova - GO,Figueirense - SC,0,0,0,0,1,1,1
+134,B,2019,Durival Britto,Curitiba,PR,Sábado,3, Agosto ,2019,17:00,Paraná - PR,America Fc - MG,0,0,0,0,1,1,1
+135,B,2019,Do Café,Londrina,PR,Sexta,2, Agosto ,2019,19:15,Londrina - PR,Atlético - GO,1,1,0,0,1,1,1
+136,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,3, Agosto ,2019,16:30,Criciúma - SC,Operario - PR,1,2,0,1,0,0,3
+137,B,2019,Bento Freitas,Pelotas,RS,Sábado,3, Agosto ,2019,11:00,Brasil - RS,Vitória - BA,1,0,1,0,0,3,0
+138,B,2019,Arena Pernambuco,São Lourenço da Mata,PE,Quinta,1, Agosto ,2019,21:30,Sport - PE,Coritiba - PR,1,1,0,0,1,1,1
+139,B,2019,Rei Pelé,Maceio,AL,Sábado,3, Agosto ,2019,19:00,Crb - AL,Cuiabá - MT,0,1,0,1,0,0,3
+140,B,2019,Moisés Lucarelli,Campinas,SP,Domingo,11, Agosto ,2019,11:00,Ponte Preta - SP,Guarani - SP,1,0,1,0,0,3,0
+141,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,9, Agosto ,2019,21:30,Bragantino - SP,Botafogo - SP,0,0,0,0,1,1,1
+142,B,2019,Arena Barueri,Barueri,SP,Quinta,8, Agosto ,2019,21:30,Oeste - SP,Brasil - RS,1,1,0,0,1,1,1
+143,B,2019,Antônio Accioly,Goiania,GO,Terça,6, Agosto ,2019,19:15,Atlético - GO,Crb - AL,0,1,0,1,0,0,3
+144,B,2019,Couto Pereira,Curitiba,PR,Sábado,10, Agosto ,2019,16:30,Coritiba - PR,Figueirense - SC,2,0,1,0,0,3,0
+145,B,2019,Germano Kruger,Ponta Grossa,PR,Sexta,9, Agosto ,2019,19:15,Operario - PR,Vila Nova - GO,1,0,1,0,0,3,0
+146,B,2019,Heriberto Hulse,Criciuma,SC,Domingo,11, Agosto ,2019,16:00,Criciúma - SC,Sport - PE,1,0,1,0,0,3,0
+147,B,2019,Independência,Belo Horizonte,MG,Terça,6, Agosto ,2019,21:30,America Fc - MG,Londrina - PR,4,3,1,0,0,3,0
+148,B,2019,Manoel Barradas,Salvador,BA,Sábado,10, Agosto ,2019,19:00,Vitória - BA,Paraná - PR,2,0,1,0,0,3,0
+149,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,10, Agosto ,2019,19:00,Cuiabá - MT,São Bento - SP,3,2,1,0,0,3,0
+150,B,2019,Brinco de Ouro,Campinas,SP,Sexta,16, Agosto ,2019,21:30,Guarani - SP,Vila Nova - GO,0,2,0,1,0,0,3
+151,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Segunda,12, Agosto ,2019,20:00,Bragantino - SP,Operario - PR,4,0,1,0,0,3,0
+152,B,2019,Walter Ribeiro,Sorocaba,SP,Sábado,17, Agosto ,2019,11:00,São Bento - SP,Paraná - PR,2,1,1,0,0,3,0
+153,B,2019,Antônio Accioly,Goiania,GO,Terça,13, Agosto ,2019,19:15,Atlético - GO,Oeste - SP,2,0,1,0,0,3,0
+154,B,2019,Couto Pereira,Curitiba,PR,Terça,13, Agosto ,2019,21:30,Coritiba - PR,Brasil - RS,2,0,1,0,0,3,0
+155,B,2019,Do Café,Londrina,PR,Sexta,16, Agosto ,2019,19:15,Londrina - PR,Criciúma - SC,1,1,0,0,1,1,1
+156,B,2019,Orlando Scarpelli,Florianopolis,SC,Quinta,15, Agosto ,2019,21:30,Figueirense - SC,Ponte Preta - SP,0,1,0,1,0,0,3
+157,B,2019,Independência,Belo Horizonte,MG,Sábado,17, Agosto ,2019,19:00,America Fc - MG,Cuiabá - MT,2,1,1,0,0,3,0
+158,B,2019,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,17, Agosto ,2019,16:30,Sport - PE,Botafogo - SP,3,0,1,0,0,3,0
+159,B,2019,Rei Pelé,Maceio,AL,Domingo,18, Agosto ,2019,16:00,Crb - AL,Vitória - BA,0,1,0,1,0,0,3
+160,B,2019,Moisés Lucarelli,Campinas,SP,Quarta,21, Agosto ,2019,21:30,Ponte Preta - SP,Crb - AL,0,1,0,1,0,0,3
+161,B,2019,Santa Cruz,Ribeirao Preto,SP,Terça,20, Agosto ,2019,19:15,Botafogo - SP,Londrina - PR,2,1,1,0,0,3,0
+162,B,2019,Arena Barueri,Barueri,SP,Segunda,19, Agosto ,2019,20:00,Oeste - SP,Coritiba - PR,0,2,0,1,0,0,3
+163,B,2019,Olímpico Pedro Ludovico,Goiania,GO,Terça,20, Agosto ,2019,21:30,Vila Nova - GO,Sport - PE,0,2,0,1,0,0,3
+164,B,2019,Durival Britto,Curitiba,PR,Terça,20, Agosto ,2019,20:30,Paraná - PR,Atlético - GO,0,0,0,0,1,1,1
+165,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,20, Agosto ,2019,19:15,Operario - PR,Guarani - SP,1,0,1,0,0,3,0
+166,B,2019,Heriberto Hulse,Criciuma,SC,Segunda,19, Agosto ,2019,20:00,Criciúma - SC,Bragantino - SP,0,2,0,1,0,0,3
+167,B,2019,Bento Freitas,Pelotas,RS,Terça,20, Agosto ,2019,19:15,Brasil - RS,São Bento - SP,2,1,1,0,0,3,0
+168,B,2019,Manoel Barradas,Salvador,BA,Quarta,21, Agosto ,2019,19:15,Vitória - BA,America Fc - MG,0,0,0,0,1,1,1
+169,B,2019,Arena Pantanal,Cuiaba,MT,Terça,20, Agosto ,2019,21:30,Cuiabá - MT,Figueirense - SC,3,0,1,0,0,3,0
+170,B,2019,Moisés Lucarelli,Campinas,SP,Sábado,24, Agosto ,2019,19:00,Ponte Preta - SP,Sport - PE,2,2,0,0,1,1,1
+171,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Quinta,22, Agosto ,2019,21:30,Bragantino - SP,Coritiba - PR,1,1,0,0,1,1,1
+172,B,2019,Arena Barueri,Barueri,SP,Sábado,24, Agosto ,2019,16:30,Oeste - SP,Vila Nova - GO,1,1,0,0,1,1,1
+173,B,2019,Antônio Accioly,Goiania,GO,Sexta,23, Agosto ,2019,19:15,Atlético - GO,Brasil - RS,0,0,0,0,1,1,1
+174,B,2019,Durival Britto,Curitiba,PR,Sábado,24, Agosto ,2019,11:00,Paraná - PR,Criciúma - SC,0,0,0,0,1,1,1
+175,B,2019,Do Café,Londrina,PR,Sábado,24, Agosto ,2019,16:30,Londrina - PR,São Bento - SP,2,4,0,1,0,0,3
+176,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,24, Agosto ,2019,19:00,Figueirense - SC,Crb - AL,2,2,0,0,1,1,1
+177,B,2019,Independência,Belo Horizonte,MG,Domingo,25, Agosto ,2019,11:00,America Fc - MG,Guarani - SP,3,2,1,0,0,3,0
+178,B,2019,Manoel Barradas,Salvador,BA,Sábado,24, Agosto ,2019,16:30,Vitória - BA,Operario - PR,0,0,0,0,1,1,1
+179,B,2019,Arena Pantanal,Cuiaba,MT,Sexta,23, Agosto ,2019,21:30,Cuiabá - MT,Botafogo - SP,2,0,1,0,0,3,0
+180,B,2019,Brinco de Ouro,Campinas,SP,Quarta,28, Agosto ,2019,19:15,Guarani - SP,Londrina - PR,1,0,1,0,0,3,0
+181,B,2019,Santa Cruz,Ribeirao Preto,SP,Terça,27, Agosto ,2019,19:15,Botafogo - SP,Paraná - PR,0,1,0,1,0,0,3
+182,B,2019,Walter Ribeiro,Sorocaba,SP,Quarta,28, Agosto ,2019,19:15,São Bento - SP,America Fc - MG,0,2,0,1,0,0,3
+183,B,2019,Olímpico Pedro Ludovico,Goiania,GO,Terça,27, Agosto ,2019,19:15,Vila Nova - GO,Cuiabá - MT,0,0,0,0,1,1,1
+184,B,2019,Couto Pereira,Curitiba,PR,Terça,27, Agosto ,2019,19:15,Coritiba - PR,Vitória - BA,1,1,0,0,1,1,1
+185,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,27, Agosto ,2019,20:30,Operario - PR,Figueirense - SC,1,0,1,0,0,3,0
+186,B,2019,Heriberto Hulse,Criciuma,SC,Terça,27, Agosto ,2019,20:30,Criciúma - SC,Oeste - SP,3,1,1,0,0,3,0
+187,B,2019,Bento Freitas,Pelotas,RS,Terça,27, Agosto ,2019,19:15,Brasil - RS,Ponte Preta - SP,1,0,1,0,0,3,0
+188,B,2019,Ilha do Retiro,Recife,PE,Terça,27, Agosto ,2019,21:30,Sport - PE,Atlético - GO,1,1,0,0,1,1,1
+189,B,2019,Rei Pelé,Maceio,AL,Terça,27, Agosto ,2019,16:30,Crb - AL,Bragantino - SP,0,3,0,1,0,0,3
+190,B,2019,Moisés Lucarelli,Campinas,SP,Sábado,31, Agosto ,2019,16:30,Ponte Preta - SP,Coritiba - PR,1,0,1,0,0,3,0
+191,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,31, Agosto ,2019,19:00,Bragantino - SP,Brasil - RS,2,1,1,0,0,3,0
+192,B,2019,Arena Barueri,Barueri,SP,Sábado,31, Agosto ,2019,11:00,Oeste - SP,Sport - PE,0,0,0,0,1,1,1
+193,B,2019,Antônio Accioly,Goiania,GO,Sábado,31, Agosto ,2019,16:30,Atlético - GO,São Bento - SP,1,0,1,0,0,3,0
+194,B,2019,Durival Britto,Curitiba,PR,Sexta,30, Agosto ,2019,19:15,Paraná - PR,Vila Nova - GO,1,1,0,0,1,1,1
+195,B,2019,Do Café,Londrina,PR,Sábado,31, Agosto ,2019,16:30,Londrina - PR,Crb - AL,0,1,0,1,0,0,3
+196,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,31, Agosto ,2019,16:30,Figueirense - SC,Guarani - SP,0,1,0,1,0,0,3
+197,B,2019,Independência,Belo Horizonte,MG,Sábado,31, Agosto ,2019,19:00,America Fc - MG,Operario - PR,0,0,0,0,1,1,1
+198,B,2019,Manoel Barradas,Salvador,BA,Sexta,30, Agosto ,2019,21:30,Vitória - BA,Botafogo - SP,0,0,0,0,1,1,1
+199,B,2019,Arena Pantanal,Cuiaba,MT,Sexta,30, Agosto ,2019,21:30,Cuiabá - MT,Criciúma - SC,0,0,0,0,1,1,1
+200,B,2019,Brinco de Ouro,Campinas,SP,Sábado,7, Setembro ,2019,16:30,Guarani - SP,Oeste - SP,2,3,0,1,0,0,3
+201,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,7, Setembro ,2019,11:00,Botafogo - SP,America Fc - MG,0,0,0,0,1,1,1
+202,B,2019,Walter Ribeiro,Sorocaba,SP,Sexta,6, Setembro ,2019,18:45,São Bento - SP,Figueirense - SC,0,0,0,0,1,1,1
+203,B,2019,Olímpico Pedro Ludovico,Goiania,GO,Terça,3, Setembro ,2019,19:15,Vila Nova - GO,Vitória - BA,0,2,0,1,0,0,3
+204,B,2019,Couto Pereira,Curitiba,PR,Domingo,8, Setembro ,2019,11:00,Coritiba - PR,Atlético - GO,1,2,0,1,0,0,3
+205,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,7, Setembro ,2019,16:30,Operario - PR,Cuiabá - MT,2,1,1,0,0,3,0
+206,B,2019,Heriberto Hulse,Criciuma,SC,Terça,3, Setembro ,2019,21:30,Criciúma - SC,Ponte Preta - SP,0,0,0,0,1,1,1
+207,B,2019,Bento Freitas,Pelotas,RS,Terça,3, Setembro ,2019,19:15,Brasil - RS,Londrina - PR,1,0,1,0,0,3,0
+208,B,2019,Ilha do Retiro,Recife,PE,Sábado,7, Setembro ,2019,19:00,Sport - PE,Bragantino - SP,2,1,1,0,0,3,0
+209,B,2019,Rei Pelé,Maceio,AL,Quinta,5, Setembro ,2019,19:15,Crb - AL,Paraná - PR,1,2,0,1,0,0,3
+210,B,2019,Moisés Lucarelli,Campinas,SP,Quinta,12, Setembro ,2019,21:30,Ponte Preta - SP,Vila Nova - GO,0,1,0,1,0,0,3
+211,B,2019,Santa Cruz,Ribeirao Preto,SP,Sexta,13, Setembro ,2019,19:15,Botafogo - SP,São Bento - SP,1,0,1,0,0,3,0
+212,B,2019,Arena Barueri,Barueri,SP,Sexta,13, Setembro ,2019,20:30,Oeste - SP,Operario - PR,3,0,1,0,0,3,0
+213,B,2019,Antônio Accioly,Goiania,GO,Sexta,13, Setembro ,2019,21:30,Atlético - GO,Bragantino - SP,1,1,0,0,1,1,1
+214,B,2019,Durival Britto,Curitiba,PR,Sábado,14, Setembro ,2019,19:00,Paraná - PR,Cuiabá - MT,0,0,0,0,1,1,1
+215,B,2019,Do Café,Londrina,PR,Sábado,14, Setembro ,2019,11:00,Londrina - PR,Coritiba - PR,2,1,1,0,0,3,0
+216,B,2019,Orlando Scarpelli,Florianopolis,SC,Domingo,15, Setembro ,2019,16:00,Figueirense - SC,Sport - PE,1,2,0,1,0,0,3
+217,B,2019,Independência,Belo Horizonte,MG,Terça,10, Setembro ,2019,21:00,America Fc - MG,Criciúma - SC,2,1,1,0,0,3,0
+218,B,2019,Arena Fonte Nova,Salvador,BA,Sábado,14, Setembro ,2019,16:30,Vitória - BA,Guarani - SP,0,1,0,1,0,0,3
+219,B,2019,Rei Pelé,Maceio,AL,Terça,10, Setembro ,2019,18:45,Crb - AL,Brasil - RS,3,1,1,0,0,3,0
+220,B,2019,Brinco de Ouro,Campinas,SP,Sábado,21, Setembro ,2019,11:00,Guarani - SP,Paraná - PR,1,0,1,0,0,3,0
+221,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,21, Setembro ,2019,16:30,Bragantino - SP,Londrina - PR,4,1,1,0,0,3,0
+222,B,2019,Walter Ribeiro,Sorocaba,SP,Terça,17, Setembro ,2019,21:30,São Bento - SP,Vitória - BA,2,0,1,0,0,3,0
+223,B,2019,Serra Dourada,Goiania,GO,Terça,17, Setembro ,2019,19:15,Vila Nova - GO,Botafogo - SP,0,2,0,1,0,0,3
+224,B,2019,Couto Pereira,Curitiba,PR,Sábado,21, Setembro ,2019,19:00,Coritiba - PR,Crb - AL,0,2,0,1,0,0,3
+225,B,2019,Germano Kruger,Ponta Grossa,PR,Segunda,16, Setembro ,2019,20:00,Operario - PR,Ponte Preta - SP,2,1,1,0,0,3,0
+226,B,2019,Heriberto Hulse,Criciuma,SC,Sexta,20, Setembro ,2019,19:15,Criciúma - SC,Atlético - GO,0,1,0,1,0,0,3
+227,B,2019,Bento Freitas,Pelotas,RS,Quinta,19, Setembro ,2019,21:30,Brasil - RS,Figueirense - SC,2,2,0,0,1,1,1
+228,B,2019,Ilha do Retiro,Recife,PE,Sexta,20, Setembro ,2019,21:30,Sport - PE,America Fc - MG,0,2,0,1,0,0,3
+229,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,21, Setembro ,2019,19:00,Cuiabá - MT,Oeste - SP,2,0,1,0,0,3,0
+230,B,2019,Brinco de Ouro,Campinas,SP,Terça,24, Setembro ,2019,19:15,Guarani - SP,Criciúma - SC,1,0,1,0,0,3,0
+231,B,2019,Santa Cruz,Ribeirao Preto,SP,Terça,24, Setembro ,2019,19:15,Botafogo - SP,Operario - PR,1,1,0,0,1,1,1
+232,B,2019,Arena Barueri,Barueri,SP,Terça,24, Setembro ,2019,20:30,Oeste - SP,São Bento - SP,2,1,1,0,0,3,0
+233,B,2019,Serra Dourada,Goiania,GO,Terça,24, Setembro ,2019,20:30,Vila Nova - GO,Crb - AL,2,2,0,0,1,1,1
+234,B,2019,Durival Britto,Curitiba,PR,Quarta,25, Setembro ,2019,19:15,Paraná - PR,Ponte Preta - SP,1,1,0,0,1,1,1
+235,B,2019,Do Café,Londrina,PR,Terça,24, Setembro ,2019,19:15,Londrina - PR,Sport - PE,1,2,0,1,0,0,3
+236,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,24, Setembro ,2019,21:30,Figueirense - SC,Bragantino - SP,0,3,0,1,0,0,3
+237,B,2019,Independência,Belo Horizonte,MG,Terça,24, Setembro ,2019,20:30,America Fc - MG,Brasil - RS,2,0,1,0,0,3,0
+238,B,2019,Arena Fonte Nova,Salvador,BA,Terça,24, Setembro ,2019,21:30,Vitória - BA,Atlético - GO,0,0,0,0,1,1,1
+239,B,2019,Arena Pantanal,Cuiaba,MT,Terça,29, Outubro ,2019,22:30,Cuiabá - MT,Coritiba - PR,3,3,0,0,1,1,1
+240,B,2019,Moisés Lucarelli,Campinas,SP,Sábado,28, Setembro ,2019,16:30,Ponte Preta - SP,Cuiabá - MT,3,0,1,0,0,3,0
+241,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,29, Setembro ,2019,16:00,Bragantino - SP,Vitória - BA,2,0,1,0,0,3,0
+242,B,2019,Arena Barueri,Barueri,SP,Sábado,28, Setembro ,2019,19:00,Oeste - SP,Paraná - PR,1,1,0,0,1,1,1
+243,B,2019,Antônio Accioly,Goiania,GO,Sexta,27, Setembro ,2019,21:30,Atlético - GO,Figueirense - SC,2,0,1,0,0,3,0
+244,B,2019,Couto Pereira,Curitiba,PR,Sábado,28, Setembro ,2019,16:30,Coritiba - PR,America Fc - MG,2,1,1,0,0,3,0
+245,B,2019,Do Café,Londrina,PR,Sexta,27, Setembro ,2019,19:15,Londrina - PR,Vila Nova - GO,0,1,0,1,0,0,3
+246,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,28, Setembro ,2019,11:00,Criciúma - SC,Botafogo - SP,2,0,1,0,0,3,0
+247,B,2019,Bento Freitas,Pelotas,RS,Sexta,27, Setembro ,2019,20:30,Brasil - RS,Guarani - SP,0,0,0,0,1,1,1
+248,B,2019,Ilha do Retiro,Recife,PE,Sábado,28, Setembro ,2019,19:00,Sport - PE,Operario - PR,3,1,1,0,0,3,0
+249,B,2019,Rei Pelé,Maceio,AL,Sábado,28, Setembro ,2019,21:00,Crb - AL,São Bento - SP,1,1,0,0,1,1,1
+250,B,2019,Brinco de Ouro,Campinas,SP,Segunda,30, Setembro ,2019,20:00,Guarani - SP,Atlético - GO,2,0,1,0,0,3,0
+251,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,5, Outubro ,2019,11:00,Botafogo - SP,Ponte Preta - SP,4,1,1,0,0,3,0
+252,B,2019,Walter Ribeiro,Sorocaba,SP,Sexta,4, Outubro ,2019,21:30,São Bento - SP,Bragantino - SP,0,3,0,1,0,0,3
+253,B,2019,Serra Dourada,Goiania,GO,Terça,1, Outubro ,2019,19:15,Vila Nova - GO,Criciúma - SC,1,1,0,0,1,1,1
+254,B,2019,Durival Britto,Curitiba,PR,Sábado,5, Outubro ,2019,16:30,Paraná - PR,Coritiba - PR,2,0,1,0,0,3,0
+255,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,5, Outubro ,2019,19:00,Operario - PR,Brasil - RS,1,2,0,1,0,0,3
+256,B,2019,Orlando Scarpelli,Florianopolis,SC,Sexta,4, Outubro ,2019,19:15,Figueirense - SC,Oeste - SP,1,2,0,1,0,0,3
+257,B,2019,Independência,Belo Horizonte,MG,Quinta,3, Outubro ,2019,19:15,America Fc - MG,Crb - AL,1,0,1,0,0,3,0
+258,B,2019,Arena Fonte Nova,Salvador,BA,Quinta,3, Outubro ,2019,21:30,Vitória - BA,Sport - PE,2,2,0,0,1,1,1
+259,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,5, Outubro ,2019,19:00,Cuiabá - MT,Londrina - PR,0,1,0,1,0,0,3
+260,B,2019,Moisés Lucarelli,Campinas,SP,Terça,8, Outubro ,2019,21:30,Ponte Preta - SP,Londrina - PR,3,1,1,0,0,3,0
+261,B,2019,Santa Cruz,Ribeirao Preto,SP,Terça,8, Outubro ,2019,19:15,Botafogo - SP,Figueirense - SC,0,0,0,0,1,1,1
+262,B,2019,Walter Ribeiro,Sorocaba,SP,Segunda,7, Outubro ,2019,20:00,São Bento - SP,Vila Nova - GO,3,1,1,0,0,3,0
+263,B,2019,Antônio Accioly,Goiania,GO,Terça,8, Outubro ,2019,20:30,Atlético - GO,Cuiabá - MT,1,1,0,0,1,1,1
+264,B,2019,Couto Pereira,Curitiba,PR,Terça,8, Outubro ,2019,19:15,Coritiba - PR,Guarani - SP,1,0,1,0,0,3,0
+265,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,8, Outubro ,2019,19:15,Operario - PR,Paraná - PR,0,1,0,1,0,0,3
+266,B,2019,Heriberto Hulse,Criciuma,SC,Terça,8, Outubro ,2019,20:30,Criciúma - SC,Brasil - RS,2,2,0,0,1,1,1
+267,B,2019,Independência,Belo Horizonte,MG,Terça,8, Outubro ,2019,21:30,America Fc - MG,Bragantino - SP,2,0,1,0,0,3,0
+268,B,2019,Manoel Barradas,Salvador,BA,Terça,8, Outubro ,2019,20:30,Vitória - BA,Oeste - SP,3,1,1,0,0,3,0
+269,B,2019,Rei Pelé,Maceio,AL,Segunda,7, Outubro ,2019,20:00,Crb - AL,Sport - PE,1,1,0,0,1,1,1
+270,B,2019,Brinco de Ouro,Campinas,SP,Sexta,11, Outubro ,2019,21:30,Guarani - SP,Crb - AL,1,0,1,0,0,3,0
+271,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,12, Outubro ,2019,16:30,Bragantino - SP,Paraná - PR,2,0,1,0,0,3,0
+272,B,2019,Arena Barueri,Barueri,SP,Sexta,11, Outubro ,2019,21:30,Oeste - SP,Ponte Preta - SP,1,1,0,0,1,1,1
+273,B,2019,Serra Dourada,Goiania,GO,Sexta,11, Outubro ,2019,19:15,Vila Nova - GO,Atlético - GO,1,1,0,0,1,1,1
+274,B,2019,Couto Pereira,Curitiba,PR,Sábado,12, Outubro ,2019,16:30,Coritiba - PR,Criciúma - SC,1,0,1,0,0,3,0
+275,B,2019,Do Café,Londrina,PR,Sábado,12, Outubro ,2019,16:30,Londrina - PR,Operario - PR,1,2,0,1,0,0,3
+276,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,12, Outubro ,2019,19:00,Figueirense - SC,America Fc - MG,2,1,1,0,0,3,0
+277,B,2019,Bento Freitas,Pelotas,RS,Sexta,11, Outubro ,2019,19:15,Brasil - RS,Botafogo - SP,1,0,1,0,0,3,0
+278,B,2019,Ilha do Retiro,Recife,PE,Sexta,11, Outubro ,2019,19:15,Sport - PE,São Bento - SP,2,0,1,0,0,3,0
+279,B,2019,Arena Pantanal,Cuiaba,MT,Sexta,11, Outubro ,2019,21:30,Cuiabá - MT,Vitória - BA,1,3,0,1,0,0,3
+280,B,2019,Brinco de Ouro,Campinas,SP,Segunda,14, Outubro ,2019,20:00,Guarani - SP,Botafogo - SP,0,2,0,1,0,0,3
+281,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,15, Outubro ,2019,21:30,Bragantino - SP,Oeste - SP,2,2,0,0,1,1,1
+282,B,2019,Walter Ribeiro,Sorocaba,SP,Terça,15, Outubro ,2019,21:30,São Bento - SP,Coritiba - PR,1,2,0,1,0,0,3
+283,B,2019,Antônio Accioly,Goiania,GO,Segunda,14, Outubro ,2019,20:00,Atlético - GO,Ponte Preta - SP,0,0,0,0,1,1,1
+284,B,2019,Durival Britto,Curitiba,PR,Terça,15, Outubro ,2019,19:15,Paraná - PR,Brasil - RS,1,0,1,0,0,3,0
+285,B,2019,Do Café,Londrina,PR,Terça,15, Outubro ,2019,19:15,Londrina - PR,Figueirense - SC,0,0,0,0,1,1,1
+286,B,2019,Heriberto Hulse,Criciuma,SC,Terça,15, Outubro ,2019,19:15,Criciúma - SC,Vitória - BA,1,1,0,0,1,1,1
+287,B,2019,Independência,Belo Horizonte,MG,Terça,15, Outubro ,2019,20:30,America Fc - MG,Vila Nova - GO,2,0,1,0,0,3,0
+288,B,2019,Ilha do Retiro,Recife,PE,Segunda,14, Outubro ,2019,20:00,Sport - PE,Cuiabá - MT,2,0,1,0,0,3,0
+289,B,2019,Rei Pelé,Maceio,AL,Terça,15, Outubro ,2019,20:30,Crb - AL,Operario - PR,0,0,0,0,1,1,1
+290,B,2019,Moisés Lucarelli,Campinas,SP,Sábado,19, Outubro ,2019,16:30,Ponte Preta - SP,Bragantino - SP,1,1,0,0,1,1,1
+291,B,2019,Santa Cruz,Ribeirao Preto,SP,Quinta,17, Outubro ,2019,19:15,Botafogo - SP,Atlético - GO,0,0,0,0,1,1,1
+292,B,2019,Arena Barueri,Barueri,SP,Sábado,19, Outubro ,2019,16:30,Oeste - SP,America Fc - MG,0,1,0,1,0,0,3
+293,B,2019,Serra Dourada,Goiania,GO,Sábado,19, Outubro ,2019,16:30,Vila Nova - GO,Coritiba - PR,2,2,0,0,1,1,1
+294,B,2019,Durival Britto,Curitiba,PR,Sábado,19, Outubro ,2019,19:00,Paraná - PR,Figueirense - SC,0,1,0,1,0,0,3
+295,B,2019,Germano Kruger,Ponta Grossa,PR,Sábado,19, Outubro ,2019,19:00,Operario - PR,São Bento - SP,2,1,1,0,0,3,0
+296,B,2019,Heriberto Hulse,Criciuma,SC,Sexta,18, Outubro ,2019,19:15,Criciúma - SC,Crb - AL,0,1,0,1,0,0,3
+297,B,2019,Bento Freitas,Pelotas,RS,Domingo,20, Outubro ,2019,16:00,Brasil - RS,Sport - PE,0,0,0,0,1,1,1
+298,B,2019,Manoel Barradas,Salvador,BA,Sexta,18, Outubro ,2019,21:30,Vitória - BA,Londrina - PR,0,1,0,1,0,0,3
+299,B,2019,Arena Pantanal,Cuiaba,MT,Quinta,17, Outubro ,2019,21:30,Cuiabá - MT,Guarani - SP,2,1,1,0,0,3,0
+300,B,2019,Moisés Lucarelli,Campinas,SP,Domingo,27, Outubro ,2019,16:00,Ponte Preta - SP,Vitória - BA,1,2,0,1,0,0,3
+301,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,25, Outubro ,2019,21:30,Bragantino - SP,Vila Nova - GO,3,1,1,0,0,3,0
+302,B,2019,Walter Ribeiro,Sorocaba,SP,Sábado,26, Outubro ,2019,16:30,São Bento - SP,Guarani - SP,1,1,0,0,1,1,1
+303,B,2019,Antônio Accioly,Goiania,GO,Sexta,25, Outubro ,2019,19:15,Atlético - GO,America Fc - MG,2,2,0,0,1,1,1
+304,B,2019,Couto Pereira,Curitiba,PR,Quinta,24, Outubro ,2019,21:30,Coritiba - PR,Operario - PR,0,0,0,0,1,1,1
+305,B,2019,Do Café,Londrina,PR,Sexta,25, Outubro ,2019,19:15,Londrina - PR,Oeste - SP,0,2,0,1,0,0,3
+306,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,26, Outubro ,2019,16:30,Figueirense - SC,Criciúma - SC,2,2,0,0,1,1,1
+307,B,2019,Bento Freitas,Pelotas,RS,Sábado,26, Outubro ,2019,16:30,Brasil - RS,Cuiabá - MT,0,0,0,0,1,1,1
+308,B,2019,Ilha do Retiro,Recife,PE,Quarta,23, Outubro ,2019,19:15,Sport - PE,Paraná - PR,2,1,1,0,0,3,0
+309,B,2019,Rei Pelé,Maceio,AL,Quinta,24, Outubro ,2019,19:15,Crb - AL,Botafogo - SP,1,0,1,0,0,3,0
+310,B,2019,Brinco de Ouro,Campinas,SP,Quinta,31, Outubro ,2019,19:15,Guarani - SP,Sport - PE,1,0,1,0,0,3,0
+311,B,2019,Santa Cruz,Ribeirao Preto,SP,Sexta,1, Novembro ,2019,19:15,Botafogo - SP,Coritiba - PR,0,1,0,1,0,0,3
+312,B,2019,Arena Barueri,Barueri,SP,Sábado,2, Novembro ,2019,16:30,Oeste - SP,Crb - AL,3,3,0,0,1,1,1
+313,B,2019,Serra Dourada,Goiania,GO,Terça,29, Outubro ,2019,19:15,Vila Nova - GO,Brasil - RS,0,2,0,1,0,0,3
+314,B,2019,Durival Britto,Curitiba,PR,Segunda,28, Outubro ,2019,20:00,Paraná - PR,Londrina - PR,1,0,1,0,0,3,0
+315,B,2019,Germano Kruger,Ponta Grossa,PR,Sexta,1, Novembro ,2019,20:30,Operario - PR,Atlético - GO,1,1,0,0,1,1,1
+316,B,2019,Heriberto Hulse,Criciuma,SC,Sábado,2, Novembro ,2019,19:00,Criciúma - SC,São Bento - SP,1,1,0,0,1,1,1
+317,B,2019,Independência,Belo Horizonte,MG,Sábado,2, Novembro ,2019,19:00,America Fc - MG,Ponte Preta - SP,0,0,0,0,1,1,1
+318,B,2019,Manoel Barradas,Salvador,BA,Sábado,2, Novembro ,2019,16:30,Vitória - BA,Figueirense - SC,2,2,0,0,1,1,1
+319,B,2019,Arena Pantanal,Cuiaba,MT,Sexta,1, Novembro ,2019,22:30,Cuiabá - MT,Bragantino - SP,2,0,1,0,0,3,0
+320,B,2019,Moisés Lucarelli,Campinas,SP,Terça,5, Novembro ,2019,21:30,Ponte Preta - SP,São Bento - SP,1,1,0,0,1,1,1
+321,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Terça,5, Novembro ,2019,21:30,Bragantino - SP,Guarani - SP,3,1,1,0,0,3,0
+322,B,2019,Arena Barueri,Barueri,SP,Terça,5, Novembro ,2019,19:15,Oeste - SP,Botafogo - SP,0,2,0,1,0,0,3
+323,B,2019,Antônio Accioly,Goiania,GO,Terça,5, Novembro ,2019,19:15,Atlético - GO,Londrina - PR,2,1,1,0,0,3,0
+324,B,2019,Couto Pereira,Curitiba,PR,Segunda,4, Novembro ,2019,20:00,Coritiba - PR,Sport - PE,0,0,0,0,1,1,1
+325,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,5, Novembro ,2019,20:30,Operario - PR,Criciúma - SC,1,0,1,0,0,3,0
+326,B,2019,Orlando Scarpelli,Florianopolis,SC,Terça,5, Novembro ,2019,20:30,Figueirense - SC,Vila Nova - GO,0,0,0,0,1,1,1
+327,B,2019,Independência,Belo Horizonte,MG,Terça,5, Novembro ,2019,20:30,America Fc - MG,Paraná - PR,0,2,0,1,0,0,3
+328,B,2019,Manoel Barradas,Salvador,BA,Terça,5, Novembro ,2019,20:30,Vitória - BA,Brasil - RS,3,0,1,0,0,3,0
+329,B,2019,Arena Pantanal,Cuiaba,MT,Terça,5, Novembro ,2019,21:30,Cuiabá - MT,Crb - AL,5,1,1,0,0,3,0
+330,B,2019,Brinco de Ouro,Campinas,SP,Sábado,9, Novembro ,2019,16:30,Guarani - SP,Ponte Preta - SP,0,0,0,0,1,1,1
+331,B,2019,Santa Cruz,Ribeirao Preto,SP,Sexta,8, Novembro ,2019,19:15,Botafogo - SP,Bragantino - SP,2,3,0,1,0,0,3
+332,B,2019,Walter Ribeiro,Sorocaba,SP,Sexta,8, Novembro ,2019,21:30,São Bento - SP,Cuiabá - MT,1,2,0,1,0,0,3
+333,B,2019,Serra Dourada,Goiania,GO,Sexta,8, Novembro ,2019,20:30,Vila Nova - GO,Operario - PR,0,0,0,0,1,1,1
+334,B,2019,Durival Britto,Curitiba,PR,Sexta,8, Novembro ,2019,19:15,Paraná - PR,Vitória - BA,0,0,0,0,1,1,1
+335,B,2019,Do Café,Londrina,PR,Sexta,8, Novembro ,2019,20:30,Londrina - PR,America Fc - MG,0,1,0,1,0,0,3
+336,B,2019,Orlando Scarpelli,Florianopolis,SC,Sexta,8, Novembro ,2019,21:30,Figueirense - SC,Coritiba - PR,1,1,0,0,1,1,1
+337,B,2019,Bento Freitas,Pelotas,RS,Sábado,9, Novembro ,2019,19:00,Brasil - RS,Oeste - SP,2,2,0,0,1,1,1
+338,B,2019,Ilha do Retiro,Recife,PE,Sábado,9, Novembro ,2019,16:30,Sport - PE,Criciúma - SC,1,0,1,0,0,3,0
+339,B,2019,Rei Pelé,Maceio,AL,Sábado,9, Novembro ,2019,19:00,Crb - AL,Atlético - GO,2,1,1,0,0,3,0
+340,B,2019,Moisés Lucarelli,Campinas,SP,Terça,12, Novembro ,2019,20:30,Ponte Preta - SP,Figueirense - SC,1,3,0,1,0,0,3
+341,B,2019,Santa Cruz,Ribeirao Preto,SP,Quarta,13, Novembro ,2019,21:30,Botafogo - SP,Sport - PE,0,2,0,1,0,0,3
+342,B,2019,Arena Barueri,Barueri,SP,Terça,12, Novembro ,2019,19:15,Oeste - SP,Atlético - GO,0,4,0,1,0,0,3
+343,B,2019,Serra Dourada,Goiania,GO,Quarta,13, Novembro ,2019,19:15,Vila Nova - GO,Guarani - SP,1,1,0,0,1,1,1
+344,B,2019,Durival Britto,Curitiba,PR,Terça,12, Novembro ,2019,21:30,Paraná - PR,São Bento - SP,2,1,1,0,0,3,0
+345,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,12, Novembro ,2019,21:30,Operario - PR,Bragantino - SP,0,2,0,1,0,0,3
+346,B,2019,Heriberto Hulse,Criciuma,SC,Terça,12, Novembro ,2019,20:30,Criciúma - SC,Londrina - PR,2,0,1,0,0,3,0
+347,B,2019,Bento Freitas,Pelotas,RS,Terça,12, Novembro ,2019,19:15,Brasil - RS,Coritiba - PR,0,2,0,1,0,0,3
+348,B,2019,Manoel Barradas,Salvador,BA,Terça,12, Novembro ,2019,19:15,Vitória - BA,Crb - AL,2,2,0,0,1,1,1
+349,B,2019,Arena Pantanal,Cuiaba,MT,Segunda,11, Novembro ,2019,22:00,Cuiabá - MT,America Fc - MG,0,2,0,1,0,0,3
+350,B,2019,Brinco de Ouro,Campinas,SP,Sábado,16, Novembro ,2019,16:30,Guarani - SP,Operario - PR,1,0,1,0,0,3,0
+351,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,15, Novembro ,2019,19:15,Bragantino - SP,Criciúma - SC,1,1,0,0,1,1,1
+352,B,2019,Walter Ribeiro,Sorocaba,SP,Domingo,17, Novembro ,2019,16:00,São Bento - SP,Brasil - RS,3,1,1,0,0,3,0
+353,B,2019,Antônio Accioly,Goiania,GO,Sexta,15, Novembro ,2019,21:30,Atlético - GO,Paraná - PR,1,0,1,0,0,3,0
+354,B,2019,Couto Pereira,Curitiba,PR,Sábado,16, Novembro ,2019,16:30,Coritiba - PR,Oeste - SP,1,0,1,0,0,3,0
+355,B,2019,Do Café,Londrina,PR,Sábado,16, Novembro ,2019,19:00,Londrina - PR,Botafogo - SP,1,1,0,0,1,1,1
+356,B,2019,Orlando Scarpelli,Florianopolis,SC,Domingo,17, Novembro ,2019,18:30,Figueirense - SC,Cuiabá - MT,0,0,0,0,1,1,1
+357,B,2019,Independência,Belo Horizonte,MG,Sexta,15, Novembro ,2019,17:00,America Fc - MG,Vitória - BA,2,1,1,0,0,3,0
+358,B,2019,Ilha do Retiro,Recife,PE,Domingo,17, Novembro ,2019,16:00,Sport - PE,Vila Nova - GO,0,0,0,0,1,1,1
+359,B,2019,Rei Pelé,Maceio,AL,Sábado,16, Novembro ,2019,16:30,Crb - AL,Ponte Preta - SP,2,0,1,0,0,3,0
+360,B,2019,Brinco de Ouro,Campinas,SP,Sexta,22, Novembro ,2019,21:30,Guarani - SP,America Fc - MG,0,1,0,1,0,0,3
+361,B,2019,Santa Cruz,Ribeirao Preto,SP,Sábado,23, Novembro ,2019,17:00,Botafogo - SP,Cuiabá - MT,0,0,0,0,1,1,1
+362,B,2019,Walter Ribeiro,Sorocaba,SP,Quinta,21, Novembro ,2019,19:15,São Bento - SP,Londrina - PR,4,1,1,0,0,3,0
+363,B,2019,Serra Dourada,Goiania,GO,Quarta,20, Novembro ,2019,19:15,Vila Nova - GO,Oeste - SP,1,1,0,0,1,1,1
+364,B,2019,Couto Pereira,Curitiba,PR,Domingo,24, Novembro ,2019,16:00,Coritiba - PR,Bragantino - SP,1,0,1,0,0,3,0
+365,B,2019,Germano Kruger,Ponta Grossa,PR,Terça,19, Novembro ,2019,21:30,Operario - PR,Vitória - BA,1,2,0,1,0,0,3
+366,B,2019,Heriberto Hulse,Criciuma,SC,Terça,19, Novembro ,2019,19:15,Criciúma - SC,Paraná - PR,1,1,0,0,1,1,1
+367,B,2019,Bento Freitas,Pelotas,RS,Quinta,21, Novembro ,2019,21:30,Brasil - RS,Atlético - GO,2,2,0,0,1,1,1
+368,B,2019,Ilha do Retiro,Recife,PE,Quarta,20, Novembro ,2019,21:30,Sport - PE,Ponte Preta - SP,2,1,1,0,0,3,0
+369,B,2019,Rei Pelé,Maceio,AL,Sexta,22, Novembro ,2019,19:15,Crb - AL,Figueirense - SC,0,0,0,0,1,1,1
+370,B,2019,Moisés Lucarelli,Campinas,SP,Terça,26, Novembro ,2019,19:00,Ponte Preta - SP,Brasil - RS,4,0,1,0,0,3,0
+371,B,2019,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,30, Novembro ,2019,16:30,Bragantino - SP,Crb - AL,2,0,1,0,0,3,0
+372,B,2019,Arena Barueri,Barueri,SP,Sexta,29, Novembro ,2019,21:30,Oeste - SP,Criciúma - SC,1,2,0,1,0,0,3
+373,B,2019,Antônio Accioly,Goiania,GO,Sábado,30, Novembro ,2019,16:30,Atlético - GO,Sport - PE,0,0,0,0,1,1,1
+374,B,2019,Durival Britto,Curitiba,PR,Sexta,29, Novembro ,2019,19:15,Paraná - PR,Botafogo - SP,3,3,0,0,1,1,1
+375,B,2019,Do Café,Londrina,PR,Sábado,30, Novembro ,2019,16:30,Londrina - PR,Guarani - SP,2,0,1,0,0,3,0
+376,B,2019,Orlando Scarpelli,Florianopolis,SC,Sábado,30, Novembro ,2019,16:30,Figueirense - SC,Operario - PR,1,1,0,0,1,1,1
+377,B,2019,Independência,Belo Horizonte,MG,Sábado,30, Novembro ,2019,16:30,America Fc - MG,São Bento - SP,1,2,0,1,0,0,3
+378,B,2019,Manoel Barradas,Salvador,BA,Sábado,30, Novembro ,2019,16:30,Vitória - BA,Coritiba - PR,1,2,0,1,0,0,3
+379,B,2019,Arena Pantanal,Cuiaba,MT,Sábado,30, Novembro ,2019,16:30,Cuiabá - MT,Vila Nova - GO,1,2,0,1,0,0,3

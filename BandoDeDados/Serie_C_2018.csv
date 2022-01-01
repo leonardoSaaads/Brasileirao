@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,15, Abril ,2018,19:00,Náutico - PE,Santa Cruz - PE,1,1,0,0,1,1,1
+1,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,15, Abril ,2018,17:00,Globo - RN,Abc - RN,1,0,1,0,0,3,0
+2,C,2018,Arena da Floresta,Rio Branco,AC,Segunda,16, Abril ,2018,21:15,Atlético - AC,Remo - PA,1,0,1,0,0,3,0
+3,C,2018,Cornélio de Barros,Salgueiro,PE,Domingo,15, Abril ,2018,16:00,Salgueiro - PE,Botafogo - PB,0,0,0,0,1,1,1
+4,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,14, Abril ,2018,18:30,Juazeirense - BA,Confiança - SE,0,1,0,1,0,0,3
+5,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,14, Abril ,2018,19:00,Botafogo - SP,Bragantino - SP,1,1,0,0,1,1,1
+6,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,15, Abril ,2018,15:30,Operario - PR,Volta Redonda - RJ,1,0,1,0,0,3,0
+7,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,14, Abril ,2018,16:00,Tupi - MG,Tombense - MG,1,0,1,0,0,3,0
+8,C,2018,Arena Pantanal,Cuiaba,MT,Domingo,15, Abril ,2018,19:00,Cuiabá - MT,Luverdense - MT,1,0,1,0,0,3,0
+9,C,2018,Arena Joinville,Joinville,SC,Domingo,15, Abril ,2018,16:00,Joinville - SC,Ypiranga - RS,1,0,1,0,0,3,0
+10,C,2018,Arruda,Recife,PE,Domingo,22, Abril ,2018,18:30,Santa Cruz - PE,Atlético - AC,3,1,1,0,0,3,0
+11,C,2018,Frasqueirão,Natal,RN,Domingo,22, Abril ,2018,16:00,Abc - RN,Juazeirense - BA,1,0,1,0,0,3,0
+12,C,2018,Mangueirão,Belem,PA,Sábado,21, Abril ,2018,16:00,Remo - PA,Globo - RN,1,0,1,0,0,3,0
+13,C,2018,Almeidão,Joao Pessoa,PB,Sábado,21, Abril ,2018,19:00,Botafogo - PB,Náutico - PE,4,0,1,0,0,3,0
+14,C,2018,Batistão,Aracaju,SE,Domingo,22, Abril ,2018,16:00,Confiança - SE,Salgueiro - PE,3,0,1,0,0,3,0
+15,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,21, Abril ,2018,16:00,Bragantino - SP,Tupi - MG,1,0,1,0,0,3,0
+16,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,21, Abril ,2018,16:00,Volta Redonda - RJ,Cuiabá - MT,3,0,1,0,0,3,0
+17,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,21, Abril ,2018,15:30,Tombense - MG,Joinville - SC,3,0,1,0,0,3,0
+18,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Sábado,21, Abril ,2018,17:00,Luverdense - MT,Botafogo - SP,1,2,0,1,0,0,3
+19,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,22, Abril ,2018,15:30,Ypiranga - RS,Operario - PR,2,1,1,0,0,3,0
+20,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,28, Abril ,2018,16:00,Santa Cruz - PE,Abc - RN,0,0,0,0,1,1,1
+21,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,29, Abril ,2018,17:00,Globo - RN,Salgueiro - PE,1,1,0,0,1,1,1
+22,C,2018,Florestão,Rio Branco,AC,Domingo,29, Abril ,2018,19:00,Atlético - AC,Náutico - PE,1,0,1,0,0,3,0
+23,C,2018,Almeidão,Joao Pessoa,PB,Segunda,30, Abril ,2018,21:15,Botafogo - PB,Confiança - SE,2,0,1,0,0,3,0
+24,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,28, Abril ,2018,19:00,Juazeirense - BA,Remo - PA,1,0,1,0,0,3,0
+25,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,28, Abril ,2018,17:00,Botafogo - SP,Cuiabá - MT,0,0,0,0,1,1,1
+26,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,28, Abril ,2018,16:00,Volta Redonda - RJ,Ypiranga - RS,3,2,1,0,0,3,0
+27,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,28, Abril ,2018,16:00,Tupi - MG,Operario - PR,0,1,0,1,0,0,3
+28,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Domingo,29, Abril ,2018,17:00,Luverdense - MT,Tombense - MG,2,0,1,0,0,3,0
+29,C,2018,Arena Joinville,Joinville,SC,Domingo,29, Abril ,2018,16:00,Joinville - SC,Bragantino - SP,0,2,0,1,0,0,3
+30,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,5, Maio ,2018,20:00,Náutico - PE,Confiança - SE,2,4,0,1,0,0,3
+31,C,2018,Frasqueirão,Natal,RN,Domingo,6, Maio ,2018,16:00,Abc - RN,Botafogo - PB,2,0,1,0,0,3,0
+32,C,2018,Mangueirão,Belem,PA,Sábado,5, Maio ,2018,16:00,Remo - PA,Santa Cruz - PE,0,0,0,0,1,1,1
+33,C,2018,Cornélio de Barros,Salgueiro,PE,Domingo,6, Maio ,2018,16:00,Salgueiro - PE,Atlético - AC,1,3,0,1,0,0,3
+34,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,5, Maio ,2018,18:30,Juazeirense - BA,Globo - RN,2,0,1,0,0,3,0
+35,C,2018,Santa Cruz,Ribeirao Preto,SP,Segunda,7, Maio ,2018,21:15,Botafogo - SP,Volta Redonda - RJ,2,0,1,0,0,3,0
+36,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,6, Maio ,2018,16:30,Operario - PR,Joinville - SC,2,0,1,0,0,3,0
+37,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,5, Maio ,2018,15:30,Tombense - MG,Bragantino - SP,1,0,1,0,0,3,0
+38,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,5, Maio ,2018,17:00,Cuiabá - MT,Tupi - MG,1,0,1,0,0,3,0
+39,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,6, Maio ,2018,15:30,Ypiranga - RS,Luverdense - MT,1,0,1,0,0,3,0
+40,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,12, Maio ,2018,19:00,Náutico - PE,Salgueiro - PE,3,0,1,0,0,3,0
+41,C,2018,Manoel Barretto,Ceara,Mirim,Segunda,14, Maio ,2018,21:15,Globo - RN,Santa Cruz - PE,1,2,0,1,0,0,3
+42,C,2018,Florestão,Rio Branco,AC,Domingo,13, Maio ,2018,19:00,Atlético - AC,Juazeirense - BA,5,0,1,0,0,3,0
+43,C,2018,Almeidão,Joao Pessoa,PB,Domingo,13, Maio ,2018,19:00,Botafogo - PB,Remo - PA,1,3,0,1,0,0,3
+44,C,2018,Batistão,Aracaju,SE,Sábado,12, Maio ,2018,16:00,Confiança - SE,Abc - RN,2,2,0,0,1,1,1
+45,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,12, Maio ,2018,16:00,Bragantino - SP,Ypiranga - RS,2,1,1,0,0,3,0
+46,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,13, Maio ,2018,16:30,Operario - PR,Tombense - MG,1,1,0,0,1,1,1
+47,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,12, Maio ,2018,16:00,Tupi - MG,Botafogo - SP,1,1,0,0,1,1,1
+48,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Segunda,14, Maio ,2018,20:30,Luverdense - MT,Volta Redonda - RJ,4,1,1,0,0,3,0
+49,C,2018,Arena Joinville,Joinville,SC,Sábado,12, Maio ,2018,19:30,Joinville - SC,Cuiabá - MT,2,3,0,1,0,0,3
+50,C,2018,Arruda,Recife,PE,Sábado,19, Maio ,2018,19:00,Santa Cruz - PE,Botafogo - PB,2,3,0,1,0,0,3
+51,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,20, Maio ,2018,17:00,Globo - RN,Atlético - AC,2,1,1,0,0,3,0
+52,C,2018,Mangueirão,Belem,PA,Domingo,20, Maio ,2018,19:00,Remo - PA,Confiança - SE,0,3,0,1,0,0,3
+53,C,2018,Cornélio de Barros,Salgueiro,PE,Sábado,19, Maio ,2018,19:00,Salgueiro - PE,Abc - RN,3,0,1,0,0,3,0
+54,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,19, Maio ,2018,16:00,Juazeirense - BA,Náutico - PE,2,0,1,0,0,3,0
+55,C,2018,Santa Cruz,Ribeirao Preto,SP,Domingo,20, Maio ,2018,16:00,Botafogo - SP,Joinville - SC,3,0,1,0,0,3,0
+56,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,19, Maio ,2018,16:00,Volta Redonda - RJ,Bragantino - SP,2,1,1,0,0,3,0
+57,C,2018,Mario Helênio,Juiz de Fora,MG,Domingo,20, Maio ,2018,16:00,Tupi - MG,Luverdense - MT,0,1,0,1,0,0,3
+58,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,19, Maio ,2018,17:00,Cuiabá - MT,Operario - PR,4,0,1,0,0,3,0
+59,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,20, Maio ,2018,15:30,Ypiranga - RS,Tombense - MG,0,0,0,0,1,1,1
+60,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,27, Maio ,2018,19:00,Náutico - PE,Globo - RN,2,0,1,0,0,3,0
+61,C,2018,Frasqueirão,Natal,RN,Sábado,26, Maio ,2018,20:00,Abc - RN,Remo - PA,2,1,1,0,0,3,0
+62,C,2018,Florestão,Rio Branco,AC,Sábado,26, Maio ,2018,19:00,Atlético - AC,Botafogo - PB,1,0,1,0,0,3,0
+63,C,2018,Cornélio de Barros,Salgueiro,PE,Sábado,26, Maio ,2018,20:00,Salgueiro - PE,Juazeirense - BA,1,0,1,0,0,3,0
+64,C,2018,Batistão,Aracaju,SE,Segunda,28, Maio ,2018,19:00,Confiança - SE,Santa Cruz - PE,1,1,0,0,1,1,1
+65,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,26, Maio ,2018,16:00,Bragantino - SP,Luverdense - MT,1,1,0,0,1,1,1
+66,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,27, Maio ,2018,15:30,Operario - PR,Botafogo - SP,3,1,1,0,0,3,0
+67,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,26, Maio ,2018,15:30,Tombense - MG,Volta Redonda - RJ,1,0,1,0,0,3,0
+68,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,26, Maio ,2018,17:00,Cuiabá - MT,Ypiranga - RS,1,2,0,1,0,0,3
+69,C,2018,Arena Joinville,Joinville,SC,Domingo,27, Maio ,2018,16:00,Joinville - SC,Tupi - MG,1,1,0,0,1,1,1
+70,C,2018,Arruda,Recife,PE,Sábado,2, Junho ,2018,18:00,Santa Cruz - PE,Juazeirense - BA,1,0,1,0,0,3,0
+71,C,2018,Frasqueirão,Natal,RN,Sábado,2, Junho ,2018,16:00,Abc - RN,Náutico - PE,2,0,1,0,0,3,0
+72,C,2018,Mangueirão,Belem,PA,Domingo,3, Junho ,2018,19:00,Remo - PA,Salgueiro - PE,0,1,0,1,0,0,3
+73,C,2018,Almeidão,Joao Pessoa,PB,Segunda,4, Junho ,2018,21:15,Botafogo - PB,Globo - RN,1,1,0,0,1,1,1
+74,C,2018,Batistão,Aracaju,SE,Domingo,3, Junho ,2018,16:00,Confiança - SE,Atlético - AC,0,0,0,0,1,1,1
+75,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,2, Junho ,2018,16:00,Bragantino - SP,Operario - PR,0,0,0,0,1,1,1
+76,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,2, Junho ,2018,16:00,Volta Redonda - RJ,Tupi - MG,2,3,0,1,0,0,3
+77,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,2, Junho ,2018,15:30,Tombense - MG,Cuiabá - MT,3,2,1,0,0,3,0
+78,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Domingo,3, Junho ,2018,17:00,Luverdense - MT,Joinville - SC,2,0,1,0,0,3,0
+79,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,3, Junho ,2018,15:30,Ypiranga - RS,Botafogo - SP,0,3,0,1,0,0,3
+80,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,9, Junho ,2018,16:00,Náutico - PE,Remo - PA,3,2,1,0,0,3,0
+81,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,10, Junho ,2018,17:00,Globo - RN,Confiança - SE,1,1,0,0,1,1,1
+82,C,2018,Florestão,Rio Branco,AC,Domingo,10, Junho ,2018,19:00,Atlético - AC,Abc - RN,3,0,1,0,0,3,0
+83,C,2018,Cornélio de Barros,Salgueiro,PE,Segunda,11, Junho ,2018,19:30,Salgueiro - PE,Santa Cruz - PE,0,0,0,0,1,1,1
+84,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,9, Junho ,2018,18:30,Juazeirense - BA,Botafogo - PB,1,1,0,0,1,1,1
+85,C,2018,Santa Cruz,Ribeirao Preto,SP,Domingo,10, Junho ,2018,16:00,Botafogo - SP,Tombense - MG,1,0,1,0,0,3,0
+86,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,10, Junho ,2018,15:30,Operario - PR,Luverdense - MT,3,2,1,0,0,3,0
+87,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,9, Junho ,2018,16:00,Tupi - MG,Ypiranga - RS,4,1,1,0,0,3,0
+88,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,9, Junho ,2018,17:00,Cuiabá - MT,Bragantino - SP,0,1,0,1,0,0,3
+89,C,2018,Arena Joinville,Joinville,SC,Segunda,11, Junho ,2018,21:15,Joinville - SC,Volta Redonda - RJ,1,0,1,0,0,3,0
+90,C,2018,Almeidão,Joao Pessoa,PB,Sábado,16, Junho ,2018,18:00,Botafogo - PB,Salgueiro - PE,0,0,0,0,1,1,1
+91,C,2018,Batistão,Aracaju,SE,Sábado,16, Junho ,2018,18:00,Confiança - SE,Juazeirense - BA,1,1,0,0,1,1,1
+92,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,16, Junho ,2018,18:00,Bragantino - SP,Botafogo - SP,0,2,0,1,0,0,3
+93,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,16, Junho ,2018,18:00,Volta Redonda - RJ,Operario - PR,0,1,0,1,0,0,3
+94,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,16, Junho ,2018,18:00,Tombense - MG,Tupi - MG,0,1,0,1,0,0,3
+95,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Sábado,16, Junho ,2018,18:00,Luverdense - MT,Cuiabá - MT,1,3,0,1,0,0,3
+96,C,2018,Colosso da Lagoa,Erechim,RS,Sábado,16, Junho ,2018,15:30,Ypiranga - RS,Joinville - SC,2,0,1,0,0,3,0
+97,C,2018,Frasqueirão,Natal,RN,Sábado,16, Junho ,2018,20:00,Abc - RN,Globo - RN,1,3,0,1,0,0,3
+98,C,2018,Mangueirão,Belem,PA,Segunda,18, Junho ,2018,19:00,Remo - PA,Atlético - AC,2,2,0,0,1,1,1
+99,C,2018,Arruda,Recife,PE,Segunda,18, Junho ,2018,21:15,Santa Cruz - PE,Náutico - PE,0,1,0,1,0,0,3
+100,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,23, Junho ,2018,16:00,Tupi - MG,Bragantino - SP,0,3,0,1,0,0,3
+101,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,23, Junho ,2018,16:30,Cuiabá - MT,Volta Redonda - RJ,3,0,1,0,0,3,0
+102,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,23, Junho ,2018,18:00,Botafogo - SP,Luverdense - MT,3,1,1,0,0,3,0
+103,C,2018,Cornélio de Barros,Salgueiro,PE,Segunda,25, Junho ,2018,20:00,Salgueiro - PE,Confiança - SE,1,1,0,0,1,1,1
+104,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,23, Junho ,2018,20:00,Juazeirense - BA,Abc - RN,2,2,0,0,1,1,1
+105,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Segunda,25, Junho ,2018,19:15,Náutico - PE,Botafogo - PB,2,0,1,0,0,3,0
+106,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,24, Junho ,2018,15:30,Operario - PR,Ypiranga - RS,2,1,1,0,0,3,0
+107,C,2018,Arena Joinville,Joinville,SC,Domingo,24, Junho ,2018,11:00,Joinville - SC,Tombense - MG,3,1,1,0,0,3,0
+108,C,2018,Florestão,Rio Branco,AC,Domingo,24, Junho ,2018,20:00,Atlético - AC,Santa Cruz - PE,2,1,1,0,0,3,0
+109,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,24, Junho ,2018,18:00,Globo - RN,Remo - PA,3,1,1,0,0,3,0
+110,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,30, Junho ,2018,18:00,Náutico - PE,Atlético - AC,3,1,1,0,0,3,0
+111,C,2018,Batistão,Aracaju,SE,Domingo,1, Julho ,2018,17:00,Confiança - SE,Botafogo - PB,2,2,0,0,1,1,1
+112,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,30, Junho ,2018,16:00,Bragantino - SP,Joinville - SC,2,0,1,0,0,3,0
+113,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,30, Junho ,2018,15:30,Tombense - MG,Luverdense - MT,1,1,0,0,1,1,1
+114,C,2018,Mangueirão,Belem,PA,Sexta,29, Junho ,2018,21:45,Remo - PA,Juazeirense - BA,3,0,1,0,0,3,0
+115,C,2018,Cornélio de Barros,Salgueiro,PE,Sábado,30, Junho ,2018,20:00,Salgueiro - PE,Globo - RN,1,1,0,0,1,1,1
+116,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,1, Julho ,2018,15:30,Operario - PR,Tupi - MG,2,0,1,0,0,3,0
+117,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,30, Junho ,2018,16:30,Cuiabá - MT,Botafogo - SP,2,1,1,0,0,3,0
+118,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,1, Julho ,2018,15:30,Ypiranga - RS,Volta Redonda - RJ,2,2,0,0,1,1,1
+119,C,2018,Frasqueirão,Natal,RN,Domingo,1, Julho ,2018,18:00,Abc - RN,Santa Cruz - PE,0,3,0,1,0,0,3
+120,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,7, Julho ,2018,16:00,Tupi - MG,Cuiabá - MT,1,3,0,1,0,0,3
+121,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,7, Julho ,2018,16:00,Bragantino - SP,Tombense - MG,2,1,1,0,0,3,0
+122,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,7, Julho ,2018,18:00,Volta Redonda - RJ,Botafogo - SP,1,0,1,0,0,3,0
+123,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Sábado,7, Julho ,2018,18:00,Luverdense - MT,Ypiranga - RS,2,2,0,0,1,1,1
+124,C,2018,Batistão,Aracaju,SE,Sábado,7, Julho ,2018,21:00,Confiança - SE,Náutico - PE,2,3,0,1,0,0,3
+125,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,8, Julho ,2018,16:00,Globo - RN,Juazeirense - BA,1,1,0,0,1,1,1
+126,C,2018,Arena Joinville,Joinville,SC,Domingo,8, Julho ,2018,16:00,Joinville - SC,Operario - PR,1,3,0,1,0,0,3
+127,C,2018,Arruda,Recife,PE,Domingo,8, Julho ,2018,17:00,Santa Cruz - PE,Remo - PA,2,0,1,0,0,3,0
+128,C,2018,Florestão,Rio Branco,AC,Domingo,8, Julho ,2018,18:00,Atlético - AC,Salgueiro - PE,2,1,1,0,0,3,0
+129,C,2018,Almeidão,Joao Pessoa,PB,Domingo,8, Julho ,2018,19:00,Botafogo - PB,Abc - RN,2,0,1,0,0,3,0
+130,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,14, Julho ,2018,15:30,Tombense - MG,Operario - PR,0,1,0,1,0,0,3
+131,C,2018,Colosso da Lagoa,Erechim,RS,Sábado,14, Julho ,2018,15:30,Ypiranga - RS,Bragantino - SP,1,1,0,0,1,1,1
+132,C,2018,Frasqueirão,Natal,RN,Sábado,14, Julho ,2018,16:00,Abc - RN,Confiança - SE,4,0,1,0,0,3,0
+133,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,14, Julho ,2018,16:00,Juazeirense - BA,Atlético - AC,4,0,1,0,0,3,0
+134,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,14, Julho ,2018,18:00,Volta Redonda - RJ,Luverdense - MT,2,0,1,0,0,3,0
+135,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,14, Julho ,2018,16:00,Botafogo - SP,Tupi - MG,4,2,1,0,0,3,0
+136,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,14, Julho ,2018,16:30,Cuiabá - MT,Joinville - SC,5,0,1,0,0,3,0
+137,C,2018,Mangueirão,Belem,PA,Sábado,14, Julho ,2018,17:00,Remo - PA,Botafogo - PB,0,0,0,0,1,1,1
+138,C,2018,Arruda,Recife,PE,Sábado,14, Julho ,2018,19:00,Santa Cruz - PE,Globo - RN,1,1,0,0,1,1,1
+139,C,2018,Cornélio de Barros,Salgueiro,PE,Segunda,16, Julho ,2018,21:15,Salgueiro - PE,Náutico - PE,1,1,0,0,1,1,1
+140,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,21, Julho ,2018,15:30,Tombense - MG,Ypiranga - RS,2,0,1,0,0,3,0
+141,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,21, Julho ,2018,17:00,Náutico - PE,Juazeirense - BA,1,0,1,0,0,3,0
+142,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,21, Julho ,2018,16:00,Bragantino - SP,Volta Redonda - RJ,0,1,0,1,0,0,3
+143,C,2018,Almeidão,Joao Pessoa,PB,Sábado,21, Julho ,2018,19:00,Botafogo - PB,Santa Cruz - PE,2,0,1,0,0,3,0
+144,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,22, Julho ,2018,15:30,Operario - PR,Cuiabá - MT,1,1,0,0,1,1,1
+145,C,2018,Arena Joinville,Joinville,SC,Domingo,22, Julho ,2018,15:30,Joinville - SC,Botafogo - SP,0,2,0,1,0,0,3
+146,C,2018,Frasqueirão,Natal,RN,Domingo,22, Julho ,2018,16:00,Abc - RN,Salgueiro - PE,2,0,1,0,0,3,0
+147,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Domingo,22, Julho ,2018,17:00,Luverdense - MT,Tupi - MG,3,0,1,0,0,3,0
+148,C,2018,Florestão,Rio Branco,AC,Domingo,22, Julho ,2018,19:00,Atlético - AC,Globo - RN,1,1,0,0,1,1,1
+149,C,2018,Batistão,Aracaju,SE,Domingo,22, Julho ,2018,19:00,Confiança - SE,Remo - PA,0,2,0,1,0,0,3
+150,C,2018,Manoel Barretto,Ceara,Mirim,Sexta,27, Julho ,2018,20:00,Globo - RN,Náutico - PE,1,1,0,0,1,1,1
+151,C,2018,Adauto Moraes,Juazeiro,BA,Sábado,28, Julho ,2018,16:00,Juazeirense - BA,Salgueiro - PE,0,0,0,0,1,1,1
+152,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,28, Julho ,2018,16:00,Tupi - MG,Joinville - SC,2,0,1,0,0,3,0
+153,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,28, Julho ,2018,18:00,Volta Redonda - RJ,Tombense - MG,0,2,0,1,0,0,3
+154,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Sábado,28, Julho ,2018,18:00,Luverdense - MT,Bragantino - SP,3,1,1,0,0,3,0
+155,C,2018,Arruda,Recife,PE,Sábado,28, Julho ,2018,15:30,Santa Cruz - PE,Confiança - SE,4,0,1,0,0,3,0
+156,C,2018,Colosso da Lagoa,Erechim,RS,Domingo,29, Julho ,2018,15:30,Ypiranga - RS,Cuiabá - MT,3,0,1,0,0,3,0
+157,C,2018,Mangueirão,Belem,PA,Domingo,29, Julho ,2018,19:00,Remo - PA,Abc - RN,1,0,1,0,0,3,0
+158,C,2018,Almeidão,Joao Pessoa,PB,Domingo,29, Julho ,2018,16:00,Botafogo - PB,Atlético - AC,1,0,1,0,0,3,0
+159,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,28, Julho ,2018,16:00,Botafogo - SP,Operario - PR,2,2,0,0,1,1,1
+160,C,2018,Mario Helênio,Juiz de Fora,MG,Sábado,4, Agosto ,2018,16:00,Tupi - MG,Volta Redonda - RJ,2,1,1,0,0,3,0
+161,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,4, Agosto ,2018,16:00,Náutico - PE,Abc - RN,2,0,1,0,0,3,0
+162,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,5, Agosto ,2018,15:30,Operario - PR,Bragantino - SP,1,1,0,0,1,1,1
+163,C,2018,Arena Joinville,Joinville,SC,Domingo,5, Agosto ,2018,15:30,Joinville - SC,Luverdense - MT,4,2,1,0,0,3,0
+164,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,4, Agosto ,2018,16:00,Botafogo - SP,Ypiranga - RS,2,0,1,0,0,3,0
+165,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,4, Agosto ,2018,18:00,Cuiabá - MT,Tombense - MG,2,1,1,0,0,3,0
+166,C,2018,Manoel Barretto,Ceara,Mirim,Domingo,5, Agosto ,2018,16:00,Globo - RN,Botafogo - PB,1,1,0,0,1,1,1
+167,C,2018,Florestão,Rio Branco,AC,Domingo,5, Agosto ,2018,19:00,Atlético - AC,Confiança - SE,0,3,0,1,0,0,3
+168,C,2018,Adauto Moraes,Juazeiro,BA,Domingo,5, Agosto ,2018,19:00,Juazeirense - BA,Santa Cruz - PE,0,0,0,0,1,1,1
+169,C,2018,Cornélio de Barros,Salgueiro,PE,Segunda,6, Agosto ,2018,21:15,Salgueiro - PE,Remo - PA,0,1,0,1,0,0,3
+170,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,11, Agosto ,2018,17:00,Bragantino - SP,Cuiabá - MT,2,1,1,0,0,3,0
+171,C,2018,Raulino de Oliveira,Volta Redonda,RJ,Sábado,11, Agosto ,2018,17:00,Volta Redonda - RJ,Joinville - SC,0,0,0,0,1,1,1
+172,C,2018,Antônio Guimarães de Almeida,Tombos,MG,Sábado,11, Agosto ,2018,17:00,Tombense - MG,Botafogo - SP,0,0,0,0,1,1,1
+173,C,2018,Passo das Emas,Lucas do Rio Verde,MT,Sábado,11, Agosto ,2018,17:00,Luverdense - MT,Operario - PR,1,0,1,0,0,3,0
+174,C,2018,Colosso da Lagoa,Erechim,RS,Sábado,11, Agosto ,2018,17:00,Ypiranga - RS,Tupi - MG,5,1,1,0,0,3,0
+175,C,2018,Arruda,Recife,PE,Sábado,11, Agosto ,2018,19:30,Santa Cruz - PE,Salgueiro - PE,1,0,1,0,0,3,0
+176,C,2018,Frasqueirão,Natal,RN,Sábado,11, Agosto ,2018,19:30,Abc - RN,Atlético - AC,0,1,0,1,0,0,3
+177,C,2018,Mangueirão,Belem,PA,Sábado,11, Agosto ,2018,19:30,Remo - PA,Náutico - PE,1,1,0,0,1,1,1
+178,C,2018,Almeidão,Joao Pessoa,PB,Sábado,11, Agosto ,2018,19:30,Botafogo - PB,Juazeirense - BA,2,2,0,0,1,1,1
+179,C,2018,Batistão,Aracaju,SE,Sábado,11, Agosto ,2018,19:30,Confiança - SE,Globo - RN,0,0,0,0,1,1,1
+180,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,18, Agosto ,2018,16:00,Bragantino - SP,Náutico - PE,3,1,1,0,0,3,0
+181,C,2018,Arruda,Recife,PE,Domingo,19, Agosto ,2018,17:00,Santa Cruz - PE,Operario - PR,1,0,1,0,0,3,0
+182,C,2018,Almeidão,Joao Pessoa,PB,Domingo,19, Agosto ,2018,19:00,Botafogo - PB,Botafogo - SP,1,0,1,0,0,3,0
+183,C,2018,Arena Pantanal,Cuiaba,MT,Segunda,20, Agosto ,2018,21:00,Cuiabá - MT,Atlético - AC,2,0,1,0,0,3,0
+184,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,26, Agosto ,2018,15:00,Operario - PR,Santa Cruz - PE,3,0,1,0,0,3,0
+185,C,2018,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,26, Agosto ,2018,17:00,Náutico - PE,Bragantino - SP,1,1,0,0,1,1,1
+186,C,2018,Santa Cruz,Ribeirao Preto,SP,Domingo,26, Agosto ,2018,19:00,Botafogo - SP,Botafogo - PB,1,0,1,0,0,3,0
+187,C,2018,Florestão,Rio Branco,AC,Segunda,27, Agosto ,2018,21:00,Atlético - AC,Cuiabá - MT,2,2,0,0,1,1,1
+188,C,2018,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,1, Setembro ,2018,16:00,Bragantino - SP,Operario - PR,0,0,0,0,1,1,1
+189,C,2018,Arena Pantanal,Cuiaba,MT,Domingo,2, Setembro ,2018,19:00,Cuiabá - MT,Botafogo - SP,0,0,0,0,1,1,1
+190,C,2018,Santa Cruz,Ribeirao Preto,SP,Sábado,8, Setembro ,2018,17:00,Botafogo - SP,Cuiabá - MT,0,3,0,1,0,0,3
+191,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,9, Setembro ,2018,15:30,Operario - PR,Bragantino - SP,0,0,0,0,1,1,1
+192,C,2018,Germano Kruger,Ponta Grossa,PR,Domingo,16, Setembro ,2018,15:30,Operario - PR,Cuiabá - MT,3,3,0,0,1,1,1
+193,C,2018,Arena Pantanal,Cuiaba,MT,Sábado,22, Setembro ,2018,19:00,Cuiabá - MT,Operario - PR,0,1,0,1,0,0,3

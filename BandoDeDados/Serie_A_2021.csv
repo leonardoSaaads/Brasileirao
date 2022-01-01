@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,30, Maio ,2021,16:00,Flamengo - RJ,Palmeiras - SP,1,0,1,0,0,3,0
+1,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,30, Maio ,2021,18:15,Corinthians - SP,Atlético - GO,0,1,0,1,0,0,3
+2,A,2021,Morumbi,Sao Paulo,SP,Sábado,29, Maio ,2021,21:00,São Paulo - SP,Fluminense - RJ,0,0,0,0,1,1,1
+3,A,2021,Mineirão,Belo Horizonte,MG,Domingo,30, Maio ,2021,11:00,Atlético Mineiro - MG,Fortaleza - CE,1,2,0,1,0,0,3
+4,A,2021,Beira,Rio,Porto Alegre,Domingo,30, Maio ,2021,20:30,Internacional - RS,Sport - PE,2,2,0,0,1,1,1
+5,A,2021,Arena Castelão,Fortaleza,CE,Domingo,30, Maio ,2021,16:00,Ceará - CE,Grêmio - RS,3,2,1,0,0,3,0
+6,A,2021,Pituaçu,Salvador,BA,Sábado,29, Maio ,2021,20:00,Bahia - BA,Santos - SP,3,0,1,0,0,3,0
+7,A,2021,Arena da Baixada,Curitiba,PR,Domingo,30, Maio ,2021,18:15,Athletico Paranaense - PR,America - MG,1,0,1,0,0,3,0
+8,A,2021,Arena Condá,Chapeco,SC,Domingo,30, Maio ,2021,18:15,Chapecoense - SC,Red Bull Bragantino - SP,0,3,0,1,0,0,3
+9,A,2021,Arena Pantanal,Cuiaba,MT,Sábado,29, Maio ,2021,19:00,Cuiabá - MT,Juventude - RS,2,2,0,0,1,1,1
+10,A,2021,São Januário,Rio de Janeiro,RJ,Domingo,6, Junho ,2021,11:00,Fluminense - RJ,Cuiabá - MT,1,0,1,0,0,3,0
+11,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,6, Junho ,2021,18:15,Palmeiras - SP,Chapecoense - SC,3,1,1,0,0,3,0
+12,A,2021,Vila Belmiro,Santos,SP,Sábado,5, Junho ,2021,21:00,Santos - SP,Ceará - CE,3,1,1,0,0,3,0
+13,A,2021,Independência,Belo Horizonte,MG,Domingo,6, Junho ,2021,16:00,America - MG,Corinthians - SP,0,1,0,1,0,0,3
+14,A,2021,Arena do Grêmio,Porto Alegre,RS,Terça,23, Novembro ,2021,21:00,Grêmio - RS,Flamengo - RJ,2,2,0,0,1,1,1
+15,A,2021,Arena Castelão,Fortaleza,CE,Domingo,6, Junho ,2021,16:00,Fortaleza - CE,Internacional - RS,5,1,1,0,0,3,0
+16,A,2021,Ilha do Retiro,Recife,PE,Domingo,6, Junho ,2021,20:30,Sport - PE,Atlético Mineiro - MG,0,1,0,1,0,0,3
+17,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,5, Junho ,2021,21:00,Red Bull Bragantino - SP,Bahia - BA,3,3,0,0,1,1,1
+18,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,6, Junho ,2021,18:15,Juventude - RS,Athletico Paranaense - PR,0,3,0,1,0,0,3
+19,A,2021,Antônio Accioly,Goiania,GO,Sábado,5, Junho ,2021,19:00,Atlético - GO,São Paulo - SP,2,0,1,0,0,3,0
+20,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,13, Junho ,2021,16:00,Flamengo - RJ,America - MG,2,0,1,0,0,3,0
+21,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,12, Junho ,2021,19:00,Palmeiras - SP,Corinthians - SP,1,1,0,0,1,1,1
+22,A,2021,Vila Belmiro,Santos,SP,Sábado,12, Junho ,2021,19:00,Santos - SP,Juventude - RS,0,0,0,0,1,1,1
+23,A,2021,Mineirão,Belo Horizonte,MG,Domingo,13, Junho ,2021,16:00,Atlético Mineiro - MG,São Paulo - SP,1,0,1,0,0,3,0
+24,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,13, Junho ,2021,16:00,Grêmio - RS,Athletico Paranaense - PR,0,1,0,1,0,0,3
+25,A,2021,Arena Castelão,Fortaleza,CE,Domingo,13, Junho ,2021,20:30,Fortaleza - CE,Sport - PE,1,0,1,0,0,3,0
+26,A,2021,Pituaçu,Salvador,BA,Domingo,13, Junho ,2021,20:30,Bahia - BA,Internacional - RS,0,1,0,1,0,0,3
+27,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,13, Junho ,2021,20:30,Red Bull Bragantino - SP,Fluminense - RJ,2,2,0,0,1,1,1
+28,A,2021,Arena Condá,Chapeco,SC,Domingo,13, Junho ,2021,20:30,Chapecoense - SC,Ceará - CE,0,0,0,0,1,1,1
+29,A,2021,Arena Pantanal,Cuiaba,MT,Quarta,21, Julho ,2021,19:00,Cuiabá - MT,Atlético - GO,2,1,1,0,0,3,0
+30,A,2021,Maracanã,Rio de Janeiro,RJ,Quinta,17, Junho ,2021,19:00,Fluminense - RJ,Santos - SP,1,0,1,0,0,3,0
+31,A,2021,Neo Química Arena,Sao Paulo,SP,Quarta,16, Junho ,2021,20:30,Corinthians - SP,Red Bull Bragantino - SP,1,2,0,1,0,0,3
+32,A,2021,Morumbi,Sao Paulo,SP,Quarta,16, Junho ,2021,19:00,São Paulo - SP,Chapecoense - SC,1,1,0,0,1,1,1
+33,A,2021,Independência,Belo Horizonte,MG,Quinta,17, Junho ,2021,16:00,America - MG,Cuiabá - MT,0,0,0,0,1,1,1
+34,A,2021,Beira,Rio,Porto Alegre,Quarta,16, Junho ,2021,19:00,Internacional - RS,Atlético Mineiro - MG,0,1,0,1,0,0,3
+35,A,2021,Arena Castelão,Fortaleza,CE,Quinta,17, Junho ,2021,16:00,Ceará - CE,Bahia - BA,1,2,0,1,0,0,3
+36,A,2021,Ilha do Retiro,Recife,PE,Quinta,17, Junho ,2021,19:00,Sport - PE,Grêmio - RS,1,0,1,0,0,3,0
+37,A,2021,Arena da Baixada,Curitiba,PR,Terça,2, Novembro ,2021,16:00,Athletico Paranaense - PR,Flamengo - RJ,2,2,0,0,1,1,1
+38,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Quarta,16, Junho ,2021,21:30,Juventude - RS,Palmeiras - SP,0,3,0,1,0,0,3
+39,A,2021,Antônio Accioly,Goiania,GO,Quinta,17, Junho ,2021,19:00,Atlético - GO,Fortaleza - CE,0,0,0,0,1,1,1
+40,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,19, Junho ,2021,21:00,Flamengo - RJ,Red Bull Bragantino - SP,2,3,0,1,0,0,3
+41,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,20, Junho ,2021,11:00,Palmeiras - SP,America - MG,2,1,1,0,0,3,0
+42,A,2021,Vila Belmiro,Santos,SP,Domingo,20, Junho ,2021,18:15,Santos - SP,São Paulo - SP,2,0,1,0,0,3,0
+43,A,2021,Mineirão,Belo Horizonte,MG,Segunda,21, Junho ,2021,20:00,Atlético Mineiro - MG,Chapecoense - SC,1,1,0,0,1,1,1
+44,A,2021,Beira,Rio,Porto Alegre,Domingo,20, Junho ,2021,16:00,Internacional - RS,Ceará - CE,1,1,0,0,1,1,1
+45,A,2021,Arena Castelão,Fortaleza,CE,Domingo,20, Junho ,2021,18:15,Fortaleza - CE,Fluminense - RJ,1,1,0,0,1,1,1
+46,A,2021,Pituaçu,Salvador,BA,Domingo,20, Junho ,2021,16:00,Bahia - BA,Corinthians - SP,0,0,0,0,1,1,1
+47,A,2021,Arena da Baixada,Curitiba,PR,Domingo,20, Junho ,2021,18:15,Athletico Paranaense - PR,Atlético - GO,2,1,1,0,0,3,0
+48,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,20, Junho ,2021,20:30,Juventude - RS,Sport - PE,1,0,1,0,0,3,0
+49,A,2021,Arena Pantanal,Cuiaba,MT,Quarta,18, Agosto ,2021,19:00,Cuiabá - MT,Grêmio - RS,0,1,0,1,0,0,3
+50,A,2021,Maracanã,Rio de Janeiro,RJ,Quarta,23, Junho ,2021,19:00,Flamengo - RJ,Fortaleza - CE,2,1,1,0,0,3,0
+51,A,2021,Neo Química Arena,Sao Paulo,SP,Quinta,24, Junho ,2021,19:00,Corinthians - SP,Sport - PE,2,1,1,0,0,3,0
+52,A,2021,Morumbi,Sao Paulo,SP,Quarta,23, Junho ,2021,19:00,São Paulo - SP,Cuiabá - MT,2,2,0,0,1,1,1
+53,A,2021,Independência,Belo Horizonte,MG,Quinta,24, Junho ,2021,16:00,America - MG,Juventude - RS,1,1,0,0,1,1,1
+54,A,2021,Arena do Grêmio,Porto Alegre,RS,Quinta,24, Junho ,2021,21:30,Grêmio - RS,Santos - SP,2,2,0,0,1,1,1
+55,A,2021,Arena Castelão,Fortaleza,CE,Quinta,24, Junho ,2021,19:00,Ceará - CE,Atlético Mineiro - MG,2,1,1,0,0,3,0
+56,A,2021,Pituaçu,Salvador,BA,Quinta,24, Junho ,2021,21:30,Bahia - BA,Athletico Paranaense - PR,2,1,1,0,0,3,0
+57,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quarta,23, Junho ,2021,19:00,Red Bull Bragantino - SP,Palmeiras - SP,3,1,1,0,0,3,0
+58,A,2021,Arena Condá,Chapeco,SC,Quinta,24, Junho ,2021,19:00,Chapecoense - SC,Internacional - RS,1,2,0,1,0,0,3
+59,A,2021,Antônio Accioly,Goiania,GO,Quarta,23, Junho ,2021,19:00,Atlético - GO,Fluminense - RJ,1,0,1,0,0,3,0
+60,A,2021,São Januário,Rio de Janeiro,RJ,Domingo,27, Junho ,2021,16:00,Fluminense - RJ,Corinthians - SP,1,1,0,0,1,1,1
+61,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,27, Junho ,2021,20:00,Palmeiras - SP,Bahia - BA,3,2,1,0,0,3,0
+62,A,2021,Vila Belmiro,Santos,SP,Domingo,27, Junho ,2021,20:30,Santos - SP,Atlético Mineiro - MG,2,0,1,0,0,3,0
+63,A,2021,Independência,Belo Horizonte,MG,Domingo,27, Junho ,2021,20:30,America - MG,Internacional - RS,1,1,0,0,1,1,1
+64,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,27, Junho ,2021,20:00,Grêmio - RS,Fortaleza - CE,0,0,0,0,1,1,1
+65,A,2021,Arena Castelão,Fortaleza,CE,Domingo,27, Junho ,2021,20:30,Ceará - CE,São Paulo - SP,1,1,0,0,1,1,1
+66,A,2021,Ilha do Retiro,Recife,PE,Domingo,27, Junho ,2021,20:30,Sport - PE,Cuiabá - MT,0,0,0,0,1,1,1
+67,A,2021,Arena da Baixada,Curitiba,PR,Domingo,27, Junho ,2021,20:00,Athletico Paranaense - PR,Chapecoense - SC,2,2,0,0,1,1,1
+68,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,27, Junho ,2021,11:00,Juventude - RS,Flamengo - RJ,1,0,1,0,0,3,0
+69,A,2021,Antônio Accioly,Goiania,GO,Segunda,28, Junho ,2021,20:00,Atlético - GO,Red Bull Bragantino - SP,0,1,0,1,0,0,3
+70,A,2021,Raulino de Oliveira,Volta Redonda,RJ,Quarta,30, Junho ,2021,16:00,Fluminense - RJ,Athletico Paranaense - PR,1,4,0,1,0,0,3
+71,A,2021,Neo Química Arena,Sao Paulo,SP,Quarta,30, Junho ,2021,21:30,Corinthians - SP,São Paulo - SP,0,0,0,0,1,1,1
+72,A,2021,Vila Belmiro,Santos,SP,Quarta,30, Junho ,2021,20:30,Santos - SP,Sport - PE,0,0,0,0,1,1,1
+73,A,2021,Mineirão,Belo Horizonte,MG,Quinta,1, Julho ,2021,19:00,Atlético Mineiro - MG,Atlético - GO,4,1,1,0,0,3,0
+74,A,2021,Beira,Rio,Porto Alegre,Quarta,30, Junho ,2021,19:00,Internacional - RS,Palmeiras - SP,1,2,0,1,0,0,3
+75,A,2021,Arena Castelão,Fortaleza,CE,Quarta,30, Junho ,2021,16:00,Fortaleza - CE,Chapecoense - SC,3,2,1,0,0,3,0
+76,A,2021,Pituaçu,Salvador,BA,Quarta,30, Junho ,2021,19:00,Bahia - BA,America - MG,3,4,0,1,0,0,3
+77,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quinta,1, Julho ,2021,16:00,Red Bull Bragantino - SP,Ceará - CE,0,0,0,0,1,1,1
+78,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Quarta,30, Junho ,2021,21:30,Juventude - RS,Grêmio - RS,2,0,1,0,0,3,0
+79,A,2021,Arena Pantanal,Cuiaba,MT,Quinta,1, Julho ,2021,20:00,Cuiabá - MT,Flamengo - RJ,0,2,0,1,0,0,3
+80,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,4, Julho ,2021,16:00,Flamengo - RJ,Fluminense - RJ,0,1,0,1,0,0,3
+81,A,2021,Neo Química Arena,Sao Paulo,SP,Sábado,3, Julho ,2021,21:00,Corinthians - SP,Internacional - RS,1,1,0,0,1,1,1
+82,A,2021,Morumbi,Sao Paulo,SP,Domingo,4, Julho ,2021,18:15,São Paulo - SP,Red Bull Bragantino - SP,1,2,0,1,0,0,3
+83,A,2021,Independência,Belo Horizonte,MG,Sábado,3, Julho ,2021,19:00,America - MG,Santos - SP,2,0,1,0,0,3,0
+84,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,4, Julho ,2021,20:30,Grêmio - RS,Atlético - GO,0,1,0,1,0,0,3
+85,A,2021,Arena Castelão,Fortaleza,CE,Domingo,4, Julho ,2021,18:15,Ceará - CE,Juventude - RS,2,0,1,0,0,3,0
+86,A,2021,Ilha do Retiro,Recife,PE,Domingo,4, Julho ,2021,16:00,Sport - PE,Palmeiras - SP,0,1,0,1,0,0,3
+87,A,2021,Arena da Baixada,Curitiba,PR,Sábado,3, Julho ,2021,19:00,Athletico Paranaense - PR,Fortaleza - CE,2,1,1,0,0,3,0
+88,A,2021,Arena Condá,Chapeco,SC,Domingo,4, Julho ,2021,11:00,Chapecoense - SC,Bahia - BA,0,2,0,1,0,0,3
+89,A,2021,Arena Pantanal,Cuiaba,MT,Domingo,4, Julho ,2021,18:15,Cuiabá - MT,Atlético Mineiro - MG,0,1,0,1,0,0,3
+90,A,2021,São Januário,Rio de Janeiro,RJ,Quarta,7, Julho ,2021,21:30,Fluminense - RJ,Ceará - CE,0,0,0,0,1,1,1
+91,A,2021,Allianz Parque,Sao Paulo,SP,Quarta,7, Julho ,2021,19:00,Palmeiras - SP,Grêmio - RS,2,0,1,0,0,3,0
+92,A,2021,Vila Belmiro,Santos,SP,Terça,6, Julho ,2021,19:30,Santos - SP,Athletico Paranaense - PR,2,1,1,0,0,3,0
+93,A,2021,Mineirão,Belo Horizonte,MG,Quarta,7, Julho ,2021,19:00,Atlético Mineiro - MG,Flamengo - RJ,2,1,1,0,0,3,0
+94,A,2021,Beira,Rio,Porto Alegre,Quarta,7, Julho ,2021,21:30,Internacional - RS,São Paulo - SP,0,2,0,1,0,0,3
+95,A,2021,Arena Castelão,Fortaleza,CE,Quarta,7, Julho ,2021,18:00,Fortaleza - CE,America - MG,4,0,1,0,0,3,0
+96,A,2021,Pituaçu,Salvador,BA,Quarta,7, Julho ,2021,18:00,Bahia - BA,Juventude - RS,1,0,1,0,0,3,0
+97,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quarta,7, Julho ,2021,18:00,Red Bull Bragantino - SP,Cuiabá - MT,1,1,0,0,1,1,1
+98,A,2021,Arena Condá,Chapeco,SC,Quinta,8, Julho ,2021,21:00,Chapecoense - SC,Corinthians - SP,0,1,0,1,0,0,3
+99,A,2021,Antônio Accioly,Goiania,GO,Quarta,7, Julho ,2021,19:15,Atlético - GO,Sport - PE,1,1,0,0,1,1,1
+100,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,11, Julho ,2021,18:15,Flamengo - RJ,Chapecoense - SC,2,1,1,0,0,3,0
+101,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,10, Julho ,2021,16:30,Palmeiras - SP,Santos - SP,3,2,1,0,0,3,0
+102,A,2021,Morumbi,Sao Paulo,SP,Sábado,10, Julho ,2021,19:00,São Paulo - SP,Bahia - BA,1,0,1,0,0,3,0
+103,A,2021,Independência,Belo Horizonte,MG,Sábado,10, Julho ,2021,19:00,America - MG,Atlético Mineiro - MG,0,1,0,1,0,0,3
+104,A,2021,Arena do Grêmio,Porto Alegre,RS,Sábado,10, Julho ,2021,16:30,Grêmio - RS,Internacional - RS,0,0,0,0,1,1,1
+105,A,2021,Arena Castelão,Fortaleza,CE,Domingo,11, Julho ,2021,20:30,Fortaleza - CE,Corinthians - SP,1,0,1,0,0,3,0
+106,A,2021,Ilha do Retiro,Recife,PE,Sábado,10, Julho ,2021,19:00,Sport - PE,Fluminense - RJ,1,2,0,1,0,0,3
+107,A,2021,Arena da Baixada,Curitiba,PR,Sábado,10, Julho ,2021,17:30,Athletico Paranaense - PR,Red Bull Bragantino - SP,2,2,0,0,1,1,1
+108,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,11, Julho ,2021,11:00,Juventude - RS,Atlético - GO,1,1,0,0,1,1,1
+109,A,2021,Arena Pantanal,Cuiaba,MT,Domingo,11, Julho ,2021,18:15,Cuiabá - MT,Ceará - CE,2,2,0,0,1,1,1
+110,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,17, Julho ,2021,21:00,Fluminense - RJ,Grêmio - RS,0,1,0,1,0,0,3
+111,A,2021,Neo Química Arena,Sao Paulo,SP,Sábado,17, Julho ,2021,19:00,Corinthians - SP,Atlético Mineiro - MG,1,2,0,1,0,0,3
+112,A,2021,Morumbi,Sao Paulo,SP,Sábado,17, Julho ,2021,17:00,São Paulo - SP,Fortaleza - CE,0,1,0,1,0,0,3
+113,A,2021,Independência,Belo Horizonte,MG,Segunda,19, Julho ,2021,20:00,America - MG,Sport - PE,0,1,0,1,0,0,3
+114,A,2021,Beira,Rio,Porto Alegre,Domingo,18, Julho ,2021,20:30,Internacional - RS,Juventude - RS,1,0,1,0,0,3,0
+115,A,2021,Arena Castelão,Fortaleza,CE,Sábado,17, Julho ,2021,17:00,Ceará - CE,Athletico Paranaense - PR,1,0,1,0,0,3,0
+116,A,2021,Pituaçu,Salvador,BA,Domingo,18, Julho ,2021,18:15,Bahia - BA,Flamengo - RJ,0,5,0,1,0,0,3
+117,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,18, Julho ,2021,20:30,Red Bull Bragantino - SP,Santos - SP,2,2,0,0,1,1,1
+118,A,2021,Arena Condá,Chapeco,SC,Domingo,18, Julho ,2021,11:00,Chapecoense - SC,Cuiabá - MT,2,3,0,1,0,0,3
+119,A,2021,Antônio Accioly,Goiania,GO,Domingo,18, Julho ,2021,16:00,Atlético - GO,Palmeiras - SP,0,3,0,1,0,0,3
+120,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,25, Julho ,2021,16:00,Flamengo - RJ,São Paulo - SP,5,1,1,0,0,3,0
+121,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,24, Julho ,2021,19:00,Palmeiras - SP,Fluminense - RJ,1,0,1,0,0,3,0
+122,A,2021,Vila Belmiro,Santos,SP,Domingo,25, Julho ,2021,18:15,Santos - SP,Atlético - GO,0,1,0,1,0,0,3
+123,A,2021,Mineirão,Belo Horizonte,MG,Domingo,25, Julho ,2021,11:00,Atlético Mineiro - MG,Bahia - BA,3,0,1,0,0,3,0
+124,A,2021,Arena do Grêmio,Porto Alegre,RS,Sábado,24, Julho ,2021,17:00,Grêmio - RS,America - MG,1,1,0,0,1,1,1
+125,A,2021,Arena Castelão,Fortaleza,CE,Domingo,25, Julho ,2021,16:00,Fortaleza - CE,Red Bull Bragantino - SP,1,0,1,0,0,3,0
+126,A,2021,Ilha do Retiro,Recife,PE,Domingo,25, Julho ,2021,20:30,Sport - PE,Ceará - CE,0,0,0,0,1,1,1
+127,A,2021,Arena da Baixada,Curitiba,PR,Domingo,25, Julho ,2021,18:15,Athletico Paranaense - PR,Internacional - RS,2,1,1,0,0,3,0
+128,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Segunda,26, Julho ,2021,18:00,Juventude - RS,Chapecoense - SC,1,0,1,0,0,3,0
+129,A,2021,Arena Pantanal,Cuiaba,MT,Segunda,26, Julho ,2021,20:00,Cuiabá - MT,Corinthians - SP,1,2,0,1,0,0,3
+130,A,2021,Maracanã,Rio de Janeiro,RJ,Quinta,2, Setembro ,2021,19:00,Fluminense - RJ,Juventude - RS,1,1,0,0,1,1,1
+131,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,1, Agosto ,2021,16:00,Corinthians - SP,Flamengo - RJ,1,3,0,1,0,0,3
+132,A,2021,Morumbi,Sao Paulo,SP,Sábado,31, Julho ,2021,19:00,São Paulo - SP,Palmeiras - SP,0,0,0,0,1,1,1
+133,A,2021,Mineirão,Belo Horizonte,MG,Domingo,1, Agosto ,2021,16:00,Atlético Mineiro - MG,Athletico Paranaense - PR,2,0,1,0,0,3,0
+134,A,2021,Beira,Rio,Porto Alegre,Sábado,31, Julho ,2021,20:00,Internacional - RS,Cuiabá - MT,0,0,0,0,1,1,1
+135,A,2021,Arena Castelão,Fortaleza,CE,Domingo,1, Agosto ,2021,20:30,Ceará - CE,Fortaleza - CE,3,1,1,0,0,3,0
+136,A,2021,Pituaçu,Salvador,BA,Domingo,1, Agosto ,2021,18:15,Bahia - BA,Sport - PE,0,1,0,1,0,0,3
+137,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,31, Julho ,2021,21:00,Red Bull Bragantino - SP,Grêmio - RS,1,0,1,0,0,3,0
+138,A,2021,Arena Condá,Chapeco,SC,Domingo,1, Agosto ,2021,18:15,Chapecoense - SC,Santos - SP,0,1,0,1,0,0,3
+139,A,2021,Antônio Accioly,Goiania,GO,Domingo,1, Agosto ,2021,20:30,Atlético - GO,America - MG,1,1,0,0,1,1,1
+140,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,8, Agosto ,2021,18:15,Flamengo - RJ,Internacional - RS,0,4,0,1,0,0,3
+141,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,7, Agosto ,2021,21:00,Palmeiras - SP,Fortaleza - CE,2,3,0,1,0,0,3
+142,A,2021,Vila Belmiro,Santos,SP,Domingo,8, Agosto ,2021,16:00,Santos - SP,Corinthians - SP,0,0,0,0,1,1,1
+143,A,2021,Independência,Belo Horizonte,MG,Domingo,8, Agosto ,2021,16:00,America - MG,Fluminense - RJ,1,0,1,0,0,3,0
+144,A,2021,Arena do Grêmio,Porto Alegre,RS,Segunda,9, Agosto ,2021,20:00,Grêmio - RS,Chapecoense - SC,2,1,1,0,0,3,0
+145,A,2021,Arena Castelão,Fortaleza,CE,Domingo,8, Agosto ,2021,18:15,Ceará - CE,Atlético - GO,0,0,0,0,1,1,1
+146,A,2021,Ilha do Retiro,Recife,PE,Sexta,6, Agosto ,2021,19:00,Sport - PE,Red Bull Bragantino - SP,0,0,0,0,1,1,1
+147,A,2021,Arena da Baixada,Curitiba,PR,Sábado,7, Agosto ,2021,18:00,Athletico Paranaense - PR,São Paulo - SP,1,2,0,1,0,0,3
+148,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,8, Agosto ,2021,16:00,Juventude - RS,Atlético Mineiro - MG,1,2,0,1,0,0,3
+149,A,2021,Arena Pantanal,Cuiaba,MT,Sábado,7, Agosto ,2021,21:00,Cuiabá - MT,Bahia - BA,1,1,0,0,1,1,1
+150,A,2021,Raulino de Oliveira,Volta Redonda,RJ,Domingo,15, Agosto ,2021,16:00,Flamengo - RJ,Sport - PE,2,0,1,0,0,3,0
+151,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,15, Agosto ,2021,16:00,Corinthians - SP,Ceará - CE,3,1,1,0,0,3,0
+152,A,2021,Morumbi,Sao Paulo,SP,Sábado,14, Agosto ,2021,21:00,São Paulo - SP,Grêmio - RS,2,1,1,0,0,3,0
+153,A,2021,Mineirão,Belo Horizonte,MG,Sábado,14, Agosto ,2021,19:00,Atlético Mineiro - MG,Palmeiras - SP,2,0,1,0,0,3,0
+154,A,2021,Beira,Rio,Porto Alegre,Domingo,15, Agosto ,2021,20:30,Internacional - RS,Fluminense - RJ,4,2,1,0,0,3,0
+155,A,2021,Arena Castelão,Fortaleza,CE,Domingo,15, Agosto ,2021,18:15,Fortaleza - CE,Santos - SP,1,1,0,0,1,1,1
+156,A,2021,Pituaçu,Salvador,BA,Domingo,15, Agosto ,2021,18:15,Bahia - BA,Atlético - GO,1,2,0,1,0,0,3
+157,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,14, Agosto ,2021,17:00,Red Bull Bragantino - SP,Juventude - RS,1,2,0,1,0,0,3
+158,A,2021,Arena Condá,Chapeco,SC,Segunda,16, Agosto ,2021,20:00,Chapecoense - SC,America - MG,1,1,0,0,1,1,1
+159,A,2021,Arena Pantanal,Cuiaba,MT,Domingo,15, Agosto ,2021,18:15,Cuiabá - MT,Athletico Paranaense - PR,1,0,1,0,0,3,0
+160,A,2021,São Januário,Rio de Janeiro,RJ,Segunda,23, Agosto ,2021,20:00,Fluminense - RJ,Atlético Mineiro - MG,1,1,0,0,1,1,1
+161,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,22, Agosto ,2021,11:00,Palmeiras - SP,Cuiabá - MT,0,2,0,1,0,0,3
+162,A,2021,Vila Belmiro,Santos,SP,Domingo,22, Agosto ,2021,18:15,Santos - SP,Internacional - RS,2,2,0,0,1,1,1
+163,A,2021,Independência,Belo Horizonte,MG,Segunda,23, Agosto ,2021,20:00,America - MG,Red Bull Bragantino - SP,0,2,0,1,0,0,3
+164,A,2021,Arena do Grêmio,Porto Alegre,RS,Sábado,21, Agosto ,2021,19:00,Grêmio - RS,Bahia - BA,2,0,1,0,0,3,0
+165,A,2021,Arena Castelão,Fortaleza,CE,Domingo,22, Agosto ,2021,16:00,Ceará - CE,Flamengo - RJ,1,1,0,0,1,1,1
+166,A,2021,Ilha do Retiro,Recife,PE,Domingo,22, Agosto ,2021,20:30,Sport - PE,São Paulo - SP,0,1,0,1,0,0,3
+167,A,2021,Arena da Baixada,Curitiba,PR,Domingo,22, Agosto ,2021,16:00,Athletico Paranaense - PR,Corinthians - SP,0,1,0,1,0,0,3
+168,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Sábado,21, Agosto ,2021,21:00,Juventude - RS,Fortaleza - CE,1,1,0,0,1,1,1
+169,A,2021,Antônio Accioly,Goiania,GO,Sábado,21, Agosto ,2021,17:00,Atlético - GO,Chapecoense - SC,1,1,0,0,1,1,1
+170,A,2021,Maracanã,Rio de Janeiro,RJ,Segunda,30, Agosto ,2021,19:00,Fluminense - RJ,Bahia - BA,2,0,1,0,0,3,0
+171,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,28, Agosto ,2021,21:00,Palmeiras - SP,Athletico Paranaense - PR,2,1,1,0,0,3,0
+172,A,2021,Vila Belmiro,Santos,SP,Sábado,28, Agosto ,2021,19:00,Santos - SP,Flamengo - RJ,0,4,0,1,0,0,3
+173,A,2021,Independência,Belo Horizonte,MG,Domingo,29, Agosto ,2021,11:00,America - MG,Ceará - CE,2,0,1,0,0,3,0
+174,A,2021,Arena do Grêmio,Porto Alegre,RS,Sábado,28, Agosto ,2021,21:00,Grêmio - RS,Corinthians - SP,0,1,0,1,0,0,3
+175,A,2021,Arena Castelão,Fortaleza,CE,Segunda,30, Agosto ,2021,21:30,Fortaleza - CE,Cuiabá - MT,0,0,0,0,1,1,1
+176,A,2021,Ilha do Retiro,Recife,PE,Sábado,28, Agosto ,2021,17:00,Sport - PE,Chapecoense - SC,0,0,0,0,1,1,1
+177,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,29, Agosto ,2021,20:30,Red Bull Bragantino - SP,Atlético Mineiro - MG,1,1,0,0,1,1,1
+178,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,29, Agosto ,2021,16:00,Juventude - RS,São Paulo - SP,1,1,0,0,1,1,1
+179,A,2021,Antônio Accioly,Goiania,GO,Domingo,29, Agosto ,2021,18:15,Atlético - GO,Internacional - RS,0,0,0,0,1,1,1
+180,A,2021,Maracanã,Rio de Janeiro,RJ,Sexta,5, Novembro ,2021,21:30,Flamengo - RJ,Atlético - GO,2,0,1,0,0,3,0
+181,A,2021,Neo Química Arena,Sao Paulo,SP,Terça,7, Setembro ,2021,21:30,Corinthians - SP,Juventude - RS,1,1,0,0,1,1,1
+182,A,2021,Morumbi,Sao Paulo,SP,Quarta,22, Setembro ,2021,20:30,São Paulo - SP,America - MG,0,0,0,0,1,1,1
+183,A,2021,Mineirão,Belo Horizonte,MG,Quarta,3, Novembro ,2021,21:00,Atlético Mineiro - MG,Grêmio - RS,2,1,1,0,0,3,0
+184,A,2021,Beira,Rio,Porto Alegre,Quinta,21, Outubro ,2021,20:00,Internacional - RS,Red Bull Bragantino - SP,1,1,0,0,1,1,1
+185,A,2021,Arena Castelão,Fortaleza,CE,Quarta,20, Outubro ,2021,19:00,Ceará - CE,Palmeiras - SP,1,2,0,1,0,0,3
+186,A,2021,Pituaçu,Salvador,BA,Sábado,4, Setembro ,2021,21:00,Bahia - BA,Fortaleza - CE,4,2,1,0,0,3,0
+187,A,2021,Arena da Baixada,Curitiba,PR,Domingo,5, Setembro ,2021,18:15,Athletico Paranaense - PR,Sport - PE,0,0,0,0,1,1,1
+188,A,2021,Arena Condá,Chapeco,SC,Terça,7, Setembro ,2021,21:30,Chapecoense - SC,Fluminense - RJ,1,2,0,1,0,0,3
+189,A,2021,Arena Pantanal,Cuiaba,MT,Sábado,4, Setembro ,2021,21:00,Cuiabá - MT,Santos - SP,2,1,1,0,0,3,0
+190,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,12, Setembro ,2021,20:30,Fluminense - RJ,São Paulo - SP,2,1,1,0,0,3,0
+191,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,12, Setembro ,2021,16:00,Palmeiras - SP,Flamengo - RJ,1,3,0,1,0,0,3
+192,A,2021,Vila Belmiro,Santos,SP,Sábado,11, Setembro ,2021,21:00,Santos - SP,Bahia - BA,0,0,0,0,1,1,1
+193,A,2021,Independência,Belo Horizonte,MG,Sábado,11, Setembro ,2021,16:00,America - MG,Athletico Paranaense - PR,2,0,1,0,0,3,0
+194,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,12, Setembro ,2021,11:00,Grêmio - RS,Ceará - CE,2,0,1,0,0,3,0
+195,A,2021,Arena Castelão,Fortaleza,CE,Domingo,12, Setembro ,2021,16:00,Fortaleza - CE,Atlético Mineiro - MG,0,2,0,1,0,0,3
+196,A,2021,Ilha do Retiro,Recife,PE,Segunda,13, Setembro ,2021,20:00,Sport - PE,Internacional - RS,0,1,0,1,0,0,3
+197,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,11, Setembro ,2021,19:00,Red Bull Bragantino - SP,Chapecoense - SC,1,2,0,1,0,0,3
+198,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Sábado,11, Setembro ,2021,17:00,Juventude - RS,Cuiabá - MT,1,2,0,1,0,0,3
+199,A,2021,Antônio Accioly,Goiania,GO,Domingo,12, Setembro ,2021,18:15,Atlético - GO,Corinthians - SP,1,1,0,0,1,1,1
+200,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,19, Setembro ,2021,20:30,Flamengo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+201,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,19, Setembro ,2021,18:15,Corinthians - SP,America - MG,1,1,0,0,1,1,1
+202,A,2021,Morumbi,Sao Paulo,SP,Domingo,19, Setembro ,2021,16:00,São Paulo - SP,Atlético - GO,2,1,1,0,0,3,0
+203,A,2021,Mineirão,Belo Horizonte,MG,Sábado,18, Setembro ,2021,19:00,Atlético Mineiro - MG,Sport - PE,3,0,1,0,0,3,0
+204,A,2021,Beira,Rio,Porto Alegre,Domingo,19, Setembro ,2021,11:00,Internacional - RS,Fortaleza - CE,1,0,1,0,0,3,0
+205,A,2021,Arena Castelão,Fortaleza,CE,Sábado,18, Setembro ,2021,21:00,Ceará - CE,Santos - SP,0,0,0,0,1,1,1
+206,A,2021,Arena Fonte Nova,Salvador,BA,Sábado,18, Setembro ,2021,21:00,Bahia - BA,Red Bull Bragantino - SP,1,1,0,0,1,1,1
+207,A,2021,Arena da Baixada,Curitiba,PR,Sábado,18, Setembro ,2021,18:45,Athletico Paranaense - PR,Juventude - RS,2,1,1,0,0,3,0
+208,A,2021,Arena Condá,Chapeco,SC,Sábado,18, Setembro ,2021,17:00,Chapecoense - SC,Palmeiras - SP,0,2,0,1,0,0,3
+209,A,2021,Arena Pantanal,Cuiaba,MT,Segunda,20, Setembro ,2021,20:00,Cuiabá - MT,Fluminense - RJ,2,2,0,0,1,1,1
+210,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,26, Setembro ,2021,16:00,Fluminense - RJ,Red Bull Bragantino - SP,2,1,1,0,0,3,0
+211,A,2021,Neo Química Arena,Sao Paulo,SP,Sábado,25, Setembro ,2021,19:00,Corinthians - SP,Palmeiras - SP,2,1,1,0,0,3,0
+212,A,2021,Morumbi,Sao Paulo,SP,Sábado,25, Setembro ,2021,21:00,São Paulo - SP,Atlético Mineiro - MG,0,0,0,0,1,1,1
+213,A,2021,Independência,Belo Horizonte,MG,Domingo,26, Setembro ,2021,11:00,America - MG,Flamengo - RJ,1,1,0,0,1,1,1
+214,A,2021,Beira,Rio,Porto Alegre,Domingo,26, Setembro ,2021,16:00,Internacional - RS,Bahia - BA,2,0,1,0,0,3,0
+215,A,2021,Arena Castelão,Fortaleza,CE,Sábado,25, Setembro ,2021,17:00,Ceará - CE,Chapecoense - SC,1,0,1,0,0,3,0
+216,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,26, Setembro ,2021,18:15,Sport - PE,Fortaleza - CE,0,1,0,1,0,0,3
+217,A,2021,Arena da Baixada,Curitiba,PR,Domingo,26, Setembro ,2021,18:15,Athletico Paranaense - PR,Grêmio - RS,4,2,1,0,0,3,0
+218,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Domingo,26, Setembro ,2021,16:00,Juventude - RS,Santos - SP,3,0,1,0,0,3,0
+219,A,2021,Antônio Accioly,Goiania,GO,Domingo,26, Setembro ,2021,20:30,Atlético - GO,Cuiabá - MT,0,0,0,0,1,1,1
+220,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,3, Outubro ,2021,16:00,Flamengo - RJ,Athletico Paranaense - PR,3,0,1,0,0,3,0
+221,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,3, Outubro ,2021,18:15,Palmeiras - SP,Juventude - RS,1,1,0,0,1,1,1
+222,A,2021,Vila Belmiro,Santos,SP,Quarta,27, Outubro ,2021,19:00,Santos - SP,Fluminense - RJ,2,0,1,0,0,3,0
+223,A,2021,Mineirão,Belo Horizonte,MG,Sábado,2, Outubro ,2021,21:00,Atlético Mineiro - MG,Internacional - RS,1,0,1,0,0,3,0
+224,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,3, Outubro ,2021,20:30,Grêmio - RS,Sport - PE,1,2,0,1,0,0,3
+225,A,2021,Arena Castelão,Fortaleza,CE,Sábado,2, Outubro ,2021,17:00,Fortaleza - CE,Atlético - GO,0,3,0,1,0,0,3
+226,A,2021,Arena Fonte Nova,Salvador,BA,Quarta,27, Outubro ,2021,19:00,Bahia - BA,Ceará - CE,1,1,0,0,1,1,1
+227,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,2, Outubro ,2021,19:00,Red Bull Bragantino - SP,Corinthians - SP,2,2,0,0,1,1,1
+228,A,2021,Arena Condá,Chapeco,SC,Domingo,3, Outubro ,2021,16:00,Chapecoense - SC,São Paulo - SP,1,1,0,0,1,1,1
+229,A,2021,Arena Pantanal,Cuiaba,MT,Sábado,2, Outubro ,2021,17:00,Cuiabá - MT,America - MG,0,2,0,1,0,0,3
+230,A,2021,Maracanã,Rio de Janeiro,RJ,Quarta,6, Outubro ,2021,21:30,Fluminense - RJ,Fortaleza - CE,0,2,0,1,0,0,3
+231,A,2021,Neo Química Arena,Sao Paulo,SP,Terça,5, Outubro ,2021,21:30,Corinthians - SP,Bahia - BA,3,1,1,0,0,3,0
+232,A,2021,Morumbi,Sao Paulo,SP,Quinta,7, Outubro ,2021,18:30,São Paulo - SP,Santos - SP,1,1,0,0,1,1,1
+233,A,2021,Independência,Belo Horizonte,MG,Quarta,6, Outubro ,2021,21:30,America - MG,Palmeiras - SP,2,1,1,0,0,3,0
+234,A,2021,Arena do Grêmio,Porto Alegre,RS,Quarta,6, Outubro ,2021,21:30,Grêmio - RS,Cuiabá - MT,2,2,0,0,1,1,1
+235,A,2021,Arena Castelão,Fortaleza,CE,Quarta,6, Outubro ,2021,19:00,Ceará - CE,Internacional - RS,0,0,0,0,1,1,1
+236,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Quarta,6, Outubro ,2021,19:00,Sport - PE,Juventude - RS,3,1,1,0,0,3,0
+237,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quarta,6, Outubro ,2021,20:30,Red Bull Bragantino - SP,Flamengo - RJ,1,1,0,0,1,1,1
+238,A,2021,Arena Condá,Chapeco,SC,Quarta,6, Outubro ,2021,19:00,Chapecoense - SC,Atlético Mineiro - MG,2,2,0,0,1,1,1
+239,A,2021,Antônio Accioly,Goiania,GO,Quarta,6, Outubro ,2021,19:00,Atlético - GO,Athletico Paranaense - PR,0,2,0,1,0,0,3
+240,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,9, Outubro ,2021,16:30,Fluminense - RJ,Atlético - GO,0,0,0,0,1,1,1
+241,A,2021,Allianz Parque,Sao Paulo,SP,Sábado,9, Outubro ,2021,21:00,Palmeiras - SP,Red Bull Bragantino - SP,2,4,0,1,0,0,3
+242,A,2021,Vila Belmiro,Santos,SP,Domingo,10, Outubro ,2021,16:00,Santos - SP,Grêmio - RS,1,0,1,0,0,3,0
+243,A,2021,Mineirão,Belo Horizonte,MG,Sábado,9, Outubro ,2021,16:30,Atlético Mineiro - MG,Ceará - CE,3,1,1,0,0,3,0
+244,A,2021,Beira,Rio,Porto Alegre,Domingo,10, Outubro ,2021,11:00,Internacional - RS,Chapecoense - SC,5,2,1,0,0,3,0
+245,A,2021,Arena Castelão,Fortaleza,CE,Sábado,9, Outubro ,2021,19:00,Fortaleza - CE,Flamengo - RJ,0,3,0,1,0,0,3
+246,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,9, Outubro ,2021,16:30,Sport - PE,Corinthians - SP,1,0,1,0,0,3,0
+247,A,2021,Arena da Baixada,Curitiba,PR,Sábado,9, Outubro ,2021,19:00,Athletico Paranaense - PR,Bahia - BA,0,2,0,1,0,0,3
+248,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Sábado,9, Outubro ,2021,21:00,Juventude - RS,America - MG,1,1,0,0,1,1,1
+249,A,2021,Arena Pantanal,Cuiaba,MT,Segunda,11, Outubro ,2021,20:00,Cuiabá - MT,São Paulo - SP,0,0,0,0,1,1,1
+250,A,2021,Maracanã,Rio de Janeiro,RJ,Quarta,13, Outubro ,2021,19:00,Flamengo - RJ,Juventude - RS,3,1,1,0,0,3,0
+251,A,2021,Neo Química Arena,Sao Paulo,SP,Quarta,13, Outubro ,2021,21:00,Corinthians - SP,Fluminense - RJ,1,0,1,0,0,3,0
+252,A,2021,Morumbi,Sao Paulo,SP,Quinta,14, Outubro ,2021,19:00,São Paulo - SP,Ceará - CE,1,1,0,0,1,1,1
+253,A,2021,Mineirão,Belo Horizonte,MG,Quarta,13, Outubro ,2021,19:00,Atlético Mineiro - MG,Santos - SP,3,1,1,0,0,3,0
+254,A,2021,Beira,Rio,Porto Alegre,Quarta,13, Outubro ,2021,21:30,Internacional - RS,America - MG,3,1,1,0,0,3,0
+255,A,2021,Arena Castelão,Fortaleza,CE,Quarta,13, Outubro ,2021,20:30,Fortaleza - CE,Grêmio - RS,1,0,1,0,0,3,0
+256,A,2021,Arena Fonte Nova,Salvador,BA,Terça,12, Outubro ,2021,21:30,Bahia - BA,Palmeiras - SP,0,0,0,0,1,1,1
+257,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Terça,12, Outubro ,2021,19:00,Red Bull Bragantino - SP,Atlético - GO,1,0,1,0,0,3,0
+258,A,2021,Arena Condá,Chapeco,SC,Quarta,13, Outubro ,2021,19:00,Chapecoense - SC,Athletico Paranaense - PR,1,1,0,0,1,1,1
+259,A,2021,Arena Pantanal,Cuiaba,MT,Quinta,14, Outubro ,2021,19:00,Cuiabá - MT,Sport - PE,1,0,1,0,0,3,0
+260,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,17, Outubro ,2021,20:30,Flamengo - RJ,Cuiabá - MT,0,0,0,0,1,1,1
+261,A,2021,Allianz Parque,Sao Paulo,SP,Domingo,17, Outubro ,2021,16:00,Palmeiras - SP,Internacional - RS,1,0,1,0,0,3,0
+262,A,2021,Morumbi,Sao Paulo,SP,Segunda,18, Outubro ,2021,20:00,São Paulo - SP,Corinthians - SP,1,0,1,0,0,3,0
+263,A,2021,Independência,Belo Horizonte,MG,Sábado,16, Outubro ,2021,21:00,America - MG,Bahia - BA,0,0,0,0,1,1,1
+264,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,17, Outubro ,2021,18:15,Grêmio - RS,Juventude - RS,3,2,1,0,0,3,0
+265,A,2021,Arena Castelão,Fortaleza,CE,Domingo,17, Outubro ,2021,18:15,Ceará - CE,Red Bull Bragantino - SP,2,2,0,0,1,1,1
+266,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,17, Outubro ,2021,20:30,Sport - PE,Santos - SP,0,0,0,0,1,1,1
+267,A,2021,Arena da Baixada,Curitiba,PR,Domingo,17, Outubro ,2021,16:00,Athletico Paranaense - PR,Fluminense - RJ,0,1,0,1,0,0,3
+268,A,2021,Arena Condá,Chapeco,SC,Sábado,16, Outubro ,2021,19:00,Chapecoense - SC,Fortaleza - CE,1,2,0,1,0,0,3
+269,A,2021,Antônio Accioly,Goiania,GO,Domingo,17, Outubro ,2021,18:15,Atlético - GO,Atlético Mineiro - MG,2,1,1,0,0,3,0
+270,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,23, Outubro ,2021,19:00,Fluminense - RJ,Flamengo - RJ,3,1,1,0,0,3,0
+271,A,2021,Allianz Parque,Sao Paulo,SP,Segunda,25, Outubro ,2021,21:30,Palmeiras - SP,Sport - PE,2,1,1,0,0,3,0
+272,A,2021,Vila Belmiro,Santos,SP,Sábado,23, Outubro ,2021,17:00,Santos - SP,America - MG,0,2,0,1,0,0,3
+273,A,2021,Mineirão,Belo Horizonte,MG,Domingo,24, Outubro ,2021,16:00,Atlético Mineiro - MG,Cuiabá - MT,2,1,1,0,0,3,0
+274,A,2021,Beira,Rio,Porto Alegre,Domingo,24, Outubro ,2021,16:00,Internacional - RS,Corinthians - SP,2,2,0,0,1,1,1
+275,A,2021,Arena Castelão,Fortaleza,CE,Sábado,23, Outubro ,2021,19:15,Fortaleza - CE,Athletico Paranaense - PR,3,0,1,0,0,3,0
+276,A,2021,Arena Fonte Nova,Salvador,BA,Domingo,24, Outubro ,2021,20:30,Bahia - BA,Chapecoense - SC,3,0,1,0,0,3,0
+277,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,24, Outubro ,2021,18:15,Red Bull Bragantino - SP,São Paulo - SP,1,0,1,0,0,3,0
+278,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Sábado,23, Outubro ,2021,17:00,Juventude - RS,Ceará - CE,0,0,0,0,1,1,1
+279,A,2021,Antônio Accioly,Goiania,GO,Segunda,25, Outubro ,2021,20:00,Atlético - GO,Grêmio - RS,2,0,1,0,0,3,0
+280,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,30, Outubro ,2021,19:00,Flamengo - RJ,Atlético Mineiro - MG,1,0,1,0,0,3,0
+281,A,2021,Neo Química Arena,Sao Paulo,SP,Segunda,1, Novembro ,2021,21:30,Corinthians - SP,Chapecoense - SC,1,0,1,0,0,3,0
+282,A,2021,Morumbi,Sao Paulo,SP,Domingo,31, Outubro ,2021,18:15,São Paulo - SP,Internacional - RS,1,0,1,0,0,3,0
+283,A,2021,Independência,Belo Horizonte,MG,Sábado,30, Outubro ,2021,21:00,America - MG,Fortaleza - CE,2,1,1,0,0,3,0
+284,A,2021,Arena do Grêmio,Porto Alegre,RS,Domingo,31, Outubro ,2021,16:00,Grêmio - RS,Palmeiras - SP,1,3,0,1,0,0,3
+285,A,2021,Arena Castelão,Fortaleza,CE,Domingo,31, Outubro ,2021,16:00,Ceará - CE,Fluminense - RJ,1,0,1,0,0,3,0
+286,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,31, Outubro ,2021,20:30,Sport - PE,Atlético - GO,2,0,1,0,0,3,0
+287,A,2021,Arena da Baixada,Curitiba,PR,Sábado,30, Outubro ,2021,17:00,Athletico Paranaense - PR,Santos - SP,0,1,0,1,0,0,3
+288,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Sábado,30, Outubro ,2021,19:15,Juventude - RS,Bahia - BA,0,0,0,0,1,1,1
+289,A,2021,Arena Pantanal,Cuiaba,MT,Segunda,1, Novembro ,2021,20:00,Cuiabá - MT,Red Bull Bragantino - SP,1,0,1,0,0,3,0
+290,A,2021,Maracanã,Rio de Janeiro,RJ,Sábado,6, Novembro ,2021,21:00,Fluminense - RJ,Sport - PE,1,0,1,0,0,3,0
+291,A,2021,Neo Química Arena,Sao Paulo,SP,Sábado,6, Novembro ,2021,17:00,Corinthians - SP,Fortaleza - CE,1,0,1,0,0,3,0
+292,A,2021,Vila Belmiro,Santos,SP,Domingo,7, Novembro ,2021,16:00,Santos - SP,Palmeiras - SP,0,2,0,1,0,0,3
+293,A,2021,Mineirão,Belo Horizonte,MG,Domingo,7, Novembro ,2021,16:00,Atlético Mineiro - MG,America - MG,1,0,1,0,0,3,0
+294,A,2021,Beira,Rio,Porto Alegre,Sábado,6, Novembro ,2021,19:00,Internacional - RS,Grêmio - RS,1,0,1,0,0,3,0
+295,A,2021,Arena Castelão,Fortaleza,CE,Domingo,7, Novembro ,2021,20:30,Ceará - CE,Cuiabá - MT,1,0,1,0,0,3,0
+296,A,2021,Arena Fonte Nova,Salvador,BA,Domingo,7, Novembro ,2021,18:15,Bahia - BA,São Paulo - SP,1,0,1,0,0,3,0
+297,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,7, Novembro ,2021,16:00,Red Bull Bragantino - SP,Athletico Paranaense - PR,0,2,0,1,0,0,3
+298,A,2021,Arena Condá,Chapeco,SC,Segunda,8, Novembro ,2021,20:00,Chapecoense - SC,Flamengo - RJ,2,2,0,0,1,1,1
+299,A,2021,Antônio Accioly,Goiania,GO,Terça,23, Novembro ,2021,19:00,Atlético - GO,Juventude - RS,1,1,0,0,1,1,1
+300,A,2021,Maracanã,Rio de Janeiro,RJ,Quinta,11, Novembro ,2021,19:00,Flamengo - RJ,Bahia - BA,3,0,1,0,0,3,0
+301,A,2021,Allianz Parque,Sao Paulo,SP,Quarta,10, Novembro ,2021,20:30,Palmeiras - SP,Atlético - GO,4,0,1,0,0,3,0
+302,A,2021,Vila Belmiro,Santos,SP,Quarta,10, Novembro ,2021,19:00,Santos - SP,Red Bull Bragantino - SP,2,0,1,0,0,3,0
+303,A,2021,Mineirão,Belo Horizonte,MG,Quarta,10, Novembro ,2021,19:00,Atlético Mineiro - MG,Corinthians - SP,3,0,1,0,0,3,0
+304,A,2021,Arena do Grêmio,Porto Alegre,RS,Terça,9, Novembro ,2021,21:30,Grêmio - RS,Fluminense - RJ,1,0,1,0,0,3,0
+305,A,2021,Arena Castelão,Fortaleza,CE,Quarta,10, Novembro ,2021,21:30,Fortaleza - CE,São Paulo - SP,1,1,0,0,1,1,1
+306,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Quarta,10, Novembro ,2021,21:30,Sport - PE,America - MG,2,3,0,1,0,0,3
+307,A,2021,Arena da Baixada,Curitiba,PR,Quarta,10, Novembro ,2021,18:30,Athletico Paranaense - PR,Ceará - CE,2,1,1,0,0,3,0
+308,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Quarta,10, Novembro ,2021,21:30,Juventude - RS,Internacional - RS,2,1,1,0,0,3,0
+309,A,2021,Arena Pantanal,Cuiaba,MT,Quinta,4, Novembro ,2021,21:00,Cuiabá - MT,Chapecoense - SC,0,0,0,0,1,1,1
+310,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,14, Novembro ,2021,18:15,Fluminense - RJ,Palmeiras - SP,2,1,1,0,0,3,0
+311,A,2021,Neo Química Arena,Sao Paulo,SP,Sábado,13, Novembro ,2021,21:00,Corinthians - SP,Cuiabá - MT,3,2,1,0,0,3,0
+312,A,2021,Morumbi,Sao Paulo,SP,Domingo,14, Novembro ,2021,16:00,São Paulo - SP,Flamengo - RJ,0,4,0,1,0,0,3
+313,A,2021,Independência,Belo Horizonte,MG,Sábado,13, Novembro ,2021,18:30,America - MG,Grêmio - RS,3,1,1,0,0,3,0
+314,A,2021,Beira,Rio,Porto Alegre,Sábado,13, Novembro ,2021,19:00,Internacional - RS,Athletico Paranaense - PR,2,1,1,0,0,3,0
+315,A,2021,Arena Castelão,Fortaleza,CE,Domingo,14, Novembro ,2021,19:00,Ceará - CE,Sport - PE,2,1,1,0,0,3,0
+316,A,2021,Arena Fonte Nova,Salvador,BA,Quinta,2, Dezembro ,2021,18:00,Bahia - BA,Atlético Mineiro - MG,2,3,0,1,0,0,3
+317,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,13, Novembro ,2021,19:00,Red Bull Bragantino - SP,Fortaleza - CE,3,0,1,0,0,3,0
+318,A,2021,Arena Condá,Chapeco,SC,Domingo,14, Novembro ,2021,19:00,Chapecoense - SC,Juventude - RS,0,2,0,1,0,0,3
+319,A,2021,Antônio Accioly,Goiania,GO,Sábado,13, Novembro ,2021,17:00,Atlético - GO,Santos - SP,0,0,0,0,1,1,1
+320,A,2021,Maracanã,Rio de Janeiro,RJ,Quarta,17, Novembro ,2021,21:30,Flamengo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+321,A,2021,Allianz Parque,Sao Paulo,SP,Quarta,17, Novembro ,2021,20:30,Palmeiras - SP,São Paulo - SP,0,2,0,1,0,0,3
+322,A,2021,Vila Belmiro,Santos,SP,Quarta,17, Novembro ,2021,19:00,Santos - SP,Chapecoense - SC,2,0,1,0,0,3,0
+323,A,2021,Independência,Belo Horizonte,MG,Quarta,17, Novembro ,2021,19:00,America - MG,Atlético - GO,0,0,0,0,1,1,1
+324,A,2021,Arena do Grêmio,Porto Alegre,RS,Terça,16, Novembro ,2021,18:00,Grêmio - RS,Red Bull Bragantino - SP,3,0,1,0,0,3,0
+325,A,2021,Arena Castelão,Fortaleza,CE,Quarta,17, Novembro ,2021,20:00,Fortaleza - CE,Ceará - CE,0,4,0,1,0,0,3
+326,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Quinta,18, Novembro ,2021,21:00,Sport - PE,Bahia - BA,1,0,1,0,0,3,0
+327,A,2021,Arena da Baixada,Curitiba,PR,Terça,16, Novembro ,2021,16:00,Athletico Paranaense - PR,Atlético Mineiro - MG,0,1,0,1,0,0,3
+328,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Quarta,17, Novembro ,2021,20:30,Juventude - RS,Fluminense - RJ,1,0,1,0,0,3,0
+329,A,2021,Arena Pantanal,Cuiaba,MT,Quarta,17, Novembro ,2021,19:00,Cuiabá - MT,Internacional - RS,1,0,1,0,0,3,0
+330,A,2021,Maracanã,Rio de Janeiro,RJ,Domingo,21, Novembro ,2021,17:00,Fluminense - RJ,America - MG,2,0,1,0,0,3,0
+331,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,21, Novembro ,2021,16:00,Corinthians - SP,Santos - SP,2,0,1,0,0,3,0
+332,A,2021,Morumbi,Sao Paulo,SP,Quarta,24, Novembro ,2021,21:30,São Paulo - SP,Athletico Paranaense - PR,0,0,0,0,1,1,1
+333,A,2021,Mineirão,Belo Horizonte,MG,Sábado,20, Novembro ,2021,19:00,Atlético Mineiro - MG,Juventude - RS,2,0,1,0,0,3,0
+334,A,2021,Beira,Rio,Porto Alegre,Sábado,20, Novembro ,2021,21:30,Internacional - RS,Flamengo - RJ,1,2,0,1,0,0,3
+335,A,2021,Arena Castelão,Fortaleza,CE,Sábado,20, Novembro ,2021,19:00,Fortaleza - CE,Palmeiras - SP,1,0,1,0,0,3,0
+336,A,2021,Arena Fonte Nova,Salvador,BA,Domingo,21, Novembro ,2021,19:00,Bahia - BA,Cuiabá - MT,0,0,0,0,1,1,1
+337,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quinta,28, Outubro ,2021,19:00,Red Bull Bragantino - SP,Sport - PE,3,0,1,0,0,3,0
+338,A,2021,Arena Condá,Chapeco,SC,Sábado,20, Novembro ,2021,19:00,Chapecoense - SC,Grêmio - RS,1,3,0,1,0,0,3
+339,A,2021,Antônio Accioly,Goiania,GO,Sábado,20, Novembro ,2021,21:00,Atlético - GO,Ceará - CE,1,1,0,0,1,1,1
+340,A,2021,Maracanã,Rio de Janeiro,RJ,Quarta,24, Novembro ,2021,21:30,Fluminense - RJ,Internacional - RS,1,0,1,0,0,3,0
+341,A,2021,Allianz Parque,Sao Paulo,SP,Terça,23, Novembro ,2021,21:30,Palmeiras - SP,Atlético Mineiro - MG,2,2,0,0,1,1,1
+342,A,2021,Vila Belmiro,Santos,SP,Quinta,25, Novembro ,2021,19:00,Santos - SP,Fortaleza - CE,2,0,1,0,0,3,0
+343,A,2021,Independência,Belo Horizonte,MG,Terça,30, Novembro ,2021,21:00,America - MG,Chapecoense - SC,3,0,1,0,0,3,0
+344,A,2021,Arena do Grêmio,Porto Alegre,RS,Quinta,2, Dezembro ,2021,20:00,Grêmio - RS,São Paulo - SP,3,0,1,0,0,3,0
+345,A,2021,Arena Castelão,Fortaleza,CE,Quinta,25, Novembro ,2021,20:00,Ceará - CE,Corinthians - SP,2,1,1,0,0,3,0
+346,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,3, Dezembro ,2021,20:00,Sport - PE,Flamengo - RJ,1,1,0,0,1,1,1
+347,A,2021,Arena da Baixada,Curitiba,PR,Sexta,3, Dezembro ,2021,19:00,Athletico Paranaense - PR,Cuiabá - MT,1,0,1,0,0,3,0
+348,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Terça,30, Novembro ,2021,19:00,Juventude - RS,Red Bull Bragantino - SP,1,0,1,0,0,3,0
+349,A,2021,Antônio Accioly,Goiania,GO,Segunda,29, Novembro ,2021,19:00,Atlético - GO,Bahia - BA,2,1,1,0,0,3,0
+350,A,2021,Maracanã,Rio de Janeiro,RJ,Terça,30, Novembro ,2021,20:00,Flamengo - RJ,Ceará - CE,2,1,1,0,0,3,0
+351,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,28, Novembro ,2021,16:00,Corinthians - SP,Athletico Paranaense - PR,1,0,1,0,0,3,0
+352,A,2021,Morumbi,Sao Paulo,SP,Sábado,27, Novembro ,2021,21:30,São Paulo - SP,Sport - PE,2,0,1,0,0,3,0
+353,A,2021,Mineirão,Belo Horizonte,MG,Domingo,28, Novembro ,2021,16:00,Atlético Mineiro - MG,Fluminense - RJ,2,1,1,0,0,3,0
+354,A,2021,Beira,Rio,Porto Alegre,Domingo,28, Novembro ,2021,19:00,Internacional - RS,Santos - SP,1,1,0,0,1,1,1
+355,A,2021,Arena Castelão,Fortaleza,CE,Sexta,3, Dezembro ,2021,21:00,Fortaleza - CE,Juventude - RS,1,0,1,0,0,3,0
+356,A,2021,Arena Fonte Nova,Salvador,BA,Sexta,26, Novembro ,2021,19:00,Bahia - BA,Grêmio - RS,3,1,1,0,0,3,0
+357,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,27, Novembro ,2021,19:30,Red Bull Bragantino - SP,America - MG,1,1,0,0,1,1,1
+358,A,2021,Arena Condá,Chapeco,SC,Sexta,3, Dezembro ,2021,20:00,Chapecoense - SC,Atlético - GO,0,1,0,1,0,0,3
+359,A,2021,Arena Pantanal,Cuiaba,MT,Terça,30, Novembro ,2021,22:00,Cuiabá - MT,Palmeiras - SP,1,3,0,1,0,0,3
+360,A,2021,Maracanã,Rio de Janeiro,RJ,Segunda,6, Dezembro ,2021,20:00,Flamengo - RJ,Santos - SP,0,1,0,1,0,0,3
+361,A,2021,Neo Química Arena,Sao Paulo,SP,Domingo,5, Dezembro ,2021,16:00,Corinthians - SP,Grêmio - RS,1,1,0,0,1,1,1
+362,A,2021,Morumbi,Sao Paulo,SP,Segunda,6, Dezembro ,2021,19:00,São Paulo - SP,Juventude - RS,3,1,1,0,0,3,0
+363,A,2021,Mineirão,Belo Horizonte,MG,Domingo,5, Dezembro ,2021,16:00,Atlético Mineiro - MG,Red Bull Bragantino - SP,4,3,1,0,0,3,0
+364,A,2021,Beira,Rio,Porto Alegre,Segunda,6, Dezembro ,2021,20:00,Internacional - RS,Atlético - GO,1,2,0,1,0,0,3
+365,A,2021,Arena Castelão,Fortaleza,CE,Domingo,5, Dezembro ,2021,19:00,Ceará - CE,America - MG,0,0,0,0,1,1,1
+366,A,2021,Arena Fonte Nova,Salvador,BA,Domingo,5, Dezembro ,2021,16:00,Bahia - BA,Fluminense - RJ,2,0,1,0,0,3,0
+367,A,2021,Arena da Baixada,Curitiba,PR,Segunda,6, Dezembro ,2021,19:00,Athletico Paranaense - PR,Palmeiras - SP,0,0,0,0,1,1,1
+368,A,2021,Arena Condá,Chapeco,SC,Segunda,6, Dezembro ,2021,21:00,Chapecoense - SC,Sport - PE,0,1,0,1,0,0,3
+369,A,2021,Arena Pantanal,Cuiaba,MT,Segunda,6, Dezembro ,2021,20:00,Cuiabá - MT,Fortaleza - CE,1,0,1,0,0,3,0
+370,A,2021,Maracanã,Rio de Janeiro,RJ,Quinta,9, Dezembro ,2021,21:30,Fluminense - RJ,Chapecoense - SC,3,0,1,0,0,3,0
+371,A,2021,Arena Barueri,Barueri,SP,Quinta,9, Dezembro ,2021,21:30,Palmeiras - SP,Ceará - CE,1,0,1,0,0,3,0
+372,A,2021,Vila Belmiro,Santos,SP,Quinta,9, Dezembro ,2021,21:30,Santos - SP,Cuiabá - MT,1,1,0,0,1,1,1
+373,A,2021,Independência,Belo Horizonte,MG,Quinta,9, Dezembro ,2021,21:30,America - MG,São Paulo - SP,2,0,1,0,0,3,0
+374,A,2021,Arena do Grêmio,Porto Alegre,RS,Quinta,9, Dezembro ,2021,21:30,Grêmio - RS,Atlético Mineiro - MG,4,3,1,0,0,3,0
+375,A,2021,Arena Castelão,Fortaleza,CE,Quinta,9, Dezembro ,2021,21:30,Fortaleza - CE,Bahia - BA,2,1,1,0,0,3,0
+376,A,2021,Arena Pernambuco,São Lourenço da Mata,PE,Quinta,9, Dezembro ,2021,21:30,Sport - PE,Athletico Paranaense - PR,1,1,0,0,1,1,1
+377,A,2021,Nabi Abi Chedid,Braganca Paulista,SP,Quinta,9, Dezembro ,2021,21:30,Red Bull Bragantino - SP,Internacional - RS,1,0,1,0,0,3,0
+378,A,2021,Alfredo Jaconi,Caxias do Sul,RS,Quinta,9, Dezembro ,2021,21:30,Juventude - RS,Corinthians - SP,1,0,1,0,0,3,0
+379,A,2021,Antônio Accioly,Goiania,GO,Quinta,9, Dezembro ,2021,21:30,Atlético - GO,Flamengo - RJ,2,0,1,0,0,3,0

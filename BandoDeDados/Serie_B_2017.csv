@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2017,Frasqueirão,Natal,RN,Sábado,13, Maio ,2017,16:30,Abc - RN,Paraná - PR,0,0,0,0,1,1,1
+1,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,12, Maio ,2017,21:30,Náutico - PE,América - MG,0,0,0,0,1,1,1
+2,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,13, Maio ,2017,16:30,Criciúma - SC,Santa Cruz - PE,1,2,0,1,0,0,3
+3,B,2017,Serra Dourada,Goiania,GO,Sábado,13, Maio ,2017,19:00,Goiás - GO,Figueirense - SC,0,1,0,1,0,0,3
+4,B,2017,Brinco de Ouro,Campinas,SP,Sexta,12, Maio ,2017,20:30,Guarani - SP,Brasil - RS,2,0,1,0,0,3,0
+5,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,12, Maio ,2017,20:30,Juventude - RS,Luverdense - MT,2,1,1,0,0,3,0
+6,B,2017,Do Café,Londrina,PR,Sábado,13, Maio ,2017,16:30,Londrina - PR,Internacional - RS,0,3,0,1,0,0,3
+7,B,2017,Dilzon Melo,Varginha,MG,Sábado,13, Maio ,2017,16:30,Boa - MG,Vila Nova - GO,0,1,0,1,0,0,3
+8,B,2017,Curuzu,Belem,PA,Sábado,13, Maio ,2017,21:00,Paysandu - PA,Oeste - SP,2,0,1,0,0,3,0
+9,B,2017,Rei Pelé,Maceio,AL,Sexta,12, Maio ,2017,19:15,Crb - AL,Ceará - CE,1,0,1,0,0,3,0
+10,B,2017,Presidente Vargas,Fortaleza,CE,Terça,16, Maio ,2017,21:30,Ceará - CE,Boa - MG,0,0,0,0,1,1,1
+11,B,2017,Arruda,Recife,PE,Sábado,20, Maio ,2017,16:30,Santa Cruz - PE,Guarani - SP,2,1,1,0,0,3,0
+12,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,20, Maio ,2017,16:30,Figueirense - SC,Náutico - PE,3,0,1,0,0,3,0
+13,B,2017,Serra Dourada,Goiania,GO,Sexta,19, Maio ,2017,20:30,Vila Nova - GO,Juventude - RS,0,0,0,0,1,1,1
+14,B,2017,Arena Barueri,Barueri,SP,Sábado,20, Maio ,2017,16:30,Oeste - SP,Criciúma - SC,1,0,1,0,0,3,0
+15,B,2017,Bento Freitas,Pelotas,RS,Terça,16, Maio ,2017,19:15,Brasil - RS,Londrina - PR,1,1,0,0,1,1,1
+16,B,2017,Durival Britto,Curitiba,PR,Sexta,19, Maio ,2017,19:15,Paraná - PR,Paysandu - PA,0,0,0,0,1,1,1
+17,B,2017,Independência,Belo Horizonte,MG,Sexta,19, Maio ,2017,21:30,América - MG,Goiás - GO,1,1,0,0,1,1,1
+18,B,2017,Arena Pantanal,Cuiaba,MT,Sábado,20, Maio ,2017,16:30,Luverdense - MT,Crb - AL,1,1,0,0,1,1,1
+19,B,2017,Beira,Rio,Porto Alegre,Sábado,20, Maio ,2017,19:00,Internacional - RS,Abc - RN,1,1,0,0,1,1,1
+20,B,2017,Frasqueirão,Natal,RN,Sábado,27, Maio ,2017,16:30,Abc - RN,Vila Nova - GO,1,0,1,0,0,3,0
+21,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,27, Maio ,2017,16:30,Náutico - PE,Ceará - CE,0,2,0,1,0,0,3
+22,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,26, Maio ,2017,19:15,Criciúma - SC,América - MG,1,3,0,1,0,0,3
+23,B,2017,Serra Dourada,Goiania,GO,Sexta,26, Maio ,2017,21:30,Goiás - GO,Brasil - RS,1,1,0,0,1,1,1
+24,B,2017,Brinco de Ouro,Campinas,SP,Terça,23, Maio ,2017,21:30,Guarani - SP,Figueirense - SC,2,0,1,0,0,3,0
+25,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sábado,27, Maio ,2017,19:00,Juventude - RS,Paraná - PR,2,1,1,0,0,3,0
+26,B,2017,Do Café,Londrina,PR,Sábado,27, Maio ,2017,16:30,Londrina - PR,Luverdense - MT,3,1,1,0,0,3,0
+27,B,2017,Dilzon Melo,Varginha,MG,Sexta,26, Maio ,2017,20:30,Boa - MG,Oeste - SP,1,1,0,0,1,1,1
+28,B,2017,Mangueirão,Belem,PA,Sábado,27, Maio ,2017,16:30,Paysandu - PA,Internacional - RS,1,0,1,0,0,3,0
+29,B,2017,Rei Pelé,Maceio,AL,Terça,23, Maio ,2017,19:15,Crb - AL,Santa Cruz - PE,1,0,1,0,0,3,0
+30,B,2017,Castelão,Fortaleza,CE,Sexta,2, Junho ,2017,21:30,Ceará - CE,Londrina - PR,1,0,1,0,0,3,0
+31,B,2017,Arruda,Recife,PE,Sábado,3, Junho ,2017,16:30,Santa Cruz - PE,Abc - RN,2,1,1,0,0,3,0
+32,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,30, Maio ,2017,19:15,Figueirense - SC,Boa - MG,0,2,0,1,0,0,3
+33,B,2017,Serra Dourada,Goiania,GO,Sábado,3, Junho ,2017,16:30,Vila Nova - GO,Guarani - SP,3,1,1,0,0,3,0
+34,B,2017,Arena Barueri,Barueri,SP,Sexta,2, Junho ,2017,20:30,Oeste - SP,Crb - AL,2,0,1,0,0,3,0
+35,B,2017,Bento Freitas,Pelotas,RS,Terça,30, Maio ,2017,21:30,Brasil - RS,Náutico - PE,2,0,1,0,0,3,0
+36,B,2017,Durival Britto,Curitiba,PR,Terça,16, Maio ,2017,21:30,Paraná - PR,Goiás - GO,2,0,1,0,0,3,0
+37,B,2017,Independência,Belo Horizonte,MG,Sexta,2, Junho ,2017,19:15,América - MG,Paysandu - PA,0,2,0,1,0,0,3
+38,B,2017,Arena Pantanal,Cuiaba,MT,Sábado,3, Junho ,2017,16:30,Luverdense - MT,Criciúma - SC,0,0,0,0,1,1,1
+39,B,2017,Beira,Rio,Porto Alegre,Sábado,3, Junho ,2017,19:00,Internacional - RS,Juventude - RS,1,1,0,0,1,1,1
+40,B,2017,Frasqueirão,Natal,RN,Terça,6, Junho ,2017,19:15,Abc - RN,Paysandu - PA,2,1,1,0,0,3,0
+41,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,6, Junho ,2017,20:30,Náutico - PE,Oeste - SP,1,1,0,0,1,1,1
+42,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,6, Junho ,2017,20:30,Figueirense - SC,Internacional - RS,1,2,0,1,0,0,3
+43,B,2017,Serra Dourada,Goiania,GO,Terça,6, Junho ,2017,20:30,Goiás - GO,Santa Cruz - PE,2,1,1,0,0,3,0
+44,B,2017,Brinco de Ouro,Campinas,SP,Terça,6, Junho ,2017,19:15,Guarani - SP,Boa - MG,2,1,1,0,0,3,0
+45,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,6, Junho ,2017,19:15,Juventude - RS,Criciúma - SC,1,0,1,0,0,3,0
+46,B,2017,Do Café,Londrina,PR,Terça,6, Junho ,2017,20:30,Londrina - PR,Paraná - PR,1,1,0,0,1,1,1
+47,B,2017,Independência,Belo Horizonte,MG,Terça,6, Junho ,2017,21:30,América - MG,Ceará - CE,1,0,1,0,0,3,0
+48,B,2017,Arena Pantanal,Cuiaba,MT,Terça,6, Junho ,2017,21:30,Luverdense - MT,Vila Nova - GO,1,1,0,0,1,1,1
+49,B,2017,Rei Pelé,Maceio,AL,Terça,6, Junho ,2017,21:30,Crb - AL,Brasil - RS,0,1,0,1,0,0,3
+50,B,2017,Frasqueirão,Natal,RN,Sábado,10, Junho ,2017,19:00,Abc - RN,Figueirense - SC,2,2,0,0,1,1,1
+51,B,2017,Arruda,Recife,PE,Sexta,9, Junho ,2017,20:30,Santa Cruz - PE,Londrina - PR,1,3,0,1,0,0,3
+52,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,9, Junho ,2017,19:15,Criciúma - SC,Crb - AL,1,0,1,0,0,3,0
+53,B,2017,Serra Dourada,Goiania,GO,Sexta,9, Junho ,2017,20:30,Vila Nova - GO,América - MG,2,0,1,0,0,3,0
+54,B,2017,Arena Barueri,Barueri,SP,Sábado,10, Junho ,2017,21:00,Oeste - SP,Luverdense - MT,0,0,0,0,1,1,1
+55,B,2017,Bento Freitas,Pelotas,RS,Sábado,10, Junho ,2017,16:30,Brasil - RS,Ceará - CE,2,3,0,1,0,0,3
+56,B,2017,Durival Britto,Curitiba,PR,Sábado,10, Junho ,2017,16:30,Paraná - PR,Guarani - SP,0,1,0,1,0,0,3
+57,B,2017,Dilzon Melo,Varginha,MG,Sábado,10, Junho ,2017,16:30,Boa - MG,Juventude - RS,0,2,0,1,0,0,3
+58,B,2017,Mangueirão,Belem,PA,Sexta,9, Junho ,2017,21:30,Paysandu - PA,Goiás - GO,0,1,0,1,0,0,3
+59,B,2017,Beira,Rio,Porto Alegre,Sábado,10, Junho ,2017,16:30,Internacional - RS,Náutico - PE,4,2,1,0,0,3,0
+60,B,2017,Castelão,Fortaleza,CE,Terça,13, Junho ,2017,21:30,Ceará - CE,Santa Cruz - PE,1,3,0,1,0,0,3
+61,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,13, Junho ,2017,19:15,Náutico - PE,Paraná - PR,1,2,0,1,0,0,3
+62,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,13, Junho ,2017,20:30,Figueirense - SC,Criciúma - SC,2,2,0,0,1,1,1
+63,B,2017,Serra Dourada,Goiania,GO,Terça,13, Junho ,2017,20:30,Goiás - GO,Boa - MG,4,1,1,0,0,3,0
+64,B,2017,Brinco de Ouro,Campinas,SP,Terça,13, Junho ,2017,19:15,Guarani - SP,Paysandu - PA,2,0,1,0,0,3,0
+65,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,13, Junho ,2017,20:30,Juventude - RS,Abc - RN,3,0,1,0,0,3,0
+66,B,2017,Do Café,Londrina,PR,Terça,13, Junho ,2017,19:15,Londrina - PR,Oeste - SP,1,1,0,0,1,1,1
+67,B,2017,Independência,Belo Horizonte,MG,Terça,13, Junho ,2017,21:30,América - MG,Internacional - RS,1,1,0,0,1,1,1
+68,B,2017,Arena Pantanal,Cuiaba,MT,Terça,13, Junho ,2017,21:30,Luverdense - MT,Brasil - RS,4,0,1,0,0,3,0
+69,B,2017,Rei Pelé,Maceio,AL,Terça,13, Junho ,2017,20:30,Crb - AL,Vila Nova - GO,1,2,0,1,0,0,3
+70,B,2017,Castelão,Fortaleza,CE,Sexta,16, Junho ,2017,20:30,Ceará - CE,Luverdense - MT,1,1,0,0,1,1,1
+71,B,2017,Arruda,Recife,PE,Sábado,17, Junho ,2017,16:30,Santa Cruz - PE,Internacional - RS,0,0,0,0,1,1,1
+72,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,16, Junho ,2017,19:15,Criciúma - SC,Guarani - SP,3,2,1,0,0,3,0
+73,B,2017,Serra Dourada,Goiania,GO,Sexta,16, Junho ,2017,21:30,Goiás - GO,Abc - RN,1,2,0,1,0,0,3
+74,B,2017,Arena Barueri,Barueri,SP,Sábado,17, Junho ,2017,21:00,Oeste - SP,América - MG,0,0,0,0,1,1,1
+75,B,2017,Bento Freitas,Pelotas,RS,Sábado,17, Junho ,2017,19:00,Brasil - RS,Vila Nova - GO,3,0,1,0,0,3,0
+76,B,2017,Durival Britto,Curitiba,PR,Sexta,16, Junho ,2017,20:30,Paraná - PR,Figueirense - SC,1,0,1,0,0,3,0
+77,B,2017,Dilzon Melo,Varginha,MG,Sábado,17, Junho ,2017,16:30,Boa - MG,Náutico - PE,2,1,1,0,0,3,0
+78,B,2017,Mangueirão,Belem,PA,Sábado,17, Junho ,2017,16:30,Paysandu - PA,Juventude - RS,0,0,0,0,1,1,1
+79,B,2017,Rei Pelé,Maceio,AL,Sábado,17, Junho ,2017,16:30,Crb - AL,Londrina - PR,0,3,0,1,0,0,3
+80,B,2017,Frasqueirão,Natal,RN,Terça,20, Junho ,2017,20:30,Abc - RN,Crb - AL,1,3,0,1,0,0,3
+81,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,20, Junho ,2017,19:15,Náutico - PE,Goiás - GO,2,3,0,1,0,0,3
+82,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,20, Junho ,2017,20:30,Figueirense - SC,Luverdense - MT,2,3,0,1,0,0,3
+83,B,2017,Serra Dourada,Goiania,GO,Terça,20, Junho ,2017,21:30,Vila Nova - GO,Ceará - CE,1,1,0,0,1,1,1
+84,B,2017,Brinco de Ouro,Campinas,SP,Terça,20, Junho ,2017,21:30,Guarani - SP,Oeste - SP,0,0,0,0,1,1,1
+85,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,20, Junho ,2017,19:15,Juventude - RS,Brasil - RS,1,2,0,1,0,0,3
+86,B,2017,Do Café,Londrina,PR,Terça,20, Junho ,2017,20:30,Londrina - PR,Criciúma - SC,0,1,0,1,0,0,3
+87,B,2017,Independência,Belo Horizonte,MG,Terça,20, Junho ,2017,19:15,América - MG,Santa Cruz - PE,1,0,1,0,0,3,0
+88,B,2017,Curuzu,Belem,PA,Terça,20, Junho ,2017,20:30,Paysandu - PA,Boa - MG,0,0,0,0,1,1,1
+89,B,2017,Beira,Rio,Porto Alegre,Terça,20, Junho ,2017,21:30,Internacional - RS,Paraná - PR,0,0,0,0,1,1,1
+90,B,2017,Presidente Vargas,Fortaleza,CE,Sábado,24, Junho ,2017,16:30,Ceará - CE,Oeste - SP,3,0,1,0,0,3,0
+91,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,24, Junho ,2017,16:30,Santa Cruz - PE,Figueirense - SC,1,1,0,0,1,1,1
+92,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,23, Junho ,2017,21:30,Criciúma - SC,Paraná - PR,2,1,1,0,0,3,0
+93,B,2017,Serra Dourada,Goiania,GO,Sábado,24, Junho ,2017,16:30,Goiás - GO,Vila Nova - GO,0,2,0,1,0,0,3
+94,B,2017,Brinco de Ouro,Campinas,SP,Sábado,24, Junho ,2017,19:00,Guarani - SP,Náutico - PE,2,1,1,0,0,3,0
+95,B,2017,Bento Freitas,Pelotas,RS,Sábado,24, Junho ,2017,16:30,Brasil - RS,Internacional - RS,0,1,0,1,0,0,3
+96,B,2017,Do Café,Londrina,PR,Sábado,24, Junho ,2017,16:30,Londrina - PR,Juventude - RS,2,2,0,0,1,1,1
+97,B,2017,Dilzon Melo,Varginha,MG,Sexta,23, Junho ,2017,20:30,Boa - MG,Abc - RN,2,1,1,0,0,3,0
+98,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sexta,23, Junho ,2017,21:30,Luverdense - MT,América - MG,0,3,0,1,0,0,3
+99,B,2017,Rei Pelé,Maceio,AL,Sexta,23, Junho ,2017,19:15,Crb - AL,Paysandu - PA,2,1,1,0,0,3,0
+100,B,2017,Frasqueirão,Natal,RN,Sábado,1, Julho ,2017,19:00,Abc - RN,Guarani - SP,0,1,0,1,0,0,3
+101,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,30, Junho ,2017,21:30,Náutico - PE,Crb - AL,0,1,0,1,0,0,3
+102,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,27, Junho ,2017,21:30,Figueirense - SC,Londrina - PR,3,1,1,0,0,3,0
+103,B,2017,Olímpico Pedro Ludovico,Goiania,GO,Sexta,30, Junho ,2017,20:30,Vila Nova - GO,Criciúma - SC,0,0,0,0,1,1,1
+104,B,2017,Arena Barueri,Barueri,SP,Sábado,1, Julho ,2017,16:30,Oeste - SP,Santa Cruz - PE,2,0,1,0,0,3,0
+105,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,27, Junho ,2017,19:15,Juventude - RS,Goiás - GO,3,0,1,0,0,3,0
+106,B,2017,Durival Britto,Curitiba,PR,Sábado,1, Julho ,2017,16:30,Paraná - PR,Ceará - CE,1,0,1,0,0,3,0
+107,B,2017,Independência,Belo Horizonte,MG,Sábado,1, Julho ,2017,19:00,América - MG,Brasil - RS,3,0,1,0,0,3,0
+108,B,2017,Curuzu,Belem,PA,Sexta,30, Junho ,2017,19:15,Paysandu - PA,Luverdense - MT,1,1,0,0,1,1,1
+109,B,2017,Beira,Rio,Porto Alegre,Sábado,1, Julho ,2017,16:30,Internacional - RS,Boa - MG,0,1,0,1,0,0,3
+110,B,2017,Frasqueirão,Natal,RN,Terça,4, Julho ,2017,21:30,Abc - RN,Náutico - PE,0,1,0,1,0,0,3
+111,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,7, Julho ,2017,19:15,Santa Cruz - PE,Brasil - RS,3,0,1,0,0,3,0
+112,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,8, Julho ,2017,16:30,Figueirense - SC,Ceará - CE,0,2,0,1,0,0,3
+113,B,2017,Olímpico Pedro Ludovico,Goiania,GO,Sexta,7, Julho ,2017,20:30,Goiás - GO,Luverdense - MT,3,1,1,0,0,3,0
+114,B,2017,Arena Barueri,Barueri,SP,Sábado,8, Julho ,2017,19:00,Oeste - SP,Vila Nova - GO,2,2,0,0,1,1,1
+115,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sábado,8, Julho ,2017,19:00,Juventude - RS,Guarani - SP,2,0,1,0,0,3,0
+116,B,2017,Durival Britto,Curitiba,PR,Sexta,7, Julho ,2017,21:30,Paraná - PR,América - MG,1,1,0,0,1,1,1
+117,B,2017,Dilzon Melo,Varginha,MG,Sábado,8, Julho ,2017,19:00,Boa - MG,Crb - AL,0,0,0,0,1,1,1
+118,B,2017,Curuzu,Belem,PA,Terça,4, Julho ,2017,19:15,Paysandu - PA,Londrina - PR,1,2,0,1,0,0,3
+119,B,2017,Beira,Rio,Porto Alegre,Sábado,8, Julho ,2017,16:30,Internacional - RS,Criciúma - SC,1,1,0,0,1,1,1
+120,B,2017,Castelão,Fortaleza,CE,Terça,11, Julho ,2017,20:30,Ceará - CE,Internacional - RS,0,2,0,1,0,0,3
+121,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,11, Julho ,2017,21:30,Náutico - PE,Juventude - RS,1,1,0,0,1,1,1
+122,B,2017,Heriberto Hulse,Criciuma,SC,Terça,11, Julho ,2017,19:15,Criciúma - SC,Paysandu - PA,1,1,0,0,1,1,1
+123,B,2017,Serra Dourada,Goiania,GO,Terça,11, Julho ,2017,20:30,Vila Nova - GO,Paraná - PR,3,2,1,0,0,3,0
+124,B,2017,Brinco de Ouro,Campinas,SP,Terça,11, Julho ,2017,20:30,Guarani - SP,Goiás - GO,1,0,1,0,0,3,0
+125,B,2017,Bento Freitas,Pelotas,RS,Terça,11, Julho ,2017,19:15,Brasil - RS,Oeste - SP,3,1,1,0,0,3,0
+126,B,2017,Do Café,Londrina,PR,Terça,11, Julho ,2017,19:15,Londrina - PR,Abc - RN,3,1,1,0,0,3,0
+127,B,2017,Independência,Belo Horizonte,MG,Terça,11, Julho ,2017,20:30,América - MG,Boa - MG,2,0,1,0,0,3,0
+128,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Terça,11, Julho ,2017,21:30,Luverdense - MT,Santa Cruz - PE,2,2,0,0,1,1,1
+129,B,2017,Rei Pelé,Maceio,AL,Terça,11, Julho ,2017,21:30,Crb - AL,Figueirense - SC,2,1,1,0,0,3,0
+130,B,2017,Castelão,Fortaleza,CE,Sábado,15, Julho ,2017,19:00,Ceará - CE,Juventude - RS,2,0,1,0,0,3,0
+131,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,15, Julho ,2017,16:30,Náutico - PE,Santa Cruz - PE,0,0,0,0,1,1,1
+132,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,14, Julho ,2017,21:30,Criciúma - SC,Goiás - GO,1,0,1,0,0,3,0
+133,B,2017,Jk,Itumbiara,GO,Sábado,15, Julho ,2017,16:30,Vila Nova - GO,Paysandu - PA,1,2,0,1,0,0,3
+134,B,2017,Arena Barueri,Barueri,SP,Sexta,14, Julho ,2017,20:30,Oeste - SP,Paraná - PR,2,0,1,0,0,3,0
+135,B,2017,Bento Freitas,Pelotas,RS,Sexta,14, Julho ,2017,19:15,Brasil - RS,Figueirense - SC,1,2,0,1,0,0,3
+136,B,2017,Do Café,Londrina,PR,Sábado,15, Julho ,2017,19:00,Londrina - PR,Boa - MG,2,2,0,0,1,1,1
+137,B,2017,Independência,Belo Horizonte,MG,Sábado,15, Julho ,2017,16:30,América - MG,Guarani - SP,0,0,0,0,1,1,1
+138,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,15, Julho ,2017,21:00,Luverdense - MT,Abc - RN,1,0,1,0,0,3,0
+139,B,2017,Rei Pelé,Maceio,AL,Sábado,15, Julho ,2017,16:30,Crb - AL,Internacional - RS,2,0,1,0,0,3,0
+140,B,2017,Frasqueirão,Natal,RN,Terça,18, Julho ,2017,20:30,Abc - RN,América - MG,0,1,0,1,0,0,3
+141,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,18, Julho ,2017,20:30,Santa Cruz - PE,Vila Nova - GO,1,0,1,0,0,3,0
+142,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,18, Julho ,2017,19:15,Figueirense - SC,Oeste - SP,0,0,0,0,1,1,1
+143,B,2017,Serra Dourada,Goiania,GO,Terça,18, Julho ,2017,20:30,Goiás - GO,Londrina - PR,0,1,0,1,0,0,3
+144,B,2017,Brinco de Ouro,Campinas,SP,Terça,18, Julho ,2017,20:30,Guarani - SP,Ceará - CE,2,2,0,0,1,1,1
+145,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,18, Julho ,2017,19:15,Juventude - RS,Crb - AL,1,1,0,0,1,1,1
+146,B,2017,Durival Britto,Curitiba,PR,Terça,18, Julho ,2017,19:15,Paraná - PR,Brasil - RS,4,1,1,0,0,3,0
+147,B,2017,Dilzon Melo,Varginha,MG,Terça,18, Julho ,2017,21:30,Boa - MG,Criciúma - SC,2,0,1,0,0,3,0
+148,B,2017,Mangueirão,Belem,PA,Terça,18, Julho ,2017,19:15,Paysandu - PA,Náutico - PE,1,0,1,0,0,3,0
+149,B,2017,Beira,Rio,Porto Alegre,Terça,18, Julho ,2017,21:30,Internacional - RS,Luverdense - MT,1,0,1,0,0,3,0
+150,B,2017,Castelão,Fortaleza,CE,Sexta,21, Julho ,2017,21:30,Ceará - CE,Goiás - GO,0,1,0,1,0,0,3
+151,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,21, Julho ,2017,20:30,Santa Cruz - PE,Boa - MG,1,1,0,0,1,1,1
+152,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,22, Julho ,2017,16:30,Criciúma - SC,Abc - RN,2,1,1,0,0,3,0
+153,B,2017,Serra Dourada,Goiania,GO,Sábado,22, Julho ,2017,16:30,Vila Nova - GO,Internacional - RS,2,1,1,0,0,3,0
+154,B,2017,Arena Barueri,Barueri,SP,Sábado,22, Julho ,2017,19:00,Oeste - SP,Juventude - RS,3,0,1,0,0,3,0
+155,B,2017,Bento Freitas,Pelotas,RS,Sábado,22, Julho ,2017,19:00,Brasil - RS,Paysandu - PA,2,1,1,0,0,3,0
+156,B,2017,Do Café,Londrina,PR,Sábado,22, Julho ,2017,16:30,Londrina - PR,Náutico - PE,0,0,0,0,1,1,1
+157,B,2017,Independência,Belo Horizonte,MG,Sexta,21, Julho ,2017,19:15,América - MG,Figueirense - SC,4,2,1,0,0,3,0
+158,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sexta,21, Julho ,2017,20:30,Luverdense - MT,Paraná - PR,1,1,0,0,1,1,1
+159,B,2017,Rei Pelé,Maceio,AL,Sábado,22, Julho ,2017,19:00,Crb - AL,Guarani - SP,1,1,0,0,1,1,1
+160,B,2017,Frasqueirão,Natal,RN,Terça,25, Julho ,2017,19:15,Abc - RN,Brasil - RS,1,0,1,0,0,3,0
+161,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,29, Julho ,2017,19:00,Náutico - PE,Criciúma - SC,1,2,0,1,0,0,3
+162,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,29, Julho ,2017,16:30,Figueirense - SC,Vila Nova - GO,0,1,0,1,0,0,3
+163,B,2017,Serra Dourada,Goiania,GO,Sábado,29, Julho ,2017,16:30,Goiás - GO,Crb - AL,3,0,1,0,0,3,0
+164,B,2017,Brinco de Ouro,Campinas,SP,Sábado,29, Julho ,2017,16:30,Guarani - SP,Londrina - PR,2,3,0,1,0,0,3
+165,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,28, Julho ,2017,19:15,Juventude - RS,América - MG,0,1,0,1,0,0,3
+166,B,2017,Durival Britto,Curitiba,PR,Sábado,29, Julho ,2017,16:30,Paraná - PR,Santa Cruz - PE,4,0,1,0,0,3,0
+167,B,2017,Dilzon Melo,Varginha,MG,Sábado,29, Julho ,2017,19:00,Boa - MG,Luverdense - MT,1,0,1,0,0,3,0
+168,B,2017,Mangueirão,Belem,PA,Sexta,28, Julho ,2017,21:30,Paysandu - PA,Ceará - CE,1,2,0,1,0,0,3
+169,B,2017,Beira,Rio,Porto Alegre,Terça,25, Julho ,2017,21:30,Internacional - RS,Oeste - SP,2,0,1,0,0,3,0
+170,B,2017,Castelão,Fortaleza,CE,Terça,1, Agosto ,2017,21:30,Ceará - CE,Criciúma - SC,3,1,1,0,0,3,0
+171,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,1, Agosto ,2017,20:30,Santa Cruz - PE,Paysandu - PA,1,2,0,1,0,0,3
+172,B,2017,Orlando Scarpelli,Florianopolis,SC,Terça,1, Agosto ,2017,19:15,Figueirense - SC,Juventude - RS,2,2,0,0,1,1,1
+173,B,2017,Serra Dourada,Goiania,GO,Terça,1, Agosto ,2017,20:30,Vila Nova - GO,Náutico - PE,0,1,0,1,0,0,3
+174,B,2017,Arena Barueri,Barueri,SP,Terça,1, Agosto ,2017,20:30,Oeste - SP,Abc - RN,1,1,0,0,1,1,1
+175,B,2017,Bento Freitas,Pelotas,RS,Terça,1, Agosto ,2017,19:15,Brasil - RS,Boa - MG,0,0,0,0,1,1,1
+176,B,2017,Durival Britto,Curitiba,PR,Terça,1, Agosto ,2017,19:15,Paraná - PR,Crb - AL,4,1,1,0,0,3,0
+177,B,2017,Independência,Belo Horizonte,MG,Terça,1, Agosto ,2017,20:30,América - MG,Londrina - PR,3,2,1,0,0,3,0
+178,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Terça,1, Agosto ,2017,21:30,Luverdense - MT,Guarani - SP,1,0,1,0,0,3,0
+179,B,2017,Beira,Rio,Porto Alegre,Terça,1, Agosto ,2017,21:30,Internacional - RS,Goiás - GO,3,0,1,0,0,3,0
+180,B,2017,Frasqueirão,Natal,RN,Sábado,5, Agosto ,2017,16:30,Abc - RN,Ceará - CE,0,1,0,1,0,0,3
+181,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,4, Agosto ,2017,20:30,Náutico - PE,Luverdense - MT,1,0,1,0,0,3,0
+182,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,4, Agosto ,2017,19:15,Criciúma - SC,Brasil - RS,1,2,0,1,0,0,3
+183,B,2017,Serra Dourada,Goiania,GO,Sexta,4, Agosto ,2017,20:30,Goiás - GO,Oeste - SP,0,2,0,1,0,0,3
+184,B,2017,Brinco de Ouro,Campinas,SP,Sábado,5, Agosto ,2017,16:30,Guarani - SP,Internacional - RS,0,2,0,1,0,0,3
+185,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sábado,5, Agosto ,2017,16:30,Juventude - RS,Santa Cruz - PE,2,1,1,0,0,3,0
+186,B,2017,Do Café,Londrina,PR,Segunda,7, Agosto ,2017,20:00,Londrina - PR,Vila Nova - GO,0,1,0,1,0,0,3
+187,B,2017,Dilzon Melo,Varginha,MG,Sábado,5, Agosto ,2017,19:00,Boa - MG,Paraná - PR,2,1,1,0,0,3,0
+188,B,2017,Curuzu,Belem,PA,Sábado,5, Agosto ,2017,19:00,Paysandu - PA,Figueirense - SC,0,1,0,1,0,0,3
+189,B,2017,Rei Pelé,Maceio,AL,Sexta,4, Agosto ,2017,21:30,Crb - AL,América - MG,2,1,1,0,0,3,0
+190,B,2017,Arruda,Recife,PE,Terça,8, Agosto ,2017,19:15,Santa Cruz - PE,Criciúma - SC,1,2,0,1,0,0,3
+191,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Terça,8, Agosto ,2017,21:30,Luverdense - MT,Juventude - RS,1,0,1,0,0,3,0
+192,B,2017,Bento Freitas,Pelotas,RS,Sexta,11, Agosto ,2017,19:15,Brasil - RS,Guarani - SP,1,0,1,0,0,3,0
+193,B,2017,Serra Dourada,Goiania,GO,Sexta,11, Agosto ,2017,20:30,Vila Nova - GO,Boa - MG,1,0,1,0,0,3,0
+194,B,2017,Independência,Belo Horizonte,MG,Sexta,11, Agosto ,2017,21:30,América - MG,Náutico - PE,1,0,1,0,0,3,0
+195,B,2017,Castelão,Fortaleza,CE,Sábado,12, Agosto ,2017,16:30,Ceará - CE,Crb - AL,1,0,1,0,0,3,0
+196,B,2017,Durival Britto,Curitiba,PR,Sábado,12, Agosto ,2017,16:30,Paraná - PR,Abc - RN,1,0,1,0,0,3,0
+197,B,2017,Beira,Rio,Porto Alegre,Sábado,12, Agosto ,2017,16:30,Internacional - RS,Londrina - PR,3,1,1,0,0,3,0
+198,B,2017,Arena Barueri,Barueri,SP,Sábado,12, Agosto ,2017,19:00,Oeste - SP,Paysandu - PA,1,3,0,1,0,0,3
+199,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,12, Agosto ,2017,19:00,Figueirense - SC,Goiás - GO,1,1,0,0,1,1,1
+200,B,2017,Do Café,Londrina,PR,Terça,15, Agosto ,2017,19:15,Londrina - PR,Brasil - RS,4,1,1,0,0,3,0
+201,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,15, Agosto ,2017,21:30,Náutico - PE,Figueirense - SC,2,0,1,0,0,3,0
+202,B,2017,Mangueirão,Belem,PA,Sábado,19, Agosto ,2017,19:00,Paysandu - PA,Paraná - PR,0,0,0,0,1,1,1
+203,B,2017,Heriberto Hulse,Criciuma,SC,Sexta,18, Agosto ,2017,20:30,Criciúma - SC,Oeste - SP,1,1,0,0,1,1,1
+204,B,2017,Olímpico Pedro Ludovico,Goiania,GO,Sexta,18, Agosto ,2017,21:30,Goiás - GO,América - MG,1,1,0,0,1,1,1
+205,B,2017,Frasqueirão,Natal,RN,Sábado,19, Agosto ,2017,16:30,Abc - RN,Internacional - RS,0,3,0,1,0,0,3
+206,B,2017,Brinco de Ouro,Campinas,SP,Sábado,19, Agosto ,2017,16:30,Guarani - SP,Santa Cruz - PE,2,0,1,0,0,3,0
+207,B,2017,Dilzon Melo,Varginha,MG,Sábado,19, Agosto ,2017,16:30,Boa - MG,Ceará - CE,4,1,1,0,0,3,0
+208,B,2017,Rei Pelé,Maceio,AL,Sábado,19, Agosto ,2017,16:30,Crb - AL,Luverdense - MT,2,2,0,0,1,1,1
+209,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,18, Agosto ,2017,19:15,Juventude - RS,Vila Nova - GO,1,0,1,0,0,3,0
+210,B,2017,Bento Freitas,Pelotas,RS,Terça,22, Agosto ,2017,19:15,Brasil - RS,Goiás - GO,2,1,1,0,0,3,0
+211,B,2017,Independência,Belo Horizonte,MG,Terça,22, Agosto ,2017,21:30,América - MG,Criciúma - SC,0,0,0,0,1,1,1
+212,B,2017,Durival Britto,Curitiba,PR,Sexta,25, Agosto ,2017,20:30,Paraná - PR,Juventude - RS,2,0,1,0,0,3,0
+213,B,2017,Serra Dourada,Goiania,GO,Sábado,26, Agosto ,2017,16:30,Vila Nova - GO,Abc - RN,2,0,1,0,0,3,0
+214,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,26, Agosto ,2017,19:00,Figueirense - SC,Guarani - SP,2,1,1,0,0,3,0
+215,B,2017,Beira,Rio,Porto Alegre,Sexta,25, Agosto ,2017,21:30,Internacional - RS,Paysandu - PA,3,2,1,0,0,3,0
+216,B,2017,Presidente Vargas,Fortaleza,CE,Sexta,25, Agosto ,2017,19:15,Ceará - CE,Náutico - PE,1,0,1,0,0,3,0
+217,B,2017,Arena Barueri,Barueri,SP,Sábado,26, Agosto ,2017,16:30,Oeste - SP,Boa - MG,4,1,1,0,0,3,0
+218,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,26, Agosto ,2017,19:00,Luverdense - MT,Londrina - PR,1,0,1,0,0,3,0
+219,B,2017,Arruda,Recife,PE,Sábado,26, Agosto ,2017,16:30,Santa Cruz - PE,Crb - AL,1,2,0,1,0,0,3
+220,B,2017,Brinco de Ouro,Campinas,SP,Segunda,4, Setembro ,2017,20:00,Guarani - SP,Vila Nova - GO,0,0,0,0,1,1,1
+221,B,2017,Serra Dourada,Goiania,GO,Quarta,6, Setembro ,2017,19:30,Goiás - GO,Paraná - PR,0,1,0,1,0,0,3
+222,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Quarta,6, Setembro ,2017,21:45,Náutico - PE,Brasil - RS,1,0,1,0,0,3,0
+223,B,2017,Dilzon Melo,Varginha,MG,Sexta,8, Setembro ,2017,19:15,Boa - MG,Figueirense - SC,1,1,0,0,1,1,1
+224,B,2017,Mangueirão,Belem,PA,Sexta,8, Setembro ,2017,21:30,Paysandu - PA,América - MG,0,1,0,1,0,0,3
+225,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,9, Setembro ,2017,16:30,Criciúma - SC,Luverdense - MT,2,1,1,0,0,3,0
+226,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sábado,9, Setembro ,2017,16:30,Juventude - RS,Internacional - RS,2,1,1,0,0,3,0
+227,B,2017,Do Café,Londrina,PR,Sábado,9, Setembro ,2017,16:30,Londrina - PR,Ceará - CE,3,2,1,0,0,3,0
+228,B,2017,Rei Pelé,Maceio,AL,Sábado,9, Setembro ,2017,19:00,Crb - AL,Oeste - SP,0,1,0,1,0,0,3
+229,B,2017,Arena das Dunas,Natal,RN,Sábado,9, Setembro ,2017,19:00,Abc - RN,Santa Cruz - PE,0,0,0,0,1,1,1
+230,B,2017,Dilzon Melo,Varginha,MG,Terça,12, Setembro ,2017,19:15,Boa - MG,Guarani - SP,2,2,0,0,1,1,1
+231,B,2017,Heriberto Hulse,Criciuma,SC,Terça,12, Setembro ,2017,21:30,Criciúma - SC,Juventude - RS,1,2,0,1,0,0,3
+232,B,2017,Durival Britto,Curitiba,PR,Sábado,16, Setembro ,2017,19:00,Paraná - PR,Londrina - PR,2,1,1,0,0,3,0
+233,B,2017,Serra Dourada,Goiania,GO,Sábado,16, Setembro ,2017,16:30,Vila Nova - GO,Luverdense - MT,2,1,1,0,0,3,0
+234,B,2017,Castelão,Fortaleza,CE,Sexta,15, Setembro ,2017,21:30,Ceará - CE,América - MG,1,1,0,0,1,1,1
+235,B,2017,Arena Barueri,Barueri,SP,Sábado,16, Setembro ,2017,16:30,Oeste - SP,Náutico - PE,1,0,1,0,0,3,0
+236,B,2017,Bento Freitas,Pelotas,RS,Sábado,16, Setembro ,2017,16:30,Brasil - RS,Crb - AL,2,0,1,0,0,3,0
+237,B,2017,Curuzu,Belem,PA,Sábado,16, Setembro ,2017,16:30,Paysandu - PA,Abc - RN,2,0,1,0,0,3,0
+238,B,2017,Beira,Rio,Porto Alegre,Sábado,16, Setembro ,2017,16:30,Internacional - RS,Figueirense - SC,3,0,1,0,0,3,0
+239,B,2017,Arruda,Recife,PE,Sexta,15, Setembro ,2017,19:15,Santa Cruz - PE,Goiás - GO,3,0,1,0,0,3,0
+240,B,2017,Independência,Belo Horizonte,MG,Terça,19, Setembro ,2017,19:15,América - MG,Vila Nova - GO,1,0,1,0,0,3,0
+241,B,2017,Brinco de Ouro,Campinas,SP,Terça,19, Setembro ,2017,21:30,Guarani - SP,Paraná - PR,0,4,0,1,0,0,3
+242,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,22, Setembro ,2017,19:15,Juventude - RS,Boa - MG,0,0,0,0,1,1,1
+243,B,2017,Serra Dourada,Goiania,GO,Sábado,23, Setembro ,2017,16:30,Goiás - GO,Paysandu - PA,2,1,1,0,0,3,0
+244,B,2017,Luiz Lacerda,Caruaru,PE,Sábado,23, Setembro ,2017,16:30,Náutico - PE,Internacional - RS,0,1,0,1,0,0,3
+245,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,23, Setembro ,2017,16:30,Figueirense - SC,Abc - RN,2,0,1,0,0,3,0
+246,B,2017,Do Café,Londrina,PR,Sexta,22, Setembro ,2017,21:30,Londrina - PR,Santa Cruz - PE,1,1,0,0,1,1,1
+247,B,2017,Rei Pelé,Maceio,AL,Sábado,23, Setembro ,2017,16:30,Crb - AL,Criciúma - SC,1,2,0,1,0,0,3
+248,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sexta,22, Setembro ,2017,21:30,Luverdense - MT,Oeste - SP,0,0,0,0,1,1,1
+249,B,2017,Castelão,Fortaleza,CE,Sábado,23, Setembro ,2017,19:00,Ceará - CE,Brasil - RS,2,1,1,0,0,3,0
+250,B,2017,Arruda,Recife,PE,Terça,26, Setembro ,2017,19:15,Santa Cruz - PE,Ceará - CE,0,0,0,0,1,1,1
+251,B,2017,Heriberto Hulse,Criciuma,SC,Terça,26, Setembro ,2017,19:15,Criciúma - SC,Figueirense - SC,1,1,0,0,1,1,1
+252,B,2017,Bento Freitas,Pelotas,RS,Terça,26, Setembro ,2017,19:15,Brasil - RS,Luverdense - MT,0,1,0,1,0,0,3
+253,B,2017,Serra Dourada,Goiania,GO,Terça,26, Setembro ,2017,20:30,Vila Nova - GO,Crb - AL,3,0,1,0,0,3,0
+254,B,2017,Arena Barueri,Barueri,SP,Terça,26, Setembro ,2017,20:30,Oeste - SP,Londrina - PR,4,1,1,0,0,3,0
+255,B,2017,Durival Britto,Curitiba,PR,Terça,26, Setembro ,2017,20:30,Paraná - PR,Náutico - PE,3,0,1,0,0,3,0
+256,B,2017,Dilzon Melo,Varginha,MG,Terça,26, Setembro ,2017,20:30,Boa - MG,Goiás - GO,2,0,1,0,0,3,0
+257,B,2017,Curuzu,Belem,PA,Terça,26, Setembro ,2017,21:30,Paysandu - PA,Guarani - SP,2,1,1,0,0,3,0
+258,B,2017,Beira,Rio,Porto Alegre,Quarta,27, Setembro ,2017,19:30,Internacional - RS,América - MG,2,1,1,0,0,3,0
+259,B,2017,Arena das Dunas,Natal,RN,Terça,26, Setembro ,2017,21:30,Abc - RN,Juventude - RS,1,1,0,0,1,1,1
+260,B,2017,Orlando Scarpelli,Florianopolis,SC,Sexta,29, Setembro ,2017,19:15,Figueirense - SC,Paraná - PR,1,0,1,0,0,3,0
+261,B,2017,Do Café,Londrina,PR,Sexta,29, Setembro ,2017,20:30,Londrina - PR,Crb - AL,4,1,1,0,0,3,0
+262,B,2017,Frasqueirão,Natal,RN,Sexta,29, Setembro ,2017,20:30,Abc - RN,Goiás - GO,0,1,0,1,0,0,3
+263,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,29, Setembro ,2017,21:30,Juventude - RS,Paysandu - PA,1,0,1,0,0,3,0
+264,B,2017,Beira,Rio,Porto Alegre,Sábado,30, Setembro ,2017,16:30,Internacional - RS,Santa Cruz - PE,2,0,1,0,0,3,0
+265,B,2017,Serra Dourada,Goiania,GO,Sábado,30, Setembro ,2017,16:30,Vila Nova - GO,Brasil - RS,1,1,0,0,1,1,1
+266,B,2017,Independência,Belo Horizonte,MG,Domingo,1, Outubro ,2017,11:00,América - MG,Oeste - SP,1,2,0,1,0,0,3
+267,B,2017,Luiz Lacerda,Caruaru,PE,Sábado,30, Setembro ,2017,16:30,Náutico - PE,Boa - MG,2,0,1,0,0,3,0
+268,B,2017,Brinco de Ouro,Campinas,SP,Sábado,30, Setembro ,2017,19:00,Guarani - SP,Criciúma - SC,0,0,0,0,1,1,1
+269,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,30, Setembro ,2017,19:00,Luverdense - MT,Ceará - CE,0,1,0,1,0,0,3
+270,B,2017,Castelão,Fortaleza,CE,Terça,3, Outubro ,2017,19:15,Ceará - CE,Vila Nova - GO,2,0,1,0,0,3,0
+271,B,2017,Arena da Baixada,Curitiba,PR,Terça,3, Outubro ,2017,20:30,Paraná - PR,Internacional - RS,1,0,1,0,0,3,0
+272,B,2017,Bento Freitas,Pelotas,RS,Terça,3, Outubro ,2017,21:30,Brasil - RS,Juventude - RS,1,0,1,0,0,3,0
+273,B,2017,Dilzon Melo,Varginha,MG,Sexta,6, Outubro ,2017,19:15,Boa - MG,Paysandu - PA,1,2,0,1,0,0,3
+274,B,2017,Serra Dourada,Goiania,GO,Sexta,6, Outubro ,2017,21:30,Goiás - GO,Náutico - PE,2,0,1,0,0,3,0
+275,B,2017,Rei Pelé,Maceio,AL,Sexta,6, Outubro ,2017,20:30,Crb - AL,Abc - RN,1,0,1,0,0,3,0
+276,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,7, Outubro ,2017,16:30,Criciúma - SC,Londrina - PR,2,1,1,0,0,3,0
+277,B,2017,Arena Barueri,Barueri,SP,Sábado,7, Outubro ,2017,16:30,Oeste - SP,Guarani - SP,3,0,1,0,0,3,0
+278,B,2017,Arruda,Recife,PE,Sábado,7, Outubro ,2017,19:00,Santa Cruz - PE,América - MG,0,1,0,1,0,0,3
+279,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,7, Outubro ,2017,19:00,Luverdense - MT,Figueirense - SC,3,0,1,0,0,3,0
+280,B,2017,Beira,Rio,Porto Alegre,Segunda,9, Outubro ,2017,20:00,Internacional - RS,Brasil - RS,1,0,1,0,0,3,0
+281,B,2017,Curuzu,Belem,PA,Sexta,13, Outubro ,2017,19:15,Paysandu - PA,Crb - AL,0,0,0,0,1,1,1
+282,B,2017,Durival Britto,Curitiba,PR,Sexta,13, Outubro ,2017,20:30,Paraná - PR,Criciúma - SC,2,1,1,0,0,3,0
+283,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,13, Outubro ,2017,21:30,Juventude - RS,Londrina - PR,0,2,0,1,0,0,3
+284,B,2017,Arena das Dunas,Natal,RN,Sábado,14, Outubro ,2017,16:30,Abc - RN,Boa - MG,1,0,1,0,0,3,0
+285,B,2017,Luiz Lacerda,Caruaru,PE,Sábado,14, Outubro ,2017,19:00,Náutico - PE,Guarani - SP,2,0,1,0,0,3,0
+286,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,14, Outubro ,2017,16:30,Figueirense - SC,Santa Cruz - PE,2,1,1,0,0,3,0
+287,B,2017,Independência,Belo Horizonte,MG,Sábado,14, Outubro ,2017,16:30,América - MG,Luverdense - MT,2,1,1,0,0,3,0
+288,B,2017,Serra Dourada,Goiania,GO,Sábado,14, Outubro ,2017,16:30,Vila Nova - GO,Goiás - GO,0,0,0,0,1,1,1
+289,B,2017,Arena Barueri,Barueri,SP,Sábado,14, Outubro ,2017,19:00,Oeste - SP,Ceará - CE,0,1,0,1,0,0,3
+290,B,2017,Brinco de Ouro,Campinas,SP,Terça,17, Outubro ,2017,19:15,Guarani - SP,Abc - RN,1,1,0,0,1,1,1
+291,B,2017,Do Café,Londrina,PR,Terça,17, Outubro ,2017,19:15,Londrina - PR,Figueirense - SC,1,0,1,0,0,3,0
+292,B,2017,Dilzon Melo,Varginha,MG,Terça,17, Outubro ,2017,19:15,Boa - MG,Internacional - RS,0,0,0,0,1,1,1
+293,B,2017,Castelão,Fortaleza,CE,Terça,17, Outubro ,2017,20:30,Ceará - CE,Paraná - PR,1,0,1,0,0,3,0
+294,B,2017,Arruda,Recife,PE,Terça,17, Outubro ,2017,20:30,Santa Cruz - PE,Oeste - SP,2,2,0,0,1,1,1
+295,B,2017,Heriberto Hulse,Criciuma,SC,Terça,17, Outubro ,2017,20:30,Criciúma - SC,Vila Nova - GO,0,1,0,1,0,0,3
+296,B,2017,Bento Freitas,Pelotas,RS,Terça,17, Outubro ,2017,20:30,Brasil - RS,América - MG,0,0,0,0,1,1,1
+297,B,2017,Serra Dourada,Goiania,GO,Terça,17, Outubro ,2017,21:30,Goiás - GO,Juventude - RS,1,0,1,0,0,3,0
+298,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Terça,17, Outubro ,2017,21:30,Luverdense - MT,Paysandu - PA,1,1,0,0,1,1,1
+299,B,2017,Rei Pelé,Maceio,AL,Terça,17, Outubro ,2017,21:30,Crb - AL,Náutico - PE,2,2,0,0,1,1,1
+300,B,2017,Brinco de Ouro,Campinas,SP,Sexta,20, Outubro ,2017,19:15,Guarani - SP,Juventude - RS,2,0,1,0,0,3,0
+301,B,2017,Luiz Lacerda,Caruaru,PE,Sexta,20, Outubro ,2017,20:30,Náutico - PE,Abc - RN,1,2,0,1,0,0,3
+302,B,2017,Rei Pelé,Maceio,AL,Sexta,20, Outubro ,2017,20:30,Crb - AL,Boa - MG,1,1,0,0,1,1,1
+303,B,2017,Castelão,Fortaleza,CE,Sexta,20, Outubro ,2017,21:30,Ceará - CE,Figueirense - SC,2,2,0,0,1,1,1
+304,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,21, Outubro ,2017,16:30,Criciúma - SC,Internacional - RS,2,3,0,1,0,0,3
+305,B,2017,Serra Dourada,Goiania,GO,Sábado,21, Outubro ,2017,17:30,Vila Nova - GO,Oeste - SP,0,0,0,0,1,1,1
+306,B,2017,Bento Freitas,Pelotas,RS,Sábado,21, Outubro ,2017,17:30,Brasil - RS,Santa Cruz - PE,1,1,0,0,1,1,1
+307,B,2017,Do Café,Londrina,PR,Sábado,21, Outubro ,2017,17:30,Londrina - PR,Paysandu - PA,2,0,1,0,0,3,0
+308,B,2017,Independência,Belo Horizonte,MG,Sábado,21, Outubro ,2017,19:00,América - MG,Paraná - PR,1,1,0,0,1,1,1
+309,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,21, Outubro ,2017,21:00,Luverdense - MT,Goiás - GO,1,2,0,1,0,0,3
+310,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Terça,24, Outubro ,2017,19:15,Juventude - RS,Náutico - PE,0,0,0,0,1,1,1
+311,B,2017,Durival Britto,Curitiba,PR,Terça,24, Outubro ,2017,21:30,Paraná - PR,Vila Nova - GO,1,0,1,0,0,3,0
+312,B,2017,Orlando Scarpelli,Florianopolis,SC,Sexta,27, Outubro ,2017,19:15,Figueirense - SC,Crb - AL,3,1,1,0,0,3,0
+313,B,2017,Arena Barueri,Barueri,SP,Sexta,27, Outubro ,2017,20:30,Oeste - SP,Brasil - RS,1,0,1,0,0,3,0
+314,B,2017,Curuzu,Belem,PA,Sexta,27, Outubro ,2017,21:30,Paysandu - PA,Criciúma - SC,1,0,1,0,0,3,0
+315,B,2017,Dilzon Melo,Varginha,MG,Sábado,28, Outubro ,2017,16:30,Boa - MG,América - MG,2,2,0,0,1,1,1
+316,B,2017,Beira,Rio,Porto Alegre,Sábado,28, Outubro ,2017,17:30,Internacional - RS,Ceará - CE,0,1,0,1,0,0,3
+317,B,2017,Frasqueirão,Natal,RN,Sábado,28, Outubro ,2017,17:30,Abc - RN,Londrina - PR,3,0,1,0,0,3,0
+318,B,2017,Arruda,Recife,PE,Sábado,28, Outubro ,2017,17:30,Santa Cruz - PE,Luverdense - MT,0,0,0,0,1,1,1
+319,B,2017,Serra Dourada,Goiania,GO,Sábado,28, Outubro ,2017,19:00,Goiás - GO,Guarani - SP,1,1,0,0,1,1,1
+320,B,2017,Serra Dourada,Goiania,GO,Terça,31, Outubro ,2017,19:30,Goiás - GO,Criciúma - SC,1,1,0,0,1,1,1
+321,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,4, Novembro ,2017,16:30,Figueirense - SC,Brasil - RS,2,0,1,0,0,3,0
+322,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,3, Novembro ,2017,19:15,Juventude - RS,Ceará - CE,1,0,1,0,0,3,0
+323,B,2017,Frasqueirão,Natal,RN,Sexta,3, Novembro ,2017,21:30,Abc - RN,Luverdense - MT,0,1,0,1,0,0,3
+324,B,2017,Curuzu,Belem,PA,Sexta,3, Novembro ,2017,21:30,Paysandu - PA,Vila Nova - GO,1,1,0,0,1,1,1
+325,B,2017,Brinco de Ouro,Campinas,SP,Sábado,4, Novembro ,2017,17:30,Guarani - SP,América - MG,0,1,0,1,0,0,3
+326,B,2017,Arruda,Recife,PE,Sábado,4, Novembro ,2017,17:30,Santa Cruz - PE,Náutico - PE,2,3,0,1,0,0,3
+327,B,2017,Durival Britto,Curitiba,PR,Terça,31, Outubro ,2017,21:30,Paraná - PR,Oeste - SP,1,2,0,1,0,0,3
+328,B,2017,Dilzon Melo,Varginha,MG,Sábado,4, Novembro ,2017,17:30,Boa - MG,Londrina - PR,0,1,0,1,0,0,3
+329,B,2017,Beira,Rio,Porto Alegre,Sexta,3, Novembro ,2017,19:15,Internacional - RS,Crb - AL,0,0,0,0,1,1,1
+330,B,2017,Castelão,Fortaleza,CE,Terça,7, Novembro ,2017,21:30,Ceará - CE,Guarani - SP,2,2,0,0,1,1,1
+331,B,2017,Heriberto Hulse,Criciuma,SC,Terça,7, Novembro ,2017,19:15,Criciúma - SC,Boa - MG,2,0,1,0,0,3,0
+332,B,2017,Independência,Belo Horizonte,MG,Terça,7, Novembro ,2017,19:15,América - MG,Abc - RN,2,0,1,0,0,3,0
+333,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Terça,7, Novembro ,2017,20:30,Náutico - PE,Paysandu - PA,1,3,0,1,0,0,3
+334,B,2017,Arena Barueri,Barueri,SP,Terça,7, Novembro ,2017,20:30,Oeste - SP,Figueirense - SC,1,1,0,0,1,1,1
+335,B,2017,Bento Freitas,Pelotas,RS,Terça,7, Novembro ,2017,20:30,Brasil - RS,Paraná - PR,2,0,1,0,0,3,0
+336,B,2017,Do Café,Londrina,PR,Terça,7, Novembro ,2017,20:30,Londrina - PR,Goiás - GO,2,0,1,0,0,3,0
+337,B,2017,Serra Dourada,Goiania,GO,Terça,7, Novembro ,2017,19:15,Vila Nova - GO,Santa Cruz - PE,1,1,0,0,1,1,1
+338,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Segunda,6, Novembro ,2017,20:00,Luverdense - MT,Internacional - RS,2,2,0,0,1,1,1
+339,B,2017,Rei Pelé,Maceio,AL,Terça,7, Novembro ,2017,21:30,Crb - AL,Juventude - RS,2,0,1,0,0,3,0
+340,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,10, Novembro ,2017,19:15,Juventude - RS,Oeste - SP,0,0,0,0,1,1,1
+341,B,2017,Frasqueirão,Natal,RN,Sexta,10, Novembro ,2017,21:30,Abc - RN,Criciúma - SC,3,1,1,0,0,3,0
+342,B,2017,Durival Britto,Curitiba,PR,Sexta,10, Novembro ,2017,21:30,Paraná - PR,Luverdense - MT,2,0,1,0,0,3,0
+343,B,2017,Beira,Rio,Porto Alegre,Sábado,11, Novembro ,2017,16:30,Internacional - RS,Vila Nova - GO,1,1,0,0,1,1,1
+344,B,2017,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,11, Novembro ,2017,17:30,Náutico - PE,Londrina - PR,1,2,0,1,0,0,3
+345,B,2017,Serra Dourada,Goiania,GO,Sábado,11, Novembro ,2017,17:30,Goiás - GO,Ceará - CE,0,0,0,0,1,1,1
+346,B,2017,Dilzon Melo,Varginha,MG,Sábado,11, Novembro ,2017,17:30,Boa - MG,Santa Cruz - PE,4,2,1,0,0,3,0
+347,B,2017,Orlando Scarpelli,Florianopolis,SC,Sábado,11, Novembro ,2017,17:30,Figueirense - SC,América - MG,1,2,0,1,0,0,3
+348,B,2017,Curuzu,Belem,PA,Sábado,11, Novembro ,2017,19:00,Paysandu - PA,Brasil - RS,2,3,0,1,0,0,3
+349,B,2017,Brinco de Ouro,Campinas,SP,Sábado,11, Novembro ,2017,19:00,Guarani - SP,Crb - AL,2,1,1,0,0,3,0
+350,B,2017,Arruda,Recife,PE,Terça,14, Novembro ,2017,21:30,Santa Cruz - PE,Paraná - PR,0,0,0,0,1,1,1
+351,B,2017,Heriberto Hulse,Criciuma,SC,Terça,14, Novembro ,2017,19:15,Criciúma - SC,Náutico - PE,0,0,0,0,1,1,1
+352,B,2017,Do Café,Londrina,PR,Terça,14, Novembro ,2017,19:15,Londrina - PR,Guarani - SP,1,0,1,0,0,3,0
+353,B,2017,Serra Dourada,Goiania,GO,Terça,14, Novembro ,2017,20:30,Vila Nova - GO,Figueirense - SC,1,1,0,0,1,1,1
+354,B,2017,Arena Barueri,Barueri,SP,Terça,14, Novembro ,2017,20:30,Oeste - SP,Internacional - RS,0,0,0,0,1,1,1
+355,B,2017,Bento Freitas,Pelotas,RS,Terça,14, Novembro ,2017,20:30,Brasil - RS,Abc - RN,3,0,1,0,0,3,0
+356,B,2017,Castelão,Fortaleza,CE,Terça,14, Novembro ,2017,21:30,Ceará - CE,Paysandu - PA,2,0,1,0,0,3,0
+357,B,2017,Independência,Belo Horizonte,MG,Terça,14, Novembro ,2017,21:30,América - MG,Juventude - RS,1,0,1,0,0,3,0
+358,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Terça,14, Novembro ,2017,21:30,Luverdense - MT,Boa - MG,0,1,0,1,0,0,3
+359,B,2017,Rei Pelé,Maceio,AL,Terça,14, Novembro ,2017,21:30,Crb - AL,Goiás - GO,2,1,1,0,0,3,0
+360,B,2017,Brinco de Ouro,Campinas,SP,Sexta,17, Novembro ,2017,19:15,Guarani - SP,Luverdense - MT,0,0,0,0,1,1,1
+361,B,2017,Alfredo Jaconi,Caxias do Sul,RS,Sexta,17, Novembro ,2017,21:30,Juventude - RS,Figueirense - SC,0,0,0,0,1,1,1
+362,B,2017,Rei Pelé,Maceio,AL,Sábado,18, Novembro ,2017,17:30,Crb - AL,Paraná - PR,0,1,0,1,0,0,3
+363,B,2017,Do Café,Londrina,PR,Sábado,18, Novembro ,2017,17:00,Londrina - PR,América - MG,0,0,0,0,1,1,1
+364,B,2017,Serra Dourada,Goiania,GO,Sábado,18, Novembro ,2017,17:00,Goiás - GO,Internacional - RS,0,2,0,1,0,0,3
+365,B,2017,Frasqueirão,Natal,RN,Sábado,18, Novembro ,2017,17:30,Abc - RN,Oeste - SP,2,0,1,0,0,3,0
+366,B,2017,Arruda,Recife,PE,Sábado,18, Novembro ,2017,17:30,Náutico - PE,Vila Nova - GO,1,2,0,1,0,0,3
+367,B,2017,Dilzon Melo,Varginha,MG,Sábado,18, Novembro ,2017,17:30,Boa - MG,Brasil - RS,2,1,1,0,0,3,0
+368,B,2017,Curuzu,Belem,PA,Sábado,18, Novembro ,2017,17:30,Paysandu - PA,Santa Cruz - PE,4,2,1,0,0,3,0
+369,B,2017,Heriberto Hulse,Criciuma,SC,Sábado,18, Novembro ,2017,19:30,Criciúma - SC,Ceará - CE,1,1,0,0,1,1,1
+370,B,2017,Castelão,Fortaleza,CE,Sábado,25, Novembro ,2017,17:30,Ceará - CE,Abc - RN,1,0,1,0,0,3,0
+371,B,2017,Arruda,Recife,PE,Terça,21, Novembro ,2017,20:00,Santa Cruz - PE,Juventude - RS,5,2,1,0,0,3,0
+372,B,2017,Orlando Scarpelli,Florianopolis,SC,Sexta,24, Novembro ,2017,21:30,Figueirense - SC,Paysandu - PA,1,0,1,0,0,3,0
+373,B,2017,Serra Dourada,Goiania,GO,Sábado,25, Novembro ,2017,17:30,Vila Nova - GO,Londrina - PR,0,1,0,1,0,0,3
+374,B,2017,Arena Barueri,Barueri,SP,Sábado,25, Novembro ,2017,17:30,Oeste - SP,Goiás - GO,1,1,0,0,1,1,1
+375,B,2017,Bento Freitas,Pelotas,RS,Sexta,24, Novembro ,2017,19:15,Brasil - RS,Criciúma - SC,3,2,1,0,0,3,0
+376,B,2017,Couto Pereira,Curitiba,PR,Sábado,25, Novembro ,2017,17:30,Paraná - PR,Boa - MG,1,1,0,0,1,1,1
+377,B,2017,Independência,Belo Horizonte,MG,Sábado,25, Novembro ,2017,17:30,América - MG,Crb - AL,1,0,1,0,0,3,0
+378,B,2017,Passo das Emas,Lucas do Rio Verde,MT,Sábado,25, Novembro ,2017,17:30,Luverdense - MT,Náutico - PE,3,0,1,0,0,3,0
+379,B,2017,Beira,Rio,Porto Alegre,Sábado,25, Novembro ,2017,17:30,Internacional - RS,Guarani - SP,2,0,1,0,0,3,0

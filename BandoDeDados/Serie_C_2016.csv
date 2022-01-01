@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2016,Arena das Dunas,Natal,RN,Domingo,22, Maio ,2016,19:00,América - RN,ABC - RN,1,0,1,0,0,3,0
+1,C,2016,Arena Pantanal,Cuiaba,MT,Sábado,21, Maio ,2016,19:00,Cuiabá - MT,Remo - PA,1,1,0,0,1,1,1
+2,C,2016,Castelão,Fortaleza,CE,Segunda,23, Maio ,2016,20:00,Fortaleza - CE,Ríver - PI,1,1,0,0,1,1,1
+3,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Quarta,25, Maio ,2016,20:30,Salgueiro - PE,Botafogo - PB,1,0,1,0,0,3,0
+4,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,22, Maio ,2016,16:00,Asa - AL,Confiança - SE,1,1,0,0,1,1,1
+5,C,2016,Santa Cruz,Ribeirao Preto,SP,Domingo,22, Maio ,2016,19:00,Botafogo - SP,Mogi Mirim - SP,1,0,1,0,0,3,0
+6,C,2016,Canindé,Sao Paulo,SP,Segunda,23, Maio ,2016,15:00,Portuguesa - SP,Macaé - RJ,1,2,0,1,0,0,3
+7,C,2016,Dilzon Melo,Varginha,MG,Domingo,22, Maio ,2016,16:00,Boa - MG,Tombense - MG,1,1,0,0,1,1,1
+8,C,2016,Brinco de Ouro,Campinas,SP,Domingo,22, Maio ,2016,11:00,Guarani - SP,Guaratinguetá - SP,4,0,1,0,0,3,0
+9,C,2016,Arena do Grêmio,Porto Alegre,RS,Segunda,23, Maio ,2016,20:30,Juventude - RS,Ypiranga - RS,1,1,0,0,1,1,1
+10,C,2016,Frasqueirão,Natal,RN,Sábado,28, Maio ,2016,20:00,ABC - RN,Salgueiro - PE,2,0,1,0,0,3,0
+11,C,2016,Mangueirão,Belem,PA,Segunda,30, Maio ,2016,20:00,Remo - PA,Asa - AL,0,1,0,1,0,0,3
+12,C,2016,Alberto Silva,Teresina,PI,Domingo,29, Maio ,2016,16:00,Ríver - PI,América - RN,2,3,0,1,0,0,3
+13,C,2016,Almeidão,Joao Pessoa,PB,Sábado,28, Maio ,2016,19:00,Botafogo - PB,Cuiabá - MT,1,0,1,0,0,3,0
+14,C,2016,Lourival Baptista,Aracaju,SE,Domingo,29, Maio ,2016,19:00,Confiança - SE,Fortaleza - CE,0,2,0,1,0,0,3
+15,C,2016,Romildo Ferreira,Mogi Mirim,SP,Domingo,29, Maio ,2016,11:00,Mogi Mirim - SP,Portuguesa - SP,0,0,0,0,1,1,1
+16,C,2016,Moacyrzão,Macae,RJ,Sábado,28, Maio ,2016,16:00,Macaé - RJ,Boa - MG,1,5,0,1,0,0,3
+17,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Sábado,28, Maio ,2016,15:30,Tombense - MG,Guarani - SP,1,1,0,0,1,1,1
+18,C,2016,Agostinho Prada,Limeira,SP,Domingo,29, Maio ,2016,11:00,Guaratinguetá - SP,Juventude - RS,0,5,0,1,0,0,3
+19,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,29, Maio ,2016,16:00,Ypiranga - RS,Botafogo - SP,2,1,1,0,0,3,0
+20,C,2016,Arena das Dunas,Natal,RN,Segunda,6, Junho ,2016,20:00,América - RN,Fortaleza - CE,0,3,0,1,0,0,3
+21,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,5, Junho ,2016,17:00,Cuiabá - MT,Confiança - SE,3,0,1,0,0,3,0
+22,C,2016,Alberto Silva,Teresina,PI,Domingo,5, Junho ,2016,19:00,Ríver - PI,Remo - PA,1,2,0,1,0,0,3
+23,C,2016,Almeidão,Joao Pessoa,PB,Domingo,5, Junho ,2016,16:00,Botafogo - PB,ABC - RN,2,0,1,0,0,3,0
+24,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,5, Junho ,2016,16:00,Asa - AL,Salgueiro - PE,0,0,0,0,1,1,1
+25,C,2016,Santa Cruz,Ribeirao Preto,SP,Domingo,5, Junho ,2016,16:00,Botafogo - SP,Boa - MG,2,0,1,0,0,3,0
+26,C,2016,Canindé,Sao Paulo,SP,Sábado,4, Junho ,2016,16:00,Portuguesa - SP,Ypiranga - RS,3,1,1,0,0,3,0
+27,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Sábado,4, Junho ,2016,15:30,Tombense - MG,Macaé - RJ,1,0,1,0,0,3,0
+28,C,2016,Agostinho Prada,Limeira,SP,Domingo,5, Junho ,2016,11:00,Guaratinguetá - SP,Mogi Mirim - SP,0,1,0,1,0,0,3
+29,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Sábado,4, Junho ,2016,19:00,Juventude - RS,Guarani - SP,0,2,0,1,0,0,3
+30,C,2016,Frasqueirão,Natal,RN,Sábado,11, Junho ,2016,19:00,ABC - RN,Confiança - SE,0,0,0,0,1,1,1
+31,C,2016,Mangueirão,Belem,PA,Sábado,11, Junho ,2016,18:00,Remo - PA,Botafogo - PB,0,0,0,0,1,1,1
+32,C,2016,Castelão,Fortaleza,CE,Domingo,12, Junho ,2016,19:00,Fortaleza - CE,Cuiabá - MT,2,0,1,0,0,3,0
+33,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,12, Junho ,2016,19:00,Salgueiro - PE,América - RN,2,0,1,0,0,3,0
+34,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,12, Junho ,2016,16:00,Asa - AL,Ríver - PI,0,0,0,0,1,1,1
+35,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,11, Junho ,2016,15:30,Mogi Mirim - SP,Tombense - MG,1,1,0,0,1,1,1
+36,C,2016,Canindé,Sao Paulo,SP,Domingo,12, Junho ,2016,11:00,Portuguesa - SP,Botafogo - SP,0,5,0,1,0,0,3
+37,C,2016,Dilzon Melo,Varginha,MG,Segunda,13, Junho ,2016,19:00,Boa - MG,Juventude - RS,2,1,1,0,0,3,0
+38,C,2016,Brinco de Ouro,Campinas,SP,Domingo,12, Junho ,2016,16:00,Guarani - SP,Macaé - RJ,1,0,1,0,0,3,0
+39,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,12, Junho ,2016,15:00,Ypiranga - RS,Guaratinguetá - SP,3,2,1,0,0,3,0
+40,C,2016,Arena das Dunas,Natal,RN,Domingo,19, Junho ,2016,16:00,América - RN,Asa - AL,1,2,0,1,0,0,3
+41,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,19, Junho ,2016,17:00,Cuiabá - MT,Salgueiro - PE,0,0,0,0,1,1,1
+42,C,2016,Castelão,Fortaleza,CE,Sábado,18, Junho ,2016,18:00,Fortaleza - CE,ABC - RN,0,1,0,1,0,0,3
+43,C,2016,Almeidão,Joao Pessoa,PB,Domingo,19, Junho ,2016,16:00,Botafogo - PB,Ríver - PI,2,1,1,0,0,3,0
+44,C,2016,Lourival Baptista,Aracaju,SE,Domingo,19, Junho ,2016,19:00,Confiança - SE,Remo - PA,3,5,0,1,0,0,3
+45,C,2016,Santa Cruz,Ribeirao Preto,SP,Segunda,20, Junho ,2016,20:00,Botafogo - SP,Guaratinguetá - SP,6,2,1,0,0,3,0
+46,C,2016,Moacyrzão,Macae,RJ,Sábado,18, Junho ,2016,16:00,Macaé - RJ,Mogi Mirim - SP,0,1,0,1,0,0,3
+47,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Sábado,18, Junho ,2016,15:30,Tombense - MG,Ypiranga - RS,4,0,1,0,0,3,0
+48,C,2016,Brinco de Ouro,Campinas,SP,Domingo,19, Junho ,2016,11:00,Guarani - SP,Boa - MG,2,1,1,0,0,3,0
+49,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Sábado,18, Junho ,2016,19:00,Juventude - RS,Portuguesa - SP,1,2,0,1,0,0,3
+50,C,2016,Arena das Dunas,Natal,RN,Sábado,25, Junho ,2016,19:00,América - RN,Botafogo - PB,1,1,0,0,1,1,1
+51,C,2016,Mangueirão,Belem,PA,Sábado,25, Junho ,2016,18:00,Remo - PA,ABC - RN,1,1,0,0,1,1,1
+52,C,2016,Alberto Silva,Teresina,PI,Domingo,26, Junho ,2016,16:00,Ríver - PI,Confiança - SE,1,2,0,1,0,0,3
+53,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,26, Junho ,2016,19:00,Salgueiro - PE,Fortaleza - CE,1,1,0,0,1,1,1
+54,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,26, Junho ,2016,16:00,Asa - AL,Cuiabá - MT,1,0,1,0,0,3,0
+55,C,2016,Santa Cruz,Ribeirao Preto,SP,Domingo,26, Junho ,2016,11:00,Botafogo - SP,Juventude - RS,1,1,0,0,1,1,1
+56,C,2016,Canindé,Sao Paulo,SP,Segunda,27, Junho ,2016,20:00,Portuguesa - SP,Guarani - SP,0,0,0,0,1,1,1
+57,C,2016,Dilzon Melo,Varginha,MG,Domingo,26, Junho ,2016,16:00,Boa - MG,Mogi Mirim - SP,1,1,0,0,1,1,1
+58,C,2016,Agostinho Prada,Limeira,SP,Domingo,26, Junho ,2016,11:00,Guaratinguetá - SP,Tombense - MG,2,2,0,0,1,1,1
+59,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,26, Junho ,2016,15:00,Ypiranga - RS,Macaé - RJ,2,0,1,0,0,3,0
+60,C,2016,Frasqueirão,Natal,RN,Sábado,2, Julho ,2016,19:00,ABC - RN,Ríver - PI,4,0,1,0,0,3,0
+61,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,3, Julho ,2016,19:00,Cuiabá - MT,América - RN,2,2,0,0,1,1,1
+62,C,2016,Castelão,Fortaleza,CE,Domingo,3, Julho ,2016,18:00,Fortaleza - CE,Asa - AL,2,1,1,0,0,3,0
+63,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Segunda,4, Julho ,2016,19:15,Salgueiro - PE,Remo - PA,1,0,1,0,0,3,0
+64,C,2016,Lourival Baptista,Aracaju,SE,Domingo,3, Julho ,2016,16:00,Confiança - SE,Botafogo - PB,1,1,0,0,1,1,1
+65,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,2, Julho ,2016,15:30,Mogi Mirim - SP,Ypiranga - RS,3,1,1,0,0,3,0
+66,C,2016,Moacyrzão,Macae,RJ,Sábado,2, Julho ,2016,16:00,Macaé - RJ,Guaratinguetá - SP,3,1,1,0,0,3,0
+67,C,2016,Dilzon Melo,Varginha,MG,Domingo,3, Julho ,2016,11:00,Boa - MG,Portuguesa - SP,1,0,1,0,0,3,0
+68,C,2016,Brinco de Ouro,Campinas,SP,Sábado,2, Julho ,2016,19:00,Guarani - SP,Botafogo - SP,0,0,0,0,1,1,1
+69,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,3, Julho ,2016,16:00,Juventude - RS,Tombense - MG,3,0,1,0,0,3,0
+70,C,2016,Frasqueirão,Natal,RN,Domingo,10, Julho ,2016,16:00,ABC - RN,Cuiabá - MT,2,1,1,0,0,3,0
+71,C,2016,Mangueirão,Belem,PA,Domingo,10, Julho ,2016,18:30,Remo - PA,Fortaleza - CE,2,0,1,0,0,3,0
+72,C,2016,Alberto Silva,Teresina,PI,Domingo,10, Julho ,2016,16:00,Ríver - PI,Salgueiro - PE,1,0,1,0,0,3,0
+73,C,2016,Almeidão,Joao Pessoa,PB,Domingo,10, Julho ,2016,16:00,Botafogo - PB,Asa - AL,2,0,1,0,0,3,0
+74,C,2016,Lourival Baptista,Aracaju,SE,Domingo,10, Julho ,2016,19:00,Confiança - SE,América - RN,0,2,0,1,0,0,3
+75,C,2016,Romildo Ferreira,Mogi Mirim,SP,Segunda,11, Julho ,2016,19:15,Mogi Mirim - SP,Guarani - SP,1,0,1,0,0,3,0
+76,C,2016,Moacyrzão,Macae,RJ,Sábado,9, Julho ,2016,19:00,Macaé - RJ,Juventude - RS,1,2,0,1,0,0,3
+77,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Domingo,10, Julho ,2016,11:00,Tombense - MG,Botafogo - SP,3,1,1,0,0,3,0
+78,C,2016,Agostinho Prada,Limeira,SP,Sábado,9, Julho ,2016,19:00,Guaratinguetá - SP,Portuguesa - SP,2,1,1,0,0,3,0
+79,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,10, Julho ,2016,15:00,Ypiranga - RS,Boa - MG,1,0,1,0,0,3,0
+80,C,2016,Arena das Dunas,Natal,RN,Sábado,16, Julho ,2016,16:00,América - RN,Remo - PA,1,1,0,0,1,1,1
+81,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,17, Julho ,2016,16:00,Cuiabá - MT,Ríver - PI,0,1,0,1,0,0,3
+82,C,2016,Castelão,Fortaleza,CE,Domingo,17, Julho ,2016,19:00,Fortaleza - CE,Botafogo - PB,1,0,1,0,0,3,0
+83,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,17, Julho ,2016,16:00,Salgueiro - PE,Confiança - SE,1,1,0,0,1,1,1
+84,C,2016,Coaracy Fonseca,Arapiraca,AL,Sábado,16, Julho ,2016,19:00,Asa - AL,ABC - RN,2,1,1,0,0,3,0
+85,C,2016,Santa Cruz,Ribeirao Preto,SP,Domingo,17, Julho ,2016,16:00,Botafogo - SP,Macaé - RJ,1,1,0,0,1,1,1
+86,C,2016,Canindé,Sao Paulo,SP,Segunda,18, Julho ,2016,19:15,Portuguesa - SP,Tombense - MG,0,2,0,1,0,0,3
+87,C,2016,Dilzon Melo,Varginha,MG,Sábado,16, Julho ,2016,16:00,Boa - MG,Guaratinguetá - SP,4,0,1,0,0,3,0
+88,C,2016,Brinco de Ouro,Campinas,SP,Domingo,17, Julho ,2016,11:30,Guarani - SP,Ypiranga - RS,2,1,1,0,0,3,0
+89,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,17, Julho ,2016,15:30,Juventude - RS,Mogi Mirim - SP,2,1,1,0,0,3,0
+90,C,2016,Frasqueirão,Natal,RN,Sábado,23, Julho ,2016,19:00,ABC - RN,América - RN,1,0,1,0,0,3,0
+91,C,2016,Mangueirão,Belem,PA,Segunda,25, Julho ,2016,19:15,Remo - PA,Cuiabá - MT,2,0,1,0,0,3,0
+92,C,2016,Alberto Silva,Teresina,PI,Sábado,23, Julho ,2016,16:00,Ríver - PI,Fortaleza - CE,1,1,0,0,1,1,1
+93,C,2016,Almeidão,Joao Pessoa,PB,Domingo,24, Julho ,2016,19:00,Botafogo - PB,Salgueiro - PE,2,0,1,0,0,3,0
+94,C,2016,Lourival Baptista,Aracaju,SE,Domingo,24, Julho ,2016,16:00,Confiança - SE,Asa - AL,1,0,1,0,0,3,0
+95,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,23, Julho ,2016,15:30,Mogi Mirim - SP,Botafogo - SP,0,0,0,0,1,1,1
+96,C,2016,Moacyrzão,Macae,RJ,Sábado,23, Julho ,2016,16:00,Macaé - RJ,Portuguesa - SP,1,0,1,0,0,3,0
+97,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Domingo,24, Julho ,2016,11:00,Tombense - MG,Boa - MG,0,1,0,1,0,0,3
+98,C,2016,Agostinho Prada,Limeira,SP,Domingo,24, Julho ,2016,16:00,Guaratinguetá - SP,Guarani - SP,0,1,0,1,0,0,3
+99,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,24, Julho ,2016,11:30,Ypiranga - RS,Juventude - RS,0,0,0,0,1,1,1
+100,C,2016,Nazarenão,Goianinha,RN,Domingo,31, Julho ,2016,16:00,América - RN,Ríver - PI,1,1,0,0,1,1,1
+101,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,31, Julho ,2016,16:00,Cuiabá - MT,Botafogo - PB,2,0,1,0,0,3,0
+102,C,2016,Castelão,Fortaleza,CE,Domingo,31, Julho ,2016,19:00,Fortaleza - CE,Confiança - SE,2,2,0,0,1,1,1
+103,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Segunda,1, Agosto ,2016,19:15,Salgueiro - PE,ABC - RN,1,0,1,0,0,3,0
+104,C,2016,Coaracy Fonseca,Arapiraca,AL,Sábado,30, Julho ,2016,20:30,Asa - AL,Remo - PA,2,2,0,0,1,1,1
+105,C,2016,Santa Cruz,Ribeirao Preto,SP,Domingo,31, Julho ,2016,19:00,Botafogo - SP,Ypiranga - RS,1,0,1,0,0,3,0
+106,C,2016,Canindé,Sao Paulo,SP,Sábado,30, Julho ,2016,19:00,Portuguesa - SP,Mogi Mirim - SP,1,0,1,0,0,3,0
+107,C,2016,Dilzon Melo,Varginha,MG,Domingo,31, Julho ,2016,11:00,Boa - MG,Macaé - RJ,2,0,1,0,0,3,0
+108,C,2016,Brinco de Ouro,Campinas,SP,Domingo,31, Julho ,2016,11:30,Guarani - SP,Tombense - MG,2,0,1,0,0,3,0
+109,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,31, Julho ,2016,16:00,Juventude - RS,Guaratinguetá - SP,4,0,1,0,0,3,0
+110,C,2016,Frasqueirão,Natal,RN,Domingo,7, Agosto ,2016,16:00,ABC - RN,Botafogo - PB,1,1,0,0,1,1,1
+111,C,2016,Mangueirão,Belem,PA,Sábado,6, Agosto ,2016,19:00,Remo - PA,Ríver - PI,1,0,1,0,0,3,0
+112,C,2016,Castelão,Fortaleza,CE,Domingo,7, Agosto ,2016,19:00,Fortaleza - CE,América - RN,2,1,1,0,0,3,0
+113,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,7, Agosto ,2016,16:00,Salgueiro - PE,Asa - AL,0,1,0,1,0,0,3
+114,C,2016,Lourival Baptista,Aracaju,SE,Domingo,7, Agosto ,2016,16:00,Confiança - SE,Cuiabá - MT,1,1,0,0,1,1,1
+115,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,6, Agosto ,2016,15:30,Mogi Mirim - SP,Guaratinguetá - SP,2,1,1,0,0,3,0
+116,C,2016,Moacyrzão,Macae,RJ,Sábado,6, Agosto ,2016,16:00,Macaé - RJ,Tombense - MG,0,0,0,0,1,1,1
+117,C,2016,Dilzon Melo,Varginha,MG,Domingo,7, Agosto ,2016,11:00,Boa - MG,Botafogo - SP,0,0,0,0,1,1,1
+118,C,2016,Brinco de Ouro,Campinas,SP,Segunda,8, Agosto ,2016,19:15,Guarani - SP,Juventude - RS,1,1,0,0,1,1,1
+119,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,7, Agosto ,2016,11:00,Ypiranga - RS,Portuguesa - SP,1,0,1,0,0,3,0
+120,C,2016,Arena das Dunas,Natal,RN,Sábado,13, Agosto ,2016,16:00,América - RN,Salgueiro - PE,2,0,1,0,0,3,0
+121,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,14, Agosto ,2016,19:00,Cuiabá - MT,Fortaleza - CE,2,0,1,0,0,3,0
+122,C,2016,Alberto Silva,Teresina,PI,Domingo,14, Agosto ,2016,16:00,Ríver - PI,Asa - AL,0,0,0,0,1,1,1
+123,C,2016,Almeidão,Joao Pessoa,PB,Sábado,13, Agosto ,2016,18:00,Botafogo - PB,Remo - PA,2,0,1,0,0,3,0
+124,C,2016,Lourival Baptista,Aracaju,SE,Domingo,14, Agosto ,2016,16:00,Confiança - SE,ABC - RN,1,1,0,0,1,1,1
+125,C,2016,Santa Cruz,Ribeirao Preto,SP,Segunda,15, Agosto ,2016,19:15,Botafogo - SP,Portuguesa - SP,2,1,1,0,0,3,0
+126,C,2016,Moacyrzão,Macae,RJ,Sábado,13, Agosto ,2016,16:00,Macaé - RJ,Guarani - SP,2,4,0,1,0,0,3
+127,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Domingo,14, Agosto ,2016,11:00,Tombense - MG,Mogi Mirim - SP,4,0,1,0,0,3,0
+128,C,2016,Nicolau Alayon,Sao Paulo,SP,Domingo,14, Agosto ,2016,11:00,Guaratinguetá - SP,Ypiranga - RS,1,3,0,1,0,0,3
+129,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,14, Agosto ,2016,11:00,Juventude - RS,Boa - MG,1,1,0,0,1,1,1
+130,C,2016,Frasqueirão,Natal,RN,Sábado,20, Agosto ,2016,20:00,ABC - RN,Fortaleza - CE,2,1,1,0,0,3,0
+131,C,2016,Mangueirão,Belem,PA,Segunda,22, Agosto ,2016,19:15,Remo - PA,Confiança - SE,2,0,1,0,0,3,0
+132,C,2016,Alberto Silva,Teresina,PI,Sábado,20, Agosto ,2016,16:00,Ríver - PI,Botafogo - PB,2,2,0,0,1,1,1
+133,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,21, Agosto ,2016,16:00,Salgueiro - PE,Cuiabá - MT,2,2,0,0,1,1,1
+134,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,21, Agosto ,2016,19:00,Asa - AL,América - RN,2,0,1,0,0,3,0
+135,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,20, Agosto ,2016,15:30,Mogi Mirim - SP,Macaé - RJ,0,0,0,0,1,1,1
+136,C,2016,Canindé,Sao Paulo,SP,Sábado,20, Agosto ,2016,15:00,Portuguesa - SP,Juventude - RS,1,2,0,1,0,0,3
+137,C,2016,Dilzon Melo,Varginha,MG,Domingo,21, Agosto ,2016,19:30,Boa - MG,Guarani - SP,1,0,1,0,0,3,0
+138,C,2016,Frederico Dalmaso,Sertaozinho,SP,Domingo,21, Agosto ,2016,11:00,Guaratinguetá - SP,Botafogo - SP,0,4,0,1,0,0,3
+139,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,21, Agosto ,2016,15:00,Ypiranga - RS,Tombense - MG,2,1,1,0,0,3,0
+140,C,2016,Frasqueirão,Natal,RN,Segunda,29, Agosto ,2016,19:15,ABC - RN,Remo - PA,2,0,1,0,0,3,0
+141,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,28, Agosto ,2016,16:00,Cuiabá - MT,Asa - AL,2,0,1,0,0,3,0
+142,C,2016,Castelão,Fortaleza,CE,Sábado,27, Agosto ,2016,16:00,Fortaleza - CE,Salgueiro - PE,3,1,1,0,0,3,0
+143,C,2016,Almeidão,Joao Pessoa,PB,Sábado,27, Agosto ,2016,19:00,Botafogo - PB,América - RN,1,2,0,1,0,0,3
+144,C,2016,Lourival Baptista,Aracaju,SE,Domingo,28, Agosto ,2016,16:00,Confiança - SE,Ríver - PI,4,1,1,0,0,3,0
+145,C,2016,Romildo Ferreira,Mogi Mirim,SP,Sábado,27, Agosto ,2016,15:30,Mogi Mirim - SP,Boa - MG,0,0,0,0,1,1,1
+146,C,2016,Moacyrzão,Macae,RJ,Sábado,27, Agosto ,2016,16:00,Macaé - RJ,Ypiranga - RS,0,2,0,1,0,0,3
+147,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Domingo,28, Agosto ,2016,11:00,Tombense - MG,Guaratinguetá - SP,2,1,1,0,0,3,0
+148,C,2016,Brinco de Ouro,Campinas,SP,Domingo,28, Agosto ,2016,19:30,Guarani - SP,Portuguesa - SP,1,0,1,0,0,3,0
+149,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,28, Agosto ,2016,19:00,Juventude - RS,Botafogo - SP,0,0,0,0,1,1,1
+150,C,2016,Arena das Dunas,Natal,RN,Domingo,4, Setembro ,2016,16:00,América - RN,Cuiabá - MT,0,1,0,1,0,0,3
+151,C,2016,Mangueirão,Belem,PA,Domingo,4, Setembro ,2016,18:30,Remo - PA,Salgueiro - PE,1,1,0,0,1,1,1
+152,C,2016,Lindolfo Monteiro,Teresina,PI,Segunda,5, Setembro ,2016,19:15,Ríver - PI,ABC - RN,0,2,0,1,0,0,3
+153,C,2016,Almeidão,Joao Pessoa,PB,Domingo,4, Setembro ,2016,16:00,Botafogo - PB,Confiança - SE,2,1,1,0,0,3,0
+154,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,4, Setembro ,2016,16:00,Asa - AL,Fortaleza - CE,1,1,0,0,1,1,1
+155,C,2016,Santa Cruz,Ribeirao Preto,SP,Segunda,5, Setembro ,2016,19:15,Botafogo - SP,Guarani - SP,1,2,0,1,0,0,3
+156,C,2016,Canindé,Sao Paulo,SP,Domingo,4, Setembro ,2016,11:00,Portuguesa - SP,Boa - MG,0,2,0,1,0,0,3
+157,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Sábado,3, Setembro ,2016,15:00,Tombense - MG,Juventude - RS,3,0,1,0,0,3,0
+158,C,2016,Frederico Dalmaso,Sertaozinho,SP,Domingo,4, Setembro ,2016,11:00,Guaratinguetá - SP,Macaé - RJ,0,3,0,1,0,0,3
+159,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,4, Setembro ,2016,15:00,Ypiranga - RS,Mogi Mirim - SP,0,0,0,0,1,1,1
+160,C,2016,Arena das Dunas,Natal,RN,Sábado,10, Setembro ,2016,19:00,América - RN,Confiança - SE,0,2,0,1,0,0,3
+161,C,2016,Arena Pantanal,Cuiaba,MT,Domingo,11, Setembro ,2016,16:00,Cuiabá - MT,ABC - RN,2,2,0,0,1,1,1
+162,C,2016,Castelão,Fortaleza,CE,Sábado,10, Setembro ,2016,20:00,Fortaleza - CE,Remo - PA,4,1,1,0,0,3,0
+163,C,2016,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,11, Setembro ,2016,16:00,Salgueiro - PE,Ríver - PI,1,0,1,0,0,3,0
+164,C,2016,Coaracy Fonseca,Arapiraca,AL,Domingo,11, Setembro ,2016,16:00,Asa - AL,Botafogo - PB,0,0,0,0,1,1,1
+165,C,2016,Santa Cruz,Ribeirao Preto,SP,Sábado,10, Setembro ,2016,19:00,Botafogo - SP,Tombense - MG,1,0,1,0,0,3,0
+166,C,2016,José Liberatti,Osasco,SP,Domingo,11, Setembro ,2016,19:30,Portuguesa - SP,Guaratinguetá - SP,3,1,1,0,0,3,0
+167,C,2016,Dilzon Melo,Varginha,MG,Domingo,11, Setembro ,2016,11:00,Boa - MG,Ypiranga - RS,2,0,1,0,0,3,0
+168,C,2016,Brinco de Ouro,Campinas,SP,Segunda,12, Setembro ,2016,19:15,Guarani - SP,Mogi Mirim - SP,1,0,1,0,0,3,0
+169,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Domingo,11, Setembro ,2016,11:30,Juventude - RS,Macaé - RJ,2,1,1,0,0,3,0
+170,C,2016,Frasqueirão,Natal,RN,Domingo,18, Setembro ,2016,19:00,ABC - RN,Asa - AL,2,2,0,0,1,1,1
+171,C,2016,Mangueirão,Belem,PA,Domingo,18, Setembro ,2016,19:00,Remo - PA,América - RN,0,0,0,0,1,1,1
+172,C,2016,Lindolfo Monteiro,Teresina,PI,Domingo,18, Setembro ,2016,19:00,Ríver - PI,Cuiabá - MT,0,0,0,0,1,1,1
+173,C,2016,Almeidão,Joao Pessoa,PB,Domingo,18, Setembro ,2016,19:00,Botafogo - PB,Fortaleza - CE,0,0,0,0,1,1,1
+174,C,2016,Lourival Baptista,Aracaju,SE,Domingo,18, Setembro ,2016,19:00,Confiança - SE,Salgueiro - PE,2,1,1,0,0,3,0
+175,C,2016,Romildo Ferreira,Mogi Mirim,SP,Domingo,18, Setembro ,2016,16:00,Mogi Mirim - SP,Juventude - RS,1,2,0,1,0,0,3
+176,C,2016,Moacyrzão,Macae,RJ,Domingo,18, Setembro ,2016,16:00,Macaé - RJ,Botafogo - SP,1,1,0,0,1,1,1
+177,C,2016,Antônio Guimarães de Almeida,Tombos,MG,Domingo,18, Setembro ,2016,16:00,Tombense - MG,Portuguesa - SP,2,0,1,0,0,3,0
+178,C,2016,Frederico Dalmaso,Sertaozinho,SP,Domingo,18, Setembro ,2016,16:00,Guaratinguetá - SP,Boa - MG,0,4,0,1,0,0,3
+179,C,2016,Colosso da Lagoa,Erechim,RS,Domingo,18, Setembro ,2016,16:00,Ypiranga - RS,Guarani - SP,2,2,0,0,1,1,1
+180,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Segunda,3, Outubro ,2016,19:15,Juventude - RS,Fortaleza - CE,0,0,0,0,1,1,1
+181,C,2016,Almeidão,Joao Pessoa,PB,Sexta,30, Setembro ,2016,21:00,Botafogo - PB,Boa - MG,0,0,0,0,1,1,1
+182,C,2016,Santa Cruz,Ribeirao Preto,SP,Sexta,30, Setembro ,2016,19:00,Botafogo - SP,ABC - RN,0,0,0,0,1,1,1
+183,C,2016,Coaracy Fonseca,Arapiraca,AL,Sábado,1, Outubro ,2016,19:00,Asa - AL,Guarani - SP,3,1,1,0,0,3,0
+184,C,2016,Castelão,Fortaleza,CE,Domingo,9, Outubro ,2016,19:00,Fortaleza - CE,Juventude - RS,1,1,0,0,1,1,1
+185,C,2016,Dilzon Melo,Varginha,MG,Domingo,9, Outubro ,2016,11:00,Boa - MG,Botafogo - PB,1,0,1,0,0,3,0
+186,C,2016,Frasqueirão,Natal,RN,Sexta,7, Outubro ,2016,19:00,ABC - RN,Botafogo - SP,1,0,1,0,0,3,0
+187,C,2016,Brinco de Ouro,Campinas,SP,Sábado,8, Outubro ,2016,18:30,Guarani - SP,Asa - AL,3,0,1,0,0,3,0
+188,C,2016,Alfredo Jaconi,Caxias do Sul,RS,Sábado,15, Outubro ,2016,18:30,Juventude - RS,Boa - MG,1,2,0,1,0,0,3
+189,C,2016,Dilzon Melo,Varginha,MG,Sábado,22, Outubro ,2016,21:00,Boa - MG,Juventude - RS,2,1,1,0,0,3,0
+190,C,2016,Frasqueirão,Natal,RN,Domingo,16, Outubro ,2016,21:00,ABC - RN,Guarani - SP,4,0,1,0,0,3,0
+191,C,2016,Brinco de Ouro,Campinas,SP,Domingo,23, Outubro ,2016,21:00,Guarani - SP,ABC - RN,6,0,1,0,0,3,0
+192,C,2016,Brinco de Ouro,Campinas,SP,Sábado,29, Outubro ,2016,19:15,Guarani - SP,Boa - MG,1,1,0,0,1,1,1
+193,C,2016,Dilzon Melo,Varginha,MG,Sábado,5, Novembro ,2016,18:45,Boa - MG,Guarani - SP,3,0,1,0,0,3,0

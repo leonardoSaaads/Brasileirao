@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2021,São Januário,Rio de Janeiro,RJ,Sábado,29, Maio ,2021,11:00,Vasco da Gama - RJ,Operário - PR,0,2,0,1,0,0,3
+1,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sexta,28, Maio ,2021,21:30,Vila Nova - GO,Botafogo - RJ,1,1,0,0,1,1,1
+2,B,2021,Brinco de Ouro,Campinas,SP,Sexta,28, Maio ,2021,19:00,Guarani - SP,Vitória - BA,1,1,0,0,1,1,1
+3,B,2021,Aflitos,Recife,PE,Sexta,28, Maio ,2021,21:30,Náutico - PE,Csa - AL,1,0,1,0,0,3,0
+4,B,2021,Bento Freitas,Pelotas,RS,Sexta,28, Maio ,2021,16:00,Brasil - RS,Londrina - PR,0,0,0,0,1,1,1
+5,B,2021,Rei Pelé,Maceio,AL,Sábado,29, Maio ,2021,16:00,Crb - AL,Remo - PA,2,2,0,0,1,1,1
+6,B,2021,Couto Pereira,Curitiba,PR,Sábado,29, Maio ,2021,18:15,Coritiba - PR,Avaí - SC,2,0,1,0,0,3,0
+7,B,2021,Augusto Bauer,Brusque,SC,Domingo,30, Maio ,2021,11:00,Brusque - SC,Ponte Preta - SP,2,1,1,0,0,3,0
+8,B,2021,Batistão,Aracaju,SE,Sábado,29, Maio ,2021,16:30,Confiança - SE,Cruzeiro - MG,3,1,1,0,0,3,0
+9,B,2021,Castelão,Sao Luis,MA,Segunda,31, Maio ,2021,20:00,Sampaio Corrêa - MA,Goiás - GO,0,0,0,0,1,1,1
+10,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,5, Junho ,2021,21:00,Botafogo - RJ,Coritiba - PR,2,0,1,0,0,3,0
+11,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,4, Junho ,2021,17:30,Goiás - GO,Confiança - SE,2,0,1,0,0,3,0
+12,B,2021,Moisés Lucarelli,Campinas,SP,Domingo,6, Junho ,2021,16:00,Ponte Preta - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+13,B,2021,Mineirão,Belo Horizonte,MG,Domingo,6, Junho ,2021,18:15,Cruzeiro - MG,Crb - AL,3,4,0,1,0,0,3
+14,B,2021,Do Café,Londrina,PR,Sábado,5, Junho ,2021,11:00,Londrina - PR,Brusque - SC,0,1,0,1,0,0,3
+15,B,2021,Rei Pelé,Maceio,AL,Sábado,5, Junho ,2021,16:30,Csa - AL,Sampaio Corrêa - MA,0,0,0,0,1,1,1
+16,B,2021,Couto Pereira,Curitiba,PR,Terça,1, Junho ,2021,19:00,Operário - PR,Guarani - SP,2,5,0,1,0,0,3
+17,B,2021,Ressacada,Florianopolis,SC,Domingo,6, Junho ,2021,20:30,Avaí - SC,Vila Nova - GO,1,1,0,0,1,1,1
+18,B,2021,Manoel Barradas,Salvador,BA,Segunda,7, Junho ,2021,20:00,Vitória - BA,Náutico - PE,0,1,0,1,0,0,3
+19,B,2021,Baenão,Belem,PA,Sábado,5, Junho ,2021,19:00,Remo - PA,Brasil - RS,1,0,1,0,0,3,0
+20,B,2021,Raulino de Oliveira,Volta Redonda,RJ,Domingo,13, Junho ,2021,16:00,Botafogo - RJ,Remo - PA,3,0,1,0,0,3,0
+21,B,2021,Anibal Batista de Toledo,Aparecida de Goiania,GO,Sábado,12, Junho ,2021,19:00,Vila Nova - GO,Csa - AL,1,0,1,0,0,3,0
+22,B,2021,Brinco de Ouro,Campinas,SP,Sexta,11, Junho ,2021,21:30,Guarani - SP,Náutico - PE,1,3,0,1,0,0,3
+23,B,2021,Mineirão,Belo Horizonte,MG,Sábado,12, Junho ,2021,21:00,Cruzeiro - MG,Goiás - GO,1,1,0,0,1,1,1
+24,B,2021,Bento Freitas,Pelotas,RS,Sábado,12, Junho ,2021,19:00,Brasil - RS,Vasco da Gama - RJ,1,2,0,1,0,0,3
+25,B,2021,Rei Pelé,Maceio,AL,Sábado,12, Junho ,2021,16:30,Crb - AL,Confiança - SE,3,2,1,0,0,3,0
+26,B,2021,Couto Pereira,Curitiba,PR,Domingo,13, Junho ,2021,20:30,Coritiba - PR,Londrina - PR,1,1,0,0,1,1,1
+27,B,2021,Ressacada,Florianopolis,SC,Domingo,13, Junho ,2021,16:00,Avaí - SC,Brusque - SC,1,2,0,1,0,0,3
+28,B,2021,Manoel Barradas,Salvador,BA,Domingo,13, Junho ,2021,20:30,Vitória - BA,Operário - PR,0,0,0,0,1,1,1
+29,B,2021,Castelão,Sao Luis,MA,Sexta,11, Junho ,2021,19:00,Sampaio Corrêa - MA,Ponte Preta - SP,1,0,1,0,0,3,0
+30,B,2021,São Januário,Rio de Janeiro,RJ,Quarta,16, Junho ,2021,19:00,Vasco da Gama - RJ,Avaí - SC,0,2,0,1,0,0,3
+31,B,2021,Hailé Pinheiro,Goiania,GO,Terça,15, Junho ,2021,21:30,Goiás - GO,Crb - AL,1,0,1,0,0,3,0
+32,B,2021,Moisés Lucarelli,Campinas,SP,Quarta,16, Junho ,2021,21:30,Ponte Preta - SP,Cruzeiro - MG,0,1,0,1,0,0,3
+33,B,2021,Aflitos,Recife,PE,Terça,15, Junho ,2021,19:00,Náutico - PE,Vila Nova - GO,2,0,1,0,0,3,0
+34,B,2021,Do Café,Londrina,PR,Quinta,17, Junho ,2021,19:00,Londrina - PR,Botafogo - RJ,2,2,0,0,1,1,1
+35,B,2021,Rei Pelé,Maceio,AL,Terça,15, Junho ,2021,19:00,Csa - AL,Guarani - SP,1,1,0,0,1,1,1
+36,B,2021,Germano Kruger,Ponta Grossa,PR,Quarta,16, Junho ,2021,18:00,Operário - PR,Sampaio Corrêa - MA,1,0,1,0,0,3,0
+37,B,2021,Augusto Bauer,Brusque,SC,Terça,3, Agosto ,2021,19:00,Brusque - SC,Coritiba - PR,0,0,0,0,1,1,1
+38,B,2021,Batistão,Aracaju,SE,Terça,15, Junho ,2021,21:30,Confiança - SE,Brasil - RS,1,1,0,0,1,1,1
+39,B,2021,Baenão,Belem,PA,Quarta,16, Junho ,2021,16:00,Remo - PA,Vitória - BA,0,0,0,0,1,1,1
+40,B,2021,São Januário,Rio de Janeiro,RJ,Sábado,19, Junho ,2021,16:30,Vasco da Gama - RJ,Crb - AL,3,0,1,0,0,3,0
+41,B,2021,Anibal Batista de Toledo,Aparecida de Goiania,GO,Sábado,19, Junho ,2021,21:00,Vila Nova - GO,Coritiba - PR,0,1,0,1,0,0,3
+42,B,2021,Brinco de Ouro,Campinas,SP,Sábado,19, Junho ,2021,18:30,Guarani - SP,Ponte Preta - SP,1,0,1,0,0,3,0
+43,B,2021,Aflitos,Recife,PE,Domingo,20, Junho ,2021,16:00,Náutico - PE,Botafogo - RJ,3,1,1,0,0,3,0
+44,B,2021,Bento Freitas,Pelotas,RS,Sexta,18, Junho ,2021,21:30,Brasil - RS,Goiás - GO,2,1,1,0,0,3,0
+45,B,2021,Rei Pelé,Maceio,AL,Domingo,20, Junho ,2021,20:30,Csa - AL,Londrina - PR,1,0,1,0,0,3,0
+46,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,19, Junho ,2021,19:00,Operário - PR,Cruzeiro - MG,2,1,1,0,0,3,0
+47,B,2021,Ressacada,Florianopolis,SC,Quarta,28, Julho ,2021,19:00,Avaí - SC,Remo - PA,1,0,1,0,0,3,0
+48,B,2021,Manoel Barradas,Salvador,BA,Sábado,19, Junho ,2021,19:00,Vitória - BA,Brusque - SC,3,1,1,0,0,3,0
+49,B,2021,Castelão,Sao Luis,MA,Sábado,19, Junho ,2021,21:00,Sampaio Corrêa - MA,Confiança - SE,3,1,1,0,0,3,0
+50,B,2021,Nilton Santos,Rio de Janeiro,RJ,Terça,27, Julho ,2021,21:30,Botafogo - RJ,Csa - AL,2,0,1,0,0,3,0
+51,B,2021,Hailé Pinheiro,Goiania,GO,Terça,22, Junho ,2021,19:00,Goiás - GO,Avaí - SC,3,0,1,0,0,3,0
+52,B,2021,Moisés Lucarelli,Campinas,SP,Terça,22, Junho ,2021,19:00,Ponte Preta - SP,Operário - PR,0,0,0,0,1,1,1
+53,B,2021,Mineirão,Belo Horizonte,MG,Quinta,24, Junho ,2021,21:30,Cruzeiro - MG,Vasco da Gama - RJ,2,1,1,0,0,3,0
+54,B,2021,Do Café,Londrina,PR,Quarta,23, Junho ,2021,16:00,Londrina - PR,Náutico - PE,0,0,0,0,1,1,1
+55,B,2021,Rei Pelé,Maceio,AL,Terça,22, Junho ,2021,21:30,Crb - AL,Brasil - RS,2,1,1,0,0,3,0
+56,B,2021,Couto Pereira,Curitiba,PR,Terça,22, Junho ,2021,21:30,Coritiba - PR,Vitória - BA,1,0,1,0,0,3,0
+57,B,2021,Augusto Bauer,Brusque,SC,Terça,22, Junho ,2021,16:30,Brusque - SC,Sampaio Corrêa - MA,0,0,0,0,1,1,1
+58,B,2021,Batistão,Aracaju,SE,Terça,22, Junho ,2021,16:30,Confiança - SE,Vila Nova - GO,1,0,1,0,0,3,0
+59,B,2021,Baenão,Belem,PA,Terça,22, Junho ,2021,21:30,Remo - PA,Guarani - SP,0,0,0,0,1,1,1
+60,B,2021,São Januário,Rio de Janeiro,RJ,Domingo,27, Junho ,2021,21:00,Vasco da Gama - RJ,Brusque - SC,2,1,1,0,0,3,0
+61,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sexta,25, Junho ,2021,21:30,Vila Nova - GO,Goiás - GO,0,0,0,0,1,1,1
+62,B,2021,Brinco de Ouro,Campinas,SP,Sexta,25, Junho ,2021,19:00,Guarani - SP,Coritiba - PR,0,2,0,1,0,0,3
+63,B,2021,Aflitos,Recife,PE,Sábado,26, Junho ,2021,21:00,Náutico - PE,Remo - PA,1,1,0,0,1,1,1
+64,B,2021,Bento Freitas,Pelotas,RS,Sexta,25, Junho ,2021,19:00,Brasil - RS,Ponte Preta - SP,1,1,0,0,1,1,1
+65,B,2021,Rei Pelé,Maceio,AL,Domingo,27, Junho ,2021,20:30,Csa - AL,Cruzeiro - MG,2,1,1,0,0,3,0
+66,B,2021,Germano Kruger,Ponta Grossa,PR,Sexta,25, Junho ,2021,19:00,Operário - PR,Confiança - SE,0,0,0,0,1,1,1
+67,B,2021,Ressacada,Florianopolis,SC,Sexta,25, Junho ,2021,16:30,Avaí - SC,Crb - AL,1,0,1,0,0,3,0
+68,B,2021,Manoel Barradas,Salvador,BA,Sábado,26, Junho ,2021,18:30,Vitória - BA,Londrina - PR,1,2,0,1,0,0,3
+69,B,2021,Castelão,Sao Luis,MA,Sábado,26, Junho ,2021,16:30,Sampaio Corrêa - MA,Botafogo - RJ,2,0,1,0,0,3,0
+70,B,2021,Raulino de Oliveira,Volta Redonda,RJ,Quarta,30, Junho ,2021,21:30,Botafogo - RJ,Vitória - BA,1,0,1,0,0,3,0
+71,B,2021,Hailé Pinheiro,Goiania,GO,Quarta,30, Junho ,2021,19:00,Goiás - GO,Vasco da Gama - RJ,1,0,1,0,0,3,0
+72,B,2021,Moisés Lucarelli,Campinas,SP,Quarta,30, Junho ,2021,16:30,Ponte Preta - SP,Csa - AL,2,1,1,0,0,3,0
+73,B,2021,Mineirão,Belo Horizonte,MG,Quarta,30, Junho ,2021,19:00,Cruzeiro - MG,Guarani - SP,3,3,0,0,1,1,1
+74,B,2021,Do Café,Londrina,PR,Quarta,30, Junho ,2021,19:00,Londrina - PR,Avaí - SC,1,3,0,1,0,0,3
+75,B,2021,Rei Pelé,Maceio,AL,Terça,29, Junho ,2021,21:30,Crb - AL,Náutico - PE,1,1,0,0,1,1,1
+76,B,2021,Germano Kruger,Ponta Grossa,PR,Segunda,28, Junho ,2021,18:00,Operário - PR,Vila Nova - GO,1,2,0,1,0,0,3
+77,B,2021,Augusto Bauer,Brusque,SC,Quarta,30, Junho ,2021,17:00,Brusque - SC,Brasil - RS,1,0,1,0,0,3,0
+78,B,2021,Batistão,Aracaju,SE,Terça,29, Junho ,2021,19:00,Confiança - SE,Coritiba - PR,0,1,0,1,0,0,3
+79,B,2021,Baenão,Belem,PA,Terça,29, Junho ,2021,21:30,Remo - PA,Sampaio Corrêa - MA,0,2,0,1,0,0,3
+80,B,2021,São Januário,Rio de Janeiro,RJ,Sábado,3, Julho ,2021,16:30,Vasco da Gama - RJ,Confiança - SE,1,0,1,0,0,3,0
+81,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,3, Julho ,2021,21:30,Vila Nova - GO,Ponte Preta - SP,0,0,0,0,1,1,1
+82,B,2021,Brinco de Ouro,Campinas,SP,Domingo,4, Julho ,2021,11:00,Guarani - SP,Brusque - SC,4,1,1,0,0,3,0
+83,B,2021,Aflitos,Recife,PE,Sexta,2, Julho ,2021,19:00,Náutico - PE,Operário - PR,5,0,1,0,0,3,0
+84,B,2021,Bento Freitas,Pelotas,RS,Sábado,3, Julho ,2021,19:00,Brasil - RS,Cruzeiro - MG,0,0,0,0,1,1,1
+85,B,2021,Rei Pelé,Maceio,AL,Sábado,3, Julho ,2021,18:30,Csa - AL,Crb - AL,0,1,0,1,0,0,3
+86,B,2021,Couto Pereira,Curitiba,PR,Sexta,2, Julho ,2021,19:00,Coritiba - PR,Remo - PA,2,1,1,0,0,3,0
+87,B,2021,Ressacada,Florianopolis,SC,Sábado,3, Julho ,2021,21:00,Avaí - SC,Botafogo - RJ,1,1,0,0,1,1,1
+88,B,2021,Manoel Barradas,Salvador,BA,Sábado,3, Julho ,2021,21:30,Vitória - BA,Goiás - GO,1,1,0,0,1,1,1
+89,B,2021,Castelão,Sao Luis,MA,Sábado,3, Julho ,2021,19:00,Sampaio Corrêa - MA,Londrina - PR,1,0,1,0,0,3,0
+90,B,2021,São Januário,Rio de Janeiro,RJ,Sexta,9, Julho ,2021,19:00,Vasco da Gama - RJ,Sampaio Corrêa - MA,1,0,1,0,0,3,0
+91,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,9, Julho ,2021,21:30,Goiás - GO,Náutico - PE,0,1,0,1,0,0,3
+92,B,2021,Moisés Lucarelli,Campinas,SP,Terça,6, Julho ,2021,19:00,Ponte Preta - SP,Avaí - SC,0,0,0,0,1,1,1
+93,B,2021,Mineirão,Belo Horizonte,MG,Terça,6, Julho ,2021,19:00,Cruzeiro - MG,Coritiba - PR,0,0,0,0,1,1,1
+94,B,2021,Do Café,Londrina,PR,Sexta,9, Julho ,2021,19:00,Londrina - PR,Guarani - SP,0,1,0,1,0,0,3
+95,B,2021,Rei Pelé,Maceio,AL,Terça,6, Julho ,2021,21:30,Crb - AL,Botafogo - RJ,2,1,1,0,0,3,0
+96,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,10, Julho ,2021,11:00,Operário - PR,Brasil - RS,2,1,1,0,0,3,0
+97,B,2021,Augusto Bauer,Brusque,SC,Domingo,11, Julho ,2021,20:30,Brusque - SC,Csa - AL,2,3,0,1,0,0,3
+98,B,2021,Batistão,Aracaju,SE,Sábado,10, Julho ,2021,19:00,Confiança - SE,Vitória - BA,1,1,0,0,1,1,1
+99,B,2021,Baenão,Belem,PA,Quinta,8, Julho ,2021,21:00,Remo - PA,Vila Nova - GO,0,1,0,1,0,0,3
+100,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,10, Julho ,2021,16:30,Botafogo - RJ,Cruzeiro - MG,3,3,0,0,1,1,1
+101,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Terça,13, Julho ,2021,16:00,Vila Nova - GO,Brasil - RS,0,0,0,0,1,1,1
+102,B,2021,Brinco de Ouro,Campinas,SP,Terça,13, Julho ,2021,19:00,Guarani - SP,Crb - AL,1,0,1,0,0,3,0
+103,B,2021,Aflitos,Recife,PE,Segunda,12, Julho ,2021,20:00,Náutico - PE,Ponte Preta - SP,1,1,0,0,1,1,1
+104,B,2021,Do Café,Londrina,PR,Terça,13, Julho ,2021,21:30,Londrina - PR,Operário - PR,1,2,0,1,0,0,3
+105,B,2021,Rei Pelé,Maceio,AL,Quarta,14, Julho ,2021,19:00,Csa - AL,Goiás - GO,0,1,0,1,0,0,3
+106,B,2021,Couto Pereira,Curitiba,PR,Terça,13, Julho ,2021,21:30,Coritiba - PR,Vasco da Gama - RJ,1,1,0,0,1,1,1
+107,B,2021,Ressacada,Florianopolis,SC,Terça,13, Julho ,2021,19:00,Avaí - SC,Confiança - SE,2,1,1,0,0,3,0
+108,B,2021,Manoel Barradas,Salvador,BA,Terça,13, Julho ,2021,21:30,Vitória - BA,Sampaio Corrêa - MA,2,2,0,0,1,1,1
+109,B,2021,Baenão,Belem,PA,Quarta,14, Julho ,2021,21:30,Remo - PA,Brusque - SC,2,1,1,0,0,3,0
+110,B,2021,São Januário,Rio de Janeiro,RJ,Domingo,18, Julho ,2021,16:00,Vasco da Gama - RJ,Náutico - PE,1,1,0,0,1,1,1
+111,B,2021,Hailé Pinheiro,Goiania,GO,Sábado,17, Julho ,2021,16:00,Goiás - GO,Londrina - PR,0,0,0,0,1,1,1
+112,B,2021,Moisés Lucarelli,Campinas,SP,Sábado,17, Julho ,2021,18:30,Ponte Preta - SP,Remo - PA,1,2,0,1,0,0,3
+113,B,2021,Mineirão,Belo Horizonte,MG,Sábado,17, Julho ,2021,16:30,Cruzeiro - MG,Avaí - SC,0,3,0,1,0,0,3
+114,B,2021,Bento Freitas,Pelotas,RS,Sábado,17, Julho ,2021,11:00,Brasil - RS,Vitória - BA,1,0,1,0,0,3,0
+115,B,2021,Rei Pelé,Maceio,AL,Domingo,18, Julho ,2021,20:30,Crb - AL,Vila Nova - GO,2,1,1,0,0,3,0
+116,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,17, Julho ,2021,19:00,Operário - PR,Csa - AL,0,2,0,1,0,0,3
+117,B,2021,Augusto Bauer,Brusque,SC,Sábado,17, Julho ,2021,19:00,Brusque - SC,Botafogo - RJ,2,1,1,0,0,3,0
+118,B,2021,Batistão,Aracaju,SE,Sexta,16, Julho ,2021,19:00,Confiança - SE,Guarani - SP,1,4,0,1,0,0,3
+119,B,2021,Castelão,Sao Luis,MA,Sexta,16, Julho ,2021,21:30,Sampaio Corrêa - MA,Coritiba - PR,2,3,0,1,0,0,3
+120,B,2021,Nilton Santos,Rio de Janeiro,RJ,Terça,20, Julho ,2021,19:00,Botafogo - RJ,Goiás - GO,0,2,0,1,0,0,3
+121,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Quarta,21, Julho ,2021,16:00,Vila Nova - GO,Brusque - SC,0,1,0,1,0,0,3
+122,B,2021,Brinco de Ouro,Campinas,SP,Terça,20, Julho ,2021,19:00,Guarani - SP,Sampaio Corrêa - MA,0,0,0,0,1,1,1
+123,B,2021,Aflitos,Recife,PE,Quarta,21, Julho ,2021,21:30,Náutico - PE,Brasil - RS,2,1,1,0,0,3,0
+124,B,2021,Do Café,Londrina,PR,Terça,20, Julho ,2021,19:00,Londrina - PR,Confiança - SE,0,0,0,0,1,1,1
+125,B,2021,Rei Pelé,Maceio,AL,Quarta,21, Julho ,2021,21:30,Csa - AL,Vasco da Gama - RJ,2,2,0,0,1,1,1
+126,B,2021,Couto Pereira,Curitiba,PR,Quinta,22, Julho ,2021,19:00,Coritiba - PR,Crb - AL,1,1,0,0,1,1,1
+127,B,2021,Ressacada,Florianopolis,SC,Quinta,22, Julho ,2021,21:30,Avaí - SC,Operário - PR,1,0,1,0,0,3,0
+128,B,2021,Manoel Barradas,Salvador,BA,Terça,20, Julho ,2021,21:30,Vitória - BA,Ponte Preta - SP,1,0,1,0,0,3,0
+129,B,2021,Baenão,Belem,PA,Terça,20, Julho ,2021,19:00,Remo - PA,Cruzeiro - MG,1,0,1,0,0,3,0
+130,B,2021,São Januário,Rio de Janeiro,RJ,Sábado,24, Julho ,2021,21:00,Vasco da Gama - RJ,Guarani - SP,4,1,1,0,0,3,0
+131,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,24, Julho ,2021,16:30,Vila Nova - GO,Cruzeiro - MG,0,0,0,0,1,1,1
+132,B,2021,Moisés Lucarelli,Campinas,SP,Sexta,23, Julho ,2021,20:00,Ponte Preta - SP,Goiás - GO,2,1,1,0,0,3,0
+133,B,2021,Aflitos,Recife,PE,Sábado,24, Julho ,2021,19:30,Náutico - PE,Brusque - SC,1,1,0,0,1,1,1
+134,B,2021,Do Café,Londrina,PR,Sexta,23, Julho ,2021,16:00,Londrina - PR,Remo - PA,1,0,1,0,0,3,0
+135,B,2021,Rei Pelé,Maceio,AL,Sábado,24, Julho ,2021,21:00,Csa - AL,Vitória - BA,2,1,1,0,0,3,0
+136,B,2021,Germano Kruger,Ponta Grossa,PR,Domingo,25, Julho ,2021,18:15,Operário - PR,Coritiba - PR,1,0,1,0,0,3,0
+137,B,2021,Ressacada,Florianopolis,SC,Domingo,25, Julho ,2021,20:30,Avaí - SC,Brasil - RS,1,1,0,0,1,1,1
+138,B,2021,Batistão,Aracaju,SE,Sábado,24, Julho ,2021,16:30,Confiança - SE,Botafogo - RJ,0,1,0,1,0,0,3
+139,B,2021,Castelão,Sao Luis,MA,Domingo,25, Julho ,2021,20:30,Sampaio Corrêa - MA,Crb - AL,2,3,0,1,0,0,3
+140,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,31, Julho ,2021,21:00,Botafogo - RJ,Vasco da Gama - RJ,2,0,1,0,0,3,0
+141,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,30, Julho ,2021,16:00,Goiás - GO,Operário - PR,1,0,1,0,0,3,0
+142,B,2021,Brinco de Ouro,Campinas,SP,Sábado,31, Julho ,2021,11:00,Guarani - SP,Vila Nova - GO,1,4,0,1,0,0,3
+143,B,2021,Mineirão,Belo Horizonte,MG,Sexta,30, Julho ,2021,21:30,Cruzeiro - MG,Londrina - PR,2,2,0,0,1,1,1
+144,B,2021,Bento Freitas,Pelotas,RS,Sábado,31, Julho ,2021,19:00,Brasil - RS,Sampaio Corrêa - MA,1,2,0,1,0,0,3
+145,B,2021,Rei Pelé,Maceio,AL,Domingo,1, Agosto ,2021,18:15,Crb - AL,Ponte Preta - SP,1,1,0,0,1,1,1
+146,B,2021,Couto Pereira,Curitiba,PR,Sexta,30, Julho ,2021,20:00,Coritiba - PR,Náutico - PE,3,1,1,0,0,3,0
+147,B,2021,Augusto Bauer,Brusque,SC,Sábado,31, Julho ,2021,21:00,Brusque - SC,Confiança - SE,3,0,1,0,0,3,0
+148,B,2021,Manoel Barradas,Salvador,BA,Sábado,31, Julho ,2021,16:30,Vitória - BA,Avaí - SC,0,0,0,0,1,1,1
+149,B,2021,Baenão,Belem,PA,Domingo,1, Agosto ,2021,18:15,Remo - PA,Csa - AL,1,0,1,0,0,3,0
+150,B,2021,Nilton Santos,Rio de Janeiro,RJ,Domingo,8, Agosto ,2021,20:30,Botafogo - RJ,Ponte Preta - SP,2,0,1,0,0,3,0
+151,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,7, Agosto ,2021,21:30,Vila Nova - GO,Sampaio Corrêa - MA,0,2,0,1,0,0,3
+152,B,2021,Brinco de Ouro,Campinas,SP,Sexta,6, Agosto ,2021,19:00,Guarani - SP,Brasil - RS,2,0,1,0,0,3,0
+153,B,2021,Aflitos,Recife,PE,Sábado,7, Agosto ,2021,16:30,Náutico - PE,Confiança - SE,0,4,0,1,0,0,3
+154,B,2021,Do Café,Londrina,PR,Domingo,8, Agosto ,2021,20:30,Londrina - PR,Crb - AL,0,2,0,1,0,0,3
+155,B,2021,Rei Pelé,Maceio,AL,Sábado,7, Agosto ,2021,19:00,Csa - AL,Avaí - SC,0,0,0,0,1,1,1
+156,B,2021,Couto Pereira,Curitiba,PR,Sexta,6, Agosto ,2021,19:30,Coritiba - PR,Goiás - GO,1,1,0,0,1,1,1
+157,B,2021,Augusto Bauer,Brusque,SC,Sábado,7, Agosto ,2021,11:00,Brusque - SC,Cruzeiro - MG,1,2,0,1,0,0,3
+158,B,2021,Manoel Barradas,Salvador,BA,Sábado,7, Agosto ,2021,19:30,Vitória - BA,Vasco da Gama - RJ,0,1,0,1,0,0,3
+159,B,2021,Baenão,Belem,PA,Sexta,6, Agosto ,2021,16:00,Remo - PA,Operário - PR,0,1,0,1,0,0,3
+160,B,2021,São Januário,Rio de Janeiro,RJ,Terça,10, Agosto ,2021,21:30,Vasco da Gama - RJ,Vila Nova - GO,1,0,1,0,0,3,0
+161,B,2021,Hailé Pinheiro,Goiania,GO,Terça,10, Agosto ,2021,21:30,Goiás - GO,Remo - PA,1,1,0,0,1,1,1
+162,B,2021,Moisés Lucarelli,Campinas,SP,Quarta,11, Agosto ,2021,19:00,Ponte Preta - SP,Londrina - PR,2,1,1,0,0,3,0
+163,B,2021,Independência,Belo Horizonte,MG,Quarta,11, Agosto ,2021,19:00,Cruzeiro - MG,Vitória - BA,2,2,0,0,1,1,1
+164,B,2021,Bento Freitas,Pelotas,RS,Quarta,11, Agosto ,2021,16:00,Brasil - RS,Coritiba - PR,0,2,0,1,0,0,3
+165,B,2021,Rei Pelé,Maceio,AL,Quinta,12, Agosto ,2021,19:00,Crb - AL,Brusque - SC,3,0,1,0,0,3,0
+166,B,2021,Germano Kruger,Ponta Grossa,PR,Quinta,12, Agosto ,2021,21:30,Operário - PR,Botafogo - RJ,1,0,1,0,0,3,0
+167,B,2021,Ressacada,Florianopolis,SC,Terça,10, Agosto ,2021,19:00,Avaí - SC,Guarani - SP,0,1,0,1,0,0,3
+168,B,2021,Batistão,Aracaju,SE,Terça,10, Agosto ,2021,19:00,Confiança - SE,Csa - AL,0,2,0,1,0,0,3
+169,B,2021,Castelão,Sao Luis,MA,Quarta,11, Agosto ,2021,21:30,Sampaio Corrêa - MA,Náutico - PE,2,0,1,0,0,3,0
+170,B,2021,Nilton Santos,Rio de Janeiro,RJ,Domingo,15, Agosto ,2021,18:15,Botafogo - RJ,Brasil - RS,1,0,1,0,0,3,0
+171,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,13, Agosto ,2021,19:00,Goiás - GO,Guarani - SP,2,1,1,0,0,3,0
+172,B,2021,Moisés Lucarelli,Campinas,SP,Sábado,14, Agosto ,2021,16:30,Ponte Preta - SP,Confiança - SE,4,2,1,0,0,3,0
+173,B,2021,Independência,Belo Horizonte,MG,Sábado,14, Agosto ,2021,16:30,Cruzeiro - MG,Sampaio Corrêa - MA,1,1,0,0,1,1,1
+174,B,2021,Do Café,Londrina,PR,Domingo,15, Agosto ,2021,11:00,Londrina - PR,Vila Nova - GO,1,0,1,0,0,3,0
+175,B,2021,Rei Pelé,Maceio,AL,Sábado,14, Agosto ,2021,16:30,Csa - AL,Coritiba - PR,3,0,1,0,0,3,0
+176,B,2021,Germano Kruger,Ponta Grossa,PR,Domingo,15, Agosto ,2021,20:30,Operário - PR,Brusque - SC,1,1,0,0,1,1,1
+177,B,2021,Ressacada,Florianopolis,SC,Sábado,14, Agosto ,2021,19:00,Avaí - SC,Náutico - PE,2,0,1,0,0,3,0
+178,B,2021,Manoel Barradas,Salvador,BA,Domingo,15, Agosto ,2021,16:00,Vitória - BA,Crb - AL,1,1,0,0,1,1,1
+179,B,2021,Baenão,Belem,PA,Sexta,13, Agosto ,2021,21:30,Remo - PA,Vasco da Gama - RJ,2,1,1,0,0,3,0
+180,B,2021,São Januário,Rio de Janeiro,RJ,Quarta,18, Agosto ,2021,21:30,Vasco da Gama - RJ,Londrina - PR,1,2,0,1,0,0,3
+181,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Quarta,18, Agosto ,2021,19:00,Vila Nova - GO,Vitória - BA,0,0,0,0,1,1,1
+182,B,2021,Brinco de Ouro,Campinas,SP,Quarta,18, Agosto ,2021,19:00,Guarani - SP,Botafogo - RJ,1,1,0,0,1,1,1
+183,B,2021,Aflitos,Recife,PE,Terça,17, Agosto ,2021,19:00,Náutico - PE,Cruzeiro - MG,0,1,0,1,0,0,3
+184,B,2021,Bento Freitas,Pelotas,RS,Quinta,19, Agosto ,2021,21:30,Brasil - RS,Csa - AL,0,1,0,1,0,0,3
+185,B,2021,Rei Pelé,Maceio,AL,Quarta,18, Agosto ,2021,21:30,Crb - AL,Operário - PR,0,0,0,0,1,1,1
+186,B,2021,Couto Pereira,Curitiba,PR,Terça,17, Agosto ,2021,21:30,Coritiba - PR,Ponte Preta - SP,2,0,1,0,0,3,0
+187,B,2021,Augusto Bauer,Brusque,SC,Quinta,19, Agosto ,2021,19:00,Brusque - SC,Goiás - GO,0,1,0,1,0,0,3
+188,B,2021,Batistão,Aracaju,SE,Terça,17, Agosto ,2021,19:00,Confiança - SE,Remo - PA,1,2,0,1,0,0,3
+189,B,2021,Castelão,Sao Luis,MA,Terça,17, Agosto ,2021,21:30,Sampaio Corrêa - MA,Avaí - SC,0,2,0,1,0,0,3
+190,B,2021,Nilton Santos,Rio de Janeiro,RJ,Domingo,22, Agosto ,2021,11:00,Botafogo - RJ,Vila Nova - GO,3,2,1,0,0,3,0
+191,B,2021,Hailé Pinheiro,Goiania,GO,Domingo,22, Agosto ,2021,16:00,Goiás - GO,Sampaio Corrêa - MA,2,2,0,0,1,1,1
+192,B,2021,Moisés Lucarelli,Campinas,SP,Domingo,22, Agosto ,2021,20:30,Ponte Preta - SP,Brusque - SC,3,0,1,0,0,3,0
+193,B,2021,Mineirão,Belo Horizonte,MG,Sexta,20, Agosto ,2021,21:30,Cruzeiro - MG,Confiança - SE,1,0,1,0,0,3,0
+194,B,2021,Do Café,Londrina,PR,Domingo,22, Agosto ,2021,18:15,Londrina - PR,Brasil - RS,0,0,0,0,1,1,1
+195,B,2021,Rei Pelé,Maceio,AL,Terça,24, Agosto ,2021,21:30,Csa - AL,Náutico - PE,0,1,0,1,0,0,3
+196,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,21, Agosto ,2021,19:00,Operário - PR,Vasco da Gama - RJ,2,0,1,0,0,3,0
+197,B,2021,Ressacada,Florianopolis,SC,Sexta,20, Agosto ,2021,19:00,Avaí - SC,Coritiba - PR,1,2,0,1,0,0,3
+198,B,2021,Manoel Barradas,Salvador,BA,Sábado,21, Agosto ,2021,16:30,Vitória - BA,Guarani - SP,1,0,1,0,0,3,0
+199,B,2021,Baenão,Belem,PA,Sábado,21, Agosto ,2021,21:00,Remo - PA,Crb - AL,1,2,0,1,0,0,3
+200,B,2021,São Januário,Rio de Janeiro,RJ,Domingo,29, Agosto ,2021,16:00,Vasco da Gama - RJ,Ponte Preta - SP,2,0,1,0,0,3,0
+201,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Quarta,25, Agosto ,2021,16:00,Vila Nova - GO,Avaí - SC,1,0,1,0,0,3,0
+202,B,2021,Brinco de Ouro,Campinas,SP,Terça,24, Agosto ,2021,19:00,Guarani - SP,Operário - PR,3,0,1,0,0,3,0
+203,B,2021,Aflitos,Recife,PE,Domingo,29, Agosto ,2021,16:00,Náutico - PE,Vitória - BA,1,1,0,0,1,1,1
+204,B,2021,Bento Freitas,Pelotas,RS,Sexta,27, Agosto ,2021,19:00,Brasil - RS,Remo - PA,1,1,0,0,1,1,1
+205,B,2021,Rei Pelé,Maceio,AL,Domingo,29, Agosto ,2021,16:00,Crb - AL,Cruzeiro - MG,0,0,0,0,1,1,1
+206,B,2021,Couto Pereira,Curitiba,PR,Sexta,27, Agosto ,2021,21:30,Coritiba - PR,Botafogo - RJ,0,1,0,1,0,0,3
+207,B,2021,Augusto Bauer,Brusque,SC,Sábado,28, Agosto ,2021,18:45,Brusque - SC,Londrina - PR,0,0,0,0,1,1,1
+208,B,2021,Batistão,Aracaju,SE,Quinta,26, Agosto ,2021,17:00,Confiança - SE,Goiás - GO,1,2,0,1,0,0,3
+209,B,2021,Castelão,Sao Luis,MA,Sábado,28, Agosto ,2021,21:00,Sampaio Corrêa - MA,Csa - AL,2,0,1,0,0,3,0
+210,B,2021,São Januário,Rio de Janeiro,RJ,Sexta,3, Setembro ,2021,19:00,Vasco da Gama - RJ,Brasil - RS,1,1,0,0,1,1,1
+211,B,2021,Hailé Pinheiro,Goiania,GO,Terça,7, Setembro ,2021,21:30,Goiás - GO,Cruzeiro - MG,1,1,0,0,1,1,1
+212,B,2021,Moisés Lucarelli,Campinas,SP,Sexta,3, Setembro ,2021,19:00,Ponte Preta - SP,Sampaio Corrêa - MA,3,2,1,0,0,3,0
+213,B,2021,Aflitos,Recife,PE,Sábado,4, Setembro ,2021,17:15,Náutico - PE,Guarani - SP,1,1,0,0,1,1,1
+214,B,2021,Do Café,Londrina,PR,Quarta,1, Setembro ,2021,21:30,Londrina - PR,Coritiba - PR,2,3,0,1,0,0,3
+215,B,2021,Rei Pelé,Maceio,AL,Sexta,3, Setembro ,2021,21:30,Csa - AL,Vila Nova - GO,1,1,0,0,1,1,1
+216,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,4, Setembro ,2021,11:00,Operário - PR,Vitória - BA,0,1,0,1,0,0,3
+217,B,2021,Augusto Bauer,Brusque,SC,Sexta,3, Setembro ,2021,19:00,Brusque - SC,Avaí - SC,0,0,0,0,1,1,1
+218,B,2021,Batistão,Aracaju,SE,Quarta,1, Setembro ,2021,19:00,Confiança - SE,Crb - AL,1,2,0,1,0,0,3
+219,B,2021,Baenão,Belem,PA,Sábado,4, Setembro ,2021,19:30,Remo - PA,Botafogo - RJ,0,1,0,1,0,0,3
+220,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,11, Setembro ,2021,16:30,Botafogo - RJ,Londrina - PR,4,0,1,0,0,3,0
+221,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sexta,10, Setembro ,2021,21:30,Vila Nova - GO,Náutico - PE,1,0,1,0,0,3,0
+222,B,2021,Brinco de Ouro,Campinas,SP,Terça,7, Setembro ,2021,16:00,Guarani - SP,Csa - AL,1,0,1,0,0,3,0
+223,B,2021,Arena do Jacaré,Sete Lagoas,MG,Sábado,11, Setembro ,2021,11:00,Cruzeiro - MG,Ponte Preta - SP,1,0,1,0,0,3,0
+224,B,2021,Bento Freitas,Pelotas,RS,Terça,7, Setembro ,2021,11:00,Brasil - RS,Confiança - SE,1,1,0,0,1,1,1
+225,B,2021,Rei Pelé,Maceio,AL,Sábado,11, Setembro ,2021,21:00,Crb - AL,Goiás - GO,0,1,0,1,0,0,3
+226,B,2021,Couto Pereira,Curitiba,PR,Terça,7, Setembro ,2021,19:00,Coritiba - PR,Brusque - SC,4,0,1,0,0,3,0
+227,B,2021,Ressacada,Florianopolis,SC,Segunda,6, Setembro ,2021,20:00,Avaí - SC,Vasco da Gama - RJ,3,1,1,0,0,3,0
+228,B,2021,Manoel Barradas,Salvador,BA,Sexta,10, Setembro ,2021,19:00,Vitória - BA,Remo - PA,1,2,0,1,0,0,3
+229,B,2021,Castelão,Sao Luis,MA,Sábado,11, Setembro ,2021,16:30,Sampaio Corrêa - MA,Operário - PR,0,0,0,0,1,1,1
+230,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,18, Setembro ,2021,16:30,Botafogo - RJ,Náutico - PE,3,1,1,0,0,3,0
+231,B,2021,Hailé Pinheiro,Goiania,GO,Sábado,18, Setembro ,2021,19:00,Goiás - GO,Brasil - RS,2,1,1,0,0,3,0
+232,B,2021,Moisés Lucarelli,Campinas,SP,Sexta,17, Setembro ,2021,21:30,Ponte Preta - SP,Guarani - SP,0,0,0,0,1,1,1
+233,B,2021,Arena do Jacaré,Sete Lagoas,MG,Quinta,16, Setembro ,2021,19:00,Cruzeiro - MG,Operário - PR,1,1,0,0,1,1,1
+234,B,2021,Do Café,Londrina,PR,Sábado,18, Setembro ,2021,16:30,Londrina - PR,Csa - AL,0,2,0,1,0,0,3
+235,B,2021,Rei Pelé,Maceio,AL,Quinta,16, Setembro ,2021,19:00,Crb - AL,Vasco da Gama - RJ,1,1,0,0,1,1,1
+236,B,2021,Couto Pereira,Curitiba,PR,Sexta,17, Setembro ,2021,19:00,Coritiba - PR,Vila Nova - GO,1,0,1,0,0,3,0
+237,B,2021,Augusto Bauer,Brusque,SC,Sexta,17, Setembro ,2021,16:00,Brusque - SC,Vitória - BA,0,0,0,0,1,1,1
+238,B,2021,Batistão,Aracaju,SE,Sexta,17, Setembro ,2021,20:30,Confiança - SE,Sampaio Corrêa - MA,2,0,1,0,0,3,0
+239,B,2021,Baenão,Belem,PA,Quinta,16, Setembro ,2021,21:30,Remo - PA,Avaí - SC,2,1,1,0,0,3,0
+240,B,2021,São Januário,Rio de Janeiro,RJ,Domingo,19, Setembro ,2021,16:00,Vasco da Gama - RJ,Cruzeiro - MG,1,1,0,0,1,1,1
+241,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Terça,21, Setembro ,2021,21:30,Vila Nova - GO,Confiança - SE,0,0,0,0,1,1,1
+242,B,2021,Brinco de Ouro,Campinas,SP,Terça,21, Setembro ,2021,16:00,Guarani - SP,Remo - PA,2,0,1,0,0,3,0
+243,B,2021,Aflitos,Recife,PE,Terça,21, Setembro ,2021,21:30,Náutico - PE,Londrina - PR,1,2,0,1,0,0,3
+244,B,2021,Bento Freitas,Pelotas,RS,Terça,21, Setembro ,2021,19:00,Brasil - RS,Crb - AL,0,1,0,1,0,0,3
+245,B,2021,Rei Pelé,Maceio,AL,Quinta,23, Setembro ,2021,19:00,Csa - AL,Botafogo - RJ,2,0,1,0,0,3,0
+246,B,2021,Germano Kruger,Ponta Grossa,PR,Quarta,22, Setembro ,2021,21:30,Operário - PR,Ponte Preta - SP,1,2,0,1,0,0,3
+247,B,2021,Ressacada,Florianopolis,SC,Terça,21, Setembro ,2021,19:00,Avaí - SC,Goiás - GO,1,0,1,0,0,3,0
+248,B,2021,Manoel Barradas,Salvador,BA,Quarta,22, Setembro ,2021,19:00,Vitória - BA,Coritiba - PR,0,0,0,0,1,1,1
+249,B,2021,Castelão,Sao Luis,MA,Terça,21, Setembro ,2021,19:00,Sampaio Corrêa - MA,Brusque - SC,2,2,0,0,1,1,1
+250,B,2021,Nilton Santos,Rio de Janeiro,RJ,Domingo,26, Setembro ,2021,18:15,Botafogo - RJ,Sampaio Corrêa - MA,2,0,1,0,0,3,0
+251,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,24, Setembro ,2021,19:00,Goiás - GO,Vila Nova - GO,1,2,0,1,0,0,3
+252,B,2021,Moisés Lucarelli,Campinas,SP,Domingo,26, Setembro ,2021,18:15,Ponte Preta - SP,Brasil - RS,1,0,1,0,0,3,0
+253,B,2021,Independência,Belo Horizonte,MG,Domingo,26, Setembro ,2021,16:00,Cruzeiro - MG,Csa - AL,1,2,0,1,0,0,3
+254,B,2021,Do Café,Londrina,PR,Sábado,25, Setembro ,2021,16:00,Londrina - PR,Vitória - BA,1,0,1,0,0,3,0
+255,B,2021,Rei Pelé,Maceio,AL,Sábado,25, Setembro ,2021,18:30,Crb - AL,Avaí - SC,1,2,0,1,0,0,3
+256,B,2021,Couto Pereira,Curitiba,PR,Sábado,25, Setembro ,2021,21:00,Coritiba - PR,Guarani - SP,1,0,1,0,0,3,0
+257,B,2021,Augusto Bauer,Brusque,SC,Sexta,24, Setembro ,2021,21:30,Brusque - SC,Vasco da Gama - RJ,0,1,0,1,0,0,3
+258,B,2021,Batistão,Aracaju,SE,Sábado,25, Setembro ,2021,17:30,Confiança - SE,Operário - PR,1,0,1,0,0,3,0
+259,B,2021,Baenão,Belem,PA,Sexta,24, Setembro ,2021,19:00,Remo - PA,Náutico - PE,1,0,1,0,0,3,0
+260,B,2021,São Januário,Rio de Janeiro,RJ,Segunda,27, Setembro ,2021,20:00,Vasco da Gama - RJ,Goiás - GO,2,0,1,0,0,3,0
+261,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Terça,28, Setembro ,2021,21:30,Vila Nova - GO,Operário - PR,2,1,1,0,0,3,0
+262,B,2021,Brinco de Ouro,Campinas,SP,Quarta,29, Setembro ,2021,19:00,Guarani - SP,Cruzeiro - MG,1,1,0,0,1,1,1
+263,B,2021,Arena Pernambuco,São Lourenço da Mata,PE,Terça,28, Setembro ,2021,19:00,Náutico - PE,Crb - AL,1,3,0,1,0,0,3
+264,B,2021,Bento Freitas,Pelotas,RS,Quarta,29, Setembro ,2021,19:00,Brasil - RS,Brusque - SC,0,2,0,1,0,0,3
+265,B,2021,Rei Pelé,Maceio,AL,Quarta,29, Setembro ,2021,21:30,Csa - AL,Ponte Preta - SP,2,1,1,0,0,3,0
+266,B,2021,Couto Pereira,Curitiba,PR,Terça,28, Setembro ,2021,21:30,Coritiba - PR,Confiança - SE,1,1,0,0,1,1,1
+267,B,2021,Ressacada,Florianopolis,SC,Terça,28, Setembro ,2021,16:00,Avaí - SC,Londrina - PR,2,0,1,0,0,3,0
+268,B,2021,Manoel Barradas,Salvador,BA,Quarta,29, Setembro ,2021,21:30,Vitória - BA,Botafogo - RJ,0,0,0,0,1,1,1
+269,B,2021,Castelão,Sao Luis,MA,Quinta,30, Setembro ,2021,21:30,Sampaio Corrêa - MA,Remo - PA,1,1,0,0,1,1,1
+270,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sábado,2, Outubro ,2021,19:00,Botafogo - RJ,Avaí - SC,1,2,0,1,0,0,3
+271,B,2021,Hailé Pinheiro,Goiania,GO,Sábado,2, Outubro ,2021,16:00,Goiás - GO,Vitória - BA,3,0,1,0,0,3,0
+272,B,2021,Moisés Lucarelli,Campinas,SP,Sábado,2, Outubro ,2021,21:00,Ponte Preta - SP,Vila Nova - GO,1,1,0,0,1,1,1
+273,B,2021,Independência,Belo Horizonte,MG,Domingo,3, Outubro ,2021,11:00,Cruzeiro - MG,Brasil - RS,2,0,1,0,0,3,0
+274,B,2021,Do Café,Londrina,PR,Domingo,3, Outubro ,2021,20:30,Londrina - PR,Sampaio Corrêa - MA,3,1,1,0,0,3,0
+275,B,2021,Rei Pelé,Maceio,AL,Sábado,2, Outubro ,2021,18:30,Crb - AL,Csa - AL,0,0,0,0,1,1,1
+276,B,2021,Germano Kruger,Ponta Grossa,PR,Sexta,1, Outubro ,2021,21:30,Operário - PR,Náutico - PE,1,2,0,1,0,0,3
+277,B,2021,Augusto Bauer,Brusque,SC,Sábado,2, Outubro ,2021,16:00,Brusque - SC,Guarani - SP,2,0,1,0,0,3,0
+278,B,2021,Batistão,Aracaju,SE,Domingo,3, Outubro ,2021,18:15,Confiança - SE,Vasco da Gama - RJ,1,2,0,1,0,0,3
+279,B,2021,Baenão,Belem,PA,Segunda,4, Outubro ,2021,20:00,Remo - PA,Coritiba - PR,0,0,0,0,1,1,1
+280,B,2021,Nilton Santos,Rio de Janeiro,RJ,Sexta,8, Outubro ,2021,19:00,Botafogo - RJ,Crb - AL,2,0,1,0,0,3,0
+281,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sexta,8, Outubro ,2021,19:00,Vila Nova - GO,Remo - PA,1,0,1,0,0,3,0
+282,B,2021,Brinco de Ouro,Campinas,SP,Sábado,9, Outubro ,2021,16:30,Guarani - SP,Londrina - PR,3,0,1,0,0,3,0
+283,B,2021,Aflitos,Recife,PE,Terça,5, Outubro ,2021,21:30,Náutico - PE,Goiás - GO,3,2,1,0,0,3,0
+284,B,2021,Bento Freitas,Pelotas,RS,Quarta,6, Outubro ,2021,16:00,Brasil - RS,Operário - PR,1,0,1,0,0,3,0
+285,B,2021,Rei Pelé,Maceio,AL,Sábado,9, Outubro ,2021,21:00,Csa - AL,Brusque - SC,4,1,1,0,0,3,0
+286,B,2021,Couto Pereira,Curitiba,PR,Sexta,8, Outubro ,2021,21:30,Coritiba - PR,Cruzeiro - MG,0,3,0,1,0,0,3
+287,B,2021,Ressacada,Florianopolis,SC,Terça,5, Outubro ,2021,19:00,Avaí - SC,Ponte Preta - SP,1,1,0,0,1,1,1
+288,B,2021,Manoel Barradas,Salvador,BA,Sábado,9, Outubro ,2021,19:00,Vitória - BA,Confiança - SE,0,1,0,1,0,0,3
+289,B,2021,Castelão,Sao Luis,MA,Sábado,9, Outubro ,2021,21:00,Sampaio Corrêa - MA,Vasco da Gama - RJ,1,0,1,0,0,3,0
+290,B,2021,São Januário,Rio de Janeiro,RJ,Sábado,16, Outubro ,2021,16:30,Vasco da Gama - RJ,Coritiba - PR,2,1,1,0,0,3,0
+291,B,2021,Hailé Pinheiro,Goiania,GO,Sexta,15, Outubro ,2021,21:30,Goiás - GO,Csa - AL,3,1,1,0,0,3,0
+292,B,2021,Moisés Lucarelli,Campinas,SP,Sábado,16, Outubro ,2021,16:00,Ponte Preta - SP,Náutico - PE,2,3,0,1,0,0,3
+293,B,2021,Independência,Belo Horizonte,MG,Terça,12, Outubro ,2021,21:30,Cruzeiro - MG,Botafogo - RJ,0,0,0,0,1,1,1
+294,B,2021,Bento Freitas,Pelotas,RS,Sexta,15, Outubro ,2021,21:30,Brasil - RS,Vila Nova - GO,2,2,0,0,1,1,1
+295,B,2021,Rei Pelé,Maceio,AL,Sexta,15, Outubro ,2021,19:00,Crb - AL,Guarani - SP,2,2,0,0,1,1,1
+296,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,16, Outubro ,2021,18:30,Operário - PR,Londrina - PR,0,0,0,0,1,1,1
+297,B,2021,Augusto Bauer,Brusque,SC,Sexta,15, Outubro ,2021,16:00,Brusque - SC,Remo - PA,3,1,1,0,0,3,0
+298,B,2021,Batistão,Aracaju,SE,Sábado,16, Outubro ,2021,21:00,Confiança - SE,Avaí - SC,3,1,1,0,0,3,0
+299,B,2021,Castelão,Sao Luis,MA,Terça,12, Outubro ,2021,19:00,Sampaio Corrêa - MA,Vitória - BA,0,1,0,1,0,0,3
+300,B,2021,Nilton Santos,Rio de Janeiro,RJ,Quarta,20, Outubro ,2021,20:30,Botafogo - RJ,Brusque - SC,3,0,1,0,0,3,0
+301,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,18, Outubro ,2021,20:00,Vila Nova - GO,Crb - AL,0,0,0,0,1,1,1
+302,B,2021,Brinco de Ouro,Campinas,SP,Sexta,22, Outubro ,2021,19:00,Guarani - SP,Confiança - SE,1,2,0,1,0,0,3
+303,B,2021,Aflitos,Recife,PE,Domingo,24, Outubro ,2021,16:00,Náutico - PE,Vasco da Gama - RJ,2,2,0,0,1,1,1
+304,B,2021,Do Café,Londrina,PR,Terça,19, Outubro ,2021,19:00,Londrina - PR,Goiás - GO,0,0,0,0,1,1,1
+305,B,2021,Rei Pelé,Maceio,AL,Sábado,23, Outubro ,2021,19:00,Csa - AL,Operário - PR,2,4,0,1,0,0,3
+306,B,2021,Couto Pereira,Curitiba,PR,Terça,19, Outubro ,2021,21:30,Coritiba - PR,Sampaio Corrêa - MA,3,0,1,0,0,3,0
+307,B,2021,Ressacada,Florianopolis,SC,Sexta,22, Outubro ,2021,21:30,Avaí - SC,Cruzeiro - MG,1,0,1,0,0,3,0
+308,B,2021,Manoel Barradas,Salvador,BA,Sábado,23, Outubro ,2021,16:30,Vitória - BA,Brasil - RS,4,0,1,0,0,3,0
+309,B,2021,Baenão,Belem,PA,Domingo,24, Outubro ,2021,16:00,Remo - PA,Ponte Preta - SP,0,1,0,1,0,0,3
+310,B,2021,São Januário,Rio de Janeiro,RJ,Sexta,29, Outubro ,2021,21:30,Vasco da Gama - RJ,Csa - AL,1,3,0,1,0,0,3
+311,B,2021,Hailé Pinheiro,Goiania,GO,Terça,26, Outubro ,2021,21:30,Goiás - GO,Botafogo - RJ,1,1,0,0,1,1,1
+312,B,2021,Moisés Lucarelli,Campinas,SP,Sábado,30, Outubro ,2021,16:00,Ponte Preta - SP,Vitória - BA,0,0,0,0,1,1,1
+313,B,2021,Independência,Belo Horizonte,MG,Quinta,28, Outubro ,2021,21:30,Cruzeiro - MG,Remo - PA,1,3,0,1,0,0,3
+314,B,2021,Bento Freitas,Pelotas,RS,Quinta,28, Outubro ,2021,21:30,Brasil - RS,Náutico - PE,3,2,1,0,0,3,0
+315,B,2021,Rei Pelé,Maceio,AL,Terça,26, Outubro ,2021,19:00,Crb - AL,Coritiba - PR,1,1,0,0,1,1,1
+316,B,2021,Germano Kruger,Ponta Grossa,PR,Sexta,29, Outubro ,2021,19:00,Operário - PR,Avaí - SC,2,1,1,0,0,3,0
+317,B,2021,Augusto Bauer,Brusque,SC,Domingo,24, Outubro ,2021,20:30,Brusque - SC,Vila Nova - GO,2,3,0,1,0,0,3
+318,B,2021,Batistão,Aracaju,SE,Sábado,30, Outubro ,2021,18:45,Confiança - SE,Londrina - PR,0,2,0,1,0,0,3
+319,B,2021,Castelão,Sao Luis,MA,Quinta,28, Outubro ,2021,19:00,Sampaio Corrêa - MA,Guarani - SP,0,1,0,1,0,0,3
+320,B,2021,Nilton Santos,Rio de Janeiro,RJ,Quarta,3, Novembro ,2021,19:00,Botafogo - RJ,Confiança - SE,1,0,1,0,0,3,0
+321,B,2021,Hailé Pinheiro,Goiania,GO,Terça,2, Novembro ,2021,21:30,Goiás - GO,Ponte Preta - SP,2,2,0,0,1,1,1
+322,B,2021,Brinco de Ouro,Campinas,SP,Quinta,4, Novembro ,2021,19:00,Guarani - SP,Vasco da Gama - RJ,1,0,1,0,0,3,0
+323,B,2021,Independência,Belo Horizonte,MG,Segunda,1, Novembro ,2021,19:00,Cruzeiro - MG,Vila Nova - GO,1,1,0,0,1,1,1
+324,B,2021,Bento Freitas,Pelotas,RS,Terça,2, Novembro ,2021,16:00,Brasil - RS,Avaí - SC,0,1,0,1,0,0,3
+325,B,2021,Rei Pelé,Maceio,AL,Quinta,4, Novembro ,2021,21:30,Crb - AL,Sampaio Corrêa - MA,1,0,1,0,0,3,0
+326,B,2021,Couto Pereira,Curitiba,PR,Quarta,3, Novembro ,2021,18:30,Coritiba - PR,Operário - PR,3,1,1,0,0,3,0
+327,B,2021,Augusto Bauer,Brusque,SC,Terça,2, Novembro ,2021,19:00,Brusque - SC,Náutico - PE,4,3,1,0,0,3,0
+328,B,2021,Manoel Barradas,Salvador,BA,Terça,2, Novembro ,2021,16:00,Vitória - BA,Csa - AL,0,1,0,1,0,0,3
+329,B,2021,Baenão,Belem,PA,Terça,2, Novembro ,2021,19:00,Remo - PA,Londrina - PR,0,1,0,1,0,0,3
+330,B,2021,São Januário,Rio de Janeiro,RJ,Domingo,7, Novembro ,2021,16:00,Vasco da Gama - RJ,Botafogo - RJ,0,4,0,1,0,0,3
+331,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Domingo,7, Novembro ,2021,18:15,Vila Nova - GO,Guarani - SP,2,2,0,0,1,1,1
+332,B,2021,Moisés Lucarelli,Campinas,SP,Domingo,7, Novembro ,2021,20:30,Ponte Preta - SP,Crb - AL,1,0,1,0,0,3,0
+333,B,2021,Aflitos,Recife,PE,Sábado,6, Novembro ,2021,16:15,Náutico - PE,Coritiba - PR,2,1,1,0,0,3,0
+334,B,2021,Do Café,Londrina,PR,Sexta,5, Novembro ,2021,21:30,Londrina - PR,Cruzeiro - MG,0,1,0,1,0,0,3
+335,B,2021,Rei Pelé,Maceio,AL,Sexta,5, Novembro ,2021,17:00,Csa - AL,Remo - PA,2,0,1,0,0,3,0
+336,B,2021,Germano Kruger,Ponta Grossa,PR,Sábado,6, Novembro ,2021,18:30,Operário - PR,Goiás - GO,1,1,0,0,1,1,1
+337,B,2021,Ressacada,Florianopolis,SC,Sexta,5, Novembro ,2021,19:00,Avaí - SC,Vitória - BA,1,1,0,0,1,1,1
+338,B,2021,Batistão,Aracaju,SE,Sábado,6, Novembro ,2021,19:00,Confiança - SE,Brusque - SC,3,2,1,0,0,3,0
+339,B,2021,Castelão,Sao Luis,MA,Domingo,7, Novembro ,2021,18:15,Sampaio Corrêa - MA,Brasil - RS,2,1,1,0,0,3,0
+340,B,2021,São Januário,Rio de Janeiro,RJ,Quarta,10, Novembro ,2021,21:30,Vasco da Gama - RJ,Vitória - BA,0,3,0,1,0,0,3
+341,B,2021,Hailé Pinheiro,Goiania,GO,Quarta,10, Novembro ,2021,21:30,Goiás - GO,Coritiba - PR,2,1,1,0,0,3,0
+342,B,2021,Moisés Lucarelli,Campinas,SP,Quinta,11, Novembro ,2021,19:00,Ponte Preta - SP,Botafogo - RJ,0,0,0,0,1,1,1
+343,B,2021,Mineirão,Belo Horizonte,MG,Terça,9, Novembro ,2021,21:30,Cruzeiro - MG,Brusque - SC,2,0,1,0,0,3,0
+344,B,2021,Bento Freitas,Pelotas,RS,Quarta,10, Novembro ,2021,19:00,Brasil - RS,Guarani - SP,0,1,0,1,0,0,3
+345,B,2021,Rei Pelé,Maceio,AL,Quarta,10, Novembro ,2021,21:30,Crb - AL,Londrina - PR,1,0,1,0,0,3,0
+346,B,2021,Germano Kruger,Ponta Grossa,PR,Terça,9, Novembro ,2021,19:00,Operário - PR,Remo - PA,2,1,1,0,0,3,0
+347,B,2021,Ressacada,Florianopolis,SC,Segunda,8, Novembro ,2021,20:00,Avaí - SC,Csa - AL,1,1,0,0,1,1,1
+348,B,2021,Batistão,Aracaju,SE,Terça,9, Novembro ,2021,19:00,Confiança - SE,Náutico - PE,0,0,0,0,1,1,1
+349,B,2021,Castelão,Sao Luis,MA,Quinta,11, Novembro ,2021,19:00,Sampaio Corrêa - MA,Vila Nova - GO,3,0,1,0,0,3,0
+350,B,2021,Nilton Santos,Rio de Janeiro,RJ,Segunda,15, Novembro ,2021,16:00,Botafogo - RJ,Operário - PR,2,1,1,0,0,3,0
+351,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Segunda,15, Novembro ,2021,18:00,Vila Nova - GO,Vasco da Gama - RJ,2,2,0,0,1,1,1
+352,B,2021,Brinco de Ouro,Campinas,SP,Sábado,13, Novembro ,2021,16:00,Guarani - SP,Avaí - SC,4,0,1,0,0,3,0
+353,B,2021,Aflitos,Recife,PE,Segunda,15, Novembro ,2021,18:00,Náutico - PE,Sampaio Corrêa - MA,2,1,1,0,0,3,0
+354,B,2021,Do Café,Londrina,PR,Segunda,15, Novembro ,2021,16:00,Londrina - PR,Ponte Preta - SP,2,1,1,0,0,3,0
+355,B,2021,Rei Pelé,Maceio,AL,Sexta,12, Novembro ,2021,21:30,Csa - AL,Confiança - SE,0,0,0,0,1,1,1
+356,B,2021,Couto Pereira,Curitiba,PR,Domingo,14, Novembro ,2021,18:15,Coritiba - PR,Brasil - RS,2,1,1,0,0,3,0
+357,B,2021,Augusto Bauer,Brusque,SC,Segunda,15, Novembro ,2021,16:00,Brusque - SC,Crb - AL,1,0,1,0,0,3,0
+358,B,2021,Manoel Barradas,Salvador,BA,Domingo,14, Novembro ,2021,19:00,Vitória - BA,Cruzeiro - MG,3,0,1,0,0,3,0
+359,B,2021,Baenão,Belem,PA,Segunda,15, Novembro ,2021,20:00,Remo - PA,Goiás - GO,0,1,0,1,0,0,3
+360,B,2021,São Januário,Rio de Janeiro,RJ,Sexta,19, Novembro ,2021,19:00,Vasco da Gama - RJ,Remo - PA,2,2,0,0,1,1,1
+361,B,2021,Onésio Brasileiro Alvarenga,Goiania,GO,Sexta,19, Novembro ,2021,21:30,Vila Nova - GO,Londrina - PR,2,1,1,0,0,3,0
+362,B,2021,Brinco de Ouro,Campinas,SP,Segunda,22, Novembro ,2021,20:00,Guarani - SP,Goiás - GO,0,2,0,1,0,0,3
+363,B,2021,Aflitos,Recife,PE,Domingo,21, Novembro ,2021,19:00,Náutico - PE,Avaí - SC,1,2,0,1,0,0,3
+364,B,2021,Bento Freitas,Pelotas,RS,Domingo,21, Novembro ,2021,16:00,Brasil - RS,Botafogo - RJ,0,1,0,1,0,0,3
+365,B,2021,Rei Pelé,Maceio,AL,Segunda,22, Novembro ,2021,18:00,Crb - AL,Vitória - BA,3,1,1,0,0,3,0
+366,B,2021,Couto Pereira,Curitiba,PR,Domingo,21, Novembro ,2021,16:00,Coritiba - PR,Csa - AL,0,1,0,1,0,0,3
+367,B,2021,Augusto Bauer,Brusque,SC,Sexta,19, Novembro ,2021,19:00,Brusque - SC,Operário - PR,2,0,1,0,0,3,0
+368,B,2021,Batistão,Aracaju,SE,Sábado,20, Novembro ,2021,16:30,Confiança - SE,Ponte Preta - SP,0,1,0,1,0,0,3
+369,B,2021,Castelão,Sao Luis,MA,Quinta,18, Novembro ,2021,21:00,Sampaio Corrêa - MA,Cruzeiro - MG,1,1,0,0,1,1,1
+370,B,2021,Nilton Santos,Rio de Janeiro,RJ,Domingo,28, Novembro ,2021,16:00,Botafogo - RJ,Guarani - SP,2,2,0,0,1,1,1
+371,B,2021,Hailé Pinheiro,Goiania,GO,Domingo,28, Novembro ,2021,16:00,Goiás - GO,Brusque - SC,2,2,0,0,1,1,1
+372,B,2021,Moisés Lucarelli,Campinas,SP,Sexta,26, Novembro ,2021,19:00,Ponte Preta - SP,Coritiba - PR,3,2,1,0,0,3,0
+373,B,2021,Mineirão,Belo Horizonte,MG,Quinta,25, Novembro ,2021,20:00,Cruzeiro - MG,Náutico - PE,0,0,0,0,1,1,1
+374,B,2021,Do Café,Londrina,PR,Domingo,28, Novembro ,2021,16:00,Londrina - PR,Vasco da Gama - RJ,3,0,1,0,0,3,0
+375,B,2021,Rei Pelé,Maceio,AL,Domingo,28, Novembro ,2021,16:00,Csa - AL,Brasil - RS,4,0,1,0,0,3,0
+376,B,2021,Germano Kruger,Ponta Grossa,PR,Domingo,28, Novembro ,2021,16:00,Operário - PR,Crb - AL,2,1,1,0,0,3,0
+377,B,2021,Ressacada,Florianopolis,SC,Domingo,28, Novembro ,2021,16:00,Avaí - SC,Sampaio Corrêa - MA,2,1,1,0,0,3,0
+378,B,2021,Manoel Barradas,Salvador,BA,Domingo,28, Novembro ,2021,16:00,Vitória - BA,Vila Nova - GO,0,1,0,1,0,0,3
+379,B,2021,Baenão,Belem,PA,Domingo,28, Novembro ,2021,16:00,Remo - PA,Confiança - SE,0,0,0,0,1,1,1

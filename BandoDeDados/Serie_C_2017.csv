@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2017,Castelão,Sao Luis,MA,Sábado,13, Maio ,2017,16:00,Moto Club - MA,Sampaio Correa - MA,1,2,0,1,0,0,3
+1,C,2017,Rei Pelé,Maceio,AL,Domingo,14, Maio ,2017,16:00,Csa - AL,Asa - AL,3,0,1,0,0,3,0
+2,C,2017,Almeidão,Joao Pessoa,PB,Domingo,14, Maio ,2017,16:00,Botafogo - PB,Cuiabá - MT,0,0,0,0,1,1,1
+3,C,2017,Lourival Baptista,Aracaju,SE,Segunda,15, Maio ,2017,20:30,Confiança - SE,Salgueiro - PE,2,1,1,0,0,3,0
+4,C,2017,Mangueirão,Belem,PA,Domingo,14, Maio ,2017,19:00,Remo - PA,Fortaleza - CE,1,0,1,0,0,3,0
+5,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,13, Maio ,2017,19:30,Bragantino - SP,Botafogo - SP,2,2,0,0,1,1,1
+6,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,13, Maio ,2017,18:30,Volta Redonda - RJ,Macaé - RJ,3,1,1,0,0,3,0
+7,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,13, Maio ,2017,15:30,Tombense - MG,Tupi - MG,1,1,0,0,1,1,1
+8,C,2017,José Liberatti,Osasco,SP,Sábado,13, Maio ,2017,15:30,Mogi Mirim - SP,São Bento - SP,0,0,0,0,1,1,1
+9,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,14, Maio ,2017,15:30,Ypiranga - RS,Joinville - SC,2,2,0,0,1,1,1
+10,C,2017,Castelão,Sao Luis,MA,Sábado,20, Maio ,2017,16:00,Sampaio Correa - MA,Csa - AL,0,2,0,1,0,0,3
+11,C,2017,Coaracy Fonseca,Arapiraca,AL,Sábado,20, Maio ,2017,16:30,Asa - AL,Remo - PA,1,0,1,0,0,3,0
+12,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,21, Maio ,2017,17:00,Cuiabá - MT,Confiança - SE,1,2,0,1,0,0,3
+13,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,21, Maio ,2017,16:00,Salgueiro - PE,Moto Club - MA,2,0,1,0,0,3,0
+14,C,2017,Presidente Vargas,Fortaleza,CE,Sexta,19, Maio ,2017,19:00,Fortaleza - CE,Botafogo - PB,1,0,1,0,0,3,0
+15,C,2017,Santa Cruz,Ribeirao Preto,SP,Sábado,20, Maio ,2017,19:30,Botafogo - SP,Mogi Mirim - SP,2,0,1,0,0,3,0
+16,C,2017,Elcyr Resende,Saquarema,RJ,Sábado,20, Maio ,2017,15:00,Macaé - RJ,Bragantino - SP,1,0,1,0,0,3,0
+17,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,20, Maio ,2017,16:00,Tupi - MG,Ypiranga - RS,0,2,0,1,0,0,3
+18,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,20, Maio ,2017,17:00,São Bento - SP,Tombense - MG,2,1,1,0,0,3,0
+19,C,2017,Arena Joinville,Joinville,SC,Domingo,21, Maio ,2017,16:00,Joinville - SC,Volta Redonda - RJ,2,0,1,0,0,3,0
+20,C,2017,Castelão,Sao Luis,MA,Sábado,27, Maio ,2017,16:00,Moto Club - MA,Confiança - SE,4,0,1,0,0,3,0
+21,C,2017,Coaracy Fonseca,Arapiraca,AL,Domingo,28, Maio ,2017,16:00,Asa - AL,Sampaio Correa - MA,0,1,0,1,0,0,3
+22,C,2017,Almeidão,Joao Pessoa,PB,Domingo,28, Maio ,2017,16:00,Botafogo - PB,Csa - AL,2,0,1,0,0,3,0
+23,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,27, Maio ,2017,20:00,Salgueiro - PE,Fortaleza - CE,1,2,0,1,0,0,3
+24,C,2017,Mangueirão,Belem,PA,Domingo,28, Maio ,2017,19:00,Remo - PA,Cuiabá - MT,1,1,0,0,1,1,1
+25,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,27, Maio ,2017,16:00,Bragantino - SP,Ypiranga - RS,1,0,1,0,0,3,0
+26,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Segunda,29, Maio ,2017,19:00,Volta Redonda - RJ,Botafogo - SP,2,0,1,0,0,3,0
+27,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,27, Maio ,2017,15:30,Tombense - MG,Mogi Mirim - SP,2,1,1,0,0,3,0
+28,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,27, Maio ,2017,17:00,São Bento - SP,Macaé - RJ,2,1,1,0,0,3,0
+29,C,2017,Arena Joinville,Joinville,SC,Sexta,26, Maio ,2017,19:00,Joinville - SC,Tupi - MG,1,1,0,0,1,1,1
+30,C,2017,Castelão,Sao Luis,MA,Sábado,3, Junho ,2017,16:00,Sampaio Correa - MA,Cuiabá - MT,1,1,0,0,1,1,1
+31,C,2017,Rei Pelé,Maceio,AL,Domingo,4, Junho ,2017,16:00,Csa - AL,Moto Club - MA,2,1,1,0,0,3,0
+32,C,2017,Almeidão,Joao Pessoa,PB,Domingo,4, Junho ,2017,16:00,Botafogo - PB,Salgueiro - PE,1,0,1,0,0,3,0
+33,C,2017,Lourival Baptista,Aracaju,SE,Segunda,5, Junho ,2017,21:00,Confiança - SE,Remo - PA,0,1,0,1,0,0,3
+34,C,2017,Presidente Vargas,Fortaleza,CE,Sábado,3, Junho ,2017,20:30,Fortaleza - CE,Asa - AL,3,0,1,0,0,3,0
+35,C,2017,Santa Cruz,Ribeirao Preto,SP,Domingo,4, Junho ,2017,18:00,Botafogo - SP,Joinville - SC,3,0,1,0,0,3,0
+36,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,3, Junho ,2017,16:00,Volta Redonda - RJ,Tombense - MG,2,0,1,0,0,3,0
+37,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,3, Junho ,2017,16:00,Tupi - MG,São Bento - SP,1,0,1,0,0,3,0
+38,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,3, Junho ,2017,15:30,Mogi Mirim - SP,Bragantino - SP,2,4,0,1,0,0,3
+39,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,4, Junho ,2017,15:00,Ypiranga - RS,Macaé - RJ,1,1,0,0,1,1,1
+40,C,2017,Castelão,Sao Luis,MA,Sábado,10, Junho ,2017,16:00,Moto Club - MA,Botafogo - PB,0,0,0,0,1,1,1
+41,C,2017,Coaracy Fonseca,Arapiraca,AL,Domingo,11, Junho ,2017,16:00,Asa - AL,Salgueiro - PE,1,1,0,0,1,1,1
+42,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,11, Junho ,2017,18:00,Cuiabá - MT,Fortaleza - CE,2,2,0,0,1,1,1
+43,C,2017,Lourival Baptista,Aracaju,SE,Segunda,12, Junho ,2017,20:30,Confiança - SE,Sampaio Correa - MA,2,2,0,0,1,1,1
+44,C,2017,Mangueirão,Belem,PA,Sábado,10, Junho ,2017,19:30,Remo - PA,Csa - AL,1,1,0,0,1,1,1
+45,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,10, Junho ,2017,16:00,Bragantino - SP,Volta Redonda - RJ,1,1,0,0,1,1,1
+46,C,2017,Moacyrzão,Macae,RJ,Sábado,10, Junho ,2017,15:00,Macaé - RJ,Tupi - MG,1,3,0,1,0,0,3
+47,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,10, Junho ,2017,15:30,Tombense - MG,Joinville - SC,2,2,0,0,1,1,1
+48,C,2017,Walter Ribeiro,Sorocaba,SP,Segunda,12, Junho ,2017,21:00,São Bento - SP,Botafogo - SP,0,0,0,0,1,1,1
+49,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,11, Junho ,2017,15:00,Ypiranga - RS,Mogi Mirim - SP,2,0,1,0,0,3,0
+50,C,2017,Castelão,Sao Luis,MA,Sábado,17, Junho ,2017,16:00,Moto Club - MA,Asa - AL,1,1,0,0,1,1,1
+51,C,2017,Rei Pelé,Maceio,AL,Sexta,16, Junho ,2017,20:00,Csa - AL,Confiança - SE,1,1,0,0,1,1,1
+52,C,2017,Almeidão,Joao Pessoa,PB,Segunda,19, Junho ,2017,21:00,Botafogo - PB,Remo - PA,3,2,1,0,0,3,0
+53,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,18, Junho ,2017,16:00,Salgueiro - PE,Cuiabá - MT,1,1,0,0,1,1,1
+54,C,2017,Presidente Vargas,Fortaleza,CE,Domingo,18, Junho ,2017,18:00,Fortaleza - CE,Sampaio Correa - MA,3,0,1,0,0,3,0
+55,C,2017,Santa Cruz,Ribeirao Preto,SP,Domingo,18, Junho ,2017,16:00,Botafogo - SP,Macaé - RJ,3,0,1,0,0,3,0
+56,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,17, Junho ,2017,18:00,Volta Redonda - RJ,Ypiranga - RS,0,0,0,0,1,1,1
+57,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,17, Junho ,2017,15:30,Tombense - MG,Bragantino - SP,0,0,0,0,1,1,1
+58,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,17, Junho ,2017,15:30,Mogi Mirim - SP,Tupi - MG,2,0,1,0,0,3,0
+59,C,2017,Arena Joinville,Joinville,SC,Domingo,18, Junho ,2017,15:00,Joinville - SC,São Bento - SP,1,1,0,0,1,1,1
+60,C,2017,Nhozinho Santos,Sao Luis,MA,Domingo,25, Junho ,2017,15:30,Sampaio Correa - MA,Salgueiro - PE,1,0,1,0,0,3,0
+61,C,2017,Rei Pelé,Maceio,AL,Segunda,26, Junho ,2017,21:00,Csa - AL,Fortaleza - CE,1,0,1,0,0,3,0
+62,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,25, Junho ,2017,17:00,Cuiabá - MT,Asa - AL,1,1,0,0,1,1,1
+63,C,2017,Lourival Baptista,Aracaju,SE,Sábado,24, Junho ,2017,16:00,Confiança - SE,Botafogo - PB,0,1,0,1,0,0,3
+64,C,2017,Mangueirão,Belem,PA,Sábado,24, Junho ,2017,18:00,Remo - PA,Moto Club - MA,3,2,1,0,0,3,0
+65,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,24, Junho ,2017,16:00,Bragantino - SP,São Bento - SP,0,3,0,1,0,0,3
+66,C,2017,Moacyrzão,Macae,RJ,Sábado,24, Junho ,2017,15:00,Macaé - RJ,Joinville - SC,1,0,1,0,0,3,0
+67,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,24, Junho ,2017,20:00,Tupi - MG,Botafogo - SP,0,0,0,0,1,1,1
+68,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,24, Junho ,2017,15:30,Mogi Mirim - SP,Volta Redonda - RJ,2,1,1,0,0,3,0
+69,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,25, Junho ,2017,15:00,Ypiranga - RS,Tombense - MG,0,1,0,1,0,0,3
+70,C,2017,Castelão,Sao Luis,MA,Segunda,3, Julho ,2017,21:00,Sampaio Correa - MA,Remo - PA,1,1,0,0,1,1,1
+71,C,2017,Coaracy Fonseca,Arapiraca,AL,Domingo,2, Julho ,2017,16:00,Asa - AL,Botafogo - PB,2,1,1,0,0,3,0
+72,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,2, Julho ,2017,19:00,Cuiabá - MT,Moto Club - MA,1,0,1,0,0,3,0
+73,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Domingo,2, Julho ,2017,16:00,Salgueiro - PE,Csa - AL,0,1,0,1,0,0,3
+74,C,2017,Presidente Vargas,Fortaleza,CE,Domingo,2, Julho ,2017,18:00,Fortaleza - CE,Confiança - SE,1,1,0,0,1,1,1
+75,C,2017,Santa Cruz,Ribeirao Preto,SP,Domingo,2, Julho ,2017,16:00,Botafogo - SP,Tombense - MG,0,0,0,0,1,1,1
+76,C,2017,Moacyrzão,Macae,RJ,Sábado,1, Julho ,2017,15:00,Macaé - RJ,Mogi Mirim - SP,1,0,1,0,0,3,0
+77,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,1, Julho ,2017,21:00,Tupi - MG,Volta Redonda - RJ,3,1,1,0,0,3,0
+78,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,1, Julho ,2017,17:00,São Bento - SP,Ypiranga - RS,1,2,0,1,0,0,3
+79,C,2017,Arena Joinville,Joinville,SC,Domingo,2, Julho ,2017,15:00,Joinville - SC,Bragantino - SP,2,0,1,0,0,3,0
+80,C,2017,Castelão,Sao Luis,MA,Sábado,8, Julho ,2017,20:00,Moto Club - MA,Fortaleza - CE,1,0,1,0,0,3,0
+81,C,2017,Rei Pelé,Maceio,AL,Domingo,9, Julho ,2017,16:00,Csa - AL,Cuiabá - MT,0,0,0,0,1,1,1
+82,C,2017,Almeidão,Joao Pessoa,PB,Domingo,9, Julho ,2017,16:00,Botafogo - PB,Sampaio Correa - MA,1,2,0,1,0,0,3
+83,C,2017,Lourival Baptista,Aracaju,SE,Segunda,10, Julho ,2017,20:30,Confiança - SE,Asa - AL,1,1,0,0,1,1,1
+84,C,2017,Mangueirão,Belem,PA,Domingo,9, Julho ,2017,18:00,Remo - PA,Salgueiro - PE,0,1,0,1,0,0,3
+85,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,8, Julho ,2017,16:00,Bragantino - SP,Tupi - MG,0,0,0,0,1,1,1
+86,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Domingo,9, Julho ,2017,11:00,Volta Redonda - RJ,São Bento - SP,0,0,0,0,1,1,1
+87,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,8, Julho ,2017,16:00,Tombense - MG,Macaé - RJ,2,1,1,0,0,3,0
+88,C,2017,Vail Chaves,Mogi Mirim,SP,Segunda,10, Julho ,2017,21:00,Mogi Mirim - SP,Joinville - SC,1,1,0,0,1,1,1
+89,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,9, Julho ,2017,15:00,Ypiranga - RS,Botafogo - SP,1,1,0,0,1,1,1
+90,C,2017,Castelão,Sao Luis,MA,Sábado,15, Julho ,2017,16:00,Sampaio Correa - MA,Moto Club - MA,0,1,0,1,0,0,3
+91,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,15, Julho ,2017,20:00,Salgueiro - PE,Confiança - SE,4,1,1,0,0,3,0
+92,C,2017,Coaracy Fonseca,Arapiraca,AL,Sábado,15, Julho ,2017,21:00,Asa - AL,Csa - AL,0,0,0,0,1,1,1
+93,C,2017,Santa Cruz,Ribeirao Preto,SP,Segunda,17, Julho ,2017,21:00,Botafogo - SP,Bragantino - SP,1,0,1,0,0,3,0
+94,C,2017,Moacyrzão,Macae,RJ,Sábado,15, Julho ,2017,15:00,Macaé - RJ,Volta Redonda - RJ,0,3,0,1,0,0,3
+95,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,15, Julho ,2017,17:00,São Bento - SP,Mogi Mirim - SP,1,0,1,0,0,3,0
+96,C,2017,Presidente Vargas,Fortaleza,CE,Domingo,16, Julho ,2017,18:00,Fortaleza - CE,Remo - PA,1,1,0,0,1,1,1
+97,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,16, Julho ,2017,19:00,Cuiabá - MT,Botafogo - PB,1,0,1,0,0,3,0
+98,C,2017,Arena Joinville,Joinville,SC,Domingo,16, Julho ,2017,15:00,Joinville - SC,Ypiranga - RS,2,1,1,0,0,3,0
+99,C,2017,Mário Helênio,Juiz de Fora,MG,Domingo,16, Julho ,2017,11:00,Tupi - MG,Tombense - MG,1,0,1,0,0,3,0
+100,C,2017,Castelão,Sao Luis,MA,Sábado,22, Julho ,2017,17:00,Moto Club - MA,Salgueiro - PE,0,2,0,1,0,0,3
+101,C,2017,Mangueirão,Belem,PA,Segunda,24, Julho ,2017,21:00,Remo - PA,Asa - AL,1,0,1,0,0,3,0
+102,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,22, Julho ,2017,15:30,Tombense - MG,São Bento - SP,3,2,1,0,0,3,0
+103,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,22, Julho ,2017,15:30,Mogi Mirim - SP,Botafogo - SP,2,2,0,0,1,1,1
+104,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,22, Julho ,2017,16:00,Bragantino - SP,Macaé - RJ,1,1,0,0,1,1,1
+105,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,22, Julho ,2017,16:00,Volta Redonda - RJ,Joinville - SC,0,0,0,0,1,1,1
+106,C,2017,Rei Pelé,Maceio,AL,Domingo,23, Julho ,2017,16:00,Csa - AL,Sampaio Correa - MA,1,1,0,0,1,1,1
+107,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,23, Julho ,2017,15:00,Ypiranga - RS,Tupi - MG,1,1,0,0,1,1,1
+108,C,2017,Lourival Baptista,Aracaju,SE,Segunda,24, Julho ,2017,20:30,Confiança - SE,Cuiabá - MT,1,1,0,0,1,1,1
+109,C,2017,Almeidão,Joao Pessoa,PB,Sexta,21, Julho ,2017,21:00,Botafogo - PB,Fortaleza - CE,0,2,0,1,0,0,3
+110,C,2017,Arena Pantanal,Cuiaba,MT,Segunda,31, Julho ,2017,21:00,Cuiabá - MT,Remo - PA,0,0,0,0,1,1,1
+111,C,2017,Castelão,Sao Luis,MA,Sábado,29, Julho ,2017,17:00,Sampaio Correa - MA,Asa - AL,1,0,1,0,0,3,0
+112,C,2017,Castelão,Fortaleza,CE,Sábado,29, Julho ,2017,17:00,Fortaleza - CE,Salgueiro - PE,1,0,1,0,0,3,0
+113,C,2017,Moacyrzão,Macae,RJ,Sábado,29, Julho ,2017,15:00,Macaé - RJ,São Bento - SP,0,0,0,0,1,1,1
+114,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,29, Julho ,2017,15:30,Mogi Mirim - SP,Tombense - MG,1,1,0,0,1,1,1
+115,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,29, Julho ,2017,16:00,Tupi - MG,Joinville - SC,3,1,1,0,0,3,0
+116,C,2017,Rei Pelé,Maceio,AL,Domingo,30, Julho ,2017,16:00,Csa - AL,Botafogo - PB,2,1,1,0,0,3,0
+117,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,30, Julho ,2017,15:00,Ypiranga - RS,Bragantino - SP,0,0,0,0,1,1,1
+118,C,2017,Santa Cruz,Ribeirao Preto,SP,Domingo,30, Julho ,2017,16:00,Botafogo - SP,Volta Redonda - RJ,2,1,1,0,0,3,0
+119,C,2017,Lourival Baptista,Aracaju,SE,Segunda,31, Julho ,2017,20:30,Confiança - SE,Moto Club - MA,1,1,0,0,1,1,1
+120,C,2017,Castelão,Sao Luis,MA,Sábado,5, Agosto ,2017,18:00,Moto Club - MA,Csa - AL,1,1,0,0,1,1,1
+121,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,5, Agosto ,2017,20:00,Salgueiro - PE,Botafogo - PB,1,0,1,0,0,3,0
+122,C,2017,Coaracy Fonseca,Arapiraca,AL,Sábado,5, Agosto ,2017,20:00,Asa - AL,Fortaleza - CE,1,1,0,0,1,1,1
+123,C,2017,Moacyrzão,Macae,RJ,Sábado,5, Agosto ,2017,15:00,Macaé - RJ,Ypiranga - RS,0,2,0,1,0,0,3
+124,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,5, Agosto ,2017,15:30,Tombense - MG,Volta Redonda - RJ,0,0,0,0,1,1,1
+125,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,5, Agosto ,2017,16:00,Bragantino - SP,Mogi Mirim - SP,1,0,1,0,0,3,0
+126,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,5, Agosto ,2017,17:00,São Bento - SP,Tupi - MG,2,0,1,0,0,3,0
+127,C,2017,Mangueirão,Belem,PA,Domingo,6, Agosto ,2017,18:00,Remo - PA,Confiança - SE,2,2,0,0,1,1,1
+128,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,6, Agosto ,2017,19:00,Cuiabá - MT,Sampaio Correa - MA,1,3,0,1,0,0,3
+129,C,2017,Arena Joinville,Joinville,SC,Domingo,6, Agosto ,2017,15:00,Joinville - SC,Botafogo - SP,1,0,1,0,0,3,0
+130,C,2017,Castelão,Sao Luis,MA,Sábado,12, Agosto ,2017,17:00,Sampaio Correa - MA,Confiança - SE,2,1,1,0,0,3,0
+131,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,12, Agosto ,2017,20:00,Salgueiro - PE,Asa - AL,2,0,1,0,0,3,0
+132,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,12, Agosto ,2017,18:30,Volta Redonda - RJ,Bragantino - SP,1,0,1,0,0,3,0
+133,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,12, Agosto ,2017,15:30,Mogi Mirim - SP,Ypiranga - RS,0,3,0,1,0,0,3
+134,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,12, Agosto ,2017,16:00,Tupi - MG,Macaé - RJ,1,0,1,0,0,3,0
+135,C,2017,Almeidão,Joao Pessoa,PB,Domingo,13, Agosto ,2017,16:00,Botafogo - PB,Moto Club - MA,3,2,1,0,0,3,0
+136,C,2017,Castelão,Fortaleza,CE,Domingo,13, Agosto ,2017,18:00,Fortaleza - CE,Cuiabá - MT,1,1,0,0,1,1,1
+137,C,2017,Arena Joinville,Joinville,SC,Domingo,13, Agosto ,2017,15:00,Joinville - SC,Tombense - MG,2,0,1,0,0,3,0
+138,C,2017,Santa Cruz,Ribeirao Preto,SP,Domingo,13, Agosto ,2017,16:00,Botafogo - SP,São Bento - SP,0,2,0,1,0,0,3
+139,C,2017,Rei Pelé,Maceio,AL,Sábado,12, Agosto ,2017,16:00,Csa - AL,Remo - PA,2,0,1,0,0,3,0
+140,C,2017,Lourival Baptista,Aracaju,SE,Sábado,19, Agosto ,2017,16:00,Confiança - SE,Csa - AL,2,0,1,0,0,3,0
+141,C,2017,Moacyrzão,Macae,RJ,Sábado,19, Agosto ,2017,15:00,Macaé - RJ,Botafogo - SP,3,2,1,0,0,3,0
+142,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,19, Agosto ,2017,16:00,Bragantino - SP,Tombense - MG,1,1,0,0,1,1,1
+143,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,19, Agosto ,2017,16:00,Tupi - MG,Mogi Mirim - SP,1,0,1,0,0,3,0
+144,C,2017,Walter Ribeiro,Sorocaba,SP,Sexta,18, Agosto ,2017,21:00,São Bento - SP,Joinville - SC,2,0,1,0,0,3,0
+145,C,2017,Castelão,Sao Luis,MA,Sábado,19, Agosto ,2017,20:00,Sampaio Correa - MA,Fortaleza - CE,2,0,1,0,0,3,0
+146,C,2017,Colosso da Lagoa,Erechim,RS,Domingo,20, Agosto ,2017,15:00,Ypiranga - RS,Volta Redonda - RJ,3,3,0,0,1,1,1
+147,C,2017,Coaracy Fonseca,Arapiraca,AL,Domingo,20, Agosto ,2017,16:00,Asa - AL,Moto Club - MA,0,1,0,1,0,0,3
+148,C,2017,Mangueirão,Belem,PA,Domingo,20, Agosto ,2017,18:00,Remo - PA,Botafogo - PB,2,1,1,0,0,3,0
+149,C,2017,Arena Pantanal,Cuiaba,MT,Domingo,20, Agosto ,2017,19:00,Cuiabá - MT,Salgueiro - PE,1,0,1,0,0,3,0
+150,C,2017,Santa Cruz,Ribeirao Preto,SP,Sábado,26, Agosto ,2017,15:00,Botafogo - SP,Tupi - MG,1,1,0,0,1,1,1
+151,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,26, Agosto ,2017,15:30,Tombense - MG,Ypiranga - RS,3,0,1,0,0,3,0
+152,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,26, Agosto ,2017,17:00,São Bento - SP,Bragantino - SP,1,1,0,0,1,1,1
+153,C,2017,Castelão,Sao Luis,MA,Sábado,26, Agosto ,2017,17:15,Moto Club - MA,Remo - PA,1,1,0,0,1,1,1
+154,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,26, Agosto ,2017,20:00,Salgueiro - PE,Sampaio Correa - MA,1,1,0,0,1,1,1
+155,C,2017,Arena Joinville,Joinville,SC,Domingo,27, Agosto ,2017,15:00,Joinville - SC,Macaé - RJ,2,4,0,1,0,0,3
+156,C,2017,Coaracy Fonseca,Arapiraca,AL,Domingo,27, Agosto ,2017,16:00,Asa - AL,Cuiabá - MT,2,3,0,1,0,0,3
+157,C,2017,Almeidão,Joao Pessoa,PB,Domingo,27, Agosto ,2017,16:00,Botafogo - PB,Confiança - SE,1,2,0,1,0,0,3
+158,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Domingo,27, Agosto ,2017,15:00,Volta Redonda - RJ,Mogi Mirim - SP,4,0,1,0,0,3,0
+159,C,2017,Castelão,Fortaleza,CE,Domingo,27, Agosto ,2017,19:15,Fortaleza - CE,Csa - AL,1,1,0,0,1,1,1
+160,C,2017,Colosso da Lagoa,Erechim,RS,Sexta,1, Setembro ,2017,19:30,Ypiranga - RS,São Bento - SP,0,0,0,0,1,1,1
+161,C,2017,Almeidão,Joao Pessoa,PB,Sexta,1, Setembro ,2017,21:30,Botafogo - PB,Asa - AL,0,0,0,0,1,1,1
+162,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Sábado,2, Setembro ,2017,15:30,Tombense - MG,Botafogo - SP,2,1,1,0,0,3,0
+163,C,2017,Vail Chaves,Mogi Mirim,SP,Sábado,2, Setembro ,2017,15:30,Mogi Mirim - SP,Macaé - RJ,3,0,1,0,0,3,0
+164,C,2017,Castelão,Sao Luis,MA,Sábado,2, Setembro ,2017,17:00,Moto Club - MA,Cuiabá - MT,1,0,1,0,0,3,0
+165,C,2017,Nabi Abi Chedid,Braganca Paulista,SP,Domingo,3, Setembro ,2017,15:00,Bragantino - SP,Joinville - SC,1,1,0,0,1,1,1
+166,C,2017,Mangueirão,Belem,PA,Sábado,2, Setembro ,2017,16:15,Remo - PA,Sampaio Correa - MA,1,2,0,1,0,0,3
+167,C,2017,Lourival Baptista,Aracaju,SE,Domingo,3, Setembro ,2017,19:00,Confiança - SE,Fortaleza - CE,2,0,1,0,0,3,0
+168,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Segunda,4, Setembro ,2017,21:00,Volta Redonda - RJ,Tupi - MG,2,2,0,0,1,1,1
+169,C,2017,Rei Pelé,Maceio,AL,Segunda,4, Setembro ,2017,19:00,Csa - AL,Salgueiro - PE,2,0,1,0,0,3,0
+170,C,2017,Santa Cruz,Ribeirao Preto,SP,Sábado,9, Setembro ,2017,17:00,Botafogo - SP,Ypiranga - RS,5,3,1,0,0,3,0
+171,C,2017,Moacyrzão,Macae,RJ,Sábado,9, Setembro ,2017,17:00,Macaé - RJ,Tombense - MG,0,0,0,0,1,1,1
+172,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,9, Setembro ,2017,17:00,Tupi - MG,Bragantino - SP,2,3,0,1,0,0,3
+173,C,2017,Walter Ribeiro,Sorocaba,SP,Sábado,9, Setembro ,2017,17:00,São Bento - SP,Volta Redonda - RJ,1,0,1,0,0,3,0
+174,C,2017,Arena Joinville,Joinville,SC,Sábado,9, Setembro ,2017,17:00,Joinville - SC,Mogi Mirim - SP,8,1,1,0,0,3,0
+175,C,2017,Castelão,Sao Luis,MA,Sábado,9, Setembro ,2017,19:30,Sampaio Correa - MA,Botafogo - PB,2,3,0,1,0,0,3
+176,C,2017,Coaracy Fonseca,Arapiraca,AL,Sábado,9, Setembro ,2017,19:30,Asa - AL,Confiança - SE,1,2,0,1,0,0,3
+177,C,2017,Arena Pantanal,Cuiaba,MT,Sábado,9, Setembro ,2017,19:30,Cuiabá - MT,Csa - AL,1,1,0,0,1,1,1
+178,C,2017,Cornélio de Barros Muniz,Salgueiro,PE,Sábado,9, Setembro ,2017,19:30,Salgueiro - PE,Remo - PA,2,1,1,0,0,3,0
+179,C,2017,Castelão,Fortaleza,CE,Sábado,9, Setembro ,2017,19:30,Fortaleza - CE,Moto Club - MA,1,0,1,0,0,3,0
+180,C,2017,Raulino de Oliveira,Volta Redonda,RJ,Sábado,16, Setembro ,2017,19:30,Volta Redonda - RJ,Sampaio Correa - MA,0,1,0,1,0,0,3
+181,C,2017,Castelão,Fortaleza,CE,Sábado,16, Setembro ,2017,16:00,Fortaleza - CE,Tupi - MG,2,0,1,0,0,3,0
+182,C,2017,Antônio Guimarães de Almeida,Tombos,MG,Segunda,18, Setembro ,2017,20:45,Tombense - MG,Csa - AL,0,2,0,1,0,0,3
+183,C,2017,Lourival Baptista,Aracaju,SE,Domingo,17, Setembro ,2017,19:00,Confiança - SE,São Bento - SP,0,2,0,1,0,0,3
+184,C,2017,Castelão,Sao Luis,MA,Sábado,23, Setembro ,2017,16:30,Sampaio Correa - MA,Volta Redonda - RJ,1,1,0,0,1,1,1
+185,C,2017,Mário Helênio,Juiz de Fora,MG,Sábado,23, Setembro ,2017,20:30,Tupi - MG,Fortaleza - CE,1,0,1,0,0,3,0
+186,C,2017,Rei Pelé,Maceio,AL,Segunda,25, Setembro ,2017,20:30,Csa - AL,Tombense - MG,1,0,1,0,0,3,0
+187,C,2017,Walter Ribeiro,Sorocaba,SP,Domingo,24, Setembro ,2017,19:00,São Bento - SP,Confiança - SE,0,0,0,0,1,1,1
+188,C,2017,Castelão,Fortaleza,CE,Segunda,2, Outubro ,2017,20:45,Fortaleza - CE,Sampaio Correa - MA,1,0,1,0,0,3,0
+189,C,2017,Walter Ribeiro,Sorocaba,SP,Domingo,1, Outubro ,2017,19:00,São Bento - SP,Csa - AL,0,1,0,1,0,0,3
+190,C,2017,Castelão,Sao Luis,MA,Sábado,7, Outubro ,2017,17:00,Sampaio Correa - MA,Fortaleza - CE,2,2,0,0,1,1,1
+191,C,2017,Rei Pelé,Maceio,AL,Sábado,7, Outubro ,2017,19:30,Csa - AL,São Bento - SP,0,1,0,1,0,0,3
+192,C,2017,Castelão,Fortaleza,CE,Sábado,14, Outubro ,2017,19:00,Fortaleza - CE,Csa - AL,1,2,0,1,0,0,3
+193,C,2017,Rei Pelé,Maceio,AL,Sábado,21, Outubro ,2017,19:00,Csa - AL,Fortaleza - CE,0,0,0,0,1,1,1

@@ -1,0 +1,380 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,B,2016,Castelão,Fortaleza,CE,Sábado,14, Maio ,2016,16:00,Ceará - CE,Paysandu - PA,2,2,0,0,1,1,1
+1,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,14, Maio ,2016,21:00,Bahia - BA,Avaí - SC,2,1,1,0,0,3,0
+2,B,2016,Castelão,Sao Luis,MA,Sábado,14, Maio ,2016,16:00,Sampaio Correa - MA,Vasco da Gama - RJ,0,4,0,1,0,0,3
+3,B,2016,Sílvio Salles,Catanduva,SP,Sexta,13, Maio ,2016,20:30,Oeste - SP,Atlético - GO,0,1,0,1,0,0,3
+4,B,2016,Serra Dourada,Goiania,GO,Sexta,13, Maio ,2016,19:15,Vila Nova - GO,Bragantino - SP,3,1,1,0,0,3,0
+5,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,14, Maio ,2016,21:00,Luverdense - MT,Joinville - SC,1,1,0,0,1,1,1
+6,B,2016,Mário Helênio,Juiz de Fora,MG,Sexta,13, Maio ,2016,21:30,Tupi - MG,Goiás - GO,0,1,0,1,0,0,3
+7,B,2016,Bento Freitas,Pelotas,RS,Sábado,14, Maio ,2016,16:00,Brasil - RS,Paraná - PR,2,0,1,0,0,3,0
+8,B,2016,Do Café,Londrina,PR,Sábado,14, Maio ,2016,16:00,Londrina - PR,Crb - AL,0,1,0,1,0,0,3
+9,B,2016,Heriberto Hulse,Criciuma,SC,Sábado,14, Maio ,2016,16:30,Criciúma - SC,Náutico - PE,1,0,1,0,0,3,0
+10,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Terça,17, Maio ,2016,21:30,Náutico - PE,Vila Nova - GO,3,2,1,0,0,3,0
+11,B,2016,Rei Pelé,Maceio,AL,Sábado,21, Maio ,2016,16:30,Crb - AL,Ceará - CE,0,3,0,1,0,0,3
+12,B,2016,Mangueirão,Belem,PA,Sábado,21, Maio ,2016,16:00,Paysandu - PA,Oeste - SP,1,1,0,0,1,1,1
+13,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,17, Maio ,2016,19:15,Bragantino - SP,Luverdense - MT,0,1,0,1,0,0,3
+14,B,2016,JK,Itumbiara,GO,Sexta,20, Maio ,2016,20:30,Goiás - GO,Londrina - PR,1,1,0,0,1,1,1
+15,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,21, Maio ,2016,16:00,Vasco da Gama - RJ,Tupi - MG,1,0,1,0,0,3,0
+16,B,2016,Serra Dourada,Goiania,GO,Sexta,20, Maio ,2016,19:15,Atlético - GO,Brasil - RS,1,0,1,0,0,3,0
+17,B,2016,Arena Joinville,Joinville,SC,Sexta,20, Maio ,2016,21:30,Joinville - SC,Criciúma - SC,0,0,0,0,1,1,1
+18,B,2016,Durival Britto,Curitiba,PR,Sábado,21, Maio ,2016,16:30,Paraná - PR,Bahia - BA,0,0,0,0,1,1,1
+19,B,2016,Ressacada,Florianopolis,SC,Sábado,21, Maio ,2016,16:00,Avaí - SC,Sampaio Correa - MA,2,0,1,0,0,3,0
+20,B,2016,Castelão,Fortaleza,CE,Terça,24, Maio ,2016,19:15,Ceará - CE,Atlético - GO,0,1,0,1,0,0,3
+21,B,2016,Arena Fonte Nova,Salvador,BA,Quarta,25, Maio ,2016,19:30,Bahia - BA,Joinville - SC,1,0,1,0,0,3,0
+22,B,2016,Castelão,Sao Luis,MA,Terça,24, Maio ,2016,19:15,Sampaio Correa - MA,Paraná - PR,1,2,0,1,0,0,3
+23,B,2016,José Liberatti,Osasco,SP,Terça,24, Maio ,2016,19:15,Oeste - SP,Crb - AL,2,1,1,0,0,3,0
+24,B,2016,Mané Garrincha,Brasilia,DF,Terça,24, Maio ,2016,21:30,Vila Nova - GO,Vasco da Gama - RJ,0,2,0,1,0,0,3
+25,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,24, Maio ,2016,21:30,Luverdense - MT,Avaí - SC,1,1,0,0,1,1,1
+26,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,24, Maio ,2016,21:30,Tupi - MG,Paysandu - PA,5,1,1,0,0,3,0
+27,B,2016,Bento Freitas,Pelotas,RS,Terça,24, Maio ,2016,19:15,Brasil - RS,Bragantino - SP,2,0,1,0,0,3,0
+28,B,2016,Do Café,Londrina,PR,Terça,24, Maio ,2016,19:15,Londrina - PR,Náutico - PE,1,0,1,0,0,3,0
+29,B,2016,Heriberto Hulse,Criciuma,SC,Terça,24, Maio ,2016,21:30,Criciúma - SC,Goiás - GO,3,1,1,0,0,3,0
+30,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,27, Maio ,2016,21:30,Náutico - PE,Sampaio Correa - MA,5,0,1,0,0,3,0
+31,B,2016,Rei Pelé,Maceio,AL,Sexta,27, Maio ,2016,19:15,Crb - AL,Criciúma - SC,2,1,1,0,0,3,0
+32,B,2016,Curuzu,Belem,PA,Sábado,28, Maio ,2016,21:00,Paysandu - PA,Luverdense - MT,2,1,1,0,0,3,0
+33,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,28, Maio ,2016,21:00,Bragantino - SP,Tupi - MG,2,1,1,0,0,3,0
+34,B,2016,JK,Itumbiara,GO,Sexta,27, Maio ,2016,20:30,Goiás - GO,Brasil - RS,1,1,0,0,1,1,1
+35,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,28, Maio ,2016,16:30,Vasco da Gama - RJ,Bahia - BA,4,3,1,0,0,3,0
+36,B,2016,Serra Dourada,Goiania,GO,Sábado,28, Maio ,2016,16:00,Atlético - GO,Vila Nova - GO,2,1,1,0,0,3,0
+37,B,2016,Arena Joinville,Joinville,SC,Sábado,28, Maio ,2016,16:00,Joinville - SC,Londrina - PR,1,1,0,0,1,1,1
+38,B,2016,Durival Britto,Curitiba,PR,Sexta,27, Maio ,2016,20:30,Paraná - PR,Oeste - SP,2,1,1,0,0,3,0
+39,B,2016,Ressacada,Florianopolis,SC,Sábado,28, Maio ,2016,16:00,Avaí - SC,Ceará - CE,4,2,1,0,0,3,0
+40,B,2016,Castelão,Fortaleza,CE,Terça,31, Maio ,2016,19:15,Ceará - CE,Goiás - GO,2,1,1,0,0,3,0
+41,B,2016,Arena Fonte Nova,Salvador,BA,Terça,31, Maio ,2016,19:15,Bahia - BA,Náutico - PE,0,0,0,0,1,1,1
+42,B,2016,Castelão,Sao Luis,MA,Terça,31, Maio ,2016,19:15,Sampaio Correa - MA,Bragantino - SP,0,0,0,0,1,1,1
+43,B,2016,Arena Barueri,Barueri,SP,Terça,31, Maio ,2016,21:30,Oeste - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+44,B,2016,Serra Dourada,Goiania,GO,Terça,31, Maio ,2016,19:15,Vila Nova - GO,Crb - AL,1,2,0,1,0,0,3
+45,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,31, Maio ,2016,21:30,Luverdense - MT,Atlético - GO,3,2,1,0,0,3,0
+46,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,31, Maio ,2016,21:30,Tupi - MG,Joinville - SC,1,2,0,1,0,0,3
+47,B,2016,Bento Freitas,Pelotas,RS,Terça,31, Maio ,2016,19:15,Brasil - RS,Paysandu - PA,1,0,1,0,0,3,0
+48,B,2016,Do Café,Londrina,PR,Terça,31, Maio ,2016,19:15,Londrina - PR,Paraná - PR,1,1,0,0,1,1,1
+49,B,2016,Heriberto Hulse,Criciuma,SC,Terça,31, Maio ,2016,19:15,Criciúma - SC,Avaí - SC,1,0,1,0,0,3,0
+50,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,3, Junho ,2016,21:30,Náutico - PE,Joinville - SC,2,0,1,0,0,3,0
+51,B,2016,Arena Fonte Nova,Salvador,BA,Sexta,3, Junho ,2016,19:15,Bahia - BA,Paysandu - PA,3,0,1,0,0,3,0
+52,B,2016,Castelão,Sao Luis,MA,Sábado,4, Junho ,2016,16:00,Sampaio Correa - MA,Ceará - CE,2,3,0,1,0,0,3
+53,B,2016,José Liberatti,Osasco,SP,Sábado,4, Junho ,2016,16:00,Oeste - SP,Criciúma - SC,1,0,1,0,0,3,0
+54,B,2016,Serra Dourada,Goiania,GO,Sexta,3, Junho ,2016,20:30,Vila Nova - GO,Paraná - PR,0,0,0,0,1,1,1
+55,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,4, Junho ,2016,16:30,Vasco da Gama - RJ,Goiás - GO,1,0,1,0,0,3,0
+56,B,2016,Serra Dourada,Goiania,GO,Sábado,4, Junho ,2016,21:00,Atlético - GO,Bragantino - SP,1,0,1,0,0,3,0
+57,B,2016,Bento Freitas,Pelotas,RS,Sexta,3, Junho ,2016,20:30,Brasil - RS,Luverdense - MT,1,1,0,0,1,1,1
+58,B,2016,Do Café,Londrina,PR,Sábado,4, Junho ,2016,16:00,Londrina - PR,Tupi - MG,1,0,1,0,0,3,0
+59,B,2016,Ressacada,Florianopolis,SC,Sábado,4, Junho ,2016,21:00,Avaí - SC,Crb - AL,2,1,1,0,0,3,0
+60,B,2016,Castelão,Fortaleza,CE,Terça,7, Junho ,2016,21:30,Ceará - CE,Londrina - PR,1,0,1,0,0,3,0
+61,B,2016,Rei Pelé,Maceio,AL,Terça,7, Junho ,2016,19:15,Crb - AL,Sampaio Correa - MA,2,1,1,0,0,3,0
+62,B,2016,Curuzu,Belem,PA,Terça,7, Junho ,2016,19:15,Paysandu - PA,Náutico - PE,1,3,0,1,0,0,3
+63,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,7, Junho ,2016,19:15,Bragantino - SP,Avaí - SC,1,0,1,0,0,3,0
+64,B,2016,Serra Dourada,Goiania,GO,Terça,7, Junho ,2016,21:30,Goiás - GO,Bahia - BA,0,2,0,1,0,0,3
+65,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,7, Junho ,2016,21:30,Luverdense - MT,Vila Nova - GO,0,2,0,1,0,0,3
+66,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,7, Junho ,2016,19:15,Tupi - MG,Oeste - SP,0,1,0,1,0,0,3
+67,B,2016,Arena Joinville,Joinville,SC,Terça,7, Junho ,2016,21:30,Joinville - SC,Vasco da Gama - RJ,0,2,0,1,0,0,3
+68,B,2016,Durival Britto,Curitiba,PR,Terça,7, Junho ,2016,19:15,Paraná - PR,Atlético - GO,0,0,0,0,1,1,1
+69,B,2016,Heriberto Hulse,Criciuma,SC,Terça,7, Junho ,2016,19:15,Criciúma - SC,Brasil - RS,3,0,1,0,0,3,0
+70,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,11, Junho ,2016,16:00,Náutico - PE,Paraná - PR,5,1,1,0,0,3,0
+71,B,2016,Pituaçu,Salvador,BA,Sexta,10, Junho ,2016,19:15,Bahia - BA,Crb - AL,3,0,1,0,0,3,0
+72,B,2016,Castelão,Sao Luis,MA,Sexta,10, Junho ,2016,20:30,Sampaio Correa - MA,Criciúma - SC,1,0,1,0,0,3,0
+73,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,11, Junho ,2016,21:00,Bragantino - SP,Paysandu - PA,0,0,0,0,1,1,1
+74,B,2016,Serra Dourada,Goiania,GO,Sexta,10, Junho ,2016,20:30,Goiás - GO,Oeste - SP,1,1,0,0,1,1,1
+75,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,11, Junho ,2016,21:00,Luverdense - MT,Ceará - CE,2,0,1,0,0,3,0
+76,B,2016,Kleber Andrade,Cariacica,ES,Sábado,11, Junho ,2016,16:30,Atlético - GO,Vasco da Gama - RJ,2,1,1,0,0,3,0
+77,B,2016,Bento Freitas,Pelotas,RS,Sábado,11, Junho ,2016,16:00,Brasil - RS,Tupi - MG,1,0,1,0,0,3,0
+78,B,2016,Do Café,Londrina,PR,Sábado,11, Junho ,2016,16:00,Londrina - PR,Vila Nova - GO,1,0,1,0,0,3,0
+79,B,2016,Ressacada,Florianopolis,SC,Sábado,11, Junho ,2016,16:00,Avaí - SC,Joinville - SC,0,1,0,1,0,0,3
+80,B,2016,Castelão,Fortaleza,CE,Terça,14, Junho ,2016,21:30,Ceará - CE,Brasil - RS,3,0,1,0,0,3,0
+81,B,2016,Rei Pelé,Maceio,AL,Terça,14, Junho ,2016,21:30,Crb - AL,Bragantino - SP,2,1,1,0,0,3,0
+82,B,2016,Curuzu,Belem,PA,Terça,14, Junho ,2016,21:30,Paysandu - PA,Avaí - SC,1,0,1,0,0,3,0
+83,B,2016,Arena Barueri,Barueri,SP,Terça,14, Junho ,2016,19:15,Oeste - SP,Londrina - PR,1,1,0,0,1,1,1
+84,B,2016,Serra Dourada,Goiania,GO,Terça,14, Junho ,2016,19:15,Vila Nova - GO,Sampaio Correa - MA,1,0,1,0,0,3,0
+85,B,2016,São Januário,Rio de Janeiro,RJ,Terça,14, Junho ,2016,19:15,Vasco da Gama - RJ,Náutico - PE,3,2,1,0,0,3,0
+86,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,14, Junho ,2016,19:15,Tupi - MG,Luverdense - MT,0,0,0,0,1,1,1
+87,B,2016,Arena Joinville,Joinville,SC,Terça,14, Junho ,2016,19:15,Joinville - SC,Atlético - GO,0,0,0,0,1,1,1
+88,B,2016,Durival Britto,Curitiba,PR,Terça,14, Junho ,2016,19:15,Paraná - PR,Goiás - GO,2,0,1,0,0,3,0
+89,B,2016,Heriberto Hulse,Criciuma,SC,Terça,14, Junho ,2016,19:15,Criciúma - SC,Bahia - BA,3,2,1,0,0,3,0
+90,B,2016,Arruda,Recife,PE,Sábado,18, Junho ,2016,16:00,Náutico - PE,Bragantino - SP,1,1,0,0,1,1,1
+91,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,18, Junho ,2016,16:00,Bahia - BA,Londrina - PR,1,2,0,1,0,0,3
+92,B,2016,Castelão,Sao Luis,MA,Sexta,17, Junho ,2016,21:00,Sampaio Correa - MA,Brasil - RS,1,1,0,0,1,1,1
+93,B,2016,Arena Barueri,Barueri,SP,Sábado,18, Junho ,2016,21:00,Oeste - SP,Vila Nova - GO,1,3,0,1,0,0,3
+94,B,2016,Serra Dourada,Goiania,GO,Sexta,17, Junho ,2016,21:30,Goiás - GO,Avaí - SC,2,0,1,0,0,3,0
+95,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,18, Junho ,2016,16:30,Vasco da Gama - RJ,Paysandu - PA,0,2,0,1,0,0,3
+96,B,2016,Serra Dourada,Goiania,GO,Sábado,18, Junho ,2016,16:00,Atlético - GO,Crb - AL,1,2,0,1,0,0,3
+97,B,2016,Arena Joinville,Joinville,SC,Sexta,17, Junho ,2016,19:15,Joinville - SC,Ceará - CE,1,1,0,0,1,1,1
+98,B,2016,Durival Britto,Curitiba,PR,Sexta,17, Junho ,2016,21:00,Paraná - PR,Luverdense - MT,1,2,0,1,0,0,3
+99,B,2016,Heriberto Hulse,Criciuma,SC,Sábado,18, Junho ,2016,16:00,Criciúma - SC,Tupi - MG,2,2,0,0,1,1,1
+100,B,2016,Castelão,Fortaleza,CE,Terça,21, Junho ,2016,19:15,Ceará - CE,Oeste - SP,1,0,1,0,0,3,0
+101,B,2016,Rei Pelé,Maceio,AL,Terça,21, Junho ,2016,19:15,Crb - AL,Paraná - PR,1,1,0,0,1,1,1
+102,B,2016,Curuzu,Belem,PA,Terça,21, Junho ,2016,19:15,Paysandu - PA,Joinville - SC,1,0,1,0,0,3,0
+103,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,21, Junho ,2016,21:30,Bragantino - SP,Goiás - GO,0,1,0,1,0,0,3
+104,B,2016,Serra Dourada,Goiania,GO,Terça,21, Junho ,2016,21:30,Vila Nova - GO,Criciúma - SC,2,3,0,1,0,0,3
+105,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,21, Junho ,2016,21:30,Luverdense - MT,Sampaio Correa - MA,0,0,0,0,1,1,1
+106,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,21, Junho ,2016,19:15,Tupi - MG,Bahia - BA,2,1,1,0,0,3,0
+107,B,2016,Centenário,Caxias do Sul,RS,Terça,21, Junho ,2016,21:30,Brasil - RS,Náutico - PE,0,0,0,0,1,1,1
+108,B,2016,Do Café,Londrina,PR,Terça,21, Junho ,2016,19:15,Londrina - PR,Vasco da Gama - RJ,0,1,0,1,0,0,3
+109,B,2016,Ressacada,Florianopolis,SC,Terça,21, Junho ,2016,19:15,Avaí - SC,Atlético - GO,1,1,0,0,1,1,1
+110,B,2016,Castelão,Fortaleza,CE,Sábado,25, Junho ,2016,16:30,Ceará - CE,Náutico - PE,2,1,1,0,0,3,0
+111,B,2016,Rei Pelé,Maceio,AL,Sábado,25, Junho ,2016,16:30,Crb - AL,Vasco da Gama - RJ,1,2,0,1,0,0,3
+112,B,2016,Curuzu,Belem,PA,Sexta,24, Junho ,2016,19:15,Paysandu - PA,Atlético - GO,0,0,0,0,1,1,1
+113,B,2016,Arena Barueri,Barueri,SP,Sábado,25, Junho ,2016,21:00,Oeste - SP,Sampaio Correa - MA,1,0,1,0,0,3,0
+114,B,2016,Serra Dourada,Goiania,GO,Sábado,25, Junho ,2016,16:00,Vila Nova - GO,Goiás - GO,1,1,0,0,1,1,1
+115,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sexta,24, Junho ,2016,21:30,Luverdense - MT,Londrina - PR,2,1,1,0,0,3,0
+116,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,25, Junho ,2016,21:00,Tupi - MG,Avaí - SC,1,1,0,0,1,1,1
+117,B,2016,Centenário,Caxias do Sul,RS,Sexta,24, Junho ,2016,21:30,Brasil - RS,Bahia - BA,2,1,1,0,0,3,0
+118,B,2016,Durival Britto,Curitiba,PR,Sábado,25, Junho ,2016,16:00,Paraná - PR,Joinville - SC,1,0,1,0,0,3,0
+119,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,24, Junho ,2016,19:15,Criciúma - SC,Bragantino - SP,1,1,0,0,1,1,1
+120,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Terça,28, Junho ,2016,20:30,Náutico - PE,Luverdense - MT,1,0,1,0,0,3,0
+121,B,2016,Arena Fonte Nova,Salvador,BA,Terça,28, Junho ,2016,19:15,Bahia - BA,Oeste - SP,2,0,1,0,0,3,0
+122,B,2016,Castelão,Sao Luis,MA,Terça,28, Junho ,2016,20:30,Sampaio Correa - MA,Tupi - MG,3,1,1,0,0,3,0
+123,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,28, Junho ,2016,21:30,Bragantino - SP,Ceará - CE,1,1,0,0,1,1,1
+124,B,2016,Serra Dourada,Goiania,GO,Terça,28, Junho ,2016,21:30,Goiás - GO,Paysandu - PA,0,0,0,0,1,1,1
+125,B,2016,São Januário,Rio de Janeiro,RJ,Terça,28, Junho ,2016,20:30,Vasco da Gama - RJ,Paraná - PR,1,2,0,1,0,0,3
+126,B,2016,Serra Dourada,Goiania,GO,Segunda,27, Junho ,2016,20:00,Atlético - GO,Criciúma - SC,1,0,1,0,0,3,0
+127,B,2016,Arena Joinville,Joinville,SC,Terça,28, Junho ,2016,19:15,Joinville - SC,Crb - AL,1,3,0,1,0,0,3
+128,B,2016,Do Café,Londrina,PR,Terça,28, Junho ,2016,19:15,Londrina - PR,Brasil - RS,1,0,1,0,0,3,0
+129,B,2016,Ressacada,Florianopolis,SC,Terça,28, Junho ,2016,19:15,Avaí - SC,Vila Nova - GO,3,1,1,0,0,3,0
+130,B,2016,Castelão,Fortaleza,CE,Sábado,2, Julho ,2016,19:30,Ceará - CE,Bahia - BA,1,0,1,0,0,3,0
+131,B,2016,Rei Pelé,Maceio,AL,Sábado,2, Julho ,2016,21:00,Crb - AL,Goiás - GO,2,1,1,0,0,3,0
+132,B,2016,Castelão,Sao Luis,MA,Sexta,1, Julho ,2016,19:15,Sampaio Correa - MA,Paysandu - PA,0,0,0,0,1,1,1
+133,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,2, Julho ,2016,16:00,Bragantino - SP,Paraná - PR,0,1,0,1,0,0,3
+134,B,2016,Serra Dourada,Goiania,GO,Sexta,1, Julho ,2016,20:30,Vila Nova - GO,Tupi - MG,1,0,1,0,0,3,0
+135,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,2, Julho ,2016,16:00,Luverdense - MT,Oeste - SP,0,1,0,1,0,0,3
+136,B,2016,Serra Dourada,Goiania,GO,Sábado,2, Julho ,2016,16:00,Atlético - GO,Náutico - PE,3,0,1,0,0,3,0
+137,B,2016,Centenário,Caxias do Sul,RS,Sábado,2, Julho ,2016,16:00,Brasil - RS,Joinville - SC,2,0,1,0,0,3,0
+138,B,2016,Do Café,Londrina,PR,Sexta,1, Julho ,2016,21:30,Londrina - PR,Criciúma - SC,2,2,0,0,1,1,1
+139,B,2016,Ressacada,Florianopolis,SC,Sábado,2, Julho ,2016,16:30,Avaí - SC,Vasco da Gama - RJ,2,1,1,0,0,3,0
+140,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,9, Julho ,2016,16:00,Náutico - PE,Crb - AL,1,3,0,1,0,0,3
+141,B,2016,Arena Fonte Nova,Salvador,BA,Terça,5, Julho ,2016,21:30,Bahia - BA,Vila Nova - GO,0,1,0,1,0,0,3
+142,B,2016,Curuzu,Belem,PA,Sábado,9, Julho ,2016,21:00,Paysandu - PA,Londrina - PR,0,0,0,0,1,1,1
+143,B,2016,José Liberatti,Osasco,SP,Sábado,9, Julho ,2016,16:00,Oeste - SP,Bragantino - SP,1,3,0,1,0,0,3
+144,B,2016,Serra Dourada,Goiania,GO,Sábado,9, Julho ,2016,16:00,Goiás - GO,Atlético - GO,2,2,0,0,1,1,1
+145,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,9, Julho ,2016,18:30,Vasco da Gama - RJ,Brasil - RS,2,0,1,0,0,3,0
+146,B,2016,Mário Helênio,Juiz de Fora,MG,Sexta,8, Julho ,2016,21:30,Tupi - MG,Ceará - CE,2,1,1,0,0,3,0
+147,B,2016,Arena Joinville,Joinville,SC,Sábado,9, Julho ,2016,16:00,Joinville - SC,Sampaio Correa - MA,2,0,1,0,0,3,0
+148,B,2016,Durival Britto,Curitiba,PR,Terça,5, Julho ,2016,19:15,Paraná - PR,Avaí - SC,0,0,0,0,1,1,1
+149,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,8, Julho ,2016,19:15,Criciúma - SC,Luverdense - MT,2,2,0,0,1,1,1
+150,B,2016,Castelão,Fortaleza,CE,Sábado,16, Julho ,2016,16:00,Ceará - CE,Criciúma - SC,1,0,1,0,0,3,0
+151,B,2016,Rei Pelé,Maceio,AL,Quinta,14, Julho ,2016,21:00,Crb - AL,Tupi - MG,3,0,1,0,0,3,0
+152,B,2016,Castelão,Sao Luis,MA,Sexta,15, Julho ,2016,21:30,Sampaio Correa - MA,Bahia - BA,0,0,0,0,1,1,1
+153,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,16, Julho ,2016,21:00,Bragantino - SP,Joinville - SC,2,0,1,0,0,3,0
+154,B,2016,Serra Dourada,Goiania,GO,Sábado,16, Julho ,2016,16:30,Goiás - GO,Náutico - PE,4,2,1,0,0,3,0
+155,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,16, Julho ,2016,18:30,Luverdense - MT,Vasco da Gama - RJ,1,1,0,0,1,1,1
+156,B,2016,Serra Dourada,Goiania,GO,Terça,12, Julho ,2016,19:15,Atlético - GO,Londrina - PR,1,2,0,1,0,0,3
+157,B,2016,Bento Freitas,Pelotas,RS,Sábado,16, Julho ,2016,16:00,Brasil - RS,Vila Nova - GO,2,2,0,0,1,1,1
+158,B,2016,Durival Britto,Curitiba,PR,Terça,12, Julho ,2016,21:30,Paraná - PR,Paysandu - PA,0,0,0,0,1,1,1
+159,B,2016,Ressacada,Florianopolis,SC,Sexta,15, Julho ,2016,19:15,Avaí - SC,Oeste - SP,1,1,0,0,1,1,1
+160,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,22, Julho ,2016,21:30,Náutico - PE,Avaí - SC,3,1,1,0,0,3,0
+161,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,23, Julho ,2016,18:30,Bahia - BA,Luverdense - MT,1,0,1,0,0,3,0
+162,B,2016,Curuzu,Belem,PA,Sábado,23, Julho ,2016,21:00,Paysandu - PA,Crb - AL,2,2,0,0,1,1,1
+163,B,2016,Arena Barueri,Barueri,SP,Terça,19, Julho ,2016,19:15,Oeste - SP,Brasil - RS,1,1,0,0,1,1,1
+164,B,2016,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,23, Julho ,2016,16:00,Vila Nova - GO,Ceará - CE,3,4,0,1,0,0,3
+165,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,23, Julho ,2016,16:30,Vasco da Gama - RJ,Bragantino - SP,2,1,1,0,0,3,0
+166,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,23, Julho ,2016,16:00,Tupi - MG,Atlético - GO,1,0,1,0,0,3,0
+167,B,2016,Arena Joinville,Joinville,SC,Terça,19, Julho ,2016,21:00,Joinville - SC,Goiás - GO,2,1,1,0,0,3,0
+168,B,2016,Do Café,Londrina,PR,Sábado,23, Julho ,2016,21:00,Londrina - PR,Sampaio Correa - MA,1,1,0,0,1,1,1
+169,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,22, Julho ,2016,19:15,Criciúma - SC,Paraná - PR,3,2,1,0,0,3,0
+170,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,29, Julho ,2016,21:30,Náutico - PE,Tupi - MG,1,0,1,0,0,3,0
+171,B,2016,Rei Pelé,Maceio,AL,Sexta,29, Julho ,2016,19:15,Crb - AL,Brasil - RS,1,2,0,1,0,0,3
+172,B,2016,Curuzu,Belem,PA,Sábado,30, Julho ,2016,18:30,Paysandu - PA,Vila Nova - GO,2,2,0,0,1,1,1
+173,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,30, Julho ,2016,16:30,Bragantino - SP,Bahia - BA,1,0,1,0,0,3,0
+174,B,2016,Serra Dourada,Goiania,GO,Terça,26, Julho ,2016,19:15,Goiás - GO,Luverdense - MT,1,1,0,0,1,1,1
+175,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,30, Julho ,2016,21:00,Vasco da Gama - RJ,Criciúma - SC,2,1,1,0,0,3,0
+176,B,2016,Serra Dourada,Goiania,GO,Domingo,31, Julho ,2016,16:00,Atlético - GO,Sampaio Correa - MA,4,1,1,0,0,3,0
+177,B,2016,Arena Joinville,Joinville,SC,Sábado,30, Julho ,2016,16:00,Joinville - SC,Oeste - SP,0,1,0,1,0,0,3
+178,B,2016,Durival Britto,Curitiba,PR,Sábado,30, Julho ,2016,19:00,Paraná - PR,Ceará - CE,1,1,0,0,1,1,1
+179,B,2016,Ressacada,Florianopolis,SC,Terça,26, Julho ,2016,21:30,Avaí - SC,Londrina - PR,1,0,1,0,0,3,0
+180,B,2016,Castelão,Fortaleza,CE,Terça,2, Agosto ,2016,21:30,Ceará - CE,Vasco da Gama - RJ,0,0,0,0,1,1,1
+181,B,2016,Arena Fonte Nova,Salvador,BA,Terça,16, Agosto ,2016,20:30,Bahia - BA,Atlético - GO,1,1,0,0,1,1,1
+182,B,2016,Castelão,Sao Luis,MA,Terça,16, Agosto ,2016,20:30,Sampaio Correa - MA,Goiás - GO,0,0,0,0,1,1,1
+183,B,2016,Arena Barueri,Barueri,SP,Terça,2, Agosto ,2016,21:30,Oeste - SP,Náutico - PE,0,0,0,0,1,1,1
+184,B,2016,Onésio Brasileiro Alvarenga,Goiania,GO,Terça,2, Agosto ,2016,19:15,Vila Nova - GO,Joinville - SC,2,1,1,0,0,3,0
+185,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,2, Agosto ,2016,21:30,Luverdense - MT,Crb - AL,0,0,0,0,1,1,1
+186,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,2, Agosto ,2016,21:30,Tupi - MG,Paraná - PR,2,0,1,0,0,3,0
+187,B,2016,Bento Freitas,Pelotas,RS,Terça,2, Agosto ,2016,19:15,Brasil - RS,Avaí - SC,3,0,1,0,0,3,0
+188,B,2016,Do Café,Londrina,PR,Terça,2, Agosto ,2016,19:15,Londrina - PR,Bragantino - SP,2,0,1,0,0,3,0
+189,B,2016,Heriberto Hulse,Criciuma,SC,Terça,2, Agosto ,2016,19:15,Criciúma - SC,Paysandu - PA,0,3,0,1,0,0,3
+190,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,20, Agosto ,2016,16:00,Náutico - PE,Criciúma - SC,0,1,0,1,0,0,3
+191,B,2016,Rei Pelé,Maceio,AL,Sábado,20, Agosto ,2016,16:00,Crb - AL,Londrina - PR,0,1,0,1,0,0,3
+192,B,2016,Curuzu,Belem,PA,Sábado,20, Agosto ,2016,21:00,Paysandu - PA,Ceará - CE,2,0,1,0,0,3,0
+193,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sexta,19, Agosto ,2016,20:30,Bragantino - SP,Vila Nova - GO,2,2,0,0,1,1,1
+194,B,2016,Serra Dourada,Goiania,GO,Sábado,20, Agosto ,2016,21:00,Goiás - GO,Tupi - MG,2,1,1,0,0,3,0
+195,B,2016,Kleber Andrade,Cariacica,ES,Sábado,20, Agosto ,2016,16:30,Vasco da Gama - RJ,Sampaio Correa - MA,1,1,0,0,1,1,1
+196,B,2016,Serra Dourada,Goiania,GO,Sexta,19, Agosto ,2016,19:15,Atlético - GO,Oeste - SP,1,1,0,0,1,1,1
+197,B,2016,Arena Joinville,Joinville,SC,Sexta,19, Agosto ,2016,20:30,Joinville - SC,Luverdense - MT,1,1,0,0,1,1,1
+198,B,2016,Durival Britto,Curitiba,PR,Sexta,19, Agosto ,2016,20:30,Paraná - PR,Brasil - RS,0,2,0,1,0,0,3
+199,B,2016,Ressacada,Florianopolis,SC,Sábado,20, Agosto ,2016,19:30,Avaí - SC,Bahia - BA,0,3,0,1,0,0,3
+200,B,2016,Castelão,Fortaleza,CE,Sexta,26, Agosto ,2016,21:30,Ceará - CE,Crb - AL,1,1,0,0,1,1,1
+201,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,27, Agosto ,2016,18:30,Bahia - BA,Paraná - PR,3,0,1,0,0,3,0
+202,B,2016,Castelão,Sao Luis,MA,Terça,23, Agosto ,2016,19:15,Sampaio Correa - MA,Avaí - SC,1,2,0,1,0,0,3
+203,B,2016,Arena Barueri,Barueri,SP,Sábado,27, Agosto ,2016,16:00,Oeste - SP,Paysandu - PA,1,0,1,0,0,3,0
+204,B,2016,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,27, Agosto ,2016,16:20,Vila Nova - GO,Náutico - PE,0,2,0,1,0,0,3
+205,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,27, Agosto ,2016,21:00,Luverdense - MT,Bragantino - SP,4,0,1,0,0,3,0
+206,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,27, Agosto ,2016,16:30,Tupi - MG,Vasco da Gama - RJ,2,2,0,0,1,1,1
+207,B,2016,Bento Freitas,Pelotas,RS,Terça,23, Agosto ,2016,20:30,Brasil - RS,Atlético - GO,0,1,0,1,0,0,3
+208,B,2016,Do Café,Londrina,PR,Terça,23, Agosto ,2016,21:30,Londrina - PR,Goiás - GO,0,1,0,1,0,0,3
+209,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,26, Agosto ,2016,20:30,Criciúma - SC,Joinville - SC,0,1,0,1,0,0,3
+210,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Terça,30, Agosto ,2016,20:30,Náutico - PE,Londrina - PR,0,2,0,1,0,0,3
+211,B,2016,Rei Pelé,Maceio,AL,Terça,30, Agosto ,2016,20:30,Crb - AL,Oeste - SP,3,1,1,0,0,3,0
+212,B,2016,Curuzu,Belem,PA,Terça,30, Agosto ,2016,19:15,Paysandu - PA,Tupi - MG,0,3,0,1,0,0,3
+213,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,30, Agosto ,2016,21:30,Bragantino - SP,Brasil - RS,0,2,0,1,0,0,3
+214,B,2016,Serra Dourada,Goiania,GO,Terça,30, Agosto ,2016,21:30,Goiás - GO,Criciúma - SC,1,1,0,0,1,1,1
+215,B,2016,São Januário,Rio de Janeiro,RJ,Terça,30, Agosto ,2016,20:30,Vasco da Gama - RJ,Vila Nova - GO,1,2,0,1,0,0,3
+216,B,2016,Serra Dourada,Goiania,GO,Segunda,29, Agosto ,2016,20:00,Atlético - GO,Ceará - CE,2,2,0,0,1,1,1
+217,B,2016,Arena Joinville,Joinville,SC,Terça,30, Agosto ,2016,19:15,Joinville - SC,Bahia - BA,1,1,0,0,1,1,1
+218,B,2016,Durival Britto,Curitiba,PR,Terça,30, Agosto ,2016,19:15,Paraná - PR,Sampaio Correa - MA,1,0,1,0,0,3,0
+219,B,2016,Ressacada,Florianopolis,SC,Terça,30, Agosto ,2016,19:15,Avaí - SC,Luverdense - MT,2,1,1,0,0,3,0
+220,B,2016,Castelão,Fortaleza,CE,Domingo,4, Setembro ,2016,18:30,Ceará - CE,Avaí - SC,0,0,0,0,1,1,1
+221,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,3, Setembro ,2016,16:30,Bahia - BA,Vasco da Gama - RJ,1,0,1,0,0,3,0
+222,B,2016,Castelão,Sao Luis,MA,Sábado,3, Setembro ,2016,21:00,Sampaio Correa - MA,Náutico - PE,4,3,1,0,0,3,0
+223,B,2016,José Liberatti,Osasco,SP,Sábado,3, Setembro ,2016,16:00,Oeste - SP,Paraná - PR,3,3,0,0,1,1,1
+224,B,2016,Serra Dourada,Goiania,GO,Sábado,3, Setembro ,2016,16:00,Vila Nova - GO,Atlético - GO,0,0,0,0,1,1,1
+225,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sexta,2, Setembro ,2016,21:30,Luverdense - MT,Paysandu - PA,3,1,1,0,0,3,0
+226,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,3, Setembro ,2016,16:00,Tupi - MG,Bragantino - SP,0,1,0,1,0,0,3
+227,B,2016,Bento Freitas,Pelotas,RS,Sexta,2, Setembro ,2016,19:15,Brasil - RS,Goiás - GO,2,1,1,0,0,3,0
+228,B,2016,Do Café,Londrina,PR,Sábado,3, Setembro ,2016,18:30,Londrina - PR,Joinville - SC,1,0,1,0,0,3,0
+229,B,2016,Heriberto Hulse,Criciuma,SC,Sábado,3, Setembro ,2016,21:00,Criciúma - SC,Crb - AL,1,1,0,0,1,1,1
+230,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,10, Setembro ,2016,16:30,Náutico - PE,Bahia - BA,0,0,0,0,1,1,1
+231,B,2016,Rei Pelé,Maceio,AL,Sábado,10, Setembro ,2016,21:00,Crb - AL,Vila Nova - GO,1,2,0,1,0,0,3
+232,B,2016,Mangueirão,Belem,PA,Sexta,9, Setembro ,2016,21:30,Paysandu - PA,Brasil - RS,1,1,0,0,1,1,1
+233,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,6, Setembro ,2016,19:30,Bragantino - SP,Sampaio Correa - MA,2,1,1,0,0,3,0
+234,B,2016,Serra Dourada,Goiania,GO,Sábado,10, Setembro ,2016,18:30,Goiás - GO,Ceará - CE,2,0,1,0,0,3,0
+235,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,10, Setembro ,2016,16:30,Vasco da Gama - RJ,Oeste - SP,3,2,1,0,0,3,0
+236,B,2016,Serra Dourada,Goiania,GO,Terça,6, Setembro ,2016,19:30,Atlético - GO,Luverdense - MT,2,0,1,0,0,3,0
+237,B,2016,Arena Joinville,Joinville,SC,Sexta,9, Setembro ,2016,19:15,Joinville - SC,Tupi - MG,1,1,0,0,1,1,1
+238,B,2016,Durival Britto,Curitiba,PR,Sábado,10, Setembro ,2016,16:00,Paraná - PR,Londrina - PR,2,1,1,0,0,3,0
+239,B,2016,Ressacada,Florianopolis,SC,Sábado,10, Setembro ,2016,16:00,Avaí - SC,Criciúma - SC,3,0,1,0,0,3,0
+240,B,2016,Castelão,Fortaleza,CE,Terça,13, Setembro ,2016,21:30,Ceará - CE,Sampaio Correa - MA,0,1,0,1,0,0,3
+241,B,2016,Rei Pelé,Maceio,AL,Terça,13, Setembro ,2016,19:15,Crb - AL,Avaí - SC,1,2,0,1,0,0,3
+242,B,2016,Mangueirão,Belem,PA,Terça,13, Setembro ,2016,19:15,Paysandu - PA,Bahia - BA,2,1,1,0,0,3,0
+243,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,13, Setembro ,2016,20:30,Bragantino - SP,Atlético - GO,1,2,0,1,0,0,3
+244,B,2016,Serra Dourada,Goiania,GO,Terça,13, Setembro ,2016,21:30,Goiás - GO,Vasco da Gama - RJ,1,1,0,0,1,1,1
+245,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,13, Setembro ,2016,21:30,Luverdense - MT,Brasil - RS,1,0,1,0,0,3,0
+246,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,13, Setembro ,2016,19:15,Tupi - MG,Londrina - PR,1,1,0,0,1,1,1
+247,B,2016,Arena Joinville,Joinville,SC,Terça,13, Setembro ,2016,19:15,Joinville - SC,Náutico - PE,0,0,0,0,1,1,1
+248,B,2016,Durival Britto,Curitiba,PR,Terça,13, Setembro ,2016,19:15,Paraná - PR,Vila Nova - GO,1,2,0,1,0,0,3
+249,B,2016,Heriberto Hulse,Criciuma,SC,Terça,13, Setembro ,2016,20:30,Criciúma - SC,Oeste - SP,4,0,1,0,0,3,0
+250,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,17, Setembro ,2016,16:30,Náutico - PE,Paysandu - PA,3,1,1,0,0,3,0
+251,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,17, Setembro ,2016,18:30,Bahia - BA,Goiás - GO,4,2,1,0,0,3,0
+252,B,2016,Castelão,Sao Luis,MA,Sábado,17, Setembro ,2016,16:00,Sampaio Correa - MA,Crb - AL,1,1,0,0,1,1,1
+253,B,2016,José Liberatti,Osasco,SP,Sábado,17, Setembro ,2016,21:00,Oeste - SP,Tupi - MG,0,0,0,0,1,1,1
+254,B,2016,Serra Dourada,Goiania,GO,Sexta,16, Setembro ,2016,20:30,Vila Nova - GO,Luverdense - MT,0,0,0,0,1,1,1
+255,B,2016,São Januário,Rio de Janeiro,RJ,Sexta,16, Setembro ,2016,21:30,Vasco da Gama - RJ,Joinville - SC,2,0,1,0,0,3,0
+256,B,2016,Serra Dourada,Goiania,GO,Sábado,17, Setembro ,2016,16:00,Atlético - GO,Paraná - PR,2,0,1,0,0,3,0
+257,B,2016,Bento Freitas,Pelotas,RS,Sexta,16, Setembro ,2016,19:15,Brasil - RS,Criciúma - SC,1,2,0,1,0,0,3
+258,B,2016,Do Café,Londrina,PR,Sábado,17, Setembro ,2016,16:30,Londrina - PR,Ceará - CE,1,1,0,0,1,1,1
+259,B,2016,Ressacada,Florianopolis,SC,Sábado,17, Setembro ,2016,16:00,Avaí - SC,Bragantino - SP,2,0,1,0,0,3,0
+260,B,2016,Castelão,Fortaleza,CE,Terça,20, Setembro ,2016,21:30,Ceará - CE,Luverdense - MT,0,0,0,0,1,1,1
+261,B,2016,Rei Pelé,Maceio,AL,Sábado,24, Setembro ,2016,16:20,Crb - AL,Bahia - BA,2,2,0,0,1,1,1
+262,B,2016,Mangueirão,Belem,PA,Segunda,26, Setembro ,2016,20:00,Paysandu - PA,Bragantino - SP,3,0,1,0,0,3,0
+263,B,2016,Arena Barueri,Barueri,SP,Sexta,23, Setembro ,2016,21:30,Oeste - SP,Goiás - GO,1,2,0,1,0,0,3
+264,B,2016,Serra Dourada,Goiania,GO,Sábado,24, Setembro ,2016,16:30,Vila Nova - GO,Londrina - PR,1,2,0,1,0,0,3
+265,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,24, Setembro ,2016,16:30,Vasco da Gama - RJ,Atlético - GO,2,0,1,0,0,3,0
+266,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,24, Setembro ,2016,18:30,Tupi - MG,Brasil - RS,1,1,0,0,1,1,1
+267,B,2016,Arena Joinville,Joinville,SC,Sexta,23, Setembro ,2016,20:30,Joinville - SC,Avaí - SC,0,1,0,1,0,0,3
+268,B,2016,Durival Britto,Curitiba,PR,Sábado,24, Setembro ,2016,16:20,Paraná - PR,Náutico - PE,1,2,0,1,0,0,3
+269,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,23, Setembro ,2016,19:15,Criciúma - SC,Sampaio Correa - MA,1,0,1,0,0,3,0
+270,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,1, Outubro ,2016,16:30,Náutico - PE,Vasco da Gama - RJ,3,1,1,0,0,3,0
+271,B,2016,Arena Fonte Nova,Salvador,BA,Sexta,30, Setembro ,2016,19:15,Bahia - BA,Criciúma - SC,2,0,1,0,0,3,0
+272,B,2016,Castelão,Sao Luis,MA,Terça,25, Outubro ,2016,20:30,Sampaio Correa - MA,Vila Nova - GO,0,3,0,1,0,0,3
+273,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,1, Outubro ,2016,16:00,Bragantino - SP,Crb - AL,1,2,0,1,0,0,3
+274,B,2016,Serra Dourada,Goiania,GO,Quinta,29, Setembro ,2016,21:00,Goiás - GO,Paraná - PR,4,0,1,0,0,3,0
+275,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sexta,30, Setembro ,2016,20:30,Luverdense - MT,Tupi - MG,2,1,1,0,0,3,0
+276,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Terça,27, Setembro ,2016,19:15,Atlético - GO,Joinville - SC,1,1,0,0,1,1,1
+277,B,2016,Bento Freitas,Pelotas,RS,Terça,27, Setembro ,2016,21:00,Brasil - RS,Ceará - CE,2,1,1,0,0,3,0
+278,B,2016,Do Café,Londrina,PR,Sábado,1, Outubro ,2016,18:30,Londrina - PR,Oeste - SP,3,0,1,0,0,3,0
+279,B,2016,Ressacada,Florianopolis,SC,Sexta,30, Setembro ,2016,21:30,Avaí - SC,Paysandu - PA,2,0,1,0,0,3,0
+280,B,2016,Castelão,Fortaleza,CE,Terça,4, Outubro ,2016,20:30,Ceará - CE,Joinville - SC,2,1,1,0,0,3,0
+281,B,2016,Rei Pelé,Maceio,AL,Terça,4, Outubro ,2016,20:30,Crb - AL,Atlético - GO,1,2,0,1,0,0,3
+282,B,2016,Mangueirão,Belem,PA,Terça,4, Outubro ,2016,21:30,Paysandu - PA,Vasco da Gama - RJ,3,1,1,0,0,3,0
+283,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Terça,4, Outubro ,2016,19:15,Bragantino - SP,Náutico - PE,0,1,0,1,0,0,3
+284,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Terça,4, Outubro ,2016,20:30,Vila Nova - GO,Oeste - SP,1,0,1,0,0,3,0
+285,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,4, Outubro ,2016,21:30,Luverdense - MT,Paraná - PR,3,2,1,0,0,3,0
+286,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,4, Outubro ,2016,19:15,Tupi - MG,Criciúma - SC,0,2,0,1,0,0,3
+287,B,2016,Bento Freitas,Pelotas,RS,Terça,4, Outubro ,2016,21:30,Brasil - RS,Sampaio Correa - MA,1,1,0,0,1,1,1
+288,B,2016,Do Café,Londrina,PR,Terça,4, Outubro ,2016,19:15,Londrina - PR,Bahia - BA,1,0,1,0,0,3,0
+289,B,2016,Ressacada,Florianopolis,SC,Terça,4, Outubro ,2016,21:30,Avaí - SC,Goiás - GO,2,0,1,0,0,3,0
+290,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,7, Outubro ,2016,21:00,Náutico - PE,Brasil - RS,2,0,1,0,0,3,0
+291,B,2016,Arena Fonte Nova,Salvador,BA,Domingo,9, Outubro ,2016,19:30,Bahia - BA,Tupi - MG,4,0,1,0,0,3,0
+292,B,2016,Castelão,Sao Luis,MA,Sábado,8, Outubro ,2016,16:00,Sampaio Correa - MA,Luverdense - MT,2,0,1,0,0,3,0
+293,B,2016,Arena Barueri,Barueri,SP,Sábado,8, Outubro ,2016,16:30,Oeste - SP,Ceará - CE,1,1,0,0,1,1,1
+294,B,2016,Serra Dourada,Goiania,GO,Sexta,7, Outubro ,2016,20:30,Goiás - GO,Bragantino - SP,2,1,1,0,0,3,0
+295,B,2016,Arena da Amazônia,Manaus,AM,Sábado,8, Outubro ,2016,18:30,Vasco da Gama - RJ,Londrina - PR,1,0,1,0,0,3,0
+296,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Sábado,8, Outubro ,2016,16:00,Atlético - GO,Avaí - SC,3,0,1,0,0,3,0
+297,B,2016,Arena Joinville,Joinville,SC,Sábado,8, Outubro ,2016,16:00,Joinville - SC,Paysandu - PA,0,0,0,0,1,1,1
+298,B,2016,Durival Britto,Curitiba,PR,Sábado,8, Outubro ,2016,21:00,Paraná - PR,Crb - AL,5,3,1,0,0,3,0
+299,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,7, Outubro ,2016,20:30,Criciúma - SC,Vila Nova - GO,1,0,1,0,0,3,0
+300,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,15, Outubro ,2016,18:30,Náutico - PE,Ceará - CE,1,0,1,0,0,3,0
+301,B,2016,Arena Fonte Nova,Salvador,BA,Sexta,14, Outubro ,2016,21:30,Bahia - BA,Brasil - RS,1,0,1,0,0,3,0
+302,B,2016,Castelão,Sao Luis,MA,Terça,11, Outubro ,2016,19:15,Sampaio Correa - MA,Oeste - SP,1,1,0,0,1,1,1
+303,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Segunda,10, Outubro ,2016,20:00,Bragantino - SP,Criciúma - SC,2,0,1,0,0,3,0
+304,B,2016,Serra Dourada,Goiania,GO,Sábado,15, Outubro ,2016,16:00,Goiás - GO,Vila Nova - GO,1,2,0,1,0,0,3
+305,B,2016,São Januário,Rio de Janeiro,RJ,Sábado,15, Outubro ,2016,16:30,Vasco da Gama - RJ,Crb - AL,1,2,0,1,0,0,3
+306,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Sexta,14, Outubro ,2016,20:30,Atlético - GO,Paysandu - PA,2,1,1,0,0,3,0
+307,B,2016,Arena Joinville,Joinville,SC,Sábado,15, Outubro ,2016,16:00,Joinville - SC,Paraná - PR,1,0,1,0,0,3,0
+308,B,2016,Do Café,Londrina,PR,Sábado,15, Outubro ,2016,18:30,Londrina - PR,Luverdense - MT,1,1,0,0,1,1,1
+309,B,2016,Ressacada,Florianopolis,SC,Sábado,15, Outubro ,2016,16:00,Avaí - SC,Tupi - MG,1,0,1,0,0,3,0
+310,B,2016,Castelão,Fortaleza,CE,Sexta,21, Outubro ,2016,21:30,Ceará - CE,Bragantino - SP,2,0,1,0,0,3,0
+311,B,2016,Rei Pelé,Maceio,AL,Sábado,22, Outubro ,2016,21:00,Crb - AL,Joinville - SC,2,1,1,0,0,3,0
+312,B,2016,Mangueirão,Belem,PA,Sábado,22, Outubro ,2016,17:00,Paysandu - PA,Goiás - GO,1,1,0,0,1,1,1
+313,B,2016,Arena Barueri,Barueri,SP,Sábado,22, Outubro ,2016,16:20,Oeste - SP,Bahia - BA,1,1,0,0,1,1,1
+314,B,2016,Serra Dourada,Goiania,GO,Terça,18, Outubro ,2016,19:15,Vila Nova - GO,Avaí - SC,1,2,0,1,0,0,3
+315,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sexta,21, Outubro ,2016,21:30,Luverdense - MT,Náutico - PE,2,1,1,0,0,3,0
+316,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,22, Outubro ,2016,17:00,Tupi - MG,Sampaio Correa - MA,1,1,0,0,1,1,1
+317,B,2016,Bento Freitas,Pelotas,RS,Terça,18, Outubro ,2016,21:30,Brasil - RS,Londrina - PR,0,1,0,1,0,0,3
+318,B,2016,Kleber Andrade,Cariacica,ES,Sábado,22, Outubro ,2016,16:30,Paraná - PR,Vasco da Gama - RJ,0,1,0,1,0,0,3
+319,B,2016,Heriberto Hulse,Criciuma,SC,Sábado,22, Outubro ,2016,19:30,Criciúma - SC,Atlético - GO,1,2,0,1,0,0,3
+320,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,28, Outubro ,2016,21:30,Náutico - PE,Atlético - GO,2,1,1,0,0,3,0
+321,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,29, Outubro ,2016,17:00,Bahia - BA,Ceará - CE,3,1,1,0,0,3,0
+322,B,2016,Mangueirão,Belem,PA,Sábado,29, Outubro ,2016,17:00,Paysandu - PA,Sampaio Correa - MA,2,1,1,0,0,3,0
+323,B,2016,Arena Barueri,Barueri,SP,Terça,25, Outubro ,2016,19:15,Oeste - SP,Luverdense - MT,1,1,0,0,1,1,1
+324,B,2016,Serra Dourada,Goiania,GO,Terça,25, Outubro ,2016,21:30,Goiás - GO,Crb - AL,3,0,1,0,0,3,0
+325,B,2016,São Januário,Rio de Janeiro,RJ,Quarta,26, Outubro ,2016,21:45,Vasco da Gama - RJ,Avaí - SC,0,0,0,0,1,1,1
+326,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,29, Outubro ,2016,17:00,Tupi - MG,Vila Nova - GO,1,0,1,0,0,3,0
+327,B,2016,Arena Joinville,Joinville,SC,Sexta,28, Outubro ,2016,21:30,Joinville - SC,Brasil - RS,1,1,0,0,1,1,1
+328,B,2016,Durival Britto,Curitiba,PR,Sexta,28, Outubro ,2016,20:30,Paraná - PR,Bragantino - SP,4,1,1,0,0,3,0
+329,B,2016,Heriberto Hulse,Criciuma,SC,Sexta,28, Outubro ,2016,19:15,Criciúma - SC,Londrina - PR,1,1,0,0,1,1,1
+330,B,2016,Castelão,Fortaleza,CE,Sábado,5, Novembro ,2016,17:00,Ceará - CE,Tupi - MG,2,1,1,0,0,3,0
+331,B,2016,Rei Pelé,Maceio,AL,Sábado,5, Novembro ,2016,17:30,Crb - AL,Náutico - PE,1,0,1,0,0,3,0
+332,B,2016,Castelão,Sao Luis,MA,Sábado,5, Novembro ,2016,17:00,Sampaio Correa - MA,Joinville - SC,1,2,0,1,0,0,3
+333,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,5, Novembro ,2016,21:00,Bragantino - SP,Oeste - SP,0,0,0,0,1,1,1
+334,B,2016,Serra Dourada,Goiania,GO,Sexta,4, Novembro ,2016,21:30,Vila Nova - GO,Bahia - BA,0,1,0,1,0,0,3
+335,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Terça,1, Novembro ,2016,21:30,Luverdense - MT,Criciúma - SC,2,1,1,0,0,3,0
+336,B,2016,Serra Dourada,Goiania,GO,Sábado,5, Novembro ,2016,17:00,Atlético - GO,Goiás - GO,4,2,1,0,0,3,0
+337,B,2016,Bento Freitas,Pelotas,RS,Sábado,5, Novembro ,2016,16:30,Brasil - RS,Vasco da Gama - RJ,2,1,1,0,0,3,0
+338,B,2016,Do Café,Londrina,PR,Terça,1, Novembro ,2016,19:15,Londrina - PR,Paysandu - PA,0,0,0,0,1,1,1
+339,B,2016,Ressacada,Florianopolis,SC,Sábado,5, Novembro ,2016,19:30,Avaí - SC,Paraná - PR,1,0,1,0,0,3,0
+340,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Terça,8, Novembro ,2016,21:30,Náutico - PE,Goiás - GO,1,0,1,0,0,3,0
+341,B,2016,Arena Fonte Nova,Salvador,BA,Terça,8, Novembro ,2016,21:30,Bahia - BA,Sampaio Correa - MA,1,0,1,0,0,3,0
+342,B,2016,Curuzu,Belem,PA,Terça,8, Novembro ,2016,21:30,Paysandu - PA,Paraná - PR,1,1,0,0,1,1,1
+343,B,2016,Arena Barueri,Barueri,SP,Terça,8, Novembro ,2016,19:15,Oeste - SP,Avaí - SC,0,0,0,0,1,1,1
+344,B,2016,Onésio Brasileiro Alvarenga,Goiania,GO,Terça,8, Novembro ,2016,20:30,Vila Nova - GO,Brasil - RS,3,1,1,0,0,3,0
+345,B,2016,São Januário,Rio de Janeiro,RJ,Terça,8, Novembro ,2016,21:30,Vasco da Gama - RJ,Luverdense - MT,1,1,0,0,1,1,1
+346,B,2016,Mário Helênio,Juiz de Fora,MG,Terça,8, Novembro ,2016,19:15,Tupi - MG,Crb - AL,3,4,0,1,0,0,3
+347,B,2016,Arena Joinville,Joinville,SC,Terça,8, Novembro ,2016,21:30,Joinville - SC,Bragantino - SP,1,1,0,0,1,1,1
+348,B,2016,Do Café,Londrina,PR,Terça,8, Novembro ,2016,21:30,Londrina - PR,Atlético - GO,2,3,0,1,0,0,3
+349,B,2016,Heriberto Hulse,Criciuma,SC,Terça,8, Novembro ,2016,19:15,Criciúma - SC,Ceará - CE,2,3,0,1,0,0,3
+350,B,2016,Castelão,Fortaleza,CE,Sábado,12, Novembro ,2016,17:30,Ceará - CE,Vila Nova - GO,2,3,0,1,0,0,3
+351,B,2016,Rei Pelé,Maceio,AL,Sexta,11, Novembro ,2016,20:30,Crb - AL,Paysandu - PA,0,1,0,1,0,0,3
+352,B,2016,Castelão,Sao Luis,MA,Sábado,12, Novembro ,2016,17:30,Sampaio Correa - MA,Londrina - PR,1,3,0,1,0,0,3
+353,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,12, Novembro ,2016,16:30,Bragantino - SP,Vasco da Gama - RJ,1,2,0,1,0,0,3
+354,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Sexta,11, Novembro ,2016,20:30,Goiás - GO,Joinville - SC,3,2,1,0,0,3,0
+355,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sábado,12, Novembro ,2016,19:30,Luverdense - MT,Bahia - BA,2,2,0,0,1,1,1
+356,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Sábado,12, Novembro ,2016,19:30,Atlético - GO,Tupi - MG,5,3,1,0,0,3,0
+357,B,2016,Bento Freitas,Pelotas,RS,Sábado,12, Novembro ,2016,17:30,Brasil - RS,Oeste - SP,1,1,0,0,1,1,1
+358,B,2016,Durival Britto,Curitiba,PR,Sábado,12, Novembro ,2016,17:30,Paraná - PR,Criciúma - SC,1,2,0,1,0,0,3
+359,B,2016,Ressacada,Florianopolis,SC,Sábado,12, Novembro ,2016,17:30,Avaí - SC,Náutico - PE,3,0,1,0,0,3,0
+360,B,2016,Castelão,Fortaleza,CE,Sábado,19, Novembro ,2016,19:30,Ceará - CE,Paraná - PR,1,1,0,0,1,1,1
+361,B,2016,Arena Fonte Nova,Salvador,BA,Sábado,19, Novembro ,2016,17:30,Bahia - BA,Bragantino - SP,3,2,1,0,0,3,0
+362,B,2016,Castelão,Sao Luis,MA,Sábado,19, Novembro ,2016,17:30,Sampaio Correa - MA,Atlético - GO,0,1,0,1,0,0,3
+363,B,2016,Arena Barueri,Barueri,SP,Sexta,18, Novembro ,2016,19:15,Oeste - SP,Joinville - SC,0,2,0,1,0,0,3
+364,B,2016,Onésio Brasileiro Alvarenga,Goiania,GO,Sábado,19, Novembro ,2016,17:30,Vila Nova - GO,Paysandu - PA,2,2,0,0,1,1,1
+365,B,2016,Passo das Emas,Lucas do Rio Verde,MT,Sexta,18, Novembro ,2016,21:30,Luverdense - MT,Goiás - GO,1,0,1,0,0,3,0
+366,B,2016,Mário Helênio,Juiz de Fora,MG,Sábado,19, Novembro ,2016,16:30,Tupi - MG,Náutico - PE,1,4,0,1,0,0,3
+367,B,2016,Bento Freitas,Pelotas,RS,Sábado,19, Novembro ,2016,19:30,Brasil - RS,Crb - AL,1,0,1,0,0,3,0
+368,B,2016,Do Café,Londrina,PR,Sábado,19, Novembro ,2016,16:30,Londrina - PR,Avaí - SC,0,1,0,1,0,0,3
+369,B,2016,Heriberto Hulse,Criciuma,SC,Sábado,19, Novembro ,2016,16:30,Criciúma - SC,Vasco da Gama - RJ,1,0,1,0,0,3,0
+370,B,2016,Arena Pernambuco,São Lourenço da Mata,PE,Sábado,26, Novembro ,2016,17:30,Náutico - PE,Oeste - SP,0,2,0,1,0,0,3
+371,B,2016,Rei Pelé,Maceio,AL,Sábado,26, Novembro ,2016,17:30,Crb - AL,Luverdense - MT,3,0,1,0,0,3,0
+372,B,2016,Curuzu,Belem,PA,Sexta,25, Novembro ,2016,20:30,Paysandu - PA,Criciúma - SC,1,2,0,1,0,0,3
+373,B,2016,Nabi Abi Chedid,Braganca Paulista,SP,Sábado,26, Novembro ,2016,17:30,Bragantino - SP,Londrina - PR,0,1,0,1,0,0,3
+374,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Terça,22, Novembro ,2016,19:15,Goiás - GO,Sampaio Correa - MA,2,1,1,0,0,3,0
+375,B,2016,Maracanã,Rio de Janeiro,RJ,Sábado,26, Novembro ,2016,17:30,Vasco da Gama - RJ,Ceará - CE,2,1,1,0,0,3,0
+376,B,2016,Olímpico Pedro Ludovico,Goiania,GO,Sábado,26, Novembro ,2016,17:30,Atlético - GO,Bahia - BA,2,1,1,0,0,3,0
+377,B,2016,Durival Britto,Curitiba,PR,Sexta,25, Novembro ,2016,19:15,Paraná - PR,Tupi - MG,0,2,0,1,0,0,3
+378,B,2016,Ressacada,Florianopolis,SC,Sábado,26, Novembro ,2016,17:30,Avaí - SC,Brasil - RS,1,1,0,0,1,1,1

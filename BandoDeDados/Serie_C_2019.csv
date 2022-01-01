@@ -1,0 +1,195 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,C,2019,Frasqueirão,Natal,RN,Domingo,28, Abril ,2019,18:00,Abc - RN,Náutico - PE,2,0,1,0,0,3,0
+1,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,27, Abril ,2019,19:00,Imperatriz - MA,Globo - RN,2,0,1,0,0,3,0
+2,C,2019,Arruda,Recife,PE,Segunda,29, Abril ,2019,20:00,Santa Cruz - PE,Treze - PB,2,2,0,0,1,1,1
+3,C,2019,Almeidão,Joao Pessoa,PB,Domingo,28, Abril ,2019,17:00,Botafogo - PB,Ferroviário - CE,1,1,0,0,1,1,1
+4,C,2019,Batistão,Aracaju,SE,Domingo,28, Abril ,2019,16:00,Confiança - SE,Sampaio Correa - MA,0,2,0,1,0,0,3
+5,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,28, Abril ,2019,17:00,Luverdense - MT,Juventude - RS,0,0,0,0,1,1,1
+6,C,2019,Mangueirão,Belem,PA,Sábado,27, Abril ,2019,19:15,Remo - PA,Boa - MG,1,0,1,0,0,3,0
+7,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,27, Abril ,2019,16:00,Tombense - MG,São José - RS,1,1,0,0,1,1,1
+8,C,2019,Colosso da Lagoa,Erechim,RS,Sábado,27, Abril ,2019,17:15,Ypiranga - RS,Paysandu - PA,0,1,0,1,0,0,3
+9,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Sábado,27, Abril ,2019,16:00,Volta Redonda - RJ,Atlético - AC,3,0,1,0,0,3,0
+10,C,2019,Manoel Barretto,Ceara,Mirim,Sábado,4, Maio ,2019,17:00,Globo - RN,Confiança - SE,2,0,1,0,0,3,0
+11,C,2019,Castelão,Sao Luis,MA,Sábado,4, Maio ,2019,17:00,Sampaio Correa - MA,Botafogo - PB,1,1,0,0,1,1,1
+12,C,2019,Aflitos,Recife,PE,Sábado,4, Maio ,2019,19:15,Náutico - PE,Imperatriz - MA,4,2,1,0,0,3,0
+13,C,2019,Amigão,Campina Grande,PB,Domingo,5, Maio ,2019,16:00,Treze - PB,Abc - RN,0,0,0,0,1,1,1
+14,C,2019,Arena Castelão,Fortaleza,CE,Domingo,5, Maio ,2019,18:00,Ferroviário - CE,Santa Cruz - PE,3,0,1,0,0,3,0
+15,C,2019,Florestão,Rio Branco,AC,Domingo,5, Maio ,2019,19:00,Atlético - AC,Ypiranga - RS,1,1,0,0,1,1,1
+16,C,2019,Curuzu,Belem,PA,Segunda,6, Maio ,2019,20:00,Paysandu - PA,Tombense - MG,1,0,1,0,0,3,0
+17,C,2019,Dilzon Melo,Varginha,MG,Domingo,5, Maio ,2019,16:00,Boa - MG,Volta Redonda - RJ,1,1,0,0,1,1,1
+18,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Sábado,4, Maio ,2019,17:15,Juventude - RS,Remo - PA,1,1,0,0,1,1,1
+19,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,4, Maio ,2019,16:00,São José - RS,Luverdense - MT,2,0,1,0,0,3,0
+20,C,2019,Manoel Barretto,Ceara,Mirim,Domingo,12, Maio ,2019,15:00,Globo - RN,Sampaio Correa - MA,0,1,0,1,0,0,3
+21,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,11, Maio ,2019,19:00,Imperatriz - MA,Treze - PB,2,2,0,0,1,1,1
+22,C,2019,Aflitos,Recife,PE,Domingo,12, Maio ,2019,18:00,Náutico - PE,Ferroviário - CE,0,1,0,1,0,0,3
+23,C,2019,Almeidão,Joao Pessoa,PB,Segunda,13, Maio ,2019,20:00,Botafogo - PB,Santa Cruz - PE,1,1,0,0,1,1,1
+24,C,2019,Batistão,Aracaju,SE,Domingo,12, Maio ,2019,16:00,Confiança - SE,Abc - RN,1,0,1,0,0,3,0
+25,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Sábado,11, Maio ,2019,17:15,Luverdense - MT,Remo - PA,0,1,0,1,0,0,3
+26,C,2019,Curuzu,Belem,PA,Sábado,11, Maio ,2019,19:15,Paysandu - PA,Juventude - RS,0,1,0,1,0,0,3
+27,C,2019,Dilzon Melo,Varginha,MG,Domingo,12, Maio ,2019,16:00,Boa - MG,Atlético - AC,0,0,0,0,1,1,1
+28,C,2019,Colosso da Lagoa,Erechim,RS,Domingo,12, Maio ,2019,15:30,Ypiranga - RS,São José - RS,2,0,1,0,0,3,0
+29,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Sábado,11, Maio ,2019,16:00,Volta Redonda - RJ,Tombense - MG,2,0,1,0,0,3,0
+30,C,2019,Frasqueirão,Natal,RN,Domingo,19, Maio ,2019,16:00,Abc - RN,Botafogo - PB,1,2,0,1,0,0,3
+31,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,18, Maio ,2019,19:00,Imperatriz - MA,Confiança - SE,0,0,0,0,1,1,1
+32,C,2019,Arruda,Recife,PE,Sábado,18, Maio ,2019,17:15,Santa Cruz - PE,Sampaio Correa - MA,3,3,0,0,1,1,1
+33,C,2019,Amigão,Campina Grande,PB,Sábado,18, Maio ,2019,19:15,Treze - PB,Náutico - PE,0,1,0,1,0,0,3
+34,C,2019,Arena Castelão,Fortaleza,CE,Segunda,20, Maio ,2019,20:00,Ferroviário - CE,Globo - RN,1,0,1,0,0,3,0
+35,C,2019,Florestão,Rio Branco,AC,Domingo,19, Maio ,2019,19:00,Atlético - AC,São José - RS,2,2,0,0,1,1,1
+36,C,2019,Mangueirão,Belem,PA,Segunda,20, Maio ,2019,20:00,Remo - PA,Ypiranga - RS,0,0,0,0,1,1,1
+37,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,18, Maio ,2019,16:00,Tombense - MG,Luverdense - MT,1,1,0,0,1,1,1
+38,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Domingo,19, Maio ,2019,16:00,Juventude - RS,Boa - MG,2,0,1,0,0,3,0
+39,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Domingo,19, Maio ,2019,18:00,Volta Redonda - RJ,Paysandu - PA,0,0,0,0,1,1,1
+40,C,2019,Manoel Barretto,Ceara,Mirim,Domingo,26, Maio ,2019,17:00,Globo - RN,Treze - PB,3,1,1,0,0,3,0
+41,C,2019,Castelão,Sao Luis,MA,Domingo,26, Maio ,2019,17:00,Sampaio Correa - MA,Ferroviário - CE,3,1,1,0,0,3,0
+42,C,2019,Arruda,Recife,PE,Sábado,25, Maio ,2019,19:15,Santa Cruz - PE,Abc - RN,2,1,1,0,0,3,0
+43,C,2019,Almeidão,Joao Pessoa,PB,Domingo,26, Maio ,2019,18:00,Botafogo - PB,Imperatriz - MA,2,1,1,0,0,3,0
+44,C,2019,Batistão,Aracaju,SE,Sábado,25, Maio ,2019,17:15,Confiança - SE,Náutico - PE,1,1,0,0,1,1,1
+45,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,26, Maio ,2019,17:00,Luverdense - MT,Volta Redonda - RJ,1,1,0,0,1,1,1
+46,C,2019,Mangueirão,Belem,PA,Domingo,26, Maio ,2019,16:00,Remo - PA,Atlético - AC,2,0,1,0,0,3,0
+47,C,2019,Dilzon Melo,Varginha,MG,Domingo,26, Maio ,2019,18:00,Boa - MG,Paysandu - PA,2,0,1,0,0,3,0
+48,C,2019,Colosso da Lagoa,Erechim,RS,Domingo,26, Maio ,2019,15:30,Ypiranga - RS,Tombense - MG,0,1,0,1,0,0,3
+49,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,25, Maio ,2019,18:00,São José - RS,Juventude - RS,1,1,0,0,1,1,1
+50,C,2019,Frasqueirão,Natal,RN,Domingo,2, Junho ,2019,16:00,Abc - RN,Ferroviário - CE,2,4,0,1,0,0,3
+51,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,1, Junho ,2019,19:15,Imperatriz - MA,Santa Cruz - PE,0,1,0,1,0,0,3
+52,C,2019,Aflitos,Recife,PE,Sábado,1, Junho ,2019,17:15,Náutico - PE,Globo - RN,2,2,0,0,1,1,1
+53,C,2019,Amigão,Campina Grande,PB,Domingo,2, Junho ,2019,16:00,Treze - PB,Sampaio Correa - MA,3,0,1,0,0,3,0
+54,C,2019,Batistão,Aracaju,SE,Domingo,2, Junho ,2019,16:00,Confiança - SE,Botafogo - PB,3,0,1,0,0,3,0
+55,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,2, Junho ,2019,17:00,Luverdense - MT,Boa - MG,1,1,0,0,1,1,1
+56,C,2019,Curuzu,Belem,PA,Domingo,2, Junho ,2019,18:00,Paysandu - PA,São José - RS,1,1,0,0,1,1,1
+57,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Segunda,3, Junho ,2019,20:00,Tombense - MG,Remo - PA,2,2,0,0,1,1,1
+58,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Sábado,1, Junho ,2019,18:00,Juventude - RS,Atlético - AC,3,0,1,0,0,3,0
+59,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Sábado,1, Junho ,2019,16:00,Volta Redonda - RJ,Ypiranga - RS,1,2,0,1,0,0,3
+60,C,2019,Frasqueirão,Natal,RN,Sábado,8, Junho ,2019,16:00,Abc - RN,Imperatriz - MA,2,4,0,1,0,0,3
+61,C,2019,Castelão,Sao Luis,MA,Segunda,10, Junho ,2019,20:00,Sampaio Correa - MA,Náutico - PE,0,2,0,1,0,0,3
+62,C,2019,Arruda,Recife,PE,Domingo,9, Junho ,2019,18:00,Santa Cruz - PE,Confiança - SE,3,1,1,0,0,3,0
+63,C,2019,Almeidão,Joao Pessoa,PB,Domingo,9, Junho ,2019,18:00,Botafogo - PB,Globo - RN,3,1,1,0,0,3,0
+64,C,2019,Arena Castelão,Fortaleza,CE,Segunda,10, Junho ,2019,20:00,Ferroviário - CE,Treze - PB,3,2,1,0,0,3,0
+65,C,2019,Florestão,Rio Branco,AC,Sábado,8, Junho ,2019,19:00,Atlético - AC,Paysandu - PA,1,1,0,0,1,1,1
+66,C,2019,Mangueirão,Belem,PA,Sábado,8, Junho ,2019,17:00,Remo - PA,Volta Redonda - RJ,2,1,1,0,0,3,0
+67,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,8, Junho ,2019,19:15,Tombense - MG,Juventude - RS,1,0,1,0,0,3,0
+68,C,2019,Colosso da Lagoa,Erechim,RS,Domingo,9, Junho ,2019,18:00,Ypiranga - RS,Luverdense - MT,0,0,0,0,1,1,1
+69,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,8, Junho ,2019,16:00,São José - RS,Boa - MG,2,0,1,0,0,3,0
+70,C,2019,Manoel Barretto,Ceara,Mirim,Segunda,17, Junho ,2019,20:00,Globo - RN,Santa Cruz - PE,3,3,0,0,1,1,1
+71,C,2019,Castelão,Sao Luis,MA,Sábado,15, Junho ,2019,19:15,Sampaio Correa - MA,Abc - RN,1,0,1,0,0,3,0
+72,C,2019,Aflitos,Recife,PE,Quarta,3, Julho ,2019,19:00,Náutico - PE,Botafogo - PB,2,1,1,0,0,3,0
+73,C,2019,Amigão,Campina Grande,PB,Domingo,16, Junho ,2019,16:00,Treze - PB,Confiança - SE,1,3,0,1,0,0,3
+74,C,2019,Presidente Vargas,Fortaleza,CE,Sábado,15, Junho ,2019,16:00,Ferroviário - CE,Imperatriz - MA,2,1,1,0,0,3,0
+75,C,2019,Florestão,Rio Branco,AC,Domingo,16, Junho ,2019,19:00,Atlético - AC,Tombense - MG,2,1,1,0,0,3,0
+76,C,2019,Mangueirão,Belem,PA,Sábado,15, Junho ,2019,17:00,Paysandu - PA,Luverdense - MT,0,0,0,0,1,1,1
+77,C,2019,Dilzon Melo,Varginha,MG,Domingo,16, Junho ,2019,16:00,Boa - MG,Ypiranga - RS,2,1,1,0,0,3,0
+78,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Sexta,14, Junho ,2019,19:00,Juventude - RS,Volta Redonda - RJ,1,0,1,0,0,3,0
+79,C,2019,Passo D´areia,Porto Alegre,RS,Quinta,13, Junho ,2019,20:00,São José - RS,Remo - PA,1,0,1,0,0,3,0
+80,C,2019,Frasqueirão,Natal,RN,Sexta,21, Junho ,2019,20:00,Abc - RN,Globo - RN,1,1,0,0,1,1,1
+81,C,2019,Frei Epifânio,Imperatriz,MA,Segunda,24, Junho ,2019,20:00,Imperatriz - MA,Sampaio Correa - MA,3,0,1,0,0,3,0
+82,C,2019,Arruda,Recife,PE,Sábado,22, Junho ,2019,18:00,Santa Cruz - PE,Náutico - PE,1,0,1,0,0,3,0
+83,C,2019,Almeidão,Joao Pessoa,PB,Segunda,24, Junho ,2019,20:00,Botafogo - PB,Treze - PB,4,2,1,0,0,3,0
+84,C,2019,Batistão,Aracaju,SE,Domingo,23, Junho ,2019,16:00,Confiança - SE,Ferroviário - CE,1,0,1,0,0,3,0
+85,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,23, Junho ,2019,17:00,Luverdense - MT,Atlético - AC,4,0,1,0,0,3,0
+86,C,2019,Mangueirão,Belem,PA,Domingo,23, Junho ,2019,18:00,Remo - PA,Paysandu - PA,0,1,0,1,0,0,3
+87,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,22, Junho ,2019,18:30,Tombense - MG,Boa - MG,3,1,1,0,0,3,0
+88,C,2019,Colosso da Lagoa,Erechim,RS,Quinta,20, Junho ,2019,20:00,Ypiranga - RS,Juventude - RS,4,1,1,0,0,3,0
+89,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Domingo,23, Junho ,2019,16:00,Volta Redonda - RJ,São José - RS,2,2,0,0,1,1,1
+90,C,2019,Manoel Barretto,Ceara,Mirim,Sábado,29, Junho ,2019,17:00,Globo - RN,Imperatriz - MA,1,1,0,0,1,1,1
+91,C,2019,Castelão,Sao Luis,MA,Domingo,30, Junho ,2019,18:00,Sampaio Correa - MA,Confiança - SE,1,1,0,0,1,1,1
+92,C,2019,Aflitos,Recife,PE,Sábado,29, Junho ,2019,17:00,Náutico - PE,Abc - RN,1,1,0,0,1,1,1
+93,C,2019,Amigão,Campina Grande,PB,Quinta,27, Junho ,2019,19:00,Treze - PB,Santa Cruz - PE,2,0,1,0,0,3,0
+94,C,2019,Presidente Vargas,Fortaleza,CE,Domingo,30, Junho ,2019,17:00,Ferroviário - CE,Botafogo - PB,0,0,0,0,1,1,1
+95,C,2019,Arena da Floresta,Rio Branco,AC,Domingo,30, Junho ,2019,19:00,Atlético - AC,Volta Redonda - RJ,1,2,0,1,0,0,3
+96,C,2019,Curuzu,Belem,PA,Sexta,28, Junho ,2019,20:00,Paysandu - PA,Ypiranga - RS,0,0,0,0,1,1,1
+97,C,2019,Dilzon Melo,Varginha,MG,Sábado,29, Junho ,2019,19:15,Boa - MG,Remo - PA,2,2,0,0,1,1,1
+98,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Segunda,1, Julho ,2019,20:00,Juventude - RS,Luverdense - MT,2,0,1,0,0,3,0
+99,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,29, Junho ,2019,15:00,São José - RS,Tombense - MG,2,0,1,0,0,3,0
+100,C,2019,Frasqueirão,Natal,RN,Sábado,6, Julho ,2019,18:00,Abc - RN,Treze - PB,2,0,1,0,0,3,0
+101,C,2019,Frei Epifânio,Imperatriz,MA,Segunda,8, Julho ,2019,20:00,Imperatriz - MA,Náutico - PE,2,0,1,0,0,3,0
+102,C,2019,Arruda,Recife,PE,Sexta,5, Julho ,2019,20:00,Santa Cruz - PE,Ferroviário - CE,0,2,0,1,0,0,3
+103,C,2019,Almeidão,Joao Pessoa,PB,Sábado,6, Julho ,2019,20:00,Botafogo - PB,Sampaio Correa - MA,1,2,0,1,0,0,3
+104,C,2019,Batistão,Aracaju,SE,Sábado,6, Julho ,2019,20:00,Confiança - SE,Globo - RN,2,1,1,0,0,3,0
+105,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Sábado,6, Julho ,2019,18:00,Luverdense - MT,São José - RS,0,0,0,0,1,1,1
+106,C,2019,Mangueirão,Belem,PA,Sábado,6, Julho ,2019,18:00,Remo - PA,Juventude - RS,0,0,0,0,1,1,1
+107,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Quinta,4, Julho ,2019,20:00,Tombense - MG,Paysandu - PA,0,1,0,1,0,0,3
+108,C,2019,Colosso da Lagoa,Erechim,RS,Sábado,6, Julho ,2019,18:00,Ypiranga - RS,Atlético - AC,2,0,1,0,0,3,0
+109,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Domingo,7, Julho ,2019,15:00,Volta Redonda - RJ,Boa - MG,1,0,1,0,0,3,0
+110,C,2019,Frasqueirão,Natal,RN,Sexta,12, Julho ,2019,20:00,Abc - RN,Confiança - SE,1,2,0,1,0,0,3
+111,C,2019,Castelão,Sao Luis,MA,Domingo,14, Julho ,2019,17:00,Sampaio Correa - MA,Globo - RN,2,0,1,0,0,3,0
+112,C,2019,Arruda,Recife,PE,Domingo,14, Julho ,2019,18:00,Santa Cruz - PE,Botafogo - PB,1,1,0,0,1,1,1
+113,C,2019,Amigão,Campina Grande,PB,Domingo,14, Julho ,2019,16:00,Treze - PB,Imperatriz - MA,1,2,0,1,0,0,3
+114,C,2019,Arena Castelão,Fortaleza,CE,Segunda,15, Julho ,2019,20:00,Ferroviário - CE,Náutico - PE,0,1,0,1,0,0,3
+115,C,2019,Florestão,Rio Branco,AC,Domingo,14, Julho ,2019,19:00,Atlético - AC,Boa - MG,0,0,0,0,1,1,1
+116,C,2019,Baenão,Belem,PA,Sábado,13, Julho ,2019,15:00,Remo - PA,Luverdense - MT,2,2,0,0,1,1,1
+117,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Quinta,11, Julho ,2019,20:00,Tombense - MG,Volta Redonda - RJ,0,2,0,1,0,0,3
+118,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Sábado,13, Julho ,2019,17:00,Juventude - RS,Paysandu - PA,1,1,0,0,1,1,1
+119,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,13, Julho ,2019,15:00,São José - RS,Ypiranga - RS,0,0,0,0,1,1,1
+120,C,2019,Manoel Barretto,Ceara,Mirim,Sábado,20, Julho ,2019,17:00,Globo - RN,Ferroviário - CE,2,0,1,0,0,3,0
+121,C,2019,Castelão,Sao Luis,MA,Quinta,18, Julho ,2019,20:00,Sampaio Correa - MA,Santa Cruz - PE,1,0,1,0,0,3,0
+122,C,2019,Aflitos,Recife,PE,Domingo,21, Julho ,2019,18:00,Náutico - PE,Treze - PB,1,0,1,0,0,3,0
+123,C,2019,Almeidão,Joao Pessoa,PB,Sábado,20, Julho ,2019,17:00,Botafogo - PB,Abc - RN,1,1,0,0,1,1,1
+124,C,2019,Batistão,Aracaju,SE,Domingo,21, Julho ,2019,16:00,Confiança - SE,Imperatriz - MA,3,1,1,0,0,3,0
+125,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,21, Julho ,2019,17:00,Luverdense - MT,Tombense - MG,0,0,0,0,1,1,1
+126,C,2019,Mangueirão,Belem,PA,Segunda,22, Julho ,2019,20:00,Paysandu - PA,Volta Redonda - RJ,0,0,0,0,1,1,1
+127,C,2019,Dilzon Melo,Varginha,MG,Sábado,20, Julho ,2019,19:15,Boa - MG,Juventude - RS,2,0,1,0,0,3,0
+128,C,2019,Colosso da Lagoa,Erechim,RS,Sexta,19, Julho ,2019,20:00,Ypiranga - RS,Remo - PA,1,1,0,0,1,1,1
+129,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,20, Julho ,2019,15:00,São José - RS,Atlético - AC,3,0,1,0,0,3,0
+130,C,2019,Frasqueirão,Natal,RN,Sábado,27, Julho ,2019,17:00,Abc - RN,Santa Cruz - PE,0,0,0,0,1,1,1
+131,C,2019,Frei Epifânio,Imperatriz,MA,Quinta,25, Julho ,2019,20:00,Imperatriz - MA,Botafogo - PB,2,1,1,0,0,3,0
+132,C,2019,Aflitos,Recife,PE,Sexta,26, Julho ,2019,20:00,Náutico - PE,Confiança - SE,3,1,1,0,0,3,0
+133,C,2019,PV,Campina Grande,PB,Domingo,28, Julho ,2019,16:00,Treze - PB,Globo - RN,1,0,1,0,0,3,0
+134,C,2019,Arena Castelão,Fortaleza,CE,Quinta,25, Julho ,2019,20:00,Ferroviário - CE,Sampaio Correa - MA,0,1,0,1,0,0,3
+135,C,2019,Florestão,Rio Branco,AC,Sábado,27, Julho ,2019,19:15,Atlético - AC,Remo - PA,0,2,0,1,0,0,3
+136,C,2019,Mangueirão,Belem,PA,Segunda,29, Julho ,2019,20:00,Paysandu - PA,Boa - MG,2,2,0,0,1,1,1
+137,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,27, Julho ,2019,16:00,Tombense - MG,Ypiranga - RS,1,1,0,0,1,1,1
+138,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Domingo,28, Julho ,2019,18:00,Juventude - RS,São José - RS,1,1,0,0,1,1,1
+139,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Domingo,28, Julho ,2019,16:00,Volta Redonda - RJ,Luverdense - MT,2,1,1,0,0,3,0
+140,C,2019,Manoel Barretto,Ceara,Mirim,Segunda,5, Agosto ,2019,20:00,Globo - RN,Náutico - PE,2,0,1,0,0,3,0
+141,C,2019,Castelão,Sao Luis,MA,Domingo,4, Agosto ,2019,18:00,Sampaio Correa - MA,Treze - PB,2,0,1,0,0,3,0
+142,C,2019,Arena Pernambuco,São Lourenço da Mata,PE,Sexta,2, Agosto ,2019,20:00,Santa Cruz - PE,Imperatriz - MA,3,2,1,0,0,3,0
+143,C,2019,Almeidão,Joao Pessoa,PB,Domingo,4, Agosto ,2019,18:00,Botafogo - PB,Confiança - SE,2,0,1,0,0,3,0
+144,C,2019,Arena Castelão,Fortaleza,CE,Segunda,5, Agosto ,2019,20:00,Ferroviário - CE,Abc - RN,1,2,0,1,0,0,3
+145,C,2019,Florestão,Rio Branco,AC,Sábado,3, Agosto ,2019,19:15,Atlético - AC,Juventude - RS,0,2,0,1,0,0,3
+146,C,2019,Mangueirão,Belem,PA,Quinta,1, Agosto ,2019,20:00,Remo - PA,Tombense - MG,0,2,0,1,0,0,3
+147,C,2019,Dilzon Melo,Varginha,MG,Segunda,5, Agosto ,2019,19:15,Boa - MG,Luverdense - MT,0,0,0,0,1,1,1
+148,C,2019,Colosso da Lagoa,Erechim,RS,Sábado,3, Agosto ,2019,15:30,Ypiranga - RS,Volta Redonda - RJ,2,0,1,0,0,3,0
+149,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,3, Agosto ,2019,17:00,São José - RS,Paysandu - PA,1,1,0,0,1,1,1
+150,C,2019,Manoel Barretto,Ceara,Mirim,Sábado,10, Agosto ,2019,19:15,Globo - RN,Botafogo - PB,0,3,0,1,0,0,3
+151,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,10, Agosto ,2019,19:00,Imperatriz - MA,Abc - RN,1,0,1,0,0,3,0
+152,C,2019,Aflitos,Recife,PE,Segunda,12, Agosto ,2019,20:00,Náutico - PE,Sampaio Correa - MA,2,1,1,0,0,3,0
+153,C,2019,PV,Campina Grande,PB,Domingo,11, Agosto ,2019,16:00,Treze - PB,Ferroviário - CE,2,0,1,0,0,3,0
+154,C,2019,Batistão,Aracaju,SE,Domingo,11, Agosto ,2019,18:00,Confiança - SE,Santa Cruz - PE,1,1,0,0,1,1,1
+155,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Domingo,11, Agosto ,2019,17:00,Luverdense - MT,Ypiranga - RS,0,1,0,1,0,0,3
+156,C,2019,Mangueirão,Belem,PA,Sábado,10, Agosto ,2019,17:00,Paysandu - PA,Atlético - AC,4,0,1,0,0,3,0
+157,C,2019,Dilzon Melo,Varginha,MG,Domingo,11, Agosto ,2019,16:00,Boa - MG,São José - RS,2,2,0,0,1,1,1
+158,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Quinta,8, Agosto ,2019,20:00,Juventude - RS,Tombense - MG,2,0,1,0,0,3,0
+159,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Sexta,9, Agosto ,2019,20:00,Volta Redonda - RJ,Remo - PA,0,0,0,0,1,1,1
+160,C,2019,Frasqueirão,Natal,RN,Sábado,17, Agosto ,2019,19:15,Abc - RN,Sampaio Correa - MA,1,1,0,0,1,1,1
+161,C,2019,Frei Epifânio,Imperatriz,MA,Sábado,17, Agosto ,2019,19:00,Imperatriz - MA,Ferroviário - CE,0,0,0,0,1,1,1
+162,C,2019,Arena Pernambuco,São Lourenço da Mata,PE,Domingo,18, Agosto ,2019,18:00,Santa Cruz - PE,Globo - RN,2,1,1,0,0,3,0
+163,C,2019,Almeidão,Joao Pessoa,PB,Sábado,17, Agosto ,2019,17:00,Botafogo - PB,Náutico - PE,0,1,0,1,0,0,3
+164,C,2019,Batistão,Aracaju,SE,Domingo,18, Agosto ,2019,16:00,Confiança - SE,Treze - PB,0,1,0,1,0,0,3
+165,C,2019,Passo das Emas,Lucas do Rio Verde,MT,Quinta,15, Agosto ,2019,20:00,Luverdense - MT,Paysandu - PA,1,3,0,1,0,0,3
+166,C,2019,Mangueirão,Belem,PA,Sexta,16, Agosto ,2019,20:00,Remo - PA,São José - RS,2,0,1,0,0,3,0
+167,C,2019,Antônio Guimarães de Almeida,Tombos,MG,Sábado,17, Agosto ,2019,16:00,Tombense - MG,Atlético - AC,3,2,1,0,0,3,0
+168,C,2019,Colosso da Lagoa,Erechim,RS,Domingo,18, Agosto ,2019,15:30,Ypiranga - RS,Boa - MG,0,1,0,1,0,0,3
+169,C,2019,Raulino de Oliveira,Volta Redonda,RJ,Segunda,19, Agosto ,2019,20:00,Volta Redonda - RJ,Juventude - RS,2,2,0,0,1,1,1
+170,C,2019,Manoel Barretto,Ceara,Mirim,Sábado,24, Agosto ,2019,17:00,Globo - RN,Abc - RN,0,2,0,1,0,0,3
+171,C,2019,Castelão,Sao Luis,MA,Sábado,24, Agosto ,2019,17:00,Sampaio Correa - MA,Imperatriz - MA,0,1,0,1,0,0,3
+172,C,2019,Aflitos,Recife,PE,Sábado,24, Agosto ,2019,17:00,Náutico - PE,Santa Cruz - PE,3,1,1,0,0,3,0
+173,C,2019,Amigão,Campina Grande,PB,Sábado,24, Agosto ,2019,17:00,Treze - PB,Botafogo - PB,2,2,0,0,1,1,1
+174,C,2019,Presidente Vargas,Fortaleza,CE,Sábado,24, Agosto ,2019,17:00,Ferroviário - CE,Confiança - SE,2,2,0,0,1,1,1
+175,C,2019,Florestão,Rio Branco,AC,Domingo,25, Agosto ,2019,18:00,Atlético - AC,Luverdense - MT,3,2,1,0,0,3,0
+176,C,2019,Mangueirão,Belem,PA,Domingo,25, Agosto ,2019,18:00,Paysandu - PA,Remo - PA,1,1,0,0,1,1,1
+177,C,2019,Dilzon Melo,Varginha,MG,Quinta,22, Agosto ,2019,19:00,Boa - MG,Tombense - MG,0,1,0,1,0,0,3
+178,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Domingo,25, Agosto ,2019,18:00,Juventude - RS,Ypiranga - RS,0,1,0,1,0,0,3
+179,C,2019,Passo D´areia,Porto Alegre,RS,Domingo,25, Agosto ,2019,18:00,São José - RS,Volta Redonda - RJ,4,2,1,0,0,3,0
+180,C,2019,Mangueirão,Belem,PA,Domingo,1, Setembro ,2019,18:00,Paysandu - PA,Náutico - PE,0,0,0,0,1,1,1
+181,C,2019,Frei Epifânio,Imperatriz,MA,Segunda,2, Setembro ,2019,20:00,Imperatriz - MA,Juventude - RS,0,0,0,0,1,1,1
+182,C,2019,Batistão,Aracaju,SE,Sábado,31, Agosto ,2019,17:00,Confiança - SE,Ypiranga - RS,1,0,1,0,0,3,0
+183,C,2019,Passo D´areia,Porto Alegre,RS,Sábado,31, Agosto ,2019,19:15,São José - RS,Sampaio Correa - MA,0,0,0,0,1,1,1
+184,C,2019,Aflitos,Recife,PE,Domingo,8, Setembro ,2019,18:00,Náutico - PE,Paysandu - PA,2,2,0,0,1,1,1
+185,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Segunda,9, Setembro ,2019,20:00,Juventude - RS,Imperatriz - MA,4,0,1,0,0,3,0
+186,C,2019,Colosso da Lagoa,Erechim,RS,Sábado,7, Setembro ,2019,17:00,Ypiranga - RS,Confiança - SE,1,1,0,0,1,1,1
+187,C,2019,Castelão,Sao Luis,MA,Sábado,7, Setembro ,2019,19:15,Sampaio Correa - MA,São José - RS,3,2,1,0,0,3,0
+188,C,2019,Batistão,Aracaju,SE,Sábado,14, Setembro ,2019,17:00,Confiança - SE,Sampaio Correa - MA,0,2,0,1,0,0,3
+189,C,2019,Alfredo Jaconi,Caxias do Sul,RS,Domingo,15, Setembro ,2019,18:00,Juventude - RS,Náutico - PE,2,1,1,0,0,3,0
+190,C,2019,Castelão,Sao Luis,MA,Sábado,21, Setembro ,2019,17:00,Sampaio Correa - MA,Confiança - SE,1,0,1,0,0,3,0
+191,C,2019,Aflitos,Recife,PE,Domingo,22, Setembro ,2019,18:00,Náutico - PE,Juventude - RS,2,1,1,0,0,3,0
+192,C,2019,Aflitos,Recife,PE,Domingo,29, Setembro ,2019,16:00,Náutico - PE,Sampaio Correa - MA,3,1,1,0,0,3,0
+193,C,2019,Castelão,Sao Luis,MA,Domingo,6, Outubro ,2019,16:00,Sampaio Correa - MA,Náutico - PE,2,2,0,0,1,1,1

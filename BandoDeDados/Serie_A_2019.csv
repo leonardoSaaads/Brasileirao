@@ -1,0 +1,381 @@
+,serie,temporada,estadio,cidade,estado,dia_semana,dia_numero,mes,ano,hora,mandante,visitante,gol_mandante,gol_visitante,vitoria_mandante,vitoria_visitante,jogo_empatado,ponto_mandante,ponto_visitante
+0,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,28, Abril ,2019,11:00,Grêmio - RS,Santos - SP,1,2,0,1,0,0,3
+1,A,2019,Independência,Belo Horizonte,MG,Sábado,27, Abril ,2019,19:00,Atlético - MG,Avaí - SC,2,1,1,0,0,3,0
+2,A,2019,Arena Castelão,Fortaleza,CE,Domingo,28, Abril ,2019,16:00,Ceará - CE,Csa - AL,4,0,1,0,0,3,0
+3,A,2019,Allianz Parque,Sao Paulo,SP,Domingo,28, Abril ,2019,19:00,Palmeiras - SP,Fortaleza - CE,4,0,1,0,0,3,0
+4,A,2019,Morumbi,Sao Paulo,SP,Sábado,27, Abril ,2019,16:00,São Paulo - SP,Botafogo - RJ,2,0,1,0,0,3,0
+5,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,27, Abril ,2019,21:00,Flamengo - RJ,Cruzeiro - MG,3,1,1,0,0,3,0
+6,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,28, Abril ,2019,19:00,Fluminense - RJ,Goiás - GO,0,1,0,1,0,0,3
+7,A,2019,Arena Condá,Chapeco,SC,Sábado,27, Abril ,2019,19:00,Chapecoense - SC,Internacional - RS,2,0,1,0,0,3,0
+8,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,28, Abril ,2019,16:00,Bahia - BA,Corinthians - SP,3,2,1,0,0,3,0
+9,A,2019,Arena da Baixada,Curitiba,PR,Domingo,28, Abril ,2019,16:00,Athletico Paranaense - PR,Vasco da Gama - RJ,4,1,1,0,0,3,0
+10,A,2019,Beira,Rio,Porto Alegre,Quarta,1, Maio ,2019,16:00,Internacional - RS,Flamengo - RJ,2,1,1,0,0,3,0
+11,A,2019,Mineirão,Belo Horizonte,MG,Quarta,1, Maio ,2019,19:15,Cruzeiro - MG,Ceará - CE,1,0,1,0,0,3,0
+12,A,2019,Arena Castelão,Fortaleza,CE,Quarta,1, Maio ,2019,21:30,Fortaleza - CE,Athletico Paranaense - PR,2,1,1,0,0,3,0
+13,A,2019,Arena Corinthians,Sao Paulo,SP,Quarta,1, Maio ,2019,16:00,Corinthians - SP,Chapecoense - SC,1,0,1,0,0,3,0
+14,A,2019,Vila Belmiro,Santos,SP,Quinta,2, Maio ,2019,19:15,Santos - SP,Fluminense - RJ,2,1,1,0,0,3,0
+15,A,2019,São Januário,Rio de Janeiro,RJ,Quarta,1, Maio ,2019,21:30,Vasco da Gama - RJ,Atlético - MG,1,2,0,1,0,0,3
+16,A,2019,Nilton Santos,Rio de Janeiro,RJ,Quinta,2, Maio ,2019,20:00,Botafogo - RJ,Bahia - BA,3,2,1,0,0,3,0
+17,A,2019,Ressacada,Florianopolis,SC,Quarta,1, Maio ,2019,19:15,Avaí - SC,Grêmio - RS,1,1,0,0,1,1,1
+18,A,2019,Serra Dourada,Goiania,GO,Quarta,1, Maio ,2019,21:30,Goiás - GO,São Paulo - SP,1,2,0,1,0,0,3
+19,A,2019,Rei Pelé,Maceio,AL,Quarta,1, Maio ,2019,16:00,Csa - AL,Palmeiras - SP,1,1,0,0,1,1,1
+20,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,5, Maio ,2019,19:00,Grêmio - RS,Fluminense - RJ,4,5,0,1,0,0,3
+21,A,2019,Mineirão,Belo Horizonte,MG,Domingo,5, Maio ,2019,16:00,Cruzeiro - MG,Goiás - GO,2,1,1,0,0,3,0
+22,A,2019,Arena Castelão,Fortaleza,CE,Sábado,4, Maio ,2019,21:00,Ceará - CE,Atlético - MG,1,2,0,1,0,0,3
+23,A,2019,Allianz Parque,Sao Paulo,SP,Sábado,4, Maio ,2019,19:00,Palmeiras - SP,Internacional - RS,1,0,1,0,0,3,0
+24,A,2019,Morumbi,Sao Paulo,SP,Domingo,5, Maio ,2019,16:00,São Paulo - SP,Flamengo - RJ,1,1,0,0,1,1,1
+25,A,2019,Arena da Amazônia,Manaus,AM,Sábado,4, Maio ,2019,19:00,Vasco da Gama - RJ,Corinthians - SP,1,1,0,0,1,1,1
+26,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,5, Maio ,2019,16:00,Botafogo - RJ,Fortaleza - CE,1,0,1,0,0,3,0
+27,A,2019,Arena Condá,Chapeco,SC,Domingo,5, Maio ,2019,11:00,Chapecoense - SC,Athletico Paranaense - PR,1,1,0,0,1,1,1
+28,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,5, Maio ,2019,19:00,Bahia - BA,Avaí - SC,1,0,1,0,0,3,0
+29,A,2019,Rei Pelé,Maceio,AL,Domingo,5, Maio ,2019,16:00,Csa - AL,Santos - SP,0,0,0,0,1,1,1
+30,A,2019,Beira,Rio,Porto Alegre,Domingo,12, Maio ,2019,16:00,Internacional - RS,Cruzeiro - MG,3,1,1,0,0,3,0
+31,A,2019,Mineirão,Belo Horizonte,MG,Domingo,12, Maio ,2019,16:00,Atlético - MG,Palmeiras - SP,0,2,0,1,0,0,3
+32,A,2019,Arena Castelão,Fortaleza,CE,Domingo,12, Maio ,2019,19:00,Fortaleza - CE,São Paulo - SP,0,1,0,1,0,0,3
+33,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,11, Maio ,2019,19:00,Corinthians - SP,Grêmio - RS,0,0,0,0,1,1,1
+34,A,2019,Pacaembu,Sao Paulo,SP,Domingo,12, Maio ,2019,16:00,Santos - SP,Vasco da Gama - RJ,3,0,1,0,0,3,0
+35,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,12, Maio ,2019,11:00,Flamengo - RJ,Chapecoense - SC,2,1,1,0,0,3,0
+36,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,11, Maio ,2019,16:00,Fluminense - RJ,Botafogo - RJ,0,1,0,1,0,0,3
+37,A,2019,Ressacada,Florianopolis,SC,Domingo,12, Maio ,2019,19:00,Avaí - SC,Csa - AL,0,0,0,0,1,1,1
+38,A,2019,Serra Dourada,Goiania,GO,Sábado,11, Maio ,2019,21:00,Goiás - GO,Ceará - CE,2,1,1,0,0,3,0
+39,A,2019,Arena da Baixada,Curitiba,PR,Domingo,12, Maio ,2019,19:00,Athletico Paranaense - PR,Bahia - BA,1,0,1,0,0,3,0
+40,A,2019,Beira,Rio,Porto Alegre,Domingo,19, Maio ,2019,16:00,Internacional - RS,Csa - AL,2,0,1,0,0,3,0
+41,A,2019,Independência,Belo Horizonte,MG,Sábado,18, Maio ,2019,19:00,Atlético - MG,Flamengo - RJ,2,1,1,0,0,3,0
+42,A,2019,Arena Castelão,Fortaleza,CE,Domingo,19, Maio ,2019,19:00,Ceará - CE,Grêmio - RS,2,1,1,0,0,3,0
+43,A,2019,Pacaembu,Sao Paulo,SP,Sábado,18, Maio ,2019,19:00,Palmeiras - SP,Santos - SP,4,0,1,0,0,3,0
+44,A,2019,Morumbi,Sao Paulo,SP,Domingo,19, Maio ,2019,11:00,São Paulo - SP,Bahia - BA,0,0,0,0,1,1,1
+45,A,2019,São Januário,Rio de Janeiro,RJ,Domingo,19, Maio ,2019,19:00,Vasco da Gama - RJ,Avaí - SC,1,1,0,0,1,1,1
+46,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,18, Maio ,2019,18:00,Fluminense - RJ,Cruzeiro - MG,4,1,1,0,0,3,0
+47,A,2019,Arena Condá,Chapeco,SC,Domingo,19, Maio ,2019,16:00,Chapecoense - SC,Fortaleza - CE,1,3,0,1,0,0,3
+48,A,2019,Serra Dourada,Goiania,GO,Domingo,19, Maio ,2019,16:00,Goiás - GO,Botafogo - RJ,1,0,1,0,0,3,0
+49,A,2019,Arena da Baixada,Curitiba,PR,Domingo,19, Maio ,2019,16:00,Athletico Paranaense - PR,Corinthians - SP,0,2,0,1,0,0,3
+50,A,2019,Arena do Grêmio,Porto Alegre,RS,Sábado,25, Maio ,2019,19:00,Grêmio - RS,Atlético - MG,1,0,1,0,0,3,0
+51,A,2019,Independência,Belo Horizonte,MG,Domingo,26, Maio ,2019,19:00,Cruzeiro - MG,Chapecoense - SC,1,2,0,1,0,0,3
+52,A,2019,Arena Castelão,Fortaleza,CE,Domingo,26, Maio ,2019,19:00,Fortaleza - CE,Vasco da Gama - RJ,1,1,0,0,1,1,1
+53,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,26, Maio ,2019,19:00,Corinthians - SP,São Paulo - SP,1,0,1,0,0,3,0
+54,A,2019,Vila Belmiro,Santos,SP,Domingo,26, Maio ,2019,16:00,Santos - SP,Internacional - RS,0,0,0,0,1,1,1
+55,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,26, Maio ,2019,16:00,Flamengo - RJ,Athletico Paranaense - PR,3,2,1,0,0,3,0
+56,A,2019,Mané Garrincha,Brasilia,DF,Sábado,25, Maio ,2019,16:00,Botafogo - RJ,Palmeiras - SP,0,1,0,1,0,0,3
+57,A,2019,Ressacada,Florianopolis,SC,Segunda,27, Maio ,2019,20:00,Avaí - SC,Ceará - CE,1,2,0,1,0,0,3
+58,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,26, Maio ,2019,19:00,Bahia - BA,Fluminense - RJ,3,2,1,0,0,3,0
+59,A,2019,Rei Pelé,Maceio,AL,Segunda,27, Maio ,2019,20:00,Csa - AL,Goiás - GO,1,0,1,0,0,3,0
+60,A,2019,Beira,Rio,Porto Alegre,Domingo,2, Junho ,2019,19:00,Internacional - RS,Avaí - SC,2,0,1,0,0,3,0
+61,A,2019,Independência,Belo Horizonte,MG,Domingo,2, Junho ,2019,19:00,Atlético - MG,Csa - AL,4,0,1,0,0,3,0
+62,A,2019,Arena Castelão,Fortaleza,CE,Domingo,2, Junho ,2019,16:00,Ceará - CE,Santos - SP,0,1,0,1,0,0,3
+63,A,2019,Arena Corinthians,Sao Paulo,SP,Quarta,7, Agosto ,2019,19:15,Corinthians - SP,Goiás - GO,2,0,1,0,0,3,0
+64,A,2019,Pacaembu,Sao Paulo,SP,Domingo,2, Junho ,2019,16:00,São Paulo - SP,Cruzeiro - MG,1,1,0,0,1,1,1
+65,A,2019,Nilton Santos,Rio de Janeiro,RJ,Sábado,1, Junho ,2019,16:00,Flamengo - RJ,Fortaleza - CE,2,0,1,0,0,3,0
+66,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,2, Junho ,2019,11:00,Botafogo - RJ,Vasco da Gama - RJ,1,0,1,0,0,3,0
+67,A,2019,Arena Condá,Chapeco,SC,Domingo,2, Junho ,2019,19:00,Chapecoense - SC,Palmeiras - SP,1,2,0,1,0,0,3
+68,A,2019,Pituaçu,Salvador,BA,Sábado,1, Junho ,2019,19:00,Bahia - BA,Grêmio - RS,1,0,1,0,0,3,0
+69,A,2019,Arena da Baixada,Curitiba,PR,Domingo,2, Junho ,2019,16:00,Athletico Paranaense - PR,Fluminense - RJ,3,0,1,0,0,3,0
+70,A,2019,Centenário,Caxias do Sul,RS,Sábado,8, Junho ,2019,19:00,Grêmio - RS,Fortaleza - CE,1,0,1,0,0,3,0
+71,A,2019,Mineirão,Belo Horizonte,MG,Sábado,8, Junho ,2019,19:00,Cruzeiro - MG,Corinthians - SP,0,0,0,0,1,1,1
+72,A,2019,Arena Castelão,Fortaleza,CE,Sábado,8, Junho ,2019,19:30,Ceará - CE,Bahia - BA,0,0,0,0,1,1,1
+73,A,2019,Allianz Parque,Sao Paulo,SP,Sábado,8, Junho ,2019,16:30,Palmeiras - SP,Athletico Paranaense - PR,1,0,1,0,0,3,0
+74,A,2019,Vila Belmiro,Santos,SP,Domingo,9, Junho ,2019,19:00,Santos - SP,Atlético - MG,3,1,1,0,0,3,0
+75,A,2019,São Januário,Rio de Janeiro,RJ,Sexta,7, Junho ,2019,20:30,Vasco da Gama - RJ,Internacional - RS,2,1,1,0,0,3,0
+76,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,9, Junho ,2019,19:00,Fluminense - RJ,Flamengo - RJ,0,0,0,0,1,1,1
+77,A,2019,Ressacada,Florianopolis,SC,Sábado,8, Junho ,2019,21:00,Avaí - SC,São Paulo - SP,0,0,0,0,1,1,1
+78,A,2019,Serra Dourada,Goiania,GO,Segunda,10, Junho ,2019,20:00,Goiás - GO,Chapecoense - SC,3,1,1,0,0,3,0
+79,A,2019,Rei Pelé,Maceio,AL,Domingo,9, Junho ,2019,19:00,Csa - AL,Botafogo - RJ,1,2,0,1,0,0,3
+80,A,2019,Beira,Rio,Porto Alegre,Quarta,12, Junho ,2019,21:30,Internacional - RS,Bahia - BA,3,1,1,0,0,3,0
+81,A,2019,Independência,Belo Horizonte,MG,Quinta,13, Junho ,2019,20:00,Atlético - MG,São Paulo - SP,1,1,0,0,1,1,1
+82,A,2019,Arena Castelão,Fortaleza,CE,Quarta,12, Junho ,2019,21:00,Fortaleza - CE,Cruzeiro - MG,2,1,1,0,0,3,0
+83,A,2019,Allianz Parque,Sao Paulo,SP,Quinta,13, Junho ,2019,20:00,Palmeiras - SP,Avaí - SC,2,0,1,0,0,3,0
+84,A,2019,Vila Belmiro,Santos,SP,Quarta,12, Junho ,2019,21:30,Santos - SP,Corinthians - SP,1,0,1,0,0,3,0
+85,A,2019,São Januário,Rio de Janeiro,RJ,Quinta,13, Junho ,2019,19:15,Vasco da Gama - RJ,Ceará - CE,1,0,1,0,0,3,0
+86,A,2019,Nilton Santos,Rio de Janeiro,RJ,Quarta,12, Junho ,2019,19:15,Botafogo - RJ,Grêmio - RS,0,1,0,1,0,0,3
+87,A,2019,Arena Condá,Chapeco,SC,Quinta,13, Junho ,2019,20:00,Chapecoense - SC,Fluminense - RJ,1,1,0,0,1,1,1
+88,A,2019,Serra Dourada,Goiania,GO,Quinta,13, Junho ,2019,20:00,Goiás - GO,Athletico Paranaense - PR,2,1,1,0,0,3,0
+89,A,2019,Mané Garrincha,Brasilia,DF,Quarta,12, Junho ,2019,21:30,Csa - AL,Flamengo - RJ,0,2,0,1,0,0,3
+90,A,2019,Arena do Grêmio,Porto Alegre,RS,Sábado,13, Julho ,2019,17:00,Grêmio - RS,Vasco da Gama - RJ,2,1,1,0,0,3,0
+91,A,2019,Mineirão,Belo Horizonte,MG,Domingo,14, Julho ,2019,16:00,Cruzeiro - MG,Botafogo - RJ,0,0,0,0,1,1,1
+92,A,2019,Arena Castelão,Fortaleza,CE,Sábado,13, Julho ,2019,17:00,Fortaleza - CE,Avaí - SC,2,0,1,0,0,3,0
+93,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,14, Julho ,2019,16:00,Corinthians - SP,Csa - AL,1,0,1,0,0,3,0
+94,A,2019,Morumbi,Sao Paulo,SP,Sábado,13, Julho ,2019,19:00,São Paulo - SP,Palmeiras - SP,1,1,0,0,1,1,1
+95,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,14, Julho ,2019,11:00,Flamengo - RJ,Goiás - GO,6,1,1,0,0,3,0
+96,A,2019,Maracanã,Rio de Janeiro,RJ,Segunda,15, Julho ,2019,20:00,Fluminense - RJ,Ceará - CE,1,1,0,0,1,1,1
+97,A,2019,Arena Condá,Chapeco,SC,Domingo,14, Julho ,2019,19:00,Chapecoense - SC,Atlético - MG,1,2,0,1,0,0,3
+98,A,2019,Pituaçu,Salvador,BA,Sábado,13, Julho ,2019,19:00,Bahia - BA,Santos - SP,0,1,0,1,0,0,3
+99,A,2019,Arena da Baixada,Curitiba,PR,Domingo,14, Julho ,2019,16:00,Athletico Paranaense - PR,Internacional - RS,1,0,1,0,0,3,0
+100,A,2019,Beira,Rio,Porto Alegre,Sábado,20, Julho ,2019,19:00,Internacional - RS,Grêmio - RS,1,1,0,0,1,1,1
+101,A,2019,Independência,Belo Horizonte,MG,Domingo,21, Julho ,2019,16:00,Atlético - MG,Fortaleza - CE,2,2,0,0,1,1,1
+102,A,2019,Arena Castelão,Fortaleza,CE,Sábado,20, Julho ,2019,19:00,Ceará - CE,Palmeiras - SP,2,0,1,0,0,3,0
+103,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,21, Julho ,2019,16:00,Corinthians - SP,Flamengo - RJ,1,1,0,0,1,1,1
+104,A,2019,Morumbi,Sao Paulo,SP,Segunda,22, Julho ,2019,20:00,São Paulo - SP,Chapecoense - SC,4,0,1,0,0,3,0
+105,A,2019,São Januário,Rio de Janeiro,RJ,Sábado,20, Julho ,2019,11:00,Vasco da Gama - RJ,Fluminense - RJ,2,1,1,0,0,3,0
+106,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,21, Julho ,2019,11:00,Botafogo - RJ,Santos - SP,0,1,0,1,0,0,3
+107,A,2019,Ressacada,Florianopolis,SC,Domingo,21, Julho ,2019,19:00,Avaí - SC,Goiás - GO,0,0,0,0,1,1,1
+108,A,2019,Arena Fonte Nova,Salvador,BA,Sábado,20, Julho ,2019,17:00,Bahia - BA,Cruzeiro - MG,0,0,0,0,1,1,1
+109,A,2019,Rei Pelé,Maceio,AL,Sábado,20, Julho ,2019,19:00,Csa - AL,Athletico Paranaense - PR,0,4,0,1,0,0,3
+110,A,2019,Beira,Rio,Porto Alegre,Sábado,27, Julho ,2019,19:00,Internacional - RS,Ceará - CE,1,0,1,0,0,3,0
+111,A,2019,Mineirão,Belo Horizonte,MG,Sábado,27, Julho ,2019,19:00,Cruzeiro - MG,Athletico Paranaense - PR,0,2,0,1,0,0,3
+112,A,2019,Arena Castelão,Fortaleza,CE,Domingo,28, Julho ,2019,19:00,Fortaleza - CE,Corinthians - SP,1,3,0,1,0,0,3
+113,A,2019,Allianz Parque,Sao Paulo,SP,Sábado,27, Julho ,2019,17:00,Palmeiras - SP,Vasco da Gama - RJ,1,1,0,0,1,1,1
+114,A,2019,Vila Belmiro,Santos,SP,Domingo,28, Julho ,2019,16:00,Santos - SP,Avaí - SC,3,1,1,0,0,3,0
+115,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,28, Julho ,2019,16:00,Flamengo - RJ,Botafogo - RJ,3,2,1,0,0,3,0
+116,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,27, Julho ,2019,19:00,Fluminense - RJ,São Paulo - SP,1,2,0,1,0,0,3
+117,A,2019,Arena Condá,Chapeco,SC,Domingo,28, Julho ,2019,11:00,Chapecoense - SC,Bahia - BA,0,0,0,0,1,1,1
+118,A,2019,Serra Dourada,Goiania,GO,Domingo,28, Julho ,2019,19:00,Goiás - GO,Atlético - MG,0,0,0,0,1,1,1
+119,A,2019,Rei Pelé,Maceio,AL,Segunda,29, Julho ,2019,20:00,Csa - AL,Grêmio - RS,0,0,0,0,1,1,1
+120,A,2019,Arena do Grêmio,Porto Alegre,RS,Segunda,5, Agosto ,2019,20:00,Grêmio - RS,Chapecoense - SC,3,3,0,0,1,1,1
+121,A,2019,Independência,Belo Horizonte,MG,Domingo,4, Agosto ,2019,19:00,Atlético - MG,Cruzeiro - MG,2,0,1,0,0,3,0
+122,A,2019,Arena Castelão,Fortaleza,CE,Sábado,3, Agosto ,2019,19:00,Ceará - CE,Fortaleza - CE,2,1,1,0,0,3,0
+123,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,4, Agosto ,2019,19:00,Corinthians - SP,Palmeiras - SP,1,1,0,0,1,1,1
+124,A,2019,Vila Belmiro,Santos,SP,Domingo,4, Agosto ,2019,11:00,Santos - SP,Goiás - GO,6,1,1,0,0,3,0
+125,A,2019,Kleber Andrade,Cariacica,ES,Domingo,4, Agosto ,2019,19:00,Vasco da Gama - RJ,Csa - AL,0,0,0,0,1,1,1
+126,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,3, Agosto ,2019,19:00,Fluminense - RJ,Internacional - RS,2,1,1,0,0,3,0
+127,A,2019,Ressacada,Florianopolis,SC,Domingo,4, Agosto ,2019,16:00,Avaí - SC,Botafogo - RJ,0,2,0,1,0,0,3
+128,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,4, Agosto ,2019,16:00,Bahia - BA,Flamengo - RJ,3,0,1,0,0,3,0
+129,A,2019,Arena da Baixada,Curitiba,PR,Quarta,21, Agosto ,2019,19:15,Athletico Paranaense - PR,São Paulo - SP,0,1,0,1,0,0,3
+130,A,2019,Beira,Rio,Porto Alegre,Domingo,11, Agosto ,2019,11:00,Internacional - RS,Corinthians - SP,0,0,0,0,1,1,1
+131,A,2019,Independência,Belo Horizonte,MG,Sábado,10, Agosto ,2019,21:00,Atlético - MG,Fluminense - RJ,2,1,1,0,0,3,0
+132,A,2019,Arena Castelão,Fortaleza,CE,Sábado,10, Agosto ,2019,17:00,Ceará - CE,Chapecoense - SC,4,1,1,0,0,3,0
+133,A,2019,Allianz Parque,Sao Paulo,SP,Domingo,11, Agosto ,2019,16:00,Palmeiras - SP,Bahia - BA,2,2,0,0,1,1,1
+134,A,2019,Morumbi,Sao Paulo,SP,Sábado,10, Agosto ,2019,17:00,São Paulo - SP,Santos - SP,3,2,1,0,0,3,0
+135,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,10, Agosto ,2019,19:00,Flamengo - RJ,Grêmio - RS,3,1,1,0,0,3,0
+136,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,11, Agosto ,2019,16:00,Botafogo - RJ,Athletico Paranaense - PR,2,1,1,0,0,3,0
+137,A,2019,Ressacada,Florianopolis,SC,Domingo,11, Agosto ,2019,16:00,Avaí - SC,Cruzeiro - MG,2,2,0,0,1,1,1
+138,A,2019,Serra Dourada,Goiania,GO,Domingo,11, Agosto ,2019,19:00,Goiás - GO,Vasco da Gama - RJ,0,1,0,1,0,0,3
+139,A,2019,Rei Pelé,Maceio,AL,Segunda,12, Agosto ,2019,20:00,Csa - AL,Fortaleza - CE,0,2,0,1,0,0,3
+140,A,2019,Arena do Grêmio,Porto Alegre,RS,Sábado,17, Agosto ,2019,21:00,Grêmio - RS,Palmeiras - SP,1,1,0,0,1,1,1
+141,A,2019,Mineirão,Belo Horizonte,MG,Domingo,18, Agosto ,2019,16:00,Cruzeiro - MG,Santos - SP,2,0,1,0,0,3,0
+142,A,2019,Arena Castelão,Fortaleza,CE,Sábado,17, Agosto ,2019,17:00,Fortaleza - CE,Internacional - RS,0,1,0,1,0,0,3
+143,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,17, Agosto ,2019,17:00,Corinthians - SP,Botafogo - RJ,2,0,1,0,0,3,0
+144,A,2019,Morumbi,Sao Paulo,SP,Domingo,18, Agosto ,2019,16:00,São Paulo - SP,Ceará - CE,1,0,1,0,0,3,0
+145,A,2019,Mané Garrincha,Brasilia,DF,Sábado,17, Agosto ,2019,19:00,Vasco da Gama - RJ,Flamengo - RJ,1,4,0,1,0,0,3
+146,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,18, Agosto ,2019,16:00,Fluminense - RJ,Csa - AL,0,1,0,1,0,0,3
+147,A,2019,Arena Condá,Chapeco,SC,Domingo,18, Agosto ,2019,19:00,Chapecoense - SC,Avaí - SC,1,0,1,0,0,3,0
+148,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,18, Agosto ,2019,16:00,Bahia - BA,Goiás - GO,1,1,0,0,1,1,1
+149,A,2019,Arena da Baixada,Curitiba,PR,Sábado,17, Agosto ,2019,19:00,Athletico Paranaense - PR,Atlético - MG,1,0,1,0,0,3,0
+150,A,2019,Arena do Grêmio,Porto Alegre,RS,Sábado,24, Agosto ,2019,17:00,Grêmio - RS,Athletico Paranaense - PR,2,1,1,0,0,3,0
+151,A,2019,Independência,Belo Horizonte,MG,Sábado,24, Agosto ,2019,11:00,Atlético - MG,Bahia - BA,0,1,0,1,0,0,3
+152,A,2019,Arena Castelão,Fortaleza,CE,Domingo,25, Agosto ,2019,19:00,Ceará - CE,Flamengo - RJ,0,3,0,1,0,0,3
+153,A,2019,Allianz Parque,Sao Paulo,SP,Terça,10, Setembro ,2019,21:00,Palmeiras - SP,Fluminense - RJ,3,0,1,0,0,3,0
+154,A,2019,Vila Belmiro,Santos,SP,Domingo,25, Agosto ,2019,16:00,Santos - SP,Fortaleza - CE,3,3,0,0,1,1,1
+155,A,2019,São Januário,Rio de Janeiro,RJ,Domingo,25, Agosto ,2019,16:00,Vasco da Gama - RJ,São Paulo - SP,2,0,1,0,0,3,0
+156,A,2019,Nilton Santos,Rio de Janeiro,RJ,Segunda,26, Agosto ,2019,20:00,Botafogo - RJ,Chapecoense - SC,0,0,0,0,1,1,1
+157,A,2019,Ressacada,Florianopolis,SC,Domingo,25, Agosto ,2019,19:00,Avaí - SC,Corinthians - SP,1,1,0,0,1,1,1
+158,A,2019,Serra Dourada,Goiania,GO,Domingo,25, Agosto ,2019,16:00,Goiás - GO,Internacional - RS,2,1,1,0,0,3,0
+159,A,2019,Rei Pelé,Maceio,AL,Domingo,25, Agosto ,2019,19:00,Csa - AL,Cruzeiro - MG,1,1,0,0,1,1,1
+160,A,2019,Beira,Rio,Porto Alegre,Sábado,31, Agosto ,2019,21:00,Internacional - RS,Botafogo - RJ,3,2,1,0,0,3,0
+161,A,2019,Mineirão,Belo Horizonte,MG,Domingo,1, Setembro ,2019,19:00,Cruzeiro - MG,Vasco da Gama - RJ,1,0,1,0,0,3,0
+162,A,2019,Arena Castelão,Fortaleza,CE,Domingo,1, Setembro ,2019,16:00,Fortaleza - CE,Goiás - GO,2,0,1,0,0,3,0
+163,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,1, Setembro ,2019,19:00,Corinthians - SP,Atlético - MG,1,0,1,0,0,3,0
+164,A,2019,Morumbi,Sao Paulo,SP,Sábado,31, Agosto ,2019,11:00,São Paulo - SP,Grêmio - RS,0,0,0,0,1,1,1
+165,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,1, Setembro ,2019,16:00,Flamengo - RJ,Palmeiras - SP,3,0,1,0,0,3,0
+166,A,2019,Maracanã,Rio de Janeiro,RJ,Segunda,2, Setembro ,2019,20:00,Fluminense - RJ,Avaí - SC,0,1,0,1,0,0,3
+167,A,2019,Arena Condá,Chapeco,SC,Sábado,31, Agosto ,2019,19:00,Chapecoense - SC,Santos - SP,0,1,0,1,0,0,3
+168,A,2019,Arena Fonte Nova,Salvador,BA,Sábado,31, Agosto ,2019,17:00,Bahia - BA,Csa - AL,1,0,1,0,0,3,0
+169,A,2019,Arena da Baixada,Curitiba,PR,Sábado,31, Agosto ,2019,19:00,Athletico Paranaense - PR,Ceará - CE,1,0,1,0,0,3,0
+170,A,2019,Beira,Rio,Porto Alegre,Sábado,7, Setembro ,2019,19:00,Internacional - RS,São Paulo - SP,1,0,1,0,0,3,0
+171,A,2019,Independência,Belo Horizonte,MG,Domingo,8, Setembro ,2019,11:00,Cruzeiro - MG,Grêmio - RS,1,4,0,1,0,0,3
+172,A,2019,Arena Castelão,Fortaleza,CE,Sábado,7, Setembro ,2019,17:00,Fortaleza - CE,Fluminense - RJ,0,1,0,1,0,0,3
+173,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,7, Setembro ,2019,11:00,Corinthians - SP,Ceará - CE,2,2,0,0,1,1,1
+174,A,2019,Vila Belmiro,Santos,SP,Domingo,8, Setembro ,2019,16:00,Santos - SP,Athletico Paranaense - PR,1,1,0,0,1,1,1
+175,A,2019,São Januário,Rio de Janeiro,RJ,Sábado,7, Setembro ,2019,11:00,Vasco da Gama - RJ,Bahia - BA,0,2,0,1,0,0,3
+176,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,8, Setembro ,2019,16:00,Botafogo - RJ,Atlético - MG,2,1,1,0,0,3,0
+177,A,2019,Mané Garrincha,Brasilia,DF,Sábado,7, Setembro ,2019,17:00,Avaí - SC,Flamengo - RJ,0,3,0,1,0,0,3
+178,A,2019,Serra Dourada,Goiania,GO,Sábado,7, Setembro ,2019,21:00,Goiás - GO,Palmeiras - SP,1,2,0,1,0,0,3
+179,A,2019,Rei Pelé,Maceio,AL,Domingo,8, Setembro ,2019,19:00,Csa - AL,Chapecoense - SC,2,0,1,0,0,3,0
+180,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,15, Setembro ,2019,16:00,Grêmio - RS,Goiás - GO,3,0,1,0,0,3,0
+181,A,2019,Independência,Belo Horizonte,MG,Domingo,15, Setembro ,2019,11:00,Atlético - MG,Internacional - RS,1,3,0,1,0,0,3
+182,A,2019,Arena Castelão,Fortaleza,CE,Sábado,14, Setembro ,2019,21:00,Ceará - CE,Botafogo - RJ,0,0,0,0,1,1,1
+183,A,2019,Allianz Parque,Sao Paulo,SP,Sábado,14, Setembro ,2019,19:00,Palmeiras - SP,Cruzeiro - MG,1,0,1,0,0,3,0
+184,A,2019,Morumbi,Sao Paulo,SP,Domingo,15, Setembro ,2019,19:00,São Paulo - SP,Csa - AL,1,1,0,0,1,1,1
+185,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,14, Setembro ,2019,17:00,Flamengo - RJ,Santos - SP,1,0,1,0,0,3,0
+186,A,2019,Mané Garrincha,Brasilia,DF,Domingo,15, Setembro ,2019,16:00,Fluminense - RJ,Corinthians - SP,1,0,1,0,0,3,0
+187,A,2019,Arena Condá,Chapeco,SC,Sábado,14, Setembro ,2019,19:00,Chapecoense - SC,Vasco da Gama - RJ,1,2,0,1,0,0,3
+188,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,15, Setembro ,2019,16:00,Bahia - BA,Fortaleza - CE,1,1,0,0,1,1,1
+189,A,2019,Arena da Baixada,Curitiba,PR,Domingo,15, Setembro ,2019,11:00,Athletico Paranaense - PR,Avaí - SC,0,1,0,1,0,0,3
+190,A,2019,Beira,Rio,Porto Alegre,Domingo,22, Setembro ,2019,11:00,Internacional - RS,Chapecoense - SC,1,0,1,0,0,3,0
+191,A,2019,Mineirão,Belo Horizonte,MG,Sábado,21, Setembro ,2019,17:00,Cruzeiro - MG,Flamengo - RJ,1,2,0,1,0,0,3
+192,A,2019,Arena Castelão,Fortaleza,CE,Domingo,22, Setembro ,2019,16:00,Fortaleza - CE,Palmeiras - SP,0,1,0,1,0,0,3
+193,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,21, Setembro ,2019,19:00,Corinthians - SP,Bahia - BA,2,1,1,0,0,3,0
+194,A,2019,Vila Belmiro,Santos,SP,Sábado,21, Setembro ,2019,21:00,Santos - SP,Grêmio - RS,0,3,0,1,0,0,3
+195,A,2019,São Januário,Rio de Janeiro,RJ,Domingo,22, Setembro ,2019,16:00,Vasco da Gama - RJ,Athletico Paranaense - PR,1,1,0,0,1,1,1
+196,A,2019,Nilton Santos,Rio de Janeiro,RJ,Sábado,21, Setembro ,2019,11:00,Botafogo - RJ,São Paulo - SP,1,2,0,1,0,0,3
+197,A,2019,Ressacada,Florianopolis,SC,Segunda,23, Setembro ,2019,20:00,Avaí - SC,Atlético - MG,1,0,1,0,0,3,0
+198,A,2019,Serra Dourada,Goiania,GO,Domingo,22, Setembro ,2019,19:00,Goiás - GO,Fluminense - RJ,3,0,1,0,0,3,0
+199,A,2019,Rei Pelé,Maceio,AL,Domingo,22, Setembro ,2019,16:00,Csa - AL,Ceará - CE,1,0,1,0,0,3,0
+200,A,2019,Arena do Grêmio,Porto Alegre,RS,Quinta,26, Setembro ,2019,20:00,Grêmio - RS,Avaí - SC,6,1,1,0,0,3,0
+201,A,2019,Independência,Belo Horizonte,MG,Quarta,2, Outubro ,2019,19:15,Atlético - MG,Vasco da Gama - RJ,1,2,0,1,0,0,3
+202,A,2019,Arena Castelão,Fortaleza,CE,Quarta,25, Setembro ,2019,19:30,Ceará - CE,Cruzeiro - MG,0,0,0,0,1,1,1
+203,A,2019,Pacaembu,Sao Paulo,SP,Quinta,26, Setembro ,2019,19:15,Palmeiras - SP,Csa - AL,6,2,1,0,0,3,0
+204,A,2019,Morumbi,Sao Paulo,SP,Quarta,25, Setembro ,2019,21:30,São Paulo - SP,Goiás - GO,0,1,0,1,0,0,3
+205,A,2019,Maracanã,Rio de Janeiro,RJ,Quarta,25, Setembro ,2019,21:30,Flamengo - RJ,Internacional - RS,3,1,1,0,0,3,0
+206,A,2019,Maracanã,Rio de Janeiro,RJ,Quinta,26, Setembro ,2019,20:00,Fluminense - RJ,Santos - SP,1,1,0,0,1,1,1
+207,A,2019,Arena Condá,Chapeco,SC,Quarta,2, Outubro ,2019,19:15,Chapecoense - SC,Corinthians - SP,0,1,0,1,0,0,3
+208,A,2019,Arena Fonte Nova,Salvador,BA,Quarta,25, Setembro ,2019,21:30,Bahia - BA,Botafogo - RJ,2,0,1,0,0,3,0
+209,A,2019,Arena da Baixada,Curitiba,PR,Quinta,26, Setembro ,2019,21:30,Athletico Paranaense - PR,Fortaleza - CE,4,1,1,0,0,3,0
+210,A,2019,Beira,Rio,Porto Alegre,Domingo,29, Setembro ,2019,16:00,Internacional - RS,Palmeiras - SP,1,1,0,0,1,1,1
+211,A,2019,Independência,Belo Horizonte,MG,Domingo,29, Setembro ,2019,19:00,Atlético - MG,Ceará - CE,2,1,1,0,0,3,0
+212,A,2019,Arena Castelão,Fortaleza,CE,Segunda,30, Setembro ,2019,20:00,Fortaleza - CE,Botafogo - RJ,1,0,1,0,0,3,0
+213,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,29, Setembro ,2019,11:00,Corinthians - SP,Vasco da Gama - RJ,1,0,1,0,0,3,0
+214,A,2019,Vila Belmiro,Santos,SP,Domingo,29, Setembro ,2019,16:00,Santos - SP,Csa - AL,2,0,1,0,0,3,0
+215,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,28, Setembro ,2019,19:00,Flamengo - RJ,São Paulo - SP,0,0,0,0,1,1,1
+216,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,29, Setembro ,2019,16:00,Fluminense - RJ,Grêmio - RS,2,1,1,0,0,3,0
+217,A,2019,Ressacada,Florianopolis,SC,Segunda,30, Setembro ,2019,20:00,Avaí - SC,Bahia - BA,0,2,0,1,0,0,3
+218,A,2019,Serra Dourada,Goiania,GO,Segunda,30, Setembro ,2019,20:00,Goiás - GO,Cruzeiro - MG,1,0,1,0,0,3,0
+219,A,2019,Arena da Baixada,Curitiba,PR,Domingo,29, Setembro ,2019,19:00,Athletico Paranaense - PR,Chapecoense - SC,1,1,0,0,1,1,1
+220,A,2019,Arena do Grêmio,Porto Alegre,RS,Sábado,5, Outubro ,2019,19:00,Grêmio - RS,Corinthians - SP,0,0,0,0,1,1,1
+221,A,2019,Mineirão,Belo Horizonte,MG,Sábado,5, Outubro ,2019,21:00,Cruzeiro - MG,Internacional - RS,1,1,0,0,1,1,1
+222,A,2019,Arena Castelão,Fortaleza,CE,Domingo,6, Outubro ,2019,16:00,Ceará - CE,Goiás - GO,0,1,0,1,0,0,3
+223,A,2019,Allianz Parque,Sao Paulo,SP,Domingo,6, Outubro ,2019,16:00,Palmeiras - SP,Atlético - MG,1,1,0,0,1,1,1
+224,A,2019,Pacaembu,Sao Paulo,SP,Sábado,5, Outubro ,2019,17:00,São Paulo - SP,Fortaleza - CE,2,1,1,0,0,3,0
+225,A,2019,São Januário,Rio de Janeiro,RJ,Sábado,5, Outubro ,2019,17:00,Vasco da Gama - RJ,Santos - SP,0,1,0,1,0,0,3
+226,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,6, Outubro ,2019,16:00,Botafogo - RJ,Fluminense - RJ,0,1,0,1,0,0,3
+227,A,2019,Arena Condá,Chapeco,SC,Domingo,6, Outubro ,2019,11:00,Chapecoense - SC,Flamengo - RJ,0,1,0,1,0,0,3
+228,A,2019,Arena Fonte Nova,Salvador,BA,Sábado,5, Outubro ,2019,19:00,Bahia - BA,Athletico Paranaense - PR,1,2,0,1,0,0,3
+229,A,2019,Rei Pelé,Maceio,AL,Domingo,6, Outubro ,2019,19:00,Csa - AL,Avaí - SC,3,1,1,0,0,3,0
+230,A,2019,Centenário,Caxias do Sul,RS,Quarta,9, Outubro ,2019,21:00,Grêmio - RS,Ceará - CE,2,1,1,0,0,3,0
+231,A,2019,Mineirão,Belo Horizonte,MG,Quarta,9, Outubro ,2019,21:30,Cruzeiro - MG,Fluminense - RJ,0,0,0,0,1,1,1
+232,A,2019,Arena Castelão,Fortaleza,CE,Quarta,9, Outubro ,2019,20:30,Fortaleza - CE,Chapecoense - SC,2,0,1,0,0,3,0
+233,A,2019,Arena Corinthians,Sao Paulo,SP,Quinta,10, Outubro ,2019,19:15,Corinthians - SP,Athletico Paranaense - PR,2,2,0,0,1,1,1
+234,A,2019,Vila Belmiro,Santos,SP,Quarta,9, Outubro ,2019,21:30,Santos - SP,Palmeiras - SP,2,0,1,0,0,3,0
+235,A,2019,Maracanã,Rio de Janeiro,RJ,Quinta,10, Outubro ,2019,20:00,Flamengo - RJ,Atlético - MG,3,1,1,0,0,3,0
+236,A,2019,Nilton Santos,Rio de Janeiro,RJ,Quarta,9, Outubro ,2019,19:15,Botafogo - RJ,Goiás - GO,3,1,1,0,0,3,0
+237,A,2019,Ressacada,Florianopolis,SC,Quinta,10, Outubro ,2019,19:15,Avaí - SC,Vasco da Gama - RJ,0,0,0,0,1,1,1
+238,A,2019,Arena Fonte Nova,Salvador,BA,Quarta,9, Outubro ,2019,21:00,Bahia - BA,São Paulo - SP,0,0,0,0,1,1,1
+239,A,2019,Rei Pelé,Maceio,AL,Quarta,9, Outubro ,2019,19:15,Csa - AL,Internacional - RS,1,0,1,0,0,3,0
+240,A,2019,Beira,Rio,Porto Alegre,Domingo,13, Outubro ,2019,16:00,Internacional - RS,Santos - SP,0,0,0,0,1,1,1
+241,A,2019,Independência,Belo Horizonte,MG,Domingo,13, Outubro ,2019,19:00,Atlético - MG,Grêmio - RS,1,4,0,1,0,0,3
+242,A,2019,Arena Castelão,Fortaleza,CE,Domingo,13, Outubro ,2019,16:00,Ceará - CE,Avaí - SC,1,0,1,0,0,3,0
+243,A,2019,Pacaembu,Sao Paulo,SP,Sábado,12, Outubro ,2019,21:00,Palmeiras - SP,Botafogo - RJ,1,0,1,0,0,3,0
+244,A,2019,Morumbi,Sao Paulo,SP,Domingo,13, Outubro ,2019,18:00,São Paulo - SP,Corinthians - SP,1,0,1,0,0,3,0
+245,A,2019,São Januário,Rio de Janeiro,RJ,Domingo,13, Outubro ,2019,16:00,Vasco da Gama - RJ,Fortaleza - CE,1,0,1,0,0,3,0
+246,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,12, Outubro ,2019,19:00,Fluminense - RJ,Bahia - BA,2,0,1,0,0,3,0
+247,A,2019,Arena Condá,Chapeco,SC,Domingo,13, Outubro ,2019,19:00,Chapecoense - SC,Cruzeiro - MG,1,1,0,0,1,1,1
+248,A,2019,Serra Dourada,Goiania,GO,Sábado,12, Outubro ,2019,17:00,Goiás - GO,Csa - AL,1,0,1,0,0,3,0
+249,A,2019,Arena da Baixada,Curitiba,PR,Domingo,13, Outubro ,2019,16:00,Athletico Paranaense - PR,Flamengo - RJ,0,2,0,1,0,0,3
+250,A,2019,Arena do Grêmio,Porto Alegre,RS,Quarta,16, Outubro ,2019,19:15,Grêmio - RS,Bahia - BA,0,1,0,1,0,0,3
+251,A,2019,Mineirão,Belo Horizonte,MG,Quarta,16, Outubro ,2019,21:00,Cruzeiro - MG,São Paulo - SP,1,0,1,0,0,3,0
+252,A,2019,Arena Castelão,Fortaleza,CE,Quarta,16, Outubro ,2019,20:00,Fortaleza - CE,Flamengo - RJ,1,2,0,1,0,0,3
+253,A,2019,Allianz Parque,Sao Paulo,SP,Quarta,16, Outubro ,2019,21:00,Palmeiras - SP,Chapecoense - SC,1,0,1,0,0,3,0
+254,A,2019,Vila Belmiro,Santos,SP,Quinta,17, Outubro ,2019,19:15,Santos - SP,Ceará - CE,2,1,1,0,0,3,0
+255,A,2019,São Januário,Rio de Janeiro,RJ,Quarta,16, Outubro ,2019,21:30,Vasco da Gama - RJ,Botafogo - RJ,2,1,1,0,0,3,0
+256,A,2019,Maracanã,Rio de Janeiro,RJ,Quinta,17, Outubro ,2019,21:00,Fluminense - RJ,Athletico Paranaense - PR,1,2,0,1,0,0,3
+257,A,2019,Ressacada,Florianopolis,SC,Quinta,17, Outubro ,2019,19:15,Avaí - SC,Internacional - RS,0,2,0,1,0,0,3
+258,A,2019,Serra Dourada,Goiania,GO,Quarta,16, Outubro ,2019,21:30,Goiás - GO,Corinthians - SP,2,2,0,0,1,1,1
+259,A,2019,Rei Pelé,Maceio,AL,Quarta,16, Outubro ,2019,19:15,Csa - AL,Atlético - MG,2,2,0,0,1,1,1
+260,A,2019,Beira,Rio,Porto Alegre,Domingo,20, Outubro ,2019,16:00,Internacional - RS,Vasco da Gama - RJ,0,1,0,1,0,0,3
+261,A,2019,Independência,Belo Horizonte,MG,Domingo,20, Outubro ,2019,16:00,Atlético - MG,Santos - SP,2,0,1,0,0,3,0
+262,A,2019,Arena Castelão,Fortaleza,CE,Sábado,19, Outubro ,2019,17:00,Fortaleza - CE,Grêmio - RS,2,1,1,0,0,3,0
+263,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,19, Outubro ,2019,19:00,Corinthians - SP,Cruzeiro - MG,1,2,0,1,0,0,3
+264,A,2019,Morumbi,Sao Paulo,SP,Domingo,20, Outubro ,2019,16:00,São Paulo - SP,Avaí - SC,1,0,1,0,0,3,0
+265,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,20, Outubro ,2019,18:00,Flamengo - RJ,Fluminense - RJ,2,0,1,0,0,3,0
+266,A,2019,Nilton Santos,Rio de Janeiro,RJ,Segunda,21, Outubro ,2019,20:00,Botafogo - RJ,Csa - AL,2,1,1,0,0,3,0
+267,A,2019,Arena Condá,Chapeco,SC,Domingo,20, Outubro ,2019,19:00,Chapecoense - SC,Goiás - GO,2,2,0,0,1,1,1
+268,A,2019,Pituaçu,Salvador,BA,Segunda,21, Outubro ,2019,19:30,Bahia - BA,Ceará - CE,1,2,0,1,0,0,3
+269,A,2019,Arena da Baixada,Curitiba,PR,Domingo,20, Outubro ,2019,19:00,Athletico Paranaense - PR,Palmeiras - SP,1,1,0,0,1,1,1
+270,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,27, Outubro ,2019,16:00,Grêmio - RS,Botafogo - RJ,3,0,1,0,0,3,0
+271,A,2019,Mineirão,Belo Horizonte,MG,Sábado,26, Outubro ,2019,21:00,Cruzeiro - MG,Fortaleza - CE,1,1,0,0,1,1,1
+272,A,2019,Arena Castelão,Fortaleza,CE,Sábado,26, Outubro ,2019,17:00,Ceará - CE,Vasco da Gama - RJ,1,1,0,0,1,1,1
+273,A,2019,Arena Corinthians,Sao Paulo,SP,Sábado,26, Outubro ,2019,17:00,Corinthians - SP,Santos - SP,0,0,0,0,1,1,1
+274,A,2019,Morumbi,Sao Paulo,SP,Domingo,27, Outubro ,2019,16:00,São Paulo - SP,Atlético - MG,2,0,1,0,0,3,0
+275,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,27, Outubro ,2019,19:00,Flamengo - RJ,Csa - AL,1,0,1,0,0,3,0
+276,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,26, Outubro ,2019,19:30,Fluminense - RJ,Chapecoense - SC,1,1,0,0,1,1,1
+277,A,2019,Ressacada,Florianopolis,SC,Domingo,27, Outubro ,2019,18:00,Avaí - SC,Palmeiras - SP,1,2,0,1,0,0,3
+278,A,2019,Arena Fonte Nova,Salvador,BA,Sábado,26, Outubro ,2019,19:00,Bahia - BA,Internacional - RS,2,3,0,1,0,0,3
+279,A,2019,Arena da Baixada,Curitiba,PR,Domingo,27, Outubro ,2019,16:00,Athletico Paranaense - PR,Goiás - GO,4,1,1,0,0,3,0
+280,A,2019,Beira,Rio,Porto Alegre,Quinta,31, Outubro ,2019,21:30,Internacional - RS,Athletico Paranaense - PR,1,1,0,0,1,1,1
+281,A,2019,Independência,Belo Horizonte,MG,Quarta,30, Outubro ,2019,19:30,Atlético - MG,Chapecoense - SC,0,2,0,1,0,0,3
+282,A,2019,Arena Castelão,Fortaleza,CE,Quarta,30, Outubro ,2019,21:30,Ceará - CE,Fluminense - RJ,2,0,1,0,0,3,0
+283,A,2019,Allianz Parque,Sao Paulo,SP,Quarta,30, Outubro ,2019,19:30,Palmeiras - SP,São Paulo - SP,3,0,1,0,0,3,0
+284,A,2019,Vila Belmiro,Santos,SP,Quinta,31, Outubro ,2019,19:15,Santos - SP,Bahia - BA,1,0,1,0,0,3,0
+285,A,2019,São Januário,Rio de Janeiro,RJ,Quarta,30, Outubro ,2019,21:30,Vasco da Gama - RJ,Grêmio - RS,1,3,0,1,0,0,3
+286,A,2019,Nilton Santos,Rio de Janeiro,RJ,Quinta,31, Outubro ,2019,21:30,Botafogo - RJ,Cruzeiro - MG,0,2,0,1,0,0,3
+287,A,2019,Ressacada,Florianopolis,SC,Quarta,30, Outubro ,2019,19:30,Avaí - SC,Fortaleza - CE,1,3,0,1,0,0,3
+288,A,2019,Serra Dourada,Goiania,GO,Quinta,31, Outubro ,2019,20:00,Goiás - GO,Flamengo - RJ,2,2,0,0,1,1,1
+289,A,2019,Rei Pelé,Maceio,AL,Quarta,30, Outubro ,2019,21:30,Csa - AL,Corinthians - SP,2,1,1,0,0,3,0
+290,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,3, Novembro ,2019,18:00,Grêmio - RS,Internacional - RS,2,0,1,0,0,3,0
+291,A,2019,Mineirão,Belo Horizonte,MG,Domingo,3, Novembro ,2019,19:00,Cruzeiro - MG,Bahia - BA,1,1,0,0,1,1,1
+292,A,2019,Arena Castelão,Fortaleza,CE,Sábado,2, Novembro ,2019,17:00,Fortaleza - CE,Atlético - MG,2,2,0,0,1,1,1
+293,A,2019,Allianz Parque,Sao Paulo,SP,Sábado,2, Novembro ,2019,19:00,Palmeiras - SP,Ceará - CE,1,0,1,0,0,3,0
+294,A,2019,Vila Belmiro,Santos,SP,Domingo,3, Novembro ,2019,19:00,Santos - SP,Botafogo - RJ,4,1,1,0,0,3,0
+295,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,3, Novembro ,2019,16:00,Flamengo - RJ,Corinthians - SP,4,1,1,0,0,3,0
+296,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,2, Novembro ,2019,19:00,Fluminense - RJ,Vasco da Gama - RJ,0,0,0,0,1,1,1
+297,A,2019,Arena Condá,Chapeco,SC,Sábado,2, Novembro ,2019,21:00,Chapecoense - SC,São Paulo - SP,0,3,0,1,0,0,3
+298,A,2019,Serra Dourada,Goiania,GO,Domingo,3, Novembro ,2019,19:30,Goiás - GO,Avaí - SC,2,0,1,0,0,3,0
+299,A,2019,Arena da Baixada,Curitiba,PR,Domingo,3, Novembro ,2019,18:00,Athletico Paranaense - PR,Csa - AL,1,0,1,0,0,3,0
+300,A,2019,Arena do Grêmio,Porto Alegre,RS,Quinta,7, Novembro ,2019,21:00,Grêmio - RS,Csa - AL,2,1,1,0,0,3,0
+301,A,2019,Mineirão,Belo Horizonte,MG,Quarta,6, Novembro ,2019,20:00,Atlético - MG,Goiás - GO,2,0,1,0,0,3,0
+302,A,2019,Arena Castelão,Fortaleza,CE,Quinta,7, Novembro ,2019,19:30,Ceará - CE,Internacional - RS,2,0,1,0,0,3,0
+303,A,2019,Arena Corinthians,Sao Paulo,SP,Quarta,6, Novembro ,2019,19:30,Corinthians - SP,Fortaleza - CE,3,2,1,0,0,3,0
+304,A,2019,Morumbi,Sao Paulo,SP,Quinta,7, Novembro ,2019,19:30,São Paulo - SP,Fluminense - RJ,0,2,0,1,0,0,3
+305,A,2019,São Januário,Rio de Janeiro,RJ,Quarta,6, Novembro ,2019,21:30,Vasco da Gama - RJ,Palmeiras - SP,1,2,0,1,0,0,3
+306,A,2019,Nilton Santos,Rio de Janeiro,RJ,Quinta,7, Novembro ,2019,20:00,Botafogo - RJ,Flamengo - RJ,0,1,0,1,0,0,3
+307,A,2019,Ressacada,Florianopolis,SC,Quarta,6, Novembro ,2019,21:00,Avaí - SC,Santos - SP,1,2,0,1,0,0,3
+308,A,2019,Arena Fonte Nova,Salvador,BA,Quarta,6, Novembro ,2019,21:30,Bahia - BA,Chapecoense - SC,1,1,0,0,1,1,1
+309,A,2019,Arena da Baixada,Curitiba,PR,Quarta,6, Novembro ,2019,21:30,Athletico Paranaense - PR,Cruzeiro - MG,0,0,0,0,1,1,1
+310,A,2019,Beira,Rio,Porto Alegre,Domingo,10, Novembro ,2019,16:00,Internacional - RS,Fluminense - RJ,2,1,1,0,0,3,0
+311,A,2019,Mineirão,Belo Horizonte,MG,Domingo,10, Novembro ,2019,16:00,Cruzeiro - MG,Atlético - MG,0,0,0,0,1,1,1
+312,A,2019,Arena Castelão,Fortaleza,CE,Domingo,10, Novembro ,2019,19:00,Fortaleza - CE,Ceará - CE,1,0,1,0,0,3,0
+313,A,2019,Pacaembu,Sao Paulo,SP,Sábado,9, Novembro ,2019,19:00,Palmeiras - SP,Corinthians - SP,1,1,0,0,1,1,1
+314,A,2019,Morumbi,Sao Paulo,SP,Domingo,10, Novembro ,2019,16:00,São Paulo - SP,Athletico Paranaense - PR,0,1,0,1,0,0,3
+315,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,10, Novembro ,2019,18:00,Flamengo - RJ,Bahia - BA,3,1,1,0,0,3,0
+316,A,2019,Nilton Santos,Rio de Janeiro,RJ,Segunda,11, Novembro ,2019,20:00,Botafogo - RJ,Avaí - SC,2,0,1,0,0,3,0
+317,A,2019,Arena Condá,Chapeco,SC,Domingo,10, Novembro ,2019,19:00,Chapecoense - SC,Grêmio - RS,0,1,0,1,0,0,3
+318,A,2019,Serra Dourada,Goiania,GO,Sábado,9, Novembro ,2019,17:00,Goiás - GO,Santos - SP,0,3,0,1,0,0,3
+319,A,2019,Rei Pelé,Maceio,AL,Domingo,10, Novembro ,2019,19:00,Csa - AL,Vasco da Gama - RJ,0,3,0,1,0,0,3
+320,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,17, Novembro ,2019,16:00,Grêmio - RS,Flamengo - RJ,0,1,0,1,0,0,3
+321,A,2019,Mineirão,Belo Horizonte,MG,Segunda,18, Novembro ,2019,20:00,Cruzeiro - MG,Avaí - SC,0,0,0,0,1,1,1
+322,A,2019,Arena Castelão,Fortaleza,CE,Domingo,17, Novembro ,2019,19:00,Fortaleza - CE,Csa - AL,3,0,1,0,0,3,0
+323,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,17, Novembro ,2019,18:00,Corinthians - SP,Internacional - RS,0,0,0,0,1,1,1
+324,A,2019,Vila Belmiro,Santos,SP,Sábado,16, Novembro ,2019,17:00,Santos - SP,São Paulo - SP,1,1,0,0,1,1,1
+325,A,2019,São Januário,Rio de Janeiro,RJ,Segunda,18, Novembro ,2019,19:30,Vasco da Gama - RJ,Goiás - GO,1,1,0,0,1,1,1
+326,A,2019,Maracanã,Rio de Janeiro,RJ,Sábado,16, Novembro ,2019,19:00,Fluminense - RJ,Atlético - MG,1,1,0,0,1,1,1
+327,A,2019,Arena Condá,Chapeco,SC,Domingo,17, Novembro ,2019,18:00,Chapecoense - SC,Ceará - CE,1,0,1,0,0,3,0
+328,A,2019,Arena Fonte Nova,Salvador,BA,Domingo,17, Novembro ,2019,16:00,Bahia - BA,Palmeiras - SP,1,1,0,0,1,1,1
+329,A,2019,Arena da Baixada,Curitiba,PR,Domingo,17, Novembro ,2019,18:00,Athletico Paranaense - PR,Botafogo - RJ,1,0,1,0,0,3,0
+330,A,2019,Beira,Rio,Porto Alegre,Domingo,24, Novembro ,2019,19:00,Internacional - RS,Fortaleza - CE,2,2,0,0,1,1,1
+331,A,2019,Mineirão,Belo Horizonte,MG,Domingo,24, Novembro ,2019,16:00,Atlético - MG,Athletico Paranaense - PR,0,1,0,1,0,0,3
+332,A,2019,Arena Castelão,Fortaleza,CE,Domingo,24, Novembro ,2019,19:00,Ceará - CE,São Paulo - SP,1,1,0,0,1,1,1
+333,A,2019,Allianz Parque,Sao Paulo,SP,Domingo,24, Novembro ,2019,16:00,Palmeiras - SP,Grêmio - RS,1,2,0,1,0,0,3
+334,A,2019,Vila Belmiro,Santos,SP,Sábado,23, Novembro ,2019,21:00,Santos - SP,Cruzeiro - MG,4,1,1,0,0,3,0
+335,A,2019,Maracanã,Rio de Janeiro,RJ,Quarta,13, Novembro ,2019,21:30,Flamengo - RJ,Vasco da Gama - RJ,4,4,0,0,1,1,1
+336,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,24, Novembro ,2019,18:00,Botafogo - RJ,Corinthians - SP,1,0,1,0,0,3,0
+337,A,2019,Ressacada,Florianopolis,SC,Domingo,24, Novembro ,2019,19:00,Avaí - SC,Chapecoense - SC,0,1,0,1,0,0,3
+338,A,2019,Serra Dourada,Goiania,GO,Domingo,24, Novembro ,2019,16:00,Goiás - GO,Bahia - BA,4,3,1,0,0,3,0
+339,A,2019,Rei Pelé,Maceio,AL,Segunda,25, Novembro ,2019,20:00,Csa - AL,Fluminense - RJ,0,1,0,1,0,0,3
+340,A,2019,Beira,Rio,Porto Alegre,Quarta,27, Novembro ,2019,19:30,Internacional - RS,Goiás - GO,1,2,0,1,0,0,3
+341,A,2019,Mineirão,Belo Horizonte,MG,Quinta,28, Novembro ,2019,21:30,Cruzeiro - MG,Csa - AL,0,1,0,1,0,0,3
+342,A,2019,Arena Castelão,Fortaleza,CE,Quinta,28, Novembro ,2019,20:00,Fortaleza - CE,Santos - SP,2,1,1,0,0,3,0
+343,A,2019,Arena Corinthians,Sao Paulo,SP,Quarta,27, Novembro ,2019,21:30,Corinthians - SP,Avaí - SC,3,0,1,0,0,3,0
+344,A,2019,Morumbi,Sao Paulo,SP,Quinta,28, Novembro ,2019,20:30,São Paulo - SP,Vasco da Gama - RJ,1,0,1,0,0,3,0
+345,A,2019,Maracanã,Rio de Janeiro,RJ,Quarta,27, Novembro ,2019,21:30,Flamengo - RJ,Ceará - CE,4,1,1,0,0,3,0
+346,A,2019,Maracanã,Rio de Janeiro,RJ,Quinta,28, Novembro ,2019,19:30,Fluminense - RJ,Palmeiras - SP,1,0,1,0,0,3,0
+347,A,2019,Arena Condá,Chapeco,SC,Quarta,27, Novembro ,2019,19:30,Chapecoense - SC,Botafogo - RJ,0,1,0,1,0,0,3
+348,A,2019,Arena Fonte Nova,Salvador,BA,Quarta,27, Novembro ,2019,21:00,Bahia - BA,Atlético - MG,1,1,0,0,1,1,1
+349,A,2019,Arena da Baixada,Curitiba,PR,Quarta,27, Novembro ,2019,21:30,Athletico Paranaense - PR,Grêmio - RS,2,0,1,0,0,3,0
+350,A,2019,Arena do Grêmio,Porto Alegre,RS,Domingo,1, Dezembro ,2019,19:00,Grêmio - RS,São Paulo - SP,3,0,1,0,0,3,0
+351,A,2019,Independência,Belo Horizonte,MG,Domingo,1, Dezembro ,2019,18:00,Atlético - MG,Corinthians - SP,2,1,1,0,0,3,0
+352,A,2019,Arena Castelão,Fortaleza,CE,Sábado,30, Novembro ,2019,19:00,Ceará - CE,Athletico Paranaense - PR,1,1,0,0,1,1,1
+353,A,2019,Allianz Parque,Sao Paulo,SP,Domingo,1, Dezembro ,2019,16:00,Palmeiras - SP,Flamengo - RJ,1,3,0,1,0,0,3
+354,A,2019,Vila Belmiro,Santos,SP,Domingo,1, Dezembro ,2019,19:00,Santos - SP,Chapecoense - SC,2,0,1,0,0,3,0
+355,A,2019,São Januário,Rio de Janeiro,RJ,Segunda,2, Dezembro ,2019,20:00,Vasco da Gama - RJ,Cruzeiro - MG,1,0,1,0,0,3,0
+356,A,2019,Nilton Santos,Rio de Janeiro,RJ,Sábado,30, Novembro ,2019,19:00,Botafogo - RJ,Internacional - RS,0,1,0,1,0,0,3
+357,A,2019,Ressacada,Florianopolis,SC,Domingo,1, Dezembro ,2019,16:00,Avaí - SC,Fluminense - RJ,1,1,0,0,1,1,1
+358,A,2019,Serra Dourada,Goiania,GO,Domingo,1, Dezembro ,2019,16:00,Goiás - GO,Fortaleza - CE,1,2,0,1,0,0,3
+359,A,2019,Rei Pelé,Maceio,AL,Domingo,1, Dezembro ,2019,18:00,Csa - AL,Bahia - BA,1,2,0,1,0,0,3
+360,A,2019,Arena do Grêmio,Porto Alegre,RS,Quinta,5, Dezembro ,2019,19:15,Grêmio - RS,Cruzeiro - MG,2,0,1,0,0,3,0
+361,A,2019,Mineirão,Belo Horizonte,MG,Quarta,4, Dezembro ,2019,19:30,Atlético - MG,Botafogo - RJ,2,0,1,0,0,3,0
+362,A,2019,Arena Castelão,Fortaleza,CE,Quarta,4, Dezembro ,2019,19:30,Ceará - CE,Corinthians - SP,0,1,0,1,0,0,3
+363,A,2019,Brinco de Ouro,Campinas,SP,Quinta,5, Dezembro ,2019,19:15,Palmeiras - SP,Goiás - GO,5,1,1,0,0,3,0
+364,A,2019,Morumbi,Sao Paulo,SP,Quarta,4, Dezembro ,2019,21:30,São Paulo - SP,Internacional - RS,2,1,1,0,0,3,0
+365,A,2019,Maracanã,Rio de Janeiro,RJ,Quinta,5, Dezembro ,2019,20:00,Flamengo - RJ,Avaí - SC,6,1,1,0,0,3,0
+366,A,2019,Maracanã,Rio de Janeiro,RJ,Quarta,4, Dezembro ,2019,21:30,Fluminense - RJ,Fortaleza - CE,0,0,0,0,1,1,1
+367,A,2019,Arena Condá,Chapeco,SC,Quarta,4, Dezembro ,2019,21:00,Chapecoense - SC,Csa - AL,3,0,1,0,0,3,0
+368,A,2019,Arena Fonte Nova,Salvador,BA,Quinta,5, Dezembro ,2019,19:15,Bahia - BA,Vasco da Gama - RJ,1,1,0,0,1,1,1
+369,A,2019,Arena da Baixada,Curitiba,PR,Quarta,4, Dezembro ,2019,19:00,Athletico Paranaense - PR,Santos - SP,1,0,1,0,0,3,0
+370,A,2019,Beira,Rio,Porto Alegre,Domingo,8, Dezembro ,2019,16:00,Internacional - RS,Atlético - MG,2,1,1,0,0,3,0
+371,A,2019,Mineirão,Belo Horizonte,MG,Domingo,8, Dezembro ,2019,16:00,Cruzeiro - MG,Palmeiras - SP,0,2,0,1,0,0,3
+372,A,2019,Arena Castelão,Fortaleza,CE,Domingo,8, Dezembro ,2019,16:00,Fortaleza - CE,Bahia - BA,2,1,1,0,0,3,0
+373,A,2019,Arena Corinthians,Sao Paulo,SP,Domingo,8, Dezembro ,2019,16:00,Corinthians - SP,Fluminense - RJ,1,2,0,1,0,0,3
+374,A,2019,Vila Belmiro,Santos,SP,Domingo,8, Dezembro ,2019,16:00,Santos - SP,Flamengo - RJ,4,0,1,0,0,3,0
+375,A,2019,Maracanã,Rio de Janeiro,RJ,Domingo,8, Dezembro ,2019,16:00,Vasco da Gama - RJ,Chapecoense - SC,1,1,0,0,1,1,1
+376,A,2019,Nilton Santos,Rio de Janeiro,RJ,Domingo,8, Dezembro ,2019,16:00,Botafogo - RJ,Ceará - CE,1,1,0,0,1,1,1
+377,A,2019,Ressacada,Florianopolis,SC,Domingo,8, Dezembro ,2019,16:00,Avaí - SC,Athletico Paranaense - PR,0,0,0,0,1,1,1
+378,A,2019,Serra Dourada,Goiania,GO,Domingo,8, Dezembro ,2019,16:00,Goiás - GO,Grêmio - RS,3,2,1,0,0,3,0
+379,A,2019,Rei Pelé,Maceio,AL,Domingo,8, Dezembro ,2019,16:00,Csa - AL,São Paulo - SP,1,2,0,1,0,0,3
