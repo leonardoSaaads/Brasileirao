@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/stars/leonardoSaaads/Brasileirao)
 ![](https://img.shields.io/github/license/leonardoSaaads/Brasileirao)
 
-### STATUS: EM CONSTRUÇÃO 🚧
+### STATUS: PAUSADO 🚧
 
 <p align="left">
  <a href="#sobre">Sobre</a> -
